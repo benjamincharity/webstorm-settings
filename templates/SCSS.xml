@@ -1,0 +1,7 @@
+<templateSet group="SCSS">
+  <template name="hover" value="&amp;:focus,&#10;&amp;:hover {&#10;  $END$&#10;}" description="Hover &amp; focus styles" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
