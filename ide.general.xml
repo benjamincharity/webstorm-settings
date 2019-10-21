@@ -11,5 +11,7 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="jest.test.tree.use.jasmine.reporter" value="false" />
+    <entry key="undo.documentUndoLimit" value="500" />
+    <entry key="undo.globalUndoLimit" value="100" />
   </component>
 </application>
