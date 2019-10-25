@@ -6,7 +6,6 @@
     <variable name="4" expression="&quot;formControlName&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -19,7 +18,6 @@
     <variable name="6" expression="&quot;onRemove&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -30,7 +28,6 @@
     <variable name="4" expression="&quot;modelName&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -43,7 +40,6 @@
     <variable name="6" expression="&quot;onRemove&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -52,7 +48,6 @@
     <variable name="2" expression="&quot;items&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -64,7 +59,6 @@
     <variable name="5" expression="enum(&quot;true&quot;,&quot;false&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -78,7 +72,6 @@
     <variable name="7" expression="&quot;onAllSelectOrDeselect&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -90,7 +83,6 @@
     <variable name="5" expression="enum(&quot;true&quot;,&quot;false&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -104,7 +96,6 @@
     <variable name="7" expression="&quot;onAllSelectOrDeselect&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -119,7 +110,6 @@
     <variable name="8" expression="&quot;onSort&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -137,7 +127,6 @@
     <variable name="11" expression="&quot;onAllSelectOrDeselect&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -145,7 +134,6 @@
     <variable name="1" expression="enum(&quot;true&quot;,&quot;false&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -155,7 +143,6 @@
     <variable name="3" expression="enum(&quot;true&quot;,&quot;false&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -168,21 +155,18 @@
     <variable name="6" expression="&quot;onSort&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="@tdDataTableRow" value="td-data-table-row$END$" description="attribute directive  data table row" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="@tdDataTableTable" value="td-data-table$END$" description="attribute directive  data table table" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -197,7 +181,6 @@
     <variable name="8" expression="&quot;onSort&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -215,14 +198,12 @@
     <variable name="11" expression="&quot;onAllSelectOrDeselect&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="@tdDirectiveAutotrim" value="tdAutoTrim$END$" description="attribute directive  directive autotrim" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -230,7 +211,6 @@
     <variable name="1" expression="&quot;faded&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -238,7 +218,6 @@
     <variable name="1" expression="enum(&quot;xs&quot;,&quot;gt-xs&quot;,&quot;sm&quot;,&quot;gt-sm&quot;,&quot;md&quot;,&quot;gt-md&quot;,&quot;lg&quot;,&quot;gt-lg&quot;,&quot;xl&quot;,&quot;landscape&quot;,&quot;portrait&quot;,&quot;print&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -249,7 +228,6 @@
     <variable name="4" expression="&quot;{color: 'red'&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -257,7 +235,6 @@
     <variable name="1" expression="&quot;toggled&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -265,7 +242,6 @@
     <variable name="1" expression="&quot;elementConfigs&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -277,7 +253,6 @@
     <variable name="5" expression="&quot;Expanded content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -291,7 +266,6 @@
     <variable name="7" expression="&quot;Expanded content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -302,7 +276,6 @@
     <variable name="4" expression="&quot;Expanded content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -315,7 +288,6 @@
     <variable name="6" expression="&quot;Expanded content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -325,7 +297,6 @@
     <variable name="3" expression="&quot;Select file(s)&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -337,7 +308,6 @@
     <variable name="5" expression="&quot;Select file(s)&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -349,7 +319,6 @@
     <variable name="5" expression="&quot;onUpload&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -365,14 +334,12 @@
     <variable name="9" expression="enum(&quot;primary&quot;,&quot;accent&quot;,&quot;warn&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-file-upload:?" value="interface IUploadOptions {&#10;    url: string;&#10;    method: 'post' | 'put';&#10;    file: File;&#10;    headers?: {[key: string]: string};&#10;}&#10;&#10;import { TdFileService, IUploadOptions } from '@covalent/core';&#10;&#10;export class Demo {&#10;&#10;    file: File;&#10;&#10;    constructor(private fileUploadService: TdFileService){&#10;    };&#10;&#10;    uploadEvent(file: File) {&#10;        let options: IUploadOptions = {&#10;            url: 'https://url.to/API',&#10;            method: 'post',&#10;            file: file&#10;        };&#10;        this.fileService.upload(options).subscribe((response) =&gt; {&#10;            // on success&#10;        });&#10;    };&#10;&#10;}" description="file upload help" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -380,7 +347,6 @@
     <variable name="1" expression="&quot;onFileDrop&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -388,7 +354,6 @@
     <variable name="1" expression="&quot;multiple&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -397,7 +362,6 @@
     <variable name="2" expression="&quot;defaultLevelsToOpen&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -412,7 +376,6 @@
     <variable name="8" expression="&quot;Sidenav content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -430,7 +393,6 @@
     <variable name="11" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -444,7 +406,6 @@
     <variable name="7" expression="&quot;Body below card content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -462,7 +423,6 @@
     <variable name="11" expression="&quot;Global fixed footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -481,7 +441,6 @@
     <variable name="13" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -503,7 +462,6 @@
     <variable name="16" expression="&quot;Global fixed footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -521,7 +479,6 @@
     <variable name="11" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -542,7 +499,6 @@
     <variable name="14" expression="&quot;Global fixed footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -561,7 +517,6 @@
     <variable name="12" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -583,7 +538,6 @@
     <variable name="15" expression="&quot;Global fixed footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -600,7 +554,6 @@
     <variable name="10" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -620,7 +573,6 @@
     <variable name="13" expression="&quot;Global fixed footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -632,7 +584,6 @@
     <variable name="5" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -646,14 +597,12 @@
     <variable name="7" expression="&quot;Global fixed footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-loading:?" value="&lt;!--&#10;1. Inject TdLoadingService&#10;&#10;2. Start loading&#10;&#10;loadingService.register('loadingTemplateRef');&#10;&#10;3. Set progress&#10;&#10;loadingService.setValue('loadingTemplateRef', value);&#10;&#10;4. Stop loading&#10;&#10;loadingService.resolve('loadingTemplateRef');&#10;&#10;For full screen, you chose one of the following&#10;&#10;a. To see default full screen circular, indeterminate primary colored full screen loader, use&#10;&#10;loadingService.register() to start &amp; loadingService.resolve() to stop.&#10;&#10;b. For custom full screen loader&#10;&#10; i. Register a custom loader with name&#10;&#10;    this._loadingService.create({&#10;      name: 'customerLoader',&#10;      type: LoadingType.Circular,&#10;      mode: LoadingMode.Indeterminate,&#10;      color: 'accent'&#10;    });&#10;&#10; ii. loadingService.register('customerLoader') to start &amp; loadingService.resolve('customerLoader') to stop&#10;--&gt;" description="loading help" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -663,7 +612,6 @@
     <variable name="3" expression="enum(&quot;replace&quot;,&quot;overlay&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -674,7 +622,6 @@
     <variable name="4" expression="enum(&quot;primary&quot;,&quot;accent&quot;,&quot;warn&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -684,7 +631,6 @@
     <variable name="3" expression="enum(&quot;replace&quot;,&quot;overlay&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -695,14 +641,12 @@
     <variable name="4" expression="enum(&quot;primary&quot;,&quot;accent&quot;,&quot;warn&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-markdown" value="&lt;td-markdown&gt;&#10;    $END$&#10;&lt;/td-markdown&gt;" description="markdown" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -710,7 +654,6 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -721,7 +664,6 @@
     <variable name="4" expression="enum(&quot;top&quot;,&quot;bottom&quot;,&quot;center&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -733,7 +675,6 @@
     <variable name="5" expression="enum(&quot;top&quot;,&quot;bottom&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -744,7 +685,6 @@
     <variable name="4" expression="&quot;onChange&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -757,14 +697,12 @@
     <variable name="6" expression="enum(&quot;false&quot;,&quot;true&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-pipe-bytes" value="bytes$END$" description="pipe bytes" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -772,14 +710,12 @@
     <variable name="1" expression="&quot;precision&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-pipe-digits" value="digits$END$" description="pipe digits" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -787,14 +723,12 @@
     <variable name="1" expression="&quot;precision&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-pipe-time-ago" value="timeAgo$END$" description="pipe time ago" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -802,14 +736,12 @@
     <variable name="1" expression="&quot;from&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-pipe-time-difference" value="timeDifference$END$" description="pipe time difference" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -817,14 +749,12 @@
     <variable name="1" expression="&quot;compareTo&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="td-pipe-truncate" value="truncate$END$" description="pipe truncate" toReformat="true" toShortenFQNames="false" deactivated="true">
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -832,7 +762,6 @@
     <variable name="1" expression="&quot;numOfCharsBeforeEllipsis&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -843,7 +772,6 @@
     <variable name="4" expression="&quot;onClear&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -857,7 +785,6 @@
     <variable name="7" expression="enum(&quot;true&quot;,&quot;false&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -867,7 +794,6 @@
     <variable name="3" expression="&quot;onClear&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -880,7 +806,6 @@
     <variable name="6" expression="enum(&quot;true&quot;,&quot;false&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -892,7 +817,6 @@
     <variable name="5" expression="&quot;onClear&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -903,7 +827,6 @@
     <variable name="4" expression="&quot;onClear&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -917,7 +840,6 @@
     <variable name="7" expression="&quot;actions&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -933,7 +855,6 @@
     <variable name="9" expression="&quot;Summary&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -947,7 +868,6 @@
     <variable name="7" expression="&quot;actions&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -964,7 +884,6 @@
     <variable name="10" expression="&quot;Summary&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -972,7 +891,6 @@
     <variable name="1" expression="enum(&quot;1c&quot;,&quot;abnf&quot;,&quot;accesslog&quot;,&quot;actionscript&quot;,&quot;ada&quot;,&quot;apache&quot;,&quot;applescript&quot;,&quot;arduino&quot;,&quot;armasm&quot;,&quot;asciidoc&quot;,&quot;aspectj&quot;,&quot;autohotkey&quot;,&quot;autoit&quot;,&quot;avrasm&quot;,&quot;awk&quot;,&quot;axapta&quot;,&quot;bash&quot;,&quot;basic&quot;,&quot;bnf&quot;,&quot;brainfuck&quot;,&quot;cal&quot;,&quot;capnproto&quot;,&quot;ceylon&quot;,&quot;clean&quot;,&quot;clojure-repl&quot;,&quot;clojure&quot;,&quot;cmake&quot;,&quot;coffeescript&quot;,&quot;coq&quot;,&quot;cos&quot;,&quot;cpp&quot;,&quot;crmsh&quot;,&quot;crystal&quot;,&quot;cs&quot;,&quot;csp&quot;,&quot;css&quot;,&quot;d&quot;,&quot;dart&quot;,&quot;delphi&quot;,&quot;diff&quot;,&quot;django&quot;,&quot;dns&quot;,&quot;dockerfile&quot;,&quot;dos&quot;,&quot;dsconfig&quot;,&quot;dts&quot;,&quot;dust&quot;,&quot;ebnf&quot;,&quot;elixir&quot;,&quot;elm&quot;,&quot;erb&quot;,&quot;erlang-repl&quot;,&quot;erlang&quot;,&quot;excel&quot;,&quot;fix&quot;,&quot;flix&quot;,&quot;fortran&quot;,&quot;fsharp&quot;,&quot;gams&quot;,&quot;gauss&quot;,&quot;gcode&quot;,&quot;gherkin&quot;,&quot;glsl&quot;,&quot;go&quot;,&quot;golo&quot;,&quot;gradle&quot;,&quot;groovy&quot;,&quot;haml&quot;,&quot;handlebars&quot;,&quot;haskell&quot;,&quot;haxe&quot;,&quot;hsp&quot;,&quot;htmlbars&quot;,&quot;http&quot;,&quot;hy&quot;,&quot;inform7&quot;,&quot;ini&quot;,&quot;irpf90&quot;,&quot;java&quot;,&quot;javascript&quot;,&quot;json&quot;,&quot;julia&quot;,&quot;kotlin&quot;,&quot;lasso&quot;,&quot;ldif&quot;,&quot;leaf&quot;,&quot;less&quot;,&quot;lisp&quot;,&quot;livecodeserver&quot;,&quot;livescript&quot;,&quot;llvm&quot;,&quot;lsl&quot;,&quot;lua&quot;,&quot;makefile&quot;,&quot;markdown&quot;,&quot;mathematica&quot;,&quot;matlab&quot;,&quot;maxima&quot;,&quot;mel&quot;,&quot;mercury&quot;,&quot;mipsasm&quot;,&quot;mizar&quot;,&quot;mojolicious&quot;,&quot;monkey&quot;,&quot;moonscript&quot;,&quot;nginx&quot;,&quot;nimrod&quot;,&quot;nix&quot;,&quot;nsis&quot;,&quot;objectivec&quot;,&quot;ocaml&quot;,&quot;openscad&quot;,&quot;oxygene&quot;,&quot;parser3&quot;,&quot;perl&quot;,&quot;pf&quot;,&quot;php&quot;,&quot;pony&quot;,&quot;powershell&quot;,&quot;processing&quot;,&quot;profile&quot;,&quot;prolog&quot;,&quot;protobuf&quot;,&quot;puppet&quot;,&quot;purebasic&quot;,&quot;python&quot;,&quot;q&quot;,&quot;qml&quot;,&quot;r&quot;,&quot;rib&quot;,&quot;roboconf&quot;,&quot;rsl&quot;,&quot;ruby&quot;,&quot;ruleslanguage&quot;,&quot;rust&quot;,&quot;scala&quot;,&quot;scheme&quot;,&quot;scilab&quot;,&quot;scss&quot;,&quot;smali&quot;,&quot;smalltalk&quot;,&quot;sml&quot;,&quot;sqf&quot;,&quot;sql&quot;,&quot;stan&quot;,&quot;stata&quot;,&quot;step21&quot;,&quot;stylus&quot;,&quot;subunit&quot;,&quot;swift&quot;,&quot;taggerscript&quot;,&quot;tap&quot;,&quot;tcl&quot;,&quot;tex&quot;,&quot;thrift&quot;,&quot;tp&quot;,&quot;twig&quot;,&quot;typescript&quot;,&quot;vala&quot;,&quot;vbnet&quot;,&quot;vbscript-html&quot;,&quot;vbscript&quot;,&quot;verilog&quot;,&quot;vhdl&quot;,&quot;vim&quot;,&quot;x86asm&quot;,&quot;xl&quot;,&quot;xml&quot;,&quot;xquery&quot;,&quot;yaml&quot;,&quot;zephir&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -981,7 +899,6 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GSP" value="true" />
-      <option name="JSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
