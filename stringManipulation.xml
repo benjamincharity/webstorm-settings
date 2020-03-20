@@ -74,6 +74,17 @@
           </option>
           <option name="spaceBeforeSeparator" value="false" />
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1584724607121" />
+          <option name="alignBy" value="VALUES" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceBeforeSeparator" value="false" />
+        </ColumnAlignerModel>
       </list>
     </option>
   </component>
