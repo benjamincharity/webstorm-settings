@@ -13,7 +13,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="describe" value="describe(`$title$`, () =&gt; {&#10;&#10;  $END$&#10;&#10;});" description="Jest describe block" toReformat="false" toShortenFQNames="true">
+  <template name="describe" value="describe(`$title$`, () =&gt; {&#10;  $END$&#10;});" description="Jest describe block" toReformat="false" toShortenFQNames="true">
     <variable name="title" expression="" defaultValue="&quot;test block&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
