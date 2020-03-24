@@ -14,7 +14,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="funcom" value="/**&#10; * $methodDescription$&#10; *&#10; * @param $paramOne$ - $paramOneDescription$&#10; * @return $returnItem$&#10; */$END$" description="JSDoc method comment" toReformat="false" toShortenFQNames="true">
+  <template name="funcom" value="/**&#10; * $methodDescription$&#10; *&#10; * @param $paramOne$ - $paramOneDescription$&#10; * @returns $returnItem$&#10; */$END$" description="JSDoc method comment" toReformat="false" toShortenFQNames="true">
     <variable name="methodDescription" expression="spaceSeparated(String)" defaultValue="TODO My method description..." alwaysStopAt="true" />
     <variable name="paramOne" expression="" defaultValue="myParam" alwaysStopAt="true" />
     <variable name="paramOneDescription" expression="" defaultValue="My param description" alwaysStopAt="true" />
