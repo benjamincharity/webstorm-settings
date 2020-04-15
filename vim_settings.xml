@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>dry</entry>
+        <entry>cypress</entry>
+        <entry encoding="base64">XDxjaXJjbGVcPg==</entry>
+        <entry>spacing-docs</entry>
+        <entry encoding="base64">XDxzZW12ZXJcPg==</entry>
+        <entry>semantic</entry>
+        <entry>@Input</entry>
+        <entry>this.value</entry>
+        <entry encoding="base64">XDxfdmFsdWVcPg==</entry>
+        <entry>margin</entry>
+        <entry>home</entry>
+        <entry>scale</entry>
+        <entry>hover</entry>
+        <entry>dist</entry>
+        <entry>dist\/demo</entry>
+        <entry>interaction</entry>
+        <entry encoding="base64">XDxzdXBwb3J0c0ludGVyYWN0aW9uXD4=</entry>
+        <entry>inject</entry>
+        <entry encoding="base64">XDxhcHBUaXRsZVw+</entry>
+        <entry>secret</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action Back</entry>
+        <entry>%s/echo/printf/g</entry>
+        <entry>%s/printf/printf \&quot;\%s\\n\&quot;/g</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>%s/Action/FooBar/g</entry>
+        <entry>%s/FooBar/Foo/g</entry>
+        <entry encoding="base64">JzwsJz5ub2g=</entry>
+        <entry>%s/--easing/--ts-animation-easing-ease/g</entry>
+        <entry>w</entry>
+        <entry>action Forward</entry>
+        <entry>Wa</entry>
+        <entry>%s/9\.0\.7/9\.0\.6/g</entry>
+        <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
+        <entry>%s/9\.0\.6/9\.0\.7/g</entry>
+        <entry>%s/it(/test(/g</entry>
+        <entry>%s/it(`/test(`/g</entry>
+        <entry>action com.andrewbrookins.idea.wrap.WrapAction</entry>
+        <entry>noh</entry>
+        <entry>wa</entry>
+        <entry>action RenameElement</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
@@ -57,7 +109,280 @@
         <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tsconfig.json" timestamp="1586954486893">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/.eslintrc.js" timestamp="1586874762804">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" timestamp="1586867458235">
+        <mark key="'" line="100" column="34" />
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="91" column="58" />
+        <mark key="." line="91" column="58" />
+        <mark key="^" line="91" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/testing/src/test-helpers.ts" timestamp="1586867130578">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/renovate.json" timestamp="1586865674245">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-predeploy.sh" timestamp="1586880393394">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/node_modules/@terminus/eslint-config-frontend/rules.js" timestamp="1586866945971">
+        <mark key="[" line="639" column="27" />
+        <mark key="]" line="639" column="36" />
+        <mark key="." line="639" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/tsconfig.app.json" timestamp="1586954493187">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/release.config.js" timestamp="1586867157101">
+        <mark key="'" line="1" column="18" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/package.json" timestamp="1586874737098">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="61" column="17" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.ts" timestamp="1586876381414">
+        <mark key="'" line="146" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/release.config.js" timestamp="1586802715577">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1586960176991">
+        <mark key="'" line="27" column="29" />
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="39" />
+        <mark key="^" line="307" column="9" />
+        <mark key="." line="27" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.html" timestamp="1586876384151">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/renovate.json" timestamp="1586802317193">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1586957936756">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="343" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.eslintrc.js" timestamp="1586955318028">
+        <mark key="'" line="14" column="21" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/secrets.env" timestamp="1586960232015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="48" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/dist/library/bundles/terminus-ui-link.umd.js" />
+      <jump line="118" column="578" filename="$USER_HOME$/code/Terminus/terminus-ui/dist/library/bundles/terminus-ui-link.umd.js" />
+      <jump line="127" column="2304" filename="$USER_HOME$/code/Terminus/terminus-ui/dist/library/bundles/terminus-ui-link.umd.js" />
+      <jump line="177" column="20" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="44" column="24" filename="$USER_HOME$/code/Terminus/engage-gui/jest.config.js" />
+      <jump line="217" column="20" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="62" column="49" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="73" column="158" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="137" column="25" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="144" column="35" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="145" column="26" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="161" column="11" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="253" column="34" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="36" column="66" filename="$USER_HOME$/code/Terminus/terminus-ui/release.config.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="107" column="33" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="10" column="3" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="34" column="106" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="168" column="5" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="33" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/package.json" />
+      <jump line="188" column="4" filename="$USER_HOME$/code/Terminus/ngx-tools/package.json" />
+      <jump line="98" column="13" filename="$USER_HOME$/code/Terminus/ngx-tools/package.json" />
+      <jump line="24" column="15" filename="$USER_HOME$/code/Terminus/ngx-tools/release.config.js" />
+      <jump line="299" column="49" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="21" column="25" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="129" column="64" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="416" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="549" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="106" column="208" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="411" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="498" column="1" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="206" column="99" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="131" column="169" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="114" column="35" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="359" column="1" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="354" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="9" column="46" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="298" column="21" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="334" column="1" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.eslintrc.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/tooling/cz-config.js" />
+      <jump line="102" column="11" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/autocomplete/src/autocomplete-panel/autocomplete-trigger.directive.ts" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/components.component.scss" />
+      <jump line="61" column="13" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/package.json" />
+      <jump line="296" column="21" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="323" column="22" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="290" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="213" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="29" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
+      <jump line="342" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
+      <jump line="345" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
+      <jump line="347" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
+      <jump line="556" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" />
+      <jump line="14" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" />
+      <jump line="60" column="13" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/package.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/release.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/renovate.json" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/renovate.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/renovate.json" />
+      <jump line="5" column="9" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/release.config.js" />
+      <jump line="1" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/release.config.js" />
+      <jump line="3" column="8" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/release.config.js" />
+      <jump line="312" column="49" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="335" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="89" column="38" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="64" column="4" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" />
+      <jump line="102" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" />
+      <jump line="98" column="34" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" />
+      <jump line="241" column="34" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="314" column="57" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="304" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="315" column="36" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="177" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.ts" />
+      <jump line="52" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.ts" />
+      <jump line="146" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.html" />
+      <jump line="318" column="32" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="337" column="51" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="197" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="241" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="190" column="25" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="318" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="185" column="20" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="291" column="47" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="187" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="30" column="19" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.component.ts" />
+      <jump line="21" column="32" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.component.ts" />
+      <jump line="20" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.component.ts" />
+      <jump line="14" column="21" filename="$USER_HOME$/code/Terminus/terminus-ui/.eslintrc.js" />
+      <jump line="275" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="294" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="242" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="310" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="290" column="22" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="330" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="27" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">R0hfVE9LRU49NmE5MGU4MGFmYmYzMTdmZTg4ODc0NTAwNDQ4OTEwOTViZjdjYmZhMgo=</text>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>U</text>
+      </register>
+      <register name="/" type="4">
+        <text>secret</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">R0hfVE9LRU49NmE5MGU4MGFmYmYzMTdmZTg4ODc0NTAwNDQ4OTEwOTViZjdjYmZhMgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGFwcFRpdGxlID0gJ0NvbXBvbmVudHMnOwoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCd0aGlzLmFjdGl2YXRlZFJvdXRlOiAnLCB0aGlzLmFjdGl2YXRlZFJvdXRlKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RpdGxlOiAnLCB0aXRsZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hpbGQ6ICcsIGNoaWxkKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hpbGQgYWZ0ZXI6ICcsIGNoaWxkKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjaGlsZCBpbiBpZjogJywgY2hpbGQpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="9" type="4">
+        <text>Components</text>
+      </register>
+      <register name=":" type="4">
+        <text>action RenameElement</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>secret</last-search>
+      <last-offset />
+      <last-pattern>secret</last-pattern>
+      <last-replace>test(`</last-replace>
+      <last-substitute>TestBed.get</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="true" />
