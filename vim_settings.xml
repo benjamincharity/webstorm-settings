@@ -116,12 +116,12 @@
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" timestamp="1586960658279">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" timestamp="1586972673160">
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" timestamp="1586975183002">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="19" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-predeploy.sh" timestamp="1586970298617">
         <mark key="[" line="18" column="0" />
@@ -148,12 +148,12 @@
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" timestamp="1586962333543">
         <mark key="'" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1586972849163">
-        <mark key="'" line="282" column="35" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-        <mark key="^" line="280" column="36" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1586975252529">
+        <mark key="'" line="108" column="15" />
+        <mark key="[" line="236" column="22" />
+        <mark key="]" line="236" column="23" />
+        <mark key="." line="236" column="22" />
+        <mark key="^" line="236" column="23" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/css/design-tokens.css" timestamp="1586962315933">
         <mark key="[" line="87" column="2" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="22" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="290" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="213" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="29" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
@@ -298,6 +297,7 @@
       <jump line="246" column="23" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="283" column="24" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="282" column="35" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="108" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,14 +305,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDb21taXQgZmlsZXMKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHVpLWRlbW9zLXJlbGVhc2UvCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5lbWFpbCAiYWN0aW9uQGdpdGh1Yi5jb20iCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5uYW1lICJHaXRIdWIgQWN0aW9uIgogICAgICAgICAgZ2l0IGFkZCAuCiAgICAgICAgICBnaXQgY29tbWl0IC1tICJVcGRhdGUgdmlhIHJlbGVhc2Ugd29ya2Zsb3ciCiAgICAgICAgICBnaXQgcHVzaCAtcSBodHRwczovLyR7R0hfVE9LRU59QGdpdGh1Yi5jb20vR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZS5naXQgbWFzdGVyCiAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+      <register name="*" type="4">
+        <text>ui-demos-release/</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>ui-demos-release/</text>
       </register>
       <register name="/" type="4">
         <text>predeploy</text>
