@@ -120,8 +120,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1586961332330">
-        <mark key="'" line="27" column="29" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1586963097184">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/css/design-tokens.css" timestamp="1586962315933">
         <mark key="[" line="87" column="2" />
@@ -162,11 +165,7 @@
         <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" timestamp="1586962333543">
-        <mark key="'" line="165" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="164" column="41" />
+        <mark key="'" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/projects/tokens/config/transformGroups.js" timestamp="1586961502372">
         <mark key="'" line="61" column="0" />
@@ -175,17 +174,13 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1586960487960">
-        <mark key="'" line="342" column="28" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="341" column="36" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1586963068544">
+        <mark key="[" line="329" column="21" />
+        <mark key="]" line="329" column="79" />
+        <mark key="." line="329" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="549" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="106" column="208" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="411" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
       <jump line="498" column="1" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
       <jump line="206" column="99" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
       <jump line="131" column="169" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
@@ -238,7 +233,6 @@
       <jump line="318" column="32" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="337" column="51" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="197" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
-      <jump line="241" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="190" column="25" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="318" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="185" column="20" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
@@ -282,6 +276,11 @@
       <jump line="37" column="33" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" />
       <jump line="19" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" />
       <jump line="167" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" />
+      <jump line="251" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="283" column="23" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="243" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="241" column="37" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -290,7 +289,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9zcGFjaW5nL3NwYWNpbmcnOwo=</text>
+        <text encoding="base64">CiAgIwogICMgUHVibGlzaCBkZW1vcwogICMKICBkZW1vc19wdWJsaXNoOgogICAgbmFtZTogUHVibGlzaCBEZW1vcwogICAgbmVlZHM6IFtkZW1vc19idWlsZF0KICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgICAtIG5hbWU6IENoZWNrb3V0IGxpYnJhcnkgcmVwbwogICAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgcGF0aDogbGlicmFyeQogICAgICAtIG5hbWU6IFNldCBTSE9VTERfUlVOIGZsYWcKICAgICAgICBydW46IHwKICAgICAgICAgIGlmIFtbICIke3tnaXRodWIuZXZlbnQuaGVhZF9jb21taXQubWVzc2FnZX19IiA9fiAoc2tpcFwgY2l8Y2lcIHNraXApIF1dOyB0aGVuCiAgICAgICAgICAgIGVjaG8gIjo6c2V0LWVudiBuYW1lPVNIT1VMRF9SVU46OmZhbHNlIgogICAgICAgICAgZWxzZQogICAgICAgICAgICBlY2hvICI6OnNldC1lbnYgbmFtZT1TSE9VTERfUlVOOjp0cnVlIgogICAgICAgICAgZmkKICAgICAgLSBuYW1lOiBTZXQgdXAgTm9kZQogICAgICAgIHVzZXM6IGFjdGlvbnMvc2V0dXAtbm9kZUB2MQogICAgICAgIHdpdGg6CiAgICAgICAgICBub2RlLXZlcnNpb246IDEyLngKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAgIC0gbmFtZTogTW92ZSBpbnRvIGxpYnJhcnkKICAgICAgICBydW46IGNkIGxpYnJhcnkKICAgICAgLSBuYW1lOiBEb3dubG9hZCBidWlsdCBkZW1vcwogICAgICAgIHVzZXM6IGFjdGlvbnMvZG93bmxvYWQtYXJ0aWZhY3RAdjEKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogYnVpbHQtZGVtb3MKICAgICAgICAgIHBhdGg6IGRpc3QvZGVtbwogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgICAgd2l0aDoKICAgICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKICAgICAgICAgIHRva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgcGF0aDogL2hvbWUvcnVubmVyL3dvcmsvdGVybWludXMtdWkvdGVybWludXMtdWkvdWktZGVtb3MtcmVsZWFzZQogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBQcmVwYXJlIERlbW9zIGZvciBEZXBsb3kKICAgICAgICBydW46IGxpYnJhcnkvdG9vbGluZy9jaS9kZW1vcy1wcmVkZXBsb3kuc2gKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAgIC0gbmFtZTogQ29tbWl0IGZpbGVzCiAgICAgICAgcnVuOiB8CiAgICAgICAgICBjZCB1aS1kZW1vcy1yZWxlYXNlLwogICAgICAgICAgZWNobyAiUFdEOiIKICAgICAgICAgIHB3ZAogICAgICAgICAgZ2l0IGNvbmZpZyAtLWxvY2FsIHVzZXIuZW1haWwgImFjdGlvbkBnaXRodWIuY29tIgogICAgICAgICAgZ2l0IGNvbmZpZyAtLWxvY2FsIHVzZXIubmFtZSAiR2l0SHViIEFjdGlvbiIKICAgICAgICAgIGdpdCBhZGQgLgogICAgICAgICAgZ2l0IGNvbW1pdCAtbSAiVXBkYXRlIHZpYSByZWxlYXNlIHdvcmtmbG93IgogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBQdXNoIGNoYW5nZXMKICAgICAgICB1c2VzOiBhZC1tL2dpdGh1Yi1wdXNoLWFjdGlvbkBtYXN0ZXIKICAgICAgICB3aXRoOgogICAgICAgICAgZ2l0aHViX3Rva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgZGlyZWN0b3J5OiB1aS1kZW1vcy1yZWxlYXNlLwogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -301,35 +300,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwYWRkaW5nXD4=</text>
       </register>
-      <register name="0" type="8">
-        <text>var(--ts-space-inline-600)</text>
+      <register name="0" type="4">
+        <text>/home/runner/work/terminus-ui/terminus-ui/ui-demos-release</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9zcGFjaW5nL3NwYWNpbmcnOwo=</text>
+        <text encoding="base64">CiAgIwogICMgUHVibGlzaCBkZW1vcwogICMKICBkZW1vc19wdWJsaXNoOgogICAgbmFtZTogUHVibGlzaCBEZW1vcwogICAgbmVlZHM6IFtkZW1vc19idWlsZF0KICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgICAtIG5hbWU6IENoZWNrb3V0IGxpYnJhcnkgcmVwbwogICAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgcGF0aDogbGlicmFyeQogICAgICAtIG5hbWU6IFNldCBTSE9VTERfUlVOIGZsYWcKICAgICAgICBydW46IHwKICAgICAgICAgIGlmIFtbICIke3tnaXRodWIuZXZlbnQuaGVhZF9jb21taXQubWVzc2FnZX19IiA9fiAoc2tpcFwgY2l8Y2lcIHNraXApIF1dOyB0aGVuCiAgICAgICAgICAgIGVjaG8gIjo6c2V0LWVudiBuYW1lPVNIT1VMRF9SVU46OmZhbHNlIgogICAgICAgICAgZWxzZQogICAgICAgICAgICBlY2hvICI6OnNldC1lbnYgbmFtZT1TSE9VTERfUlVOOjp0cnVlIgogICAgICAgICAgZmkKICAgICAgLSBuYW1lOiBTZXQgdXAgTm9kZQogICAgICAgIHVzZXM6IGFjdGlvbnMvc2V0dXAtbm9kZUB2MQogICAgICAgIHdpdGg6CiAgICAgICAgICBub2RlLXZlcnNpb246IDEyLngKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAgIC0gbmFtZTogTW92ZSBpbnRvIGxpYnJhcnkKICAgICAgICBydW46IGNkIGxpYnJhcnkKICAgICAgLSBuYW1lOiBEb3dubG9hZCBidWlsdCBkZW1vcwogICAgICAgIHVzZXM6IGFjdGlvbnMvZG93bmxvYWQtYXJ0aWZhY3RAdjEKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogYnVpbHQtZGVtb3MKICAgICAgICAgIHBhdGg6IGRpc3QvZGVtbwogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgICAgd2l0aDoKICAgICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKICAgICAgICAgIHRva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgcGF0aDogL2hvbWUvcnVubmVyL3dvcmsvdGVybWludXMtdWkvdGVybWludXMtdWkvdWktZGVtb3MtcmVsZWFzZQogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBQcmVwYXJlIERlbW9zIGZvciBEZXBsb3kKICAgICAgICBydW46IGxpYnJhcnkvdG9vbGluZy9jaS9kZW1vcy1wcmVkZXBsb3kuc2gKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAgIC0gbmFtZTogQ29tbWl0IGZpbGVzCiAgICAgICAgcnVuOiB8CiAgICAgICAgICBjZCB1aS1kZW1vcy1yZWxlYXNlLwogICAgICAgICAgZWNobyAiUFdEOiIKICAgICAgICAgIHB3ZAogICAgICAgICAgZ2l0IGNvbmZpZyAtLWxvY2FsIHVzZXIuZW1haWwgImFjdGlvbkBnaXRodWIuY29tIgogICAgICAgICAgZ2l0IGNvbmZpZyAtLWxvY2FsIHVzZXIubmFtZSAiR2l0SHViIEFjdGlvbiIKICAgICAgICAgIGdpdCBhZGQgLgogICAgICAgICAgZ2l0IGNvbW1pdCAtbSAiVXBkYXRlIHZpYSByZWxlYXNlIHdvcmtmbG93IgogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBQdXNoIGNoYW5nZXMKICAgICAgICB1c2VzOiBhZC1tL2dpdGh1Yi1wdXNoLWFjdGlvbkBtYXN0ZXIKICAgICAgICB3aXRoOgogICAgICAgICAgZ2l0aHViX3Rva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgZGlyZWN0b3J5OiB1aS1kZW1vcy1yZWxlYXNlLwogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9jb2xvci9jb2xvcic7Cg==</text>
+      <register name="2" type="8">
+        <text>ui-demos-release/</text>
       </register>
-      <register name="3" type="8">
-        <text>spacing(large)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gIlBXRDoiCiAgICAgICAgICBwd2QK</text>
       </register>
-      <register name="4" type="8">
-        <text>spacing(large)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gIlBXRDoiCiAgICAgICAgICBwd2QK</text>
       </register>
-      <register name="5" type="8">
-        <text>color(utility)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0ZXBzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkcGFkZGluZzogc3BhY2luZyhsYXJnZSkgKiAyOwoK</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCBsaWJyYXJ5IHJlcG8KICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgICAgd2l0aDoKICAgICAgICAgIHBhdGg6IGxpYnJhcnkKICAgICAgLSBuYW1lOiBMT0cgYWZ0ZXIgbGlicmFyeSBjbG9uZQogICAgICAgIHJ1bjogfAogICAgICAgICAgZWNobyAiUFdEOiIKICAgICAgICAgIHB3ZAogICAgICAgICAgZWNobyAiTElTVCBjdXJyZW50OiIKICAgICAgICAgIGxzIC1hCiAgICAgICAgICBlY2hvICJMSVNUIHVwIG9uZToiCiAgICAgICAgICBscyAtYSAuLi8KICAgICAgICAgIGVjaG8gIkxJU1QgaG9tZToiCiAgICAgICAgICBscyAtYSAiJEhPTUUiCiAgICAgIC0gbmFtZTogU2V0IFNIT1VMRF9SVU4gZmxhZwogICAgICAgIHJ1bjogfAogICAgICAgICAgaWYgW1sgIiR7e2dpdGh1Yi5ldmVudC5oZWFkX2NvbW1pdC5tZXNzYWdlfX0iID1+IChza2lwXCBjaXxjaVwgc2tpcCkgXV07IHRoZW4KICAgICAgICAgICAgZWNobyAiOjpzZXQtZW52IG5hbWU9U0hPVUxEX1JVTjo6ZmFsc2UiCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIGVjaG8gIjo6c2V0LWVudiBuYW1lPVNIT1VMRF9SVU46OnRydWUiCiAgICAgICAgICBmaQogICAgICAtIG5hbWU6IFNldCB1cCBOb2RlCiAgICAgICAgdXNlczogYWN0aW9ucy9zZXR1cC1ub2RlQHYxCiAgICAgICAgd2l0aDoKICAgICAgICAgIG5vZGUtdmVyc2lvbjogMTIueAogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBEb3dubG9hZCBidWlsdCBkZW1vcwogICAgICAgIHVzZXM6IGFjdGlvbnMvZG93bmxvYWQtYXJ0aWZhY3RAdjEKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogYnVpbHQtZGVtb3MKICAgICAgICAgIHBhdGg6IGRpc3QvZGVtbwogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgICAgd2l0aDoKICAgICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKICAgICAgICAgIHRva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgcGF0aDogdWktZGVtb3MtcmVsZWFzZQogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBMT0cgYWZ0ZXIgZGVtb3MgY2xvbmUKICAgICAgICBydW46IHwKICAgICAgICAgIGVjaG8gIlBXRDoiCiAgICAgICAgICBwd2QKICAgICAgICAgIGVjaG8gIkxJU1QgY3VycmVudDoiCiAgICAgICAgICBscyAtYQogICAgICAgICAgZWNobyAiTElTVCB1cCBvbmU6IgogICAgICAgICAgbHMgLWEgLi4vCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwogICAgICAtIG5hbWU6IFByZXBhcmUgRGVtb3MgZm9yIERlcGxveQogICAgICAgIHJ1bjogdG9vbGluZy9jaS9kZW1vcy1wcmVkZXBsb3kuc2gKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAgIC0gbmFtZTogQ29tbWl0IGZpbGVzCiAgICAgICAgcnVuOiB8CiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5lbWFpbCAiYWN0aW9uQGdpdGh1Yi5jb20iCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5uYW1lICJHaXRIdWIgQWN0aW9uIgogICAgICAgICAgZ2l0IGFkZCAuCiAgICAgICAgICBnaXQgY29tbWl0IC1tICJVcGRhdGUgdmlhIHJlbGVhc2Ugd29ya2Zsb3ciCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwogICAgICAtIG5hbWU6IFB1c2ggY2hhbmdlcwogICAgICAgIHVzZXM6IGFkLW0vZ2l0aHViLXB1c2gtYWN0aW9uQG1hc3RlcgogICAgICAgIHdpdGg6CiAgICAgICAgICBnaXRodWJfdG9rZW46ICR7eyBzZWNyZXRzLkdIX1RPS0VOIH19CiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwo=</text>
       </register>
-      <register name="7" type="8">
-        <text>color(accent)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBMT0cgYWZ0ZXIgbGlicmFyeSBjbG9uZQogICAgICAgIHJ1bjogfAogICAgICAgICAgZWNobyAiUFdEOiIKICAgICAgICAgIHB3ZAogICAgICAgICAgZWNobyAiTElTVCBjdXJyZW50OiIKICAgICAgICAgIGxzIC1hCiAgICAgICAgICBlY2hvICJMSVNUIHVwIG9uZToiCiAgICAgICAgICBscyAtYSAuLi8KICAgICAgICAgIGVjaG8gIkxJU1QgaG9tZToiCiAgICAgICAgICBscyAtYSAiJEhPTUUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGg6IC9pCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBMT0cgYWZ0ZXIgZGVtb3MgY2xvbmUKICAgICAgICBydW46IHwKICAgICAgICAgIGVjaG8gIlBXRDoiCiAgICAgICAgICBwd2QKICAgICAgICAgIGVjaG8gIkxJU1QgY3VycmVudDoiCiAgICAgICAgICBscyAtYQogICAgICAgICAgZWNobyAiTElTVCB1cCBvbmU6IgogICAgICAgICAgbHMgLWEgLi4vCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBNb3ZlIGludG8gZGVtb3MgcmVwbwogICAgICAgIHJ1bjogfAogICAgICAgICAgZWNobyAiUFdEOiIKICAgICAgICAgIHB3ZAogICAgICAgICAgY2QgdWktZGVtb3MtcmVsZWFzZS8KICAgICAgICAgIGVjaG8gIlBXRDoiCiAgICAgICAgICBwd2QKICAgICAgLSBuYW1lOiBMT0cgYWZ0ZXIgQ0QKICAgICAgICBydW46IHwKICAgICAgICAgIGVjaG8gIlBXRDoiCiAgICAgICAgICBwd2QKICAgICAgICAgIGVjaG8gIkxJU1QgY3VycmVudDoiCiAgICAgICAgICBscyAtYQogICAgICAgICAgZWNobyAiTElTVCB1cCBvbmU6IgogICAgICAgICAgbHMgLWEgLi4vCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVjayBjb21taXRzCiAgICAgICAgcnVuOiBnaXQgbG9nIC0yCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
