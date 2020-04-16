@@ -17,7 +17,6 @@
         <entry>dist\/demo</entry>
         <entry>interaction</entry>
         <entry encoding="base64">XDxzdXBwb3J0c0ludGVyYWN0aW9uXD4=</entry>
-        <entry>inject</entry>
         <entry encoding="base64">XDxhcHBUaXRsZVw+</entry>
         <entry>secret</entry>
         <entry>typogr</entry>
@@ -25,6 +24,7 @@
         <entry>design-tokens</entry>
         <entry encoding="base64">XDxwYWRkaW5nXD4=</entry>
         <entry>predeploy</entry>
+        <entry>inject</entry>
       </history-search>
       <history-cmd>
         <entry>action Back</entry>
@@ -44,9 +44,9 @@
         <entry>%s/it(/test(/g</entry>
         <entry>%s/it(`/test(`/g</entry>
         <entry>action com.andrewbrookins.idea.wrap.WrapAction</entry>
-        <entry>noh</entry>
         <entry>wa</entry>
         <entry>action RenameElement</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,6 +132,12 @@
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/inject-library-version-number.sh" timestamp="1587037805918">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="53" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/.circleci/config.yml" timestamp="1586961901616">
         <mark key="[" line="88" column="25" />
         <mark key="]" line="88" column="31" />
@@ -148,8 +154,8 @@
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" timestamp="1586962333543">
         <mark key="'" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1586975252529">
-        <mark key="'" line="108" column="15" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1587037008453">
+        <mark key="'" line="256" column="17" />
         <mark key="[" line="236" column="22" />
         <mark key="]" line="236" column="23" />
         <mark key="." line="236" column="22" />
@@ -198,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="213" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="29" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
       <jump line="342" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
@@ -298,6 +303,7 @@
       <jump line="283" column="24" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="282" column="35" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="108" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="256" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,62 +311,62 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>ui-demos-release/</text>
+      <register name="*" type="2">
+        <text encoding="base64">ZWNobyAidmVyc2lvbiBvdXRwdXQ6ICRWRVJTSU9OX09VVFBVVCIKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJFZFUlNJT05fT1VUUFVUIiB8IGVncmVwIC1vICcgW1s6ZGlnaXQ6XV0rXC5bWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dKycpIgo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ui-demos-release/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>predeploy</text>
+        <text>inject</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZW1vc19wdWJsaXNoOgogICAgbmFtZTogUHVibGlzaCBEZW1vcwogICAgbmVlZHM6IFtkZW1vc19idWlsZCwgbGlicmFyeV9yZWxlYXNlXQogICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdAogICAgc3RlcHM6CiAgICAtIG5hbWU6IENoZWNrb3V0IGxpYnJhcnkgcmVwbwogICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgIHdpdGg6CiAgICAgICAgcGF0aDogbGlicmFyeQogICAgLSBuYW1lOiBTZXQgU0hPVUxEX1JVTiBmbGFnCiAgICAgIHJ1bjogfAogICAgICAgIGlmIFtbICIke3tnaXRodWIuZXZlbnQuaGVhZF9jb21taXQubWVzc2FnZX19IiA9fiAoc2tpcFwgY2l8Y2lcIHNraXApIF1dOyB0aGVuCiAgICAgICAgICBlY2hvICI6OnNldC1lbnYgbmFtZT1TSE9VTERfUlVOOjpmYWxzZSIKICAgICAgICBlbHNlCiAgICAgICAgICBlY2hvICI6OnNldC1lbnYgbmFtZT1TSE9VTERfUlVOOjp0cnVlIgogICAgICAgIGZpCiAgICAtIG5hbWU6IFNldCB1cCBOb2RlCiAgICAgIHVzZXM6IGFjdGlvbnMvc2V0dXAtbm9kZUB2MQogICAgICB3aXRoOgogICAgICAgIG5vZGUtdmVyc2lvbjogMTIueAogICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAtIG5hbWU6IE1vdmUgaW50byBsaWJyYXJ5CiAgICAgIHJ1bjogY2QgbGlicmFyeQogICAgLSBuYW1lOiBEb3dubG9hZCBidWlsdCBkZW1vcwogICAgICB1c2VzOiBhY3Rpb25zL2Rvd25sb2FkLWFydGlmYWN0QHYxCiAgICAgIHdpdGg6CiAgICAgICAgbmFtZTogYnVpbHQtZGVtb3MKICAgICAgICBwYXRoOiBkaXN0L2RlbW8KICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwogICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2MgogICAgICB3aXRoOgogICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKICAgICAgICB0b2tlbjogJHt7IHNlY3JldHMuR0hfVE9LRU4gfX0KICAgICAgICBwYXRoOiAvaG9tZS9ydW5uZXIvd29yay90ZXJtaW51cy11aS90ZXJtaW51cy11aS91aS1kZW1vcy1yZWxlYXNlCiAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgIC0gbmFtZTogUHJlcGFyZSBEZW1vcyBmb3IgRGVwbG95CiAgICAgIHJ1bjogbGlicmFyeS90b29saW5nL2NpL2RlbW9zLXByZWRlcGxveS5zaAogICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAtIG5hbWU6IENvbW1pdCBmaWxlcwogICAgICBydW46IHwKICAgICAgICBjZCB1aS1kZW1vcy1yZWxlYXNlLwogICAgICAgIGdpdCBjb25maWcgLS1sb2NhbCB1c2VyLmVtYWlsICJhY3Rpb25AZ2l0aHViLmNvbSIKICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5uYW1lICJHaXRIdWIgQWN0aW9uIgogICAgICAgIGdpdCBhZGQgLgogICAgICAgIGdpdCBjb21taXQgLW0gIlVwZGF0ZSB2aWEgcmVsZWFzZSB3b3JrZmxvdyIKICAgICAgICBnaXQgcHVzaCAtcSBodHRwczovLyR7R0hfVE9LRU59QGdpdGh1Yi5jb20vR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZS5naXQgbWFzdGVyCiAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+      <register name="0" type="4">
+        <text>VERSION_OUTPUT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDb21taXQgZmlsZXMKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHVpLWRlbW9zLXJlbGVhc2UvCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5lbWFpbCAiYWN0aW9uQGdpdGh1Yi5jb20iCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5uYW1lICJHaXRIdWIgQWN0aW9uIgogICAgICAgICAgZ2l0IGFkZCAuCiAgICAgICAgICBnaXQgY29tbWl0IC1tICJVcGRhdGUgdmlhIHJlbGVhc2Ugd29ya2Zsb3ciCiAgICAgICAgICBnaXQgcHVzaCAtcSBodHRwczovLyR7R0hfVE9LRU59QGdpdGh1Yi5jb20vR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZS5naXQgbWFzdGVyCiAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+        <text encoding="base64">ZWNobyAidmVyc2lvbiBvdXRwdXQ6ICRWRVJTSU9OX09VVFBVVCIKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJFZFUlNJT05fT1VUUFVUIiB8IGVncmVwIC1vICcgW1s6ZGlnaXQ6XV0rXC5bWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dKycpIgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiMgR28gYmFjayB0byB0aGUgcm9vdApjZCAuLi8K</text>
+      <register name="2" type="8">
+        <text>Version 1.2.4.1 (release mode)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3AgIiRIT01FIi91aS1kZW1vcy1yZWxlYXNlL2luZGV4Lmh0bWwgIiRIT01FIi91aS1kZW1vcy1yZWxlYXNlLzQwNC5odG1sCg==</text>
+        <text encoding="base64">ZWNobyAkVkVSU0lPTl9PVVRQVVQgfCBlZ3JlcCAtbyAnWzAtOV0uKi1bMC05XScK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">c2VtdmVyPSggJHtWRVJTSU9OX09VUFVULy8uLyB9ICkKbWFqb3I9IiR7c2VtdmVyWzBdfSIKbWlub3I9IiR7c2VtdmVyWzFdfSIKcGF0Y2g9IiR7c2VtdmVyWzJdfSIKZWNobyAiJHttYWpvcn0uJHttaW5vcn0uJHtwYXRjaH0iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDb21taXQgZmlsZXMKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHVpLWRlbW9zLXJlbGVhc2UvCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5lbWFpbCAiYWN0aW9uQGdpdGh1Yi5jb20iCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5uYW1lICJHaXRIdWIgQWN0aW9uIgogICAgICAgICAgZ2l0IGFkZCAuCiAgICAgICAgICBnaXQgY29tbWl0IC1tICJVcGRhdGUgdmlhIHJlbGVhc2Ugd29ya2Zsb3ciCiAgICAgICAgICBnaXQgcHVzaCAtcSBodHRwczovLyR7R0hfVE9LRU59QGdpdGh1Yi5jb20vR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZS5naXQgbWFzdGVyCiAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgR28gYmFjayB0byB0aGUgcm9vdApjZCAuLi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y3AgIiRIT01FIi91aS1kZW1vcy1yZWxlYXNlL2luZGV4Lmh0bWwgIiRIT01FIi91aS1kZW1vcy1yZWxlYXNlLzQwNC5odG1sCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>predeploy</last-search>
+      <last-search>inject</last-search>
       <last-offset />
-      <last-pattern>predeploy</last-pattern>
+      <last-pattern>inject</last-pattern>
       <last-replace>test(`</last-replace>
       <last-substitute>TestBed.get</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
