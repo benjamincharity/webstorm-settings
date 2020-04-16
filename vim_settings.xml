@@ -154,11 +154,10 @@
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" timestamp="1586962333543">
         <mark key="'" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1587037008453">
-        <mark key="'" line="256" column="17" />
-        <mark key="[" line="236" column="22" />
-        <mark key="]" line="236" column="23" />
-        <mark key="." line="236" column="22" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" timestamp="1587039179056">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
         <mark key="^" line="236" column="23" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/css/design-tokens.css" timestamp="1586962315933">
@@ -178,11 +177,11 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1586972784126">
-        <mark key="'" line="278" column="16" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="325" column="32" />
-        <mark key="." line="325" column="4" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1587039161710">
+        <mark key="'" line="281" column="3" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="316" column="36" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/.eslintrc.js" timestamp="1586955318028">
         <mark key="'" line="14" column="21" />
@@ -204,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="29" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
       <jump line="342" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
       <jump line="345" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
       <jump line="347" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip-collection.component.ts" />
@@ -249,7 +246,6 @@
       <jump line="14" column="21" filename="$USER_HOME$/code/Terminus/terminus-ui/.eslintrc.js" />
       <jump line="275" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="294" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
-      <jump line="242" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="310" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="290" column="22" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
@@ -293,8 +289,6 @@
       <jump line="283" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="17" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" />
-      <jump line="282" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="325" column="4" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" />
       <jump line="319" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="278" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
@@ -304,6 +298,11 @@
       <jump line="282" column="35" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="108" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="256" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="151" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
+      <jump line="325" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="282" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="281" column="3" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
+      <jump line="242" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +311,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ZWNobyAidmVyc2lvbiBvdXRwdXQ6ICRWRVJTSU9OX09VVFBVVCIKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJFZFUlNJT05fT1VUUFVUIiB8IGVncmVwIC1vICcgW1s6ZGlnaXQ6XV0rXC5bWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dKycpIgo=</text>
+        <text encoding="base64">CgogIGRlbW9zX3B1Ymxpc2g6CiAgICBuYW1lOiBQdWJsaXNoIERlbW9zCiAgICBuZWVkczogW2RlbW9zX2J1aWxkXQogICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdAogICAgc3RlcHM6CiAgICAgIC0gbmFtZTogQ2hlY2tvdXQgbGlicmFyeSByZXBvCiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2MgogICAgICAgIHdpdGg6CiAgICAgICAgICBwYXRoOiBsaWJyYXJ5CiAgICAgIC0gbmFtZTogU2V0IFNIT1VMRF9SVU4gZmxhZwogICAgICAgIHJ1bjogfAogICAgICAgICAgaWYgW1sgIiR7e2dpdGh1Yi5ldmVudC5oZWFkX2NvbW1pdC5tZXNzYWdlfX0iID1+IChza2lwXCBjaXxjaVwgc2tpcCkgXV07IHRoZW4KICAgICAgICAgICAgZWNobyAiOjpzZXQtZW52IG5hbWU9U0hPVUxEX1JVTjo6ZmFsc2UiCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIGVjaG8gIjo6c2V0LWVudiBuYW1lPVNIT1VMRF9SVU46OnRydWUiCiAgICAgICAgICBmaQogICAgICAtIG5hbWU6IFNldCB1cCBOb2RlCiAgICAgICAgdXNlczogYWN0aW9ucy9zZXR1cC1ub2RlQHYxCiAgICAgICAgd2l0aDoKICAgICAgICAgIG5vZGUtdmVyc2lvbjogMTIueAogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBNb3ZlIGludG8gbGlicmFyeQogICAgICAgIHJ1bjogY2QgbGlicmFyeQogICAgICAtIG5hbWU6IERvd25sb2FkIGJ1aWx0IGRlbW9zCiAgICAgICAgdXNlczogYWN0aW9ucy9kb3dubG9hZC1hcnRpZmFjdEB2MQogICAgICAgIHdpdGg6CiAgICAgICAgICBuYW1lOiBidWlsdC1kZW1vcwogICAgICAgICAgcGF0aDogZGlzdC9kZW1vCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwogICAgICAtIG5hbWU6IENoZWNrb3V0IHVpLWRlbW9zLXJlbGVhc2UgcmVwbwogICAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgcmVwb3NpdG9yeTogR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZQogICAgICAgICAgdG9rZW46ICR7eyBzZWNyZXRzLkdIX1RPS0VOIH19CiAgICAgICAgICBwYXRoOiAvaG9tZS9ydW5uZXIvd29yay90ZXJtaW51cy11aS90ZXJtaW51cy11aS91aS1kZW1vcy1yZWxlYXNlCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwogICAgICAtIG5hbWU6IFByZXBhcmUgJiBEZXBsb3kgRGVtb3MKICAgICAgICBydW46IGxpYnJhcnkvdG9vbGluZy9jaS9kZW1vcy1kZXBsb3kuc2gKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -323,35 +322,35 @@
       <register name="/" type="4">
         <text>inject</text>
       </register>
-      <register name="0" type="4">
-        <text>VERSION_OUTPUT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0ZXBzOgogICAgICAtIG5hbWU6IENoZWNrb3V0IGxpYnJhcnkgcmVwbwogICAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgcGF0aDogbGlicmFyeQogICAgICAtIG5hbWU6IFNldCBTSE9VTERfUlVOIGZsYWcKICAgICAgICBydW46IHwKICAgICAgICAgIGlmIFtbICIke3tnaXRodWIuZXZlbnQuaGVhZF9jb21taXQubWVzc2FnZX19IiA9fiAoc2tpcFwgY2l8Y2lcIHNraXApIF1dOyB0aGVuCiAgICAgICAgICAgIGVjaG8gIjo6c2V0LWVudiBuYW1lPVNIT1VMRF9SVU46OmZhbHNlIgogICAgICAgICAgZWxzZQogICAgICAgICAgICBlY2hvICI6OnNldC1lbnYgbmFtZT1TSE9VTERfUlVOOjp0cnVlIgogICAgICAgICAgZmkKICAgICAgLSBuYW1lOiBTZXQgdXAgTm9kZQogICAgICAgIHVzZXM6IGFjdGlvbnMvc2V0dXAtbm9kZUB2MQogICAgICAgIHdpdGg6CiAgICAgICAgICBub2RlLXZlcnNpb246IDEyLngKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAgIC0gbmFtZTogTW92ZSBpbnRvIGxpYnJhcnkKICAgICAgICBydW46IGNkIGxpYnJhcnkKICAgICAgLSBuYW1lOiBEb3dubG9hZCBidWlsdCBkZW1vcwogICAgICAgIHVzZXM6IGFjdGlvbnMvZG93bmxvYWQtYXJ0aWZhY3RAdjEKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogYnVpbHQtZGVtb3MKICAgICAgICAgIHBhdGg6IGRpc3QvZGVtbwogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgICAgd2l0aDoKICAgICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKICAgICAgICAgIHRva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgcGF0aDogL2hvbWUvcnVubmVyL3dvcmsvdGVybWludXMtdWkvdGVybWludXMtdWkvdWktZGVtb3MtcmVsZWFzZQogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBQcmVwYXJlICYgRGVwbG95IERlbW9zCiAgICAgICAgcnVuOiBsaWJyYXJ5L3Rvb2xpbmcvY2kvZGVtb3MtZGVwbG95LnNoCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAidmVyc2lvbiBvdXRwdXQ6ICRWRVJTSU9OX09VVFBVVCIKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJFZFUlNJT05fT1VUUFVUIiB8IGVncmVwIC1vICcgW1s6ZGlnaXQ6XV0rXC5bWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dKycpIgo=</text>
+        <text encoding="base64">CgogIGRlbW9zX3B1Ymxpc2g6CiAgICBuYW1lOiBQdWJsaXNoIERlbW9zCiAgICBuZWVkczogW2RlbW9zX2J1aWxkXQogICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdAogICAgc3RlcHM6CiAgICAgIC0gbmFtZTogQ2hlY2tvdXQgbGlicmFyeSByZXBvCiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2MgogICAgICAgIHdpdGg6CiAgICAgICAgICBwYXRoOiBsaWJyYXJ5CiAgICAgIC0gbmFtZTogU2V0IFNIT1VMRF9SVU4gZmxhZwogICAgICAgIHJ1bjogfAogICAgICAgICAgaWYgW1sgIiR7e2dpdGh1Yi5ldmVudC5oZWFkX2NvbW1pdC5tZXNzYWdlfX0iID1+IChza2lwXCBjaXxjaVwgc2tpcCkgXV07IHRoZW4KICAgICAgICAgICAgZWNobyAiOjpzZXQtZW52IG5hbWU9U0hPVUxEX1JVTjo6ZmFsc2UiCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIGVjaG8gIjo6c2V0LWVudiBuYW1lPVNIT1VMRF9SVU46OnRydWUiCiAgICAgICAgICBmaQogICAgICAtIG5hbWU6IFNldCB1cCBOb2RlCiAgICAgICAgdXNlczogYWN0aW9ucy9zZXR1cC1ub2RlQHYxCiAgICAgICAgd2l0aDoKICAgICAgICAgIG5vZGUtdmVyc2lvbjogMTIueAogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBNb3ZlIGludG8gbGlicmFyeQogICAgICAgIHJ1bjogY2QgbGlicmFyeQogICAgICAtIG5hbWU6IERvd25sb2FkIGJ1aWx0IGRlbW9zCiAgICAgICAgdXNlczogYWN0aW9ucy9kb3dubG9hZC1hcnRpZmFjdEB2MQogICAgICAgIHdpdGg6CiAgICAgICAgICBuYW1lOiBidWlsdC1kZW1vcwogICAgICAgICAgcGF0aDogZGlzdC9kZW1vCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwogICAgICAtIG5hbWU6IENoZWNrb3V0IHVpLWRlbW9zLXJlbGVhc2UgcmVwbwogICAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgcmVwb3NpdG9yeTogR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZQogICAgICAgICAgdG9rZW46ICR7eyBzZWNyZXRzLkdIX1RPS0VOIH19CiAgICAgICAgICBwYXRoOiAvaG9tZS9ydW5uZXIvd29yay90ZXJtaW51cy11aS90ZXJtaW51cy11aS91aS1kZW1vcy1yZWxlYXNlCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwogICAgICAtIG5hbWU6IFByZXBhcmUgJiBEZXBsb3kgRGVtb3MKICAgICAgICBydW46IGxpYnJhcnkvdG9vbGluZy9jaS9kZW1vcy1kZXBsb3kuc2gKICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
       </register>
-      <register name="2" type="8">
-        <text>Version 1.2.4.1 (release mode)</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyAgICBzdGVwczoKIyAgICAtIG5hbWU6IENoZWNrb3V0IGxpYnJhcnkgcmVwbwojICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2MgojICAgICAgd2l0aDoKIyAgICAgICAgcGF0aDogbGlicmFyeQojICAgIC0gbmFtZTogU2V0IFNIT1VMRF9SVU4gZmxhZwojICAgICAgcnVuOiB8CiMgICAgICAgIGlmIFtbICIke3tnaXRodWIuZXZlbnQuaGVhZF9jb21taXQubWVzc2FnZX19IiA9fiAoc2tpcFwgY2l8Y2lcIHNraXApIF1dOyB0aGVuCiMgICAgICAgICAgZWNobyAiOjpzZXQtZW52IG5hbWU9U0hPVUxEX1JVTjo6ZmFsc2UiCiMgICAgICAgIGVsc2UKIyAgICAgICAgICBlY2hvICI6OnNldC1lbnYgbmFtZT1TSE9VTERfUlVOOjp0cnVlIgojICAgICAgICBmaQojICAgIC0gbmFtZTogU2V0IHVwIE5vZGUKIyAgICAgIHVzZXM6IGFjdGlvbnMvc2V0dXAtbm9kZUB2MQojICAgICAgd2l0aDoKIyAgICAgICAgbm9kZS12ZXJzaW9uOiAxMi54CiMgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiMgICAgLSBuYW1lOiBNb3ZlIGludG8gbGlicmFyeQojICAgICAgcnVuOiBjZCBsaWJyYXJ5CiMgICAgLSBuYW1lOiBEb3dubG9hZCBidWlsdCBkZW1vcwojICAgICAgdXNlczogYWN0aW9ucy9kb3dubG9hZC1hcnRpZmFjdEB2MQojICAgICAgd2l0aDoKIyAgICAgICAgbmFtZTogYnVpbHQtZGVtb3MKIyAgICAgICAgcGF0aDogZGlzdC9kZW1vCiMgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiMgICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KIyAgICAgIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKIyAgICAgIHdpdGg6CiMgICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKIyAgICAgICAgdG9rZW46ICR7eyBzZWNyZXRzLkdIX1RPS0VOIH19CiMgICAgICAgIHBhdGg6IC9ob21lL3J1bm5lci93b3JrL3Rlcm1pbnVzLXVpL3Rlcm1pbnVzLXVpL3VpLWRlbW9zLXJlbGVhc2UKIyAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKIyAgICAtIG5hbWU6IFByZXBhcmUgRGVtb3MgZm9yIERlcGxveQojICAgICAgcnVuOiBsaWJyYXJ5L3Rvb2xpbmcvY2kvZGVtb3MtcHJlZGVwbG95LnNoCiMgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiMgICAgLSBuYW1lOiBDb21taXQgZmlsZXMKIyAgICAgIHJ1bjogfAojICAgICAgICBjZCB1aS1kZW1vcy1yZWxlYXNlLwojICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5lbWFpbCAiYWN0aW9uQGdpdGh1Yi5jb20iCiMgICAgICAgIGdpdCBjb25maWcgLS1sb2NhbCB1c2VyLm5hbWUgIkdpdEh1YiBBY3Rpb24iCiMgICAgICAgIGdpdCBhZGQgLgojICAgICAgICBnaXQgY29tbWl0IC1tICJVcGRhdGUgdmlhIHJlbGVhc2Ugd29ya2Zsb3ciCiMgICAgICAgIGdpdCBwdXNoIC1xIGh0dHBzOi8vJHtHSF9UT0tFTn1AZ2l0aHViLmNvbS9HZXRUZXJtaW51cy91aS1kZW1vcy1yZWxlYXNlLmdpdCBtYXN0ZXIKIyAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAkVkVSU0lPTl9PVVRQVVQgfCBlZ3JlcCAtbyAnWzAtOV0uKi1bMC05XScK</text>
+        <text encoding="base64">ZWNobyAidmVyc2lvbiBvdXRwdXQ6ICRWRVJTSU9OX09VVFBVVCIKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJFZFUlNJT05fT1VUUFVUIiB8IGVncmVwIC1vICcgW1s6ZGlnaXQ6XV0rXC5bWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dKycpIgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>Version 1.2.4.1 (release mode)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VtdmVyPSggJHtWRVJTSU9OX09VUFVULy8uLyB9ICkKbWFqb3I9IiR7c2VtdmVyWzBdfSIKbWlub3I9IiR7c2VtdmVyWzFdfSIKcGF0Y2g9IiR7c2VtdmVyWzJdfSIKZWNobyAiJHttYWpvcn0uJHttaW5vcn0uJHtwYXRjaH0iCg==</text>
+        <text encoding="base64">ZWNobyAkVkVSU0lPTl9PVVRQVVQgfCBlZ3JlcCAtbyAnWzAtOV0uKi1bMC05XScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDb21taXQgZmlsZXMKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHVpLWRlbW9zLXJlbGVhc2UvCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5lbWFpbCAiYWN0aW9uQGdpdGh1Yi5jb20iCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5uYW1lICJHaXRIdWIgQWN0aW9uIgogICAgICAgICAgZ2l0IGFkZCAuCiAgICAgICAgICBnaXQgY29tbWl0IC1tICJVcGRhdGUgdmlhIHJlbGVhc2Ugd29ya2Zsb3ciCiAgICAgICAgICBnaXQgcHVzaCAtcSBodHRwczovLyR7R0hfVE9LRU59QGdpdGh1Yi5jb20vR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZS5naXQgbWFzdGVyCiAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgR28gYmFjayB0byB0aGUgcm9vdApjZCAuLi8K</text>
+        <text encoding="base64">c2VtdmVyPSggJHtWRVJTSU9OX09VUFVULy8uLyB9ICkKbWFqb3I9IiR7c2VtdmVyWzBdfSIKbWlub3I9IiR7c2VtdmVyWzFdfSIKcGF0Y2g9IiR7c2VtdmVyWzJdfSIKZWNobyAiJHttYWpvcn0uJHttaW5vcn0uJHtwYXRjaH0iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3AgIiRIT01FIi91aS1kZW1vcy1yZWxlYXNlL2luZGV4Lmh0bWwgIiRIT01FIi91aS1kZW1vcy1yZWxlYXNlLzQwNC5odG1sCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDb21taXQgZmlsZXMKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHVpLWRlbW9zLXJlbGVhc2UvCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5lbWFpbCAiYWN0aW9uQGdpdGh1Yi5jb20iCiAgICAgICAgICBnaXQgY29uZmlnIC0tbG9jYWwgdXNlci5uYW1lICJHaXRIdWIgQWN0aW9uIgogICAgICAgICAgZ2l0IGFkZCAuCiAgICAgICAgICBnaXQgY29tbWl0IC1tICJVcGRhdGUgdmlhIHJlbGVhc2Ugd29ya2Zsb3ciCiAgICAgICAgICBnaXQgcHVzaCAtcSBodHRwczovLyR7R0hfVE9LRU59QGdpdGh1Yi5jb20vR2V0VGVybWludXMvdWktZGVtb3MtcmVsZWFzZS5naXQgbWFzdGVyCiAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgR28gYmFjayB0byB0aGUgcm9vdApjZCAuLi8K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
