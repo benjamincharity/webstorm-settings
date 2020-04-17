@@ -117,6 +117,12 @@
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/campaign-overview/constants.ts" timestamp="1587126147472">
+        <mark key="[" line="81" column="89" />
+        <mark key="]" line="81" column="99" />
+        <mark key="." line="81" column="98" />
+        <mark key="^" line="81" column="99" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" timestamp="1586975183002">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="19" column="24" />
@@ -150,13 +156,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="17" column="24" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/design-tokens/projects/tokens/config/config-ui-library.js" timestamp="1586961487791">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" timestamp="1586962333543">
         <mark key="'" line="1" column="17" />
@@ -325,20 +324,20 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgPHRzLWljb24tLT4KPCEtLSAgICAgICAgICAgIGNsYXNzPSJleHBhbmQtaWNvbiItLT4KPCEtLSAgICAgICAgICAgICpuZ0lmPSJleHBhbmRlZFV1aWQgJiYgZXhwYW5kZWRVdWlkID09PSBpdGVtLmFjY291bnRVdWlkIi0tPgo8IS0tICAgICAgICAgICAgKGNsaWNrKT0ic2V0RXhwYW5kZWRBY2NvdW50KGl0ZW0uYWNjb3VudFV1aWQpIi0tPgo8IS0tICAgICAgICA+YXJyb3dfZHJvcF9kb3duPC90cy1pY29uPi0tPgo=</text>
+      <register name="*" type="4">
+        <text>number</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>inject</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA+e3sgZXhwYW5kZWRVdWlkICYmIGV4cGFuZGVkVXVpZCA9PT0gaXRlbS5hY2NvdW50VXVpZCA/ICJhcnJvd19yaWdodCA6ICJhcnJvd19kcm9wX2Rvd24iIH19PC90cy1pY29uPgo=</text>
+      <register name="0" type="4">
+        <text>longNumber</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgPHRzLWljb24tLT4KPCEtLSAgICAgICAgICAgIGNsYXNzPSJleHBhbmQtaWNvbiItLT4KPCEtLSAgICAgICAgICAgICpuZ0lmPSJleHBhbmRlZFV1aWQgJiYgZXhwYW5kZWRVdWlkID09PSBpdGVtLmFjY291bnRVdWlkIi0tPgo8IS0tICAgICAgICAgICAgKGNsaWNrKT0ic2V0RXhwYW5kZWRBY2NvdW50KGl0ZW0uYWNjb3VudFV1aWQpIi0tPgo8IS0tICAgICAgICA+YXJyb3dfZHJvcF9kb3duPC90cy1pY29uPi0tPgo=</text>
