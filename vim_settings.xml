@@ -124,7 +124,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/tactic-details.module.ts" timestamp="1587130830449">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/tactic-details.module.ts" timestamp="1587132389214">
         <mark key="'" line="51" column="10" />
         <mark key="[" line="105" column="13" />
         <mark key="]" line="105" column="31" />
@@ -134,12 +134,12 @@
         <mark key="[" line="136" column="0" />
         <mark key="]" line="141" column="3" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" timestamp="1587131721464">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" timestamp="1587137412013">
         <mark key="'" line="328" column="87" />
-        <mark key="[" line="327" column="11" />
-        <mark key="]" line="327" column="22" />
-        <mark key="." line="327" column="21" />
-        <mark key="^" line="327" column="22" />
+        <mark key="[" line="303" column="34" />
+        <mark key="]" line="303" column="32" />
+        <mark key="." line="303" column="31" />
+        <mark key="^" line="303" column="32" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/README.md" timestamp="1587048596431">
         <mark key="[" line="9" column="16" />
@@ -156,7 +156,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.routes.ts" timestamp="1587130796344">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.routes.ts" timestamp="1587132374969">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="36" />
         <mark key="." line="18" column="23" />
@@ -168,12 +168,12 @@
         <mark key="." line="81" column="98" />
         <mark key="^" line="81" column="99" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1587130004137">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1587137522230">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="25" />
-        <mark key="^" line="61" column="25" />
-        <mark key="." line="61" column="24" />
+        <mark key="[" line="14" column="75" />
+        <mark key="]" line="14" column="77" />
+        <mark key="^" line="14" column="77" />
+        <mark key="." line="14" column="76" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/account-performance/components/accounts-table/accounts-table.component.html" timestamp="1587063461055">
         <mark key="[" line="18" column="0" />
@@ -324,46 +324,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>details</text>
+        <text>RequireMarketerFeaturesGuard</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>details</text>
+        <text>RequireMarketerFeaturesGuard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXRhcmdldGluZ01vZHVsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXRhcmdldGluZ0RpYWdub3N0aWNzOiAnaWQnOwo=</text>
+        <text encoding="base64">ICB7CiAgICBwYXRoOiAncmV0YXJnZXRpbmcvOmlkJywKICAgIGxvYWRDaGlsZHJlbjogKCkgPT4gaW1wb3J0KCdAZmVhdHVyZXMvcmV0YXJnZXRpbmcvcmV0YXJnZXRpbmcubW9kdWxlJykudGhlbihtID0+IG0uUmV0YXJnZXRpbmdNb2R1bGUpLAogICAgY2FuQWN0aXZhdGU6IFtVc2VySXNMb2dnZWRJbiwgUmVxdWlyZU1hcmtldGVyRmVhdHVyZXNHdWFyZF0sCiAgICBkYXRhOiB7CiAgICAgIHJvdXRlTmFtZTogJ3JldGFyZ2V0aW5nJywKICAgICAgdGl0bGU6ICdOZXcgUmV0YXJnZXRpbmcnLAogICAgICAvLyByZXF1aXJlZE1hcmtldGVyRmVhdHVyZTogewogICAgICAvLyAgIGZlYXR1cmVzOiBbJ25ld1JldGFyZ2V0aW5nJ10sCiAgICAgIC8vICAgcmVkaXJlY3RUb1dpdGhvdXRGZWF0dXJlOiByZWRpcmVjdFRvSG9tZSwKICAgICAgLy8gfSwKICAgIH0sCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+        <text encoding="base64">ICB7CiAgICBwYXRoOiAncmV0YXJnZXRpbmcvOmlkL2NvbnZlcnNpb25zJywKICAgIGxvYWRDaGlsZHJlbjogKCkgPT4gaW1wb3J0KCdAZmVhdHVyZXMvcmV0YXJnZXRpbmcvcmV0YXJnZXRpbmcubW9kdWxlJykudGhlbihtID0+IG0uUmV0YXJnZXRpbmdNb2R1bGUpLAogICAgY2FuQWN0aXZhdGU6IFtVc2VySXNMb2dnZWRJbiwgUmVxdWlyZU1hcmtldGVyRmVhdHVyZXNHdWFyZF0sCiAgICBkYXRhOiB7CiAgICAgIHJvdXRlTmFtZTogJ3JldGFyZ2V0aW5nQ29udmVyc2lvbnMnLAogICAgICB0aXRsZTogJ1JldGFyZ2V0aW5nIENvbnZlcnNpb25zJywKICAgICAgLy8gcmVxdWlyZWRNYXJrZXRlckZlYXR1cmU6IHsKICAgICAgLy8gICBmZWF0dXJlczogWyduZXdSZXRhcmdldGluZyddLAogICAgICAvLyAgIHJlZGlyZWN0VG9XaXRob3V0RmVhdHVyZTogcmVkaXJlY3RUb0hvbWUsCiAgICAgIC8vIH0sCiAgICB9LAogIH0sCiAgewogICAgcGF0aDogJ3JldGFyZ2V0aW5nLzppZC9jcmVhdGl2ZScsCiAgICBsb2FkQ2hpbGRyZW46ICgpID0+IGltcG9ydCgnQGZlYXR1cmVzL3JldGFyZ2V0aW5nL3JldGFyZ2V0aW5nLm1vZHVsZScpLnRoZW4obSA9PiBtLlJldGFyZ2V0aW5nTW9kdWxlKSwKICAgIGNhbkFjdGl2YXRlOiBbVXNlcklzTG9nZ2VkSW4sIFJlcXVpcmVNYXJrZXRlckZlYXR1cmVzR3VhcmRdLAogICAgZGF0YTogewogICAgICByb3V0ZU5hbWU6ICdyZXRhcmdldGluZ1BlcmZvcm1hbmNlJywKICAgICAgdGl0bGU6ICdUYWN0aWMgRGV0YWlscyBDcmVhdGl2ZSBQZXJmb3JtYW5jZScsCiAgICAgIC8vIHJlcXVpcmVkTWFya2V0ZXJGZWF0dXJlOiB7CiAgICAgIC8vICAgZmVhdHVyZXM6IFsnbmV3UmV0YXJnZXRpbmcnXSwKICAgICAgLy8gICByZWRpcmVjdFRvV2l0aG91dEZlYXR1cmU6IHJlZGlyZWN0VG9Ib21lLAogICAgICAvLyB9LAogICAgfSwKICB9LAogIHsKICAgIHBhdGg6ICdyZXRhcmdldGluZy86aWQvZGlhZ25vc3RpY3MnLAogICAgbG9hZENoaWxkcmVuOiAoKSA9PiBpbXBvcnQoJ0BmZWF0dXJlcy9yZXRhcmdldGluZy9yZXRhcmdldGluZy5tb2R1bGUnKS50aGVuKG0gPT4gbS5SZXRhcmdldGluZ01vZHVsZSksCiAgICBjYW5BY3RpdmF0ZTogW1VzZXJJc0xvZ2dlZEluLCBSZXF1aXJlTWFya2V0ZXJGZWF0dXJlc0d1YXJkXSwKICAgIGRhdGE6IHsKICAgICAgcm91dGVOYW1lOiAncmV0YXJnZXRpbmdEaWFnbm9zdGljcycsCiAgICAgIHRpdGxlOiAnUmV0YXJnZXRpbmcgRGlhZ25vc3RpY3MnLAogICAgICAvLyByZXF1aXJlZE1hcmtldGVyRmVhdHVyZTogewogICAgICAvLyAgIGZlYXR1cmVzOiBbJ25ld1JldGFyZ2V0aW5nJ10sCiAgICAgIC8vICAgcmVkaXJlY3RUb1dpdGhvdXRGZWF0dXJlOiByZWRpcmVjdFRvSG9tZSwKICAgICAgLy8gfSwKICAgIH0sCiAgfSwKICB7CiAgICBwYXRoOiAncmV0YXJnZXRpbmcvOmlkJywKICAgIGxvYWRDaGlsZHJlbjogKCkgPT4gaW1wb3J0KCdAZmVhdHVyZXMvcmV0YXJnZXRpbmcvcmV0YXJnZXRpbmcubW9kdWxlJykudGhlbihtID0+IG0uUmV0YXJnZXRpbmdNb2R1bGUpLAogICAgY2FuQWN0aXZhdGU6IFtVc2VySXNMb2dnZWRJbiwgUmVxdWlyZU1hcmtldGVyRmVhdHVyZXNHdWFyZF0sCiAgICBkYXRhOiB7CiAgICAgIHJvdXRlTmFtZTogJ3JldGFyZ2V0aW5nJywKICAgICAgdGl0bGU6ICdOZXcgUmV0YXJnZXRpbmcnLAogICAgICAvLyByZXF1aXJlZE1hcmtldGVyRmVhdHVyZTogewogICAgICAvLyAgIGZlYXR1cmVzOiBbJ25ld1JldGFyZ2V0aW5nJ10sCiAgICAgIC8vICAgcmVkaXJlY3RUb1dpdGhvdXRGZWF0dXJlOiByZWRpcmVjdFRvSG9tZSwKICAgICAgLy8gfSwKICAgIH0sCiAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXRhcmdldGluZzogJ2lkJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXRhcmdldGluZzogJ2lkJzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvYWRDaGlsZHJlbjogKCkgPT4gaW1wb3J0KCdAZmVhdHVyZXMvdGFjdGljLWRldGFpbHMvdGFjdGljLWRldGFpbHMubW9kdWxlJykudGhlbihtID0+IG0uVGFjdGljRGV0YWlsc01vZHVsZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGxvYWRDaGlsZHJlbjogKCkgPT4gaW1wb3J0KCdAZmVhdHVyZXMvdGFjdGljLWRldGFpbHMvdGFjdGljLWRldGFpbHMubW9kdWxlJykudGhlbihtID0+IG0uVGFjdGljRGV0YWlsc01vZHVsZSksCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>tactic-details</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvYWRDaGlsZHJlbjogKCkgPT4gaW1wb3J0KCdAZmVhdHVyZXMvdGFjdGljLWRldGFpbHMvdGFjdGljLWRldGFpbHMubW9kdWxlJykudGhlbihtID0+IG0uVGFjdGljRGV0YWlsc01vZHVsZSksCg==</text>
       </register>
       <register name="9" type="8">
-        <text>TacticDetails</text>
+        <text>tactic-details</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
