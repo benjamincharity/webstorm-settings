@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBUaXRsZVw+</entry>
-        <entry>secret</entry>
-        <entry>typogr</entry>
         <entry>scss</entry>
         <entry>design-tokens</entry>
         <entry encoding="base64">XDxwYWRkaW5nXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>qualif</entry>
         <entry>container</entry>
         <entry>tsSpacings</entry>
+        <entry>lint</entry>
+        <entry>stylelin</entry>
+        <entry>scale-unlimited</entry>
       </history-search>
       <history-cmd>
         <entry>action Back</entry>
@@ -44,9 +44,9 @@
         <entry>%s/it(`/test(`/g</entry>
         <entry>action com.andrewbrookins.idea.wrap.WrapAction</entry>
         <entry>wa</entry>
-        <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>noh</entry>
         <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,16 +113,49 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/tactic-details.routes.ts" timestamp="1587130209945">
-        <mark key="'" line="0" column="9" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/stylelint.config.js" timestamp="1587148106716">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="31" column="42" />
+        <mark key="]" line="43" column="2" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.routes.ts" timestamp="1587132374969">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="36" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="24" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scss/docs/shadows.md" timestamp="1587140428774">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/styles.scss" timestamp="1587144496684">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/index.js" timestamp="1587148526575">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587145203012">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/.drone.yml" timestamp="1587146518403">
+        <mark key="'" line="135" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/css/design-tokens.css" timestamp="1587141227208">
+        <mark key="[" line="93" column="2" />
+        <mark key="]" line="93" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/tabs/tabs.component.ts" timestamp="1587141685667">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" timestamp="1587139102671">
+        <mark key="'" line="307" column="5" />
+        <mark key="[" line="315" column="14" />
+        <mark key="]" line="315" column="25" />
+        <mark key="." line="315" column="24" />
+        <mark key="^" line="315" column="25" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/package.json" timestamp="1587141900856">
         <mark key="[" line="176" column="0" />
@@ -135,23 +168,12 @@
         <mark key="." line="41" column="56" />
         <mark key="^" line="41" column="57" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scss/docs/shadows.md" timestamp="1587140428774">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="35" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1587145979499">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="65" column="31" />
         <mark key="]" line="65" column="31" />
         <mark key="^" line="65" column="32" />
         <mark key="." line="65" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/styles.scss" timestamp="1587144496684">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="46" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="46" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.scss" timestamp="1587144498732">
         <mark key="'" line="29" column="37" />
@@ -160,37 +182,17 @@
         <mark key="." line="41" column="2" />
         <mark key="^" line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/.stylelintrc" timestamp="1587144143294">
-        <mark key="'" line="115" column="17" />
-        <mark key="[" line="118" column="20" />
-        <mark key="]" line="118" column="20" />
-        <mark key="." line="118" column="19" />
-        <mark key="^" line="118" column="20" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/.stylelintrc" timestamp="1587148432293">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1587142428687">
-        <mark key="[" line="88" column="37" />
-        <mark key="]" line="88" column="38" />
-        <mark key="." line="88" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/drawer/src/drawer.component.md" timestamp="1587129760955">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="127" column="3" />
-        <mark key="]" line="127" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587145203012">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="7" column="53" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/css/design-tokens.css" timestamp="1587141227208">
-        <mark key="[" line="93" column="2" />
-        <mark key="]" line="93" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/tactic-details.module.ts" timestamp="1587132389214">
-        <mark key="'" line="51" column="10" />
-        <mark key="[" line="105" column="13" />
-        <mark key="]" line="105" column="31" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1587147831352">
+        <mark key="'" line="81" column="30" />
+        <mark key="[" line="162" column="24" />
+        <mark key="]" line="162" column="29" />
+        <mark key="." line="162" column="24" />
+        <mark key="^" line="162" column="29" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" timestamp="1587145959518">
         <mark key="'" line="83" column="16" />
@@ -204,20 +206,11 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/tabs/tabs.component.ts" timestamp="1587141685667">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.ts" timestamp="1587130586646">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="141" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" timestamp="1587139102671">
-        <mark key="'" line="307" column="5" />
-        <mark key="[" line="315" column="14" />
-        <mark key="]" line="315" column="25" />
-        <mark key="." line="315" column="24" />
-        <mark key="^" line="315" column="25" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/stylelint.config.js" timestamp="1587148853490">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="56" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.scss" timestamp="1587139237702">
         <mark key="[" line="41" column="0" />
@@ -225,18 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
-      <jump line="290" column="22" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
-      <jump line="330" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
-      <jump line="27" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
-      <jump line="343" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="220" column="28" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="221" column="25" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="267" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="268" column="33" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="269" column="49" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="270" column="26" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="344" column="28" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
       <jump line="15" column="14" filename="$USER_HOME$/code/Terminus/design-tokens/projects/tokens/config/config-ui-library.js" />
       <jump line="61" column="0" filename="$USER_HOME$/code/Terminus/design-tokens/projects/tokens/config/transformGroups.js" />
@@ -325,6 +306,18 @@
       <jump line="83" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" />
       <jump line="64" column="22" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
       <jump line="60" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
+      <jump line="13" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/.drone.yml" />
+      <jump line="131" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/.drone.yml" />
+      <jump line="135" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/.drone.yml" />
+      <jump line="81" column="30" filename="$USER_HOME$/code/Terminus/engage-gui/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/stylelint.config.js" />
+      <jump line="5" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/.stylelintrc" />
+      <jump line="35" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/stylelint.config.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/stylelint.config.js" />
+      <jump line="151" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/stylelint.config.js" />
+      <jump line="2" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/stylelint.config.js" />
+      <jump line="14" column="3" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/index.js" />
+      <jump line="3" column="53" filename="$USER_HOME$/code/Terminus/engage-gui/stylelint.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,58 +325,58 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVFNfU1BBQ0lORyB9IGZyb20gJ0B0ZXJtaW51cy91aS9zcGFjaW5nJzsK</text>
+      <register name="*" type="4">
+        <text>Re-enable</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Re-enable</text>
       </register>
       <register name="/" type="4">
-        <text>tsSpacings</text>
+        <text>scale-unlimited</text>
       </register>
       <register name="0" type="4">
-        <text>tsSpacings</text>
+        <text>scss/selector-nest-combinators</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVFNfU1BBQ0lORyB9IGZyb20gJ0B0ZXJtaW51cy91aS9zcGFjaW5nJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdHNTcGFjaW5ncyA9IFRTX1NQQUNJTkc7Cg==</text>
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsKICAgICJzdHlsZWxpbnQtb3JkZXIiCiAgXSwKICBydWxlczogewogICAgImF0LXJ1bGUtbmFtZS1zcGFjZS1hZnRlciI6ICJhbHdheXMiLAogICAgImF0LXJ1bGUtc2VtaWNvbG9uLXNwYWNlLWJlZm9yZSI6ICJuZXZlciIsCiAgICAiYXQtcnVsZS1zZW1pY29sb24tbmV3bGluZS1hZnRlciI6ICJhbHdheXMiLAogICAgImF0LXJ1bGUtbm8tdmVuZG9yLXByZWZpeCI6IHRydWUsCiAgICAiYmxvY2stbm8tZW1wdHkiOiB0cnVlLAogICAgImJsb2NrLWNsb3NpbmctYnJhY2UtbmV3bGluZS1hZnRlciI6IFsKICAgICAgImFsd2F5cyIsCiAgICAgICJpZ25vcmVBdFJ1bGVzIjogWwogICAgICAgICJpZiIsCiAgICAgICAgImVsc2UiCiAgICAgIF0KICAgIF0sCiAgImJsb2NrLWNsb3NpbmctYnJhY2UtbmV3bGluZS1iZWZvcmUiOiAiYWx3YXlzIiwKICAgICJibG9jay1vcGVuaW5nLWJyYWNlLW5ld2xpbmUtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJibG9jay1vcGVuaW5nLWJyYWNlLXNwYWNlLWJlZm9yZSI6ICJhbHdheXMiLAogICAgImNvbG9yLW5vLWludmFsaWQtaGV4IjogdHJ1ZSwKICAgICJjb2xvci1oZXgtY2FzZSI6ICJsb3dlciIsCiAgICAiY29sb3ItaGV4LWxlbmd0aCI6ICJzaG9ydCIsCiAgICAiY29tbWVudC1uby1lbXB0eSI6IHRydWUsCiAgICAiY29tbWVudC1lbXB0eS1saW5lLWJlZm9yZSI6IFsKICAgICJhbHdheXMiLAogICAgImV4Y2VwdCI6IFsKICAgICJmaXJzdC1uZXN0ZWQiCiAgXSwKICAgICJpZ25vcmUiOiBbCiAgICAiYWZ0ZXItY29tbWVudCIsCiAgICAic3R5bGVsaW50LWNvbW1hbmRzIgogIF0KICBdLAogICJjb21tZW50LXdoaXRlc3BhY2UtaW5zaWRlIjogImFsd2F5cyIsCiAgICAiZGVjbGFyYXRpb24tYmFuZy1zcGFjZS1hZnRlciI6ICJuZXZlciIsCiAgICAiZGVjbGFyYXRpb24tYmFuZy1zcGFjZS1iZWZvcmUiOiAiYWx3YXlzIiwKICAgICJkZWNsYXJhdGlvbi1ibG9jay1zZW1pY29sb24tbmV3bGluZS1hZnRlciI6ICJhbHdheXMiLAogICAgImRlY2xhcmF0aW9uLWJsb2NrLXNlbWljb2xvbi1zcGFjZS1iZWZvcmUiOiAibmV2ZXIiLAogICAgImRlY2xhcmF0aW9uLWJsb2NrLXRyYWlsaW5nLXNlbWljb2xvbiI6ICJhbHdheXMiLAogICAgImRlY2xhcmF0aW9uLWJsb2NrLW5vLWR1cGxpY2F0ZS1wcm9wZXJ0aWVzIjogdHJ1ZSwKICAgICJkZWNsYXJhdGlvbi1ibG9jay1uby1yZWR1bmRhbnQtbG9uZ2hhbmQtcHJvcGVydGllcyI6IHRydWUsCiAgICAiZGVjbGFyYXRpb24tYmxvY2stbm8tc2hvcnRoYW5kLXByb3BlcnR5LW92ZXJyaWRlcyI6IHRydWUsCiAgICAiZGVjbGFyYXRpb24tYmxvY2stc2luZ2xlLWxpbmUtbWF4LWRlY2xhcmF0aW9ucyI6IDEsCiAgICAiZGVjbGFyYXRpb24tY29sb24tbmV3bGluZS1hZnRlciI6ICJhbHdheXMtbXVsdGktbGluZSIsCiAgICAiZGVjbGFyYXRpb24tY29sb24tc3BhY2UtYmVmb3JlIjogIm5ldmVyIiwKICAgICJkZWNsYXJhdGlvbi1uby1pbXBvcnRhbnQiOiB0cnVlLAogICAgIm5vLWV4dHJhLXNlbWljb2xvbnMiOiB0cnVlLAogICAgImZvbnQtZmFtaWx5LW5hbWUtcXVvdGVzIjogImFsd2F5cy13aGVyZS1yZWNvbW1lbmRlZCIsCiAgICAiZm9udC1mYW1pbHktbm8tZHVwbGljYXRlLW5hbWVzIjogdHJ1ZSwKICAgICJmdW5jdGlvbi1jYWxjLW5vLXVuc3BhY2VkLW9wZXJhdG9yIjogdHJ1ZSwKICAgICJmdW5jdGlvbi1uYW1lLWNhc2UiOiAibG93ZXIiLAogICAgImZ1bmN0aW9uLWNvbW1hLXNwYWNlLWFmdGVyIjogImFsd2F5cyIsCiAgICAiZnVuY3Rpb24tY29tbWEtc3BhY2UtYmVmb3JlIjogIm5ldmVyIiwKICAgICJmdW5jdGlvbi1tYXgtZW1wdHktbGluZXMiOiAwLAogICAgImZ1bmN0aW9uLXBhcmVudGhlc2VzLXNwYWNlLWluc2lkZSI6ICJuZXZlciIsCiAgICAiZnVuY3Rpb24td2hpdGVzcGFjZS1hZnRlciI6ICJhbHdheXMiLAogICAgImluZGVudGF0aW9uIjogMiwKICAgICJrZXlmcmFtZS1kZWNsYXJhdGlvbi1uby1pbXBvcnRhbnQiOiB0cnVlLAogICAgImxlbmd0aC16ZXJvLW5vLXVuaXQiOiB0cnVlLAogICAgIm1heC1lbXB0eS1saW5lcyI6IDQsCiAgICAibWF4LWxpbmUtbGVuZ3RoIjogMTIwLAogICAgIm1lZGlhLWZlYXR1cmUtY29sb24tc3BhY2UtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJtZWRpYS1mZWF0dXJlLWNvbG9uLXNwYWNlLWJlZm9yZSI6ICJuZXZlciIsCiAgICAibWVkaWEtZmVhdHVyZS1uYW1lLWNhc2UiOiAibG93ZXIiLAogICAgIm1lZGlhLWZlYXR1cmUtcGFyZW50aGVzZXMtc3BhY2UtaW5zaWRlIjogIm5ldmVyIiwKICAgICJtZWRpYS1mZWF0dXJlLXJhbmdlLW9wZXJhdG9yLXNwYWNlLWFmdGVyIjogImFsd2F5cyIsCiAgICAibWVkaWEtZmVhdHVyZS1yYW5nZS1vcGVyYXRvci1zcGFjZS1iZWZvcmUiOiAiYWx3YXlzIiwKICAgICJtZWRpYS1xdWVyeS1saXN0LWNvbW1hLXNwYWNlLWFmdGVyIjogImFsd2F5cy1zaW5nbGUtbGluZSIsCiAgICAibWVkaWEtcXVlcnktbGlzdC1jb21tYS1zcGFjZS1iZWZvcmUiOiAibmV2ZXIiLAogICAgIm51bWJlci1sZWFkaW5nLXplcm8iOiAibmV2ZXIiLAogICAgIm51bWJlci1uby10cmFpbGluZy16ZXJvcyI6IHRydWUsCiAgICAibm8tZW9sLXdoaXRlc3BhY2UiOiB0cnVlLAogICAgIm5vLW1pc3NpbmctZW5kLW9mLXNvdXJjZS1uZXdsaW5lIjogdHJ1ZSwKICAgICJvcmRlci9vcmRlciI6IFsKICAgICJjdXN0b20tcHJvcGVydGllcyIsCiAgICAiZG9sbGFyLXZhcmlhYmxlcyIsCiAgICB7CiAgICAgICJ0eXBlIjogImF0LXJ1bGUiLAogICAgICAibmFtZSI6ICJpbmNsdWRlIgogICAgfSwKICAgIHsKICAgICAgInR5cGUiOiAiYXQtcnVsZSIsCiAgICAgICJuYW1lIjogImV4dGVuZCIKICAgIH0sCiAgICAiZGVjbGFyYXRpb25zIiwKICAgICJydWxlcyIsCiAgICB7CiAgICAgICJ0eXBlIjogInJ1bGUiLAogICAgICAic2VsZWN0b3IiOiAvXiYvCiAgICB9CiAgXSwKICAgICJvcmRlci9wcm9wZXJ0aWVzLWFscGhhYmV0aWNhbC1vcmRlciI6IHRydWUsCiAgICAicHJvcGVydHktY2FzZSI6ICJsb3dlciIsCiAgICAicHJvcGVydHktbm8tdW5rbm93biI6IHRydWUsCiAgICAicnVsZS1lbXB0eS1saW5lLWJlZm9yZSI6IFsKICAgICJhbHdheXMiLAogICAgImV4Y2VwdCI6IFsKICAgICJhZnRlci1zaW5nbGUtbGluZS1jb21tZW50IiwKICAgICJmaXJzdC1uZXN0ZWQiCiAgXQogIF0sCiAgInNlbGVjdG9yLWF0dHJpYnV0ZS1icmFja2V0cy1zcGFjZS1pbnNpZGUiOiAibmV2ZXIiLAogICAgInNlbGVjdG9yLWF0dHJpYnV0ZS1vcGVyYXRvci1zcGFjZS1hZnRlciI6ICJuZXZlciIsCiAgICAic2VsZWN0b3ItYXR0cmlidXRlLW9wZXJhdG9yLXNwYWNlLWJlZm9yZSI6ICJuZXZlciIsCiAgICAic2VsZWN0b3ItYXR0cmlidXRlLXF1b3RlcyI6ICJhbHdheXMiLAogICAgInNlbGVjdG9yLWNvbWJpbmF0b3Itc3BhY2UtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJzZWxlY3Rvci1jb21iaW5hdG9yLXNwYWNlLWJlZm9yZSI6ICJhbHdheXMiLAogICAgInNlbGVjdG9yLWRlc2NlbmRhbnQtY29tYmluYXRvci1uby1ub24tc3BhY2UiOiB0cnVlLAogICAgInNlbGVjdG9yLWxpc3QtY29tbWEtbmV3bGluZS1hZnRlciI6ICJhbHdheXMiLAogICAgInNlbGVjdG9yLWxpc3QtY29tbWEtbmV3bGluZS1iZWZvcmUiOiAibmV2ZXItbXVsdGktbGluZSIsCiAgICAic2VsZWN0b3ItbGlzdC1jb21tYS1zcGFjZS1hZnRlciI6ICJhbHdheXMtc2luZ2xlLWxpbmUiLAogICAgInNlbGVjdG9yLWxpc3QtY29tbWEtc3BhY2UtYmVmb3JlIjogIm5ldmVyIiwKICAgICJzZWxlY3Rvci1tYXgtZW1wdHktbGluZXMiOiAwLAogICAgInNlbGVjdG9yLW1heC1pZCI6IDAsCiAgICAic2VsZWN0b3Itbm8tcXVhbGlmeWluZy10eXBlIjogWwogICAgdHJ1ZSwKICAgICJpZ25vcmUiOiBbCiAgICAiYXR0cmlidXRlIiwKICAgICJjbGFzcyIKICBdCiAgXSwKICAic2VsZWN0b3ItcHNldWRvLWNsYXNzLWNhc2UiOiAibG93ZXIiLAogICAgInNlbGVjdG9yLXBzZXVkby1jbGFzcy1uby11bmtub3duIjogdHJ1ZSwKICAgICJzZWxlY3Rvci1wc2V1ZG8tY2xhc3MtcGFyZW50aGVzZXMtc3BhY2UtaW5zaWRlIjogIm5ldmVyIiwKICAgICJzZWxlY3Rvci1wc2V1ZG8tZWxlbWVudC1jYXNlIjogImxvd2VyIiwKICAgICJzZWxlY3Rvci1wc2V1ZG8tZWxlbWVudC1jb2xvbi1ub3RhdGlvbiI6ICJkb3VibGUiLAogICAgInNlbGVjdG9yLXBzZXVkby1lbGVtZW50LW5vLXVua25vd24iOiBbCiAgICB0cnVlLAogICAgImlnbm9yZVBzZXVkb0VsZW1lbnRzIjogWwogICAgIi9uZy1kZWVwLyIKICBdCiAgXSwKICAic2VsZWN0b3ItdHlwZS1jYXNlIjogImxvd2VyIiwKICAgICJzZWxlY3Rvci10eXBlLW5vLXVua25vd24iOiBbCiAgICB0cnVlLAogICAgImlnbm9yZVR5cGVzIjogWwogICAgIi90cy0vIgogIF0KICBdLAogICJzaG9ydGhhbmQtcHJvcGVydHktbm8tcmVkdW5kYW50LXZhbHVlcyI6IHRydWUsCiAgICAic3RyaW5nLW5vLW5ld2xpbmUiOiB0cnVlLAogICAgInN0cmluZy1xdW90ZXMiOiAic2luZ2xlIiwKICAgICJ1bml0LWNhc2UiOiAibG93ZXIiLAogICAgInVuaXQtbm8tdW5rbm93biI6IHRydWUsCiAgICAidmFsdWUta2V5d29yZC1jYXNlIjogImxvd2VyIiwKICAgICJ2YWx1ZS1saXN0LWNvbW1hLXNwYWNlLWFmdGVyIjogImFsd2F5cyIsCiAgICAidmFsdWUtbGlzdC1jb21tYS1zcGFjZS1iZWZvcmUiOiAibmV2ZXIiLAogICAgInZhbHVlLWxpc3QtbWF4LWVtcHR5LWxpbmVzIjogMCwKICAgICJ2YWx1ZS1uby12ZW5kb3ItcHJlZml4IjogdHJ1ZSwKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8gaGVhZHMgdXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHRydWUpLnRvRXF1YWwoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJhdC1ydWxlLW5hbWUtc3BhY2UtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJhdC1ydWxlLXNlbWljb2xvbi1zcGFjZS1iZWZvcmUiOiAibmV2ZXIiLAogICAgImF0LXJ1bGUtc2VtaWNvbG9uLW5ld2xpbmUtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJhdC1ydWxlLW5vLXZlbmRvci1wcmVmaXgiOiB0cnVlLAogICAgImJsb2NrLW5vLWVtcHR5IjogdHJ1ZSwKICAgICJibG9jay1jbG9zaW5nLWJyYWNlLW5ld2xpbmUtYWZ0ZXIiOiBbCiAgICAgICJhbHdheXMiLAogICAgICAiaWdub3JlQXRSdWxlcyI6IFsKICAgICAgICAiaWYiLAogICAgICAgICJlbHNlIgogICAgICBdCiAgICBdLAogICAgImJsb2NrLWNsb3NpbmctYnJhY2UtbmV3bGluZS1iZWZvcmUiOiAiYWx3YXlzIiwKICAgICJibG9jay1vcGVuaW5nLWJyYWNlLW5ld2xpbmUtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJibG9jay1vcGVuaW5nLWJyYWNlLXNwYWNlLWJlZm9yZSI6ICJhbHdheXMiLAogICAgImNvbG9yLW5vLWludmFsaWQtaGV4IjogdHJ1ZSwKICAgICJjb2xvci1oZXgtY2FzZSI6ICJsb3dlciIsCiAgICAiY29sb3ItaGV4LWxlbmd0aCI6ICJzaG9ydCIsCiAgICAiY29tbWVudC1uby1lbXB0eSI6IHRydWUsCiAgICAiY29tbWVudC1lbXB0eS1saW5lLWJlZm9yZSI6IFsKICAgICAgImFsd2F5cyIsCiAgICAgICJleGNlcHQiOiBbCiAgICAgICAgImZpcnN0LW5lc3RlZCIKICAgICAgXSwKICAgICAgImlnbm9yZSI6IFsKICAgICAgICAiYWZ0ZXItY29tbWVudCIsCiAgICAgICAgInN0eWxlbGludC1jb21tYW5kcyIKICAgICAgXQogICAgXSwKICAgICJjb21tZW50LXdoaXRlc3BhY2UtaW5zaWRlIjogImFsd2F5cyIsCiAgICAiZGVjbGFyYXRpb24tYmFuZy1zcGFjZS1hZnRlciI6ICJuZXZlciIsCiAgICAiZGVjbGFyYXRpb24tYmFuZy1zcGFjZS1iZWZvcmUiOiAiYWx3YXlzIiwKICAgICJkZWNsYXJhdGlvbi1ibG9jay1zZW1pY29sb24tbmV3bGluZS1hZnRlciI6ICJhbHdheXMiLAogICAgImRlY2xhcmF0aW9uLWJsb2NrLXNlbWljb2xvbi1zcGFjZS1iZWZvcmUiOiAibmV2ZXIiLAogICAgImRlY2xhcmF0aW9uLWJsb2NrLXRyYWlsaW5nLXNlbWljb2xvbiI6ICJhbHdheXMiLAogICAgImRlY2xhcmF0aW9uLWJsb2NrLW5vLWR1cGxpY2F0ZS1wcm9wZXJ0aWVzIjogdHJ1ZSwKICAgICJkZWNsYXJhdGlvbi1ibG9jay1uby1yZWR1bmRhbnQtbG9uZ2hhbmQtcHJvcGVydGllcyI6IHRydWUsCiAgICAiZGVjbGFyYXRpb24tYmxvY2stbm8tc2hvcnRoYW5kLXByb3BlcnR5LW92ZXJyaWRlcyI6IHRydWUsCiAgICAiZGVjbGFyYXRpb24tYmxvY2stc2luZ2xlLWxpbmUtbWF4LWRlY2xhcmF0aW9ucyI6IDEsCiAgICAiZGVjbGFyYXRpb24tY29sb24tbmV3bGluZS1hZnRlciI6ICJhbHdheXMtbXVsdGktbGluZSIsCiAgICAiZGVjbGFyYXRpb24tY29sb24tc3BhY2UtYmVmb3JlIjogIm5ldmVyIiwKICAgICJkZWNsYXJhdGlvbi1uby1pbXBvcnRhbnQiOiB0cnVlLAogICAgIm5vLWV4dHJhLXNlbWljb2xvbnMiOiB0cnVlLAogICAgImZvbnQtZmFtaWx5LW5hbWUtcXVvdGVzIjogImFsd2F5cy13aGVyZS1yZWNvbW1lbmRlZCIsCiAgICAiZm9udC1mYW1pbHktbm8tZHVwbGljYXRlLW5hbWVzIjogdHJ1ZSwKICAgICJmdW5jdGlvbi1jYWxjLW5vLXVuc3BhY2VkLW9wZXJhdG9yIjogdHJ1ZSwKICAgICJmdW5jdGlvbi1uYW1lLWNhc2UiOiAibG93ZXIiLAogICAgImZ1bmN0aW9uLWNvbW1hLXNwYWNlLWFmdGVyIjogImFsd2F5cyIsCiAgICAiZnVuY3Rpb24tY29tbWEtc3BhY2UtYmVmb3JlIjogIm5ldmVyIiwKICAgICJmdW5jdGlvbi1tYXgtZW1wdHktbGluZXMiOiAwLAogICAgImZ1bmN0aW9uLXBhcmVudGhlc2VzLXNwYWNlLWluc2lkZSI6ICJuZXZlciIsCiAgICAiZnVuY3Rpb24td2hpdGVzcGFjZS1hZnRlciI6ICJhbHdheXMiLAogICAgImluZGVudGF0aW9uIjogMiwKICAgICJrZXlmcmFtZS1kZWNsYXJhdGlvbi1uby1pbXBvcnRhbnQiOiB0cnVlLAogICAgImxlbmd0aC16ZXJvLW5vLXVuaXQiOiB0cnVlLAogICAgIm1heC1lbXB0eS1saW5lcyI6IDQsCiAgICAibWF4LWxpbmUtbGVuZ3RoIjogMTIwLAogICAgIm1lZGlhLWZlYXR1cmUtY29sb24tc3BhY2UtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJtZWRpYS1mZWF0dXJlLWNvbG9uLXNwYWNlLWJlZm9yZSI6ICJuZXZlciIsCiAgICAibWVkaWEtZmVhdHVyZS1uYW1lLWNhc2UiOiAibG93ZXIiLAogICAgIm1lZGlhLWZlYXR1cmUtcGFyZW50aGVzZXMtc3BhY2UtaW5zaWRlIjogIm5ldmVyIiwKICAgICJtZWRpYS1mZWF0dXJlLXJhbmdlLW9wZXJhdG9yLXNwYWNlLWFmdGVyIjogImFsd2F5cyIsCiAgICAibWVkaWEtZmVhdHVyZS1yYW5nZS1vcGVyYXRvci1zcGFjZS1iZWZvcmUiOiAiYWx3YXlzIiwKICAgICJtZWRpYS1xdWVyeS1saXN0LWNvbW1hLXNwYWNlLWFmdGVyIjogImFsd2F5cy1zaW5nbGUtbGluZSIsCiAgICAibWVkaWEtcXVlcnktbGlzdC1jb21tYS1zcGFjZS1iZWZvcmUiOiAibmV2ZXIiLAogICAgIm51bWJlci1sZWFkaW5nLXplcm8iOiAibmV2ZXIiLAogICAgIm51bWJlci1uby10cmFpbGluZy16ZXJvcyI6IHRydWUsCiAgICAibm8tZW9sLXdoaXRlc3BhY2UiOiB0cnVlLAogICAgIm5vLW1pc3NpbmctZW5kLW9mLXNvdXJjZS1uZXdsaW5lIjogdHJ1ZSwKICAgICJvcmRlci9vcmRlciI6IFsKICAgICAgImN1c3RvbS1wcm9wZXJ0aWVzIiwKICAgICAgImRvbGxhci12YXJpYWJsZXMiLAogICAgICB7CiAgICAgICAgInR5cGUiOiAiYXQtcnVsZSIsCiAgICAgICAgIm5hbWUiOiAiaW5jbHVkZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJ0eXBlIjogImF0LXJ1bGUiLAogICAgICAgICJuYW1lIjogImV4dGVuZCIKICAgICAgfSwKICAgICAgImRlY2xhcmF0aW9ucyIsCiAgICAgICJydWxlcyIsCiAgICAgIHsKICAgICAgICAidHlwZSI6ICJydWxlIiwKICAgICAgICAic2VsZWN0b3IiOiAvXiYvCiAgICAgIH0KICAgIF0sCiAgICAib3JkZXIvcHJvcGVydGllcy1hbHBoYWJldGljYWwtb3JkZXIiOiB0cnVlLAogICAgInByb3BlcnR5LWNhc2UiOiAibG93ZXIiLAogICAgInByb3BlcnR5LW5vLXVua25vd24iOiB0cnVlLAogICAgInJ1bGUtZW1wdHktbGluZS1iZWZvcmUiOiBbCiAgICAgICJhbHdheXMiLAogICAgICAiZXhjZXB0IjogWwogICAgICAgICJhZnRlci1zaW5nbGUtbGluZS1jb21tZW50IiwKICAgICAgICAiZmlyc3QtbmVzdGVkIgogICAgICBdCiAgICBdLAogICAgInNlbGVjdG9yLWF0dHJpYnV0ZS1icmFja2V0cy1zcGFjZS1pbnNpZGUiOiAibmV2ZXIiLAogICAgInNlbGVjdG9yLWF0dHJpYnV0ZS1vcGVyYXRvci1zcGFjZS1hZnRlciI6ICJuZXZlciIsCiAgICAic2VsZWN0b3ItYXR0cmlidXRlLW9wZXJhdG9yLXNwYWNlLWJlZm9yZSI6ICJuZXZlciIsCiAgICAic2VsZWN0b3ItYXR0cmlidXRlLXF1b3RlcyI6ICJhbHdheXMiLAogICAgInNlbGVjdG9yLWNvbWJpbmF0b3Itc3BhY2UtYWZ0ZXIiOiAiYWx3YXlzIiwKICAgICJzZWxlY3Rvci1jb21iaW5hdG9yLXNwYWNlLWJlZm9yZSI6ICJhbHdheXMiLAogICAgInNlbGVjdG9yLWRlc2NlbmRhbnQtY29tYmluYXRvci1uby1ub24tc3BhY2UiOiB0cnVlLAogICAgInNlbGVjdG9yLWxpc3QtY29tbWEtbmV3bGluZS1hZnRlciI6ICJhbHdheXMiLAogICAgInNlbGVjdG9yLWxpc3QtY29tbWEtbmV3bGluZS1iZWZvcmUiOiAibmV2ZXItbXVsdGktbGluZSIsCiAgICAic2VsZWN0b3ItbGlzdC1jb21tYS1zcGFjZS1hZnRlciI6ICJhbHdheXMtc2luZ2xlLWxpbmUiLAogICAgInNlbGVjdG9yLWxpc3QtY29tbWEtc3BhY2UtYmVmb3JlIjogIm5ldmVyIiwKICAgICJzZWxlY3Rvci1tYXgtZW1wdHktbGluZXMiOiAwLAogICAgInNlbGVjdG9yLW1heC1pZCI6IDAsCiAgICAic2VsZWN0b3Itbm8tcXVhbGlmeWluZy10eXBlIjogWwogICAgICB0cnVlLAogICAgICAiaWdub3JlIjogWwogICAgICAgICJhdHRyaWJ1dGUiLAogICAgICAgICJjbGFzcyIKICAgICAgXQogICAgXSwKICAgICJzZWxlY3Rvci1wc2V1ZG8tY2xhc3MtY2FzZSI6ICJsb3dlciIsCiAgICAic2VsZWN0b3ItcHNldWRvLWNsYXNzLW5vLXVua25vd24iOiB0cnVlLAogICAgInNlbGVjdG9yLXBzZXVkby1jbGFzcy1wYXJlbnRoZXNlcy1zcGFjZS1pbnNpZGUiOiAibmV2ZXIiLAogICAgInNlbGVjdG9yLXBzZXVkby1lbGVtZW50LWNhc2UiOiAibG93ZXIiLAogICAgInNlbGVjdG9yLXBzZXVkby1lbGVtZW50LWNvbG9uLW5vdGF0aW9uIjogImRvdWJsZSIsCiAgICAic2VsZWN0b3ItcHNldWRvLWVsZW1lbnQtbm8tdW5rbm93biI6IFsKICAgICAgdHJ1ZSwKICAgICAgImlnbm9yZVBzZXVkb0VsZW1lbnRzIjogWwogICAgICAgICIvbmctZGVlcC8iCiAgICAgIF0KICAgIF0sCiAgICAic2VsZWN0b3ItdHlwZS1jYXNlIjogImxvd2VyIiwKICAgICJzZWxlY3Rvci10eXBlLW5vLXVua25vd24iOiBbCiAgICAgIHRydWUsCiAgICAgICJpZ25vcmVUeXBlcyI6IFsKICAgICAgICAiL3RzLS8iCiAgICAgIF0KICAgIF0sCiAgICAic2hvcnRoYW5kLXByb3BlcnR5LW5vLXJlZHVuZGFudC12YWx1ZXMiOiB0cnVlLAogICAgInN0cmluZy1uby1uZXdsaW5lIjogdHJ1ZSwKICAgICJzdHJpbmctcXVvdGVzIjogInNpbmdsZSIsCiAgICAidW5pdC1jYXNlIjogImxvd2VyIiwKICAgICJ1bml0LW5vLXVua25vd24iOiB0cnVlLAogICAgInZhbHVlLWtleXdvcmQtY2FzZSI6ICJsb3dlciIsCiAgICAidmFsdWUtbGlzdC1jb21tYS1zcGFjZS1hZnRlciI6ICJhbHdheXMiLAogICAgInZhbHVlLWxpc3QtY29tbWEtc3BhY2UtYmVmb3JlIjogIm5ldmVyIiwKICAgICJ2YWx1ZS1saXN0LW1heC1lbXB0eS1saW5lcyI6IDAsCiAgICAidmFsdWUtbm8tdmVuZG9yLXByZWZpeCI6IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyB0ZXN0KCdzaG91bGQgc2V0IHRoZSBjbGFzcyBuYW1lIGFjY29yZGluZyB0byB0aGUgW2NsYXNzTmFtZV0gaW5wdXQnLCAoKSA9PiB7CiAgLy8gICBzcGVjdGF0b3Iuc2V0SW5wdXQoJ2NsYXNzTmFtZScsICdkYW5nZXInKTsKICAvLyAgIGV4cGVjdChzcGVjdGF0b3IucXVlcnkoJ2J1dHRvbicpKS50b0hhdmVDbGFzcygnZGFuZ2VyJyk7CiAgLy8gICBleHBlY3Qoc3BlY3RhdG9yLnF1ZXJ5KCdidXR0b24nKSkubm90LnRvSGF2ZUNsYXNzKCdzdWNjZXNzJyk7CiAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICBydWxlczogeyAKICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICduby1lb2wtd2hpdGVzcGFjZSc6IFt0cnVlLCB7IGlnbm9yZTogJ2VtcHR5LWxpbmVzJyB9XSwKICAgIC8vIFRPRE86IHJlbW92ZSBvbmNlIHN0eWxlbGludCBjb25maWcgaXMgdXBkYXRlZAogICAgJ3NjYWxlLXVubGltaXRlZC9kZWNsYXJhdGlvbi1zdHJpY3QtdmFsdWUnOiBbCiAgICAgIFsKICAgICAgICAnYm94LXNoYWRvdycsCiAgICAgICAgJy9eKCguKy0pPyhjb2xvcikpJC8nLAogICAgICAgICcvZm9udC8nLAogICAgICAgICcvXihtYXJnaW58cGFkZGluZykoLXRvcHwtbGVmdHwtYm90dG9tfC1yaWdodCk/LycsCiAgICAgICAgJ3otaW5kZXgnLAogICAgICBdLAogICAgICB7CiAgICAgICAgZGlzYWJsZUZpeDogdHJ1ZSwKICAgICAgICBpZ25vcmVGdW5jdGlvbnM6IHRydWUsCiAgICAgICAgaWdub3JlS2V5d29yZHM6IHsKICAgICAgICAgICcnOiBbCiAgICAgICAgICAgICdhdXRvJywKICAgICAgICAgICAgJ2N1cnJlbnRDb2xvcicsCiAgICAgICAgICAgICdpbmhlcml0JywKICAgICAgICAgICAgJ25vbmUnLAogICAgICAgICAgXSwKICAgICAgICAgICcvXigoListKT8oY29sb3IpKSQvJzogWwogICAgICAgICAgICAnY3VycmVudENvbG9yJywKICAgICAgICAgICAgJ2luaGVyaXQnLAogICAgICAgICAgICAndHJhbnNwYXJlbnQnLAogICAgICAgICAgXSwKICAgICAgICAgICcvXihtYXJnaW58cGFkZGluZykoLXRvcHwtbGVmdHwtYm90dG9tfC1yaWdodCk/Lyc6IFsKICAgICAgICAgICAgJzAnLAogICAgICAgICAgICAnYXV0bycsCiAgICAgICAgICAgICdub25lJywKICAgICAgICAgICAgJ3Vuc2V0JywKICAgICAgICAgIF0sCiAgICAgICAgICAnei1pbmRleCc6IFsKICAgICAgICAgICAgLTEsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgICdhdXRvJywKICAgICAgICAgIF0sCiAgICAgICAgfSwKICAgICAgfSwK</text>
       </register>
-      <register name="8" type="8">
-        <text>have a success class by default</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVyczogW10sCiAgICBkZWNsYXJhdGlvbnM6IFtdLAogICAgZW50cnlDb21wb25lbnRzOiBbXSwK</text>
+        <text encoding="base64">ICAgICduby1lb2wtd2hpdGVzcGFjZSc6IFt0cnVlLCB7IGlnbm9yZTogJ2VtcHR5LWxpbmVzJyB9XSwKICAgIC8vIFRPRE86IHJlbW92ZSBvbmNlIHN0eWxlbGludCBjb25maWcgaXMgdXBkYXRlZAogICAgJ3NjYWxlLXVubGltaXRlZC9kZWNsYXJhdGlvbi1zdHJpY3QtdmFsdWUnOiBbCiAgICAgIFsKICAgICAgICAnYm94LXNoYWRvdycsCiAgICAgICAgJy9eKCguKy0pPyhjb2xvcikpJC8nLAogICAgICAgICcvZm9udC8nLAogICAgICAgICcvXihtYXJnaW58cGFkZGluZykoLXRvcHwtbGVmdHwtYm90dG9tfC1yaWdodCk/LycsCiAgICAgICAgJ3otaW5kZXgnLAogICAgICBdLAogICAgICB7CiAgICAgICAgZGlzYWJsZUZpeDogdHJ1ZSwKICAgICAgICBpZ25vcmVGdW5jdGlvbnM6IHRydWUsCiAgICAgICAgaWdub3JlS2V5d29yZHM6IHsKICAgICAgICAgICcnOiBbCiAgICAgICAgICAgICdhdXRvJywKICAgICAgICAgICAgJ2N1cnJlbnRDb2xvcicsCiAgICAgICAgICAgICdpbmhlcml0JywKICAgICAgICAgICAgJ25vbmUnLAogICAgICAgICAgXSwKICAgICAgICAgICcvXigoListKT8oY29sb3IpKSQvJzogWwogICAgICAgICAgICAnY3VycmVudENvbG9yJywKICAgICAgICAgICAgJ2luaGVyaXQnLAogICAgICAgICAgICAndHJhbnNwYXJlbnQnLAogICAgICAgICAgXSwKICAgICAgICAgICcvXihtYXJnaW58cGFkZGluZykoLXRvcHwtbGVmdHwtYm90dG9tfC1yaWdodCk/Lyc6IFsKICAgICAgICAgICAgJzAnLAogICAgICAgICAgICAnYXV0bycsCiAgICAgICAgICAgICdub25lJywKICAgICAgICAgICAgJ3Vuc2V0JywKICAgICAgICAgIF0sCiAgICAgICAgICAnei1pbmRleCc6IFsKICAgICAgICAgICAgLTEsCiAgICAgICAgICAgIDEsCiAgICAgICAgICAgICdhdXRvJywKICAgICAgICAgIF0sCiAgICAgICAgfSwKICAgICAgfSwKICAgIF0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text encoding="base64">JzwsJz5zb3J0IGk=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tsSpacings</last-search>
-      <last-offset />
-      <last-pattern>tsSpacings</last-pattern>
+      <last-search>scale-unlimited</last-search>
+      <last-offset>declaration-strict-value</last-offset>
+      <last-pattern>scale-unlimited</last-pattern>
       <last-replace>test(`</last-replace>
       <last-substitute>TestBed.get</last-substitute>
       <last-dir>1</last-dir>
