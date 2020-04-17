@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>interaction</entry>
-        <entry encoding="base64">XDxzdXBwb3J0c0ludGVyYWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxhcHBUaXRsZVw+</entry>
         <entry>secret</entry>
         <entry>typogr</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxSZXRhcmdldGluZ01vZHVsZVw+</entry>
         <entry>actic</entry>
         <entry>qualif</entry>
+        <entry>container</entry>
+        <entry>tsSpacings</entry>
       </history-search>
       <history-cmd>
         <entry>action Back</entry>
@@ -129,21 +129,22 @@
         <mark key="]" line="176" column="36" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1587145216095">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="113" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1587145836896">
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="41" column="57" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="41" column="57" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scss/docs/shadows.md" timestamp="1587140428774">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1587142732880">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1587145979499">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="31" />
+        <mark key="^" line="65" column="32" />
+        <mark key="." line="65" column="31" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/styles.scss" timestamp="1587144496684">
         <mark key="'" line="17" column="27" />
@@ -191,12 +192,17 @@
         <mark key="[" line="105" column="13" />
         <mark key="]" line="105" column="31" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587144580406">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="37" />
-        <mark key="." line="8" column="36" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" timestamp="1587145959518">
+        <mark key="'" line="83" column="16" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="69" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587146057442">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/tabs/tabs.component.ts" timestamp="1587141685667">
         <mark key="'" line="0" column="0" />
@@ -219,13 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="19" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.component.ts" />
-      <jump line="21" column="32" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.component.ts" />
-      <jump line="20" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.component.ts" />
-      <jump line="14" column="21" filename="$USER_HOME$/code/Terminus/terminus-ui/.eslintrc.js" />
-      <jump line="275" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="294" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
-      <jump line="310" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="290" column="22" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
       <jump line="330" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-push.yml" />
@@ -319,6 +318,13 @@
       <jump line="17" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/styles.scss" />
       <jump line="29" column="37" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.scss" />
       <jump line="26" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
+      <jump line="13" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" />
+      <jump line="44" column="30" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" />
+      <jump line="51" column="37" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" />
+      <jump line="57" column="32" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" />
+      <jump line="83" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" />
+      <jump line="64" column="22" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,46 +333,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmV0YXJnZXRpbmdDb250YWluZXJDb21wb25lbnQgfSBmcm9tICdAZmVhdHVyZXMvcmV0YXJnZXRpbmcvY29udGFpbmVycy9yZXRhcmdldGluZy5jb250YWluZXIuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgVFNfU1BBQ0lORyB9IGZyb20gJ0B0ZXJtaW51cy91aS9zcGFjaW5nJzsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ButtonComponent</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>qualif</text>
+        <text>tsSpacings</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFRzQnV0dG9uTW9kdWxlLAogICAgVHNDYXJkTW9kdWxlLAogICAgVHNEcmF3ZXJNb2R1bGUsCiAgICBUc0ljb25Nb2R1bGUsCiAgICBUc1NwYWNpbmdNb2R1bGUsCiAgICBUc1RhYnNNb2R1bGUsCg==</text>
+      <register name="0" type="4">
+        <text>tsSpacings</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmV0YXJnZXRpbmdDb250YWluZXJDb21wb25lbnQgfSBmcm9tICdAZmVhdHVyZXMvcmV0YXJnZXRpbmcvY29udGFpbmVycy9yZXRhcmdldGluZy5jb250YWluZXIuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgVFNfU1BBQ0lORyB9IGZyb20gJ0B0ZXJtaW51cy91aS9zcGFjaW5nJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdHNTcGFjaW5ncyA9IFRTX1NQQUNJTkc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFByb3ZpZGVyczogW10sIC8vIE92ZXJyaWRlIHRoZSBjb21wb25lbnQncyBwcm92aWRlcnMKICAgIGNvbXBvbmVudFZpZXdQcm92aWRlcnM6IFtdLCAvLyBPdmVycmlkZSB0aGUgY29tcG9uZW50J3MgdmlldyBwcm92aWRlcnMKICAgIG1vY2tzOiBbXSwgLy8gUHJvdmlkZXJzIHRoYXQgd2lsbCBhdXRvbWF0aWNhbGx5IGJlIG1vY2tlZAogICAgY29tcG9uZW50TW9ja3M6IFtdLCAvLyBDb21wb25lbnQgcHJvdmlkZXJzIHRoYXQgd2lsbCBhdXRvbWF0aWNhbGx5IGJlIG1vY2tlZAogICAgY29tcG9uZW50Vmlld1Byb3ZpZGVyc01vY2tzOiBbXSwgLy8gQ29tcG9uZW50IHZpZXcgcHJvdmlkZXJzIHRoYXQgd2lsbCBiZSBhdXRvbWF0aWNhbGx5IG1vY2tlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8gaGVhZHMgdXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRldGVjdENoYW5nZXM6IGZhbHNlLCAvLyBEZWZhdWx0cyB0byB0cnVlCiAgICBkZWNsYXJlQ29tcG9uZW50OiBmYWxzZSwgLy8gRGVmYXVsdHMgdG8gdHJ1ZQogICAgZGlzYWJsZUFuaW1hdGlvbnM6IGZhbHNlLCAvLyBEZWZhdWx0cyB0byB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHRydWUpLnRvRXF1YWwoZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNoYWxsb3c6IHRydWUsIC8vIERlZmF1bHRzIHRvIGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB0ZXN0KCdzaG91bGQgc2V0IHRoZSBjbGFzcyBuYW1lIGFjY29yZGluZyB0byB0aGUgW2NsYXNzTmFtZV0gaW5wdXQnLCAoKSA9PiB7CiAgLy8gICBzcGVjdGF0b3Iuc2V0SW5wdXQoJ2NsYXNzTmFtZScsICdkYW5nZXInKTsKICAvLyAgIGV4cGVjdChzcGVjdGF0b3IucXVlcnkoJ2J1dHRvbicpKS50b0hhdmVDbGFzcygnZGFuZ2VyJyk7CiAgLy8gICBleHBlY3Qoc3BlY3RhdG9yLnF1ZXJ5KCdidXR0b24nKSkubm90LnRvSGF2ZUNsYXNzKCdzdWNjZXNzJyk7CiAgLy8gfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uQ29tcG9uZW50IH0gZnJvbSAnLi9idXR0b24uY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1jb25zb2xlCg==</text>
+      <register name="8" type="8">
+        <text>have a success class by default</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAyNHB4Owo=</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVyczogW10sCiAgICBkZWNsYXJhdGlvbnM6IFtdLAogICAgZW50cnlDb21wb25lbnRzOiBbXSwK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
@@ -375,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>qualif</last-search>
+      <last-search>tsSpacings</last-search>
       <last-offset />
-      <last-pattern>qualif</last-pattern>
+      <last-pattern>tsSpacings</last-pattern>
       <last-replace>test(`</last-replace>
       <last-substitute>TestBed.get</last-substitute>
       <last-dir>1</last-dir>
