@@ -113,40 +113,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/date-range/date-range.component.ts" timestamp="1587406685905">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="70" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/date-cohort-picker/components/component.ts" timestamp="1587409750850">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/date-cohort-picker/components/component.ts" timestamp="1587411407333">
         <mark key="'" line="109" column="22" />
-        <mark key="[" line="70" column="18" />
-        <mark key="]" line="70" column="35" />
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="37" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/cohort-date-range/cohort-date-range.component.html" timestamp="1587407067783">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/inline-bullet-spacer/inline-bullet-spacer.component.spec.ts" timestamp="1587405789557">
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="19" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/date-cohort-picker/module.ts" timestamp="1587411455152">
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="34" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/inline-bullet-spacer/inline-bullet-spacer.component.ts" timestamp="1587405889257">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="5" column="53" />
-        <mark key="." line="4" column="2" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/inline-bullet-spacer/inline-bullet-spacer.component.ts" timestamp="1587411366746">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="8" column="60" />
+        <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587408458416">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="47" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587411336190">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
         <mark key="^" line="8" column="47" />
-        <mark key="." line="8" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/css/design-tokens.css" timestamp="1587405576804">
-        <mark key="[" line="120" column="2" />
-        <mark key="]" line="120" column="25" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/cohort-date-range/src/cohort-date-range.component.md" timestamp="1587407367297">
         <mark key="[" line="41" column="9" />
@@ -161,8 +151,17 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/design-tokens/js/design-tokens.js" timestamp="1587404245374">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/campaign-overview/constants.ts" timestamp="1587410291207">
+        <mark key="'" line="160" column="88" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="206" column="1" />
+        <mark key="." line="79" column="89" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1587411620525">
+        <mark key="'" line="29" column="29" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1587409786280">
         <mark key="[" line="55" column="0" />
@@ -181,23 +180,28 @@
         <mark key="]" line="969" column="14" />
         <mark key="." line="969" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/inline-bullet-spacer/inline-bullet-spacer.component.html" timestamp="1587405326712">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/inline-bullet-spacer/inline-bullet-spacer.component.html" timestamp="1587411255662">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587409653554">
-        <mark key="'" line="54" column="13" />
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="2" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587411026829">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/inline-bullet-spacer/inline-bullet-spacer.component.scss" timestamp="1587405691016">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/inline-bullet-spacer/inline-bullet-spacer.component.scss" timestamp="1587411264351">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.constants.ts" timestamp="1587410744958">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.scss" timestamp="1587408261727">
         <mark key="[" line="74" column="0" />
@@ -209,11 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="20" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/drawer/drawer.component.d.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/drawer/src/drawer.component.md" />
-      <jump line="0" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/tactic-details.routes.ts" />
-      <jump line="233" column="93" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
-      <jump line="231" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
       <jump line="302" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
       <jump line="62" column="12" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
@@ -309,6 +308,11 @@
       <jump line="109" column="22" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/date-cohort-picker/components/component.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="40" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
+      <jump line="160" column="88" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/campaign-overview/constants.ts" />
+      <jump line="43" column="5" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.constants.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.constants.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.constants.ts" />
+      <jump line="26" column="29" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,46 +321,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgIFtpbmNsdWRlQ3VzdG9tUmFuZ2VdPSJ0cnVlIgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RouterModule</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
-      <register name="0" type="4">
-        <text>includeCustomRange</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVHNDaGlwTW9kdWxlLCBUc0xpbmtNb2R1bGUgfSBmcm9tICdAdGVybWludXMvdWknOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFtpbmNsdWRlQ3VzdG9tUmFuZ2VdPSJ0cnVlIgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETzogUmVtb3ZlIHRoaXMgbG9nIG9uY2UgZnVsbHkgaW1wbGVtZW50ZWQ6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVHNQaXBlc01vZHVsZSB9IGZyb20gJ0B0ZXJtaW51cy91aS9waXBlcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnRzLWNoaXAgewp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGF0ZUNvaG9ydFBpY2tlck1vZHVsZSB9IGZyb20gJ0Bjb21wb25lbnRzL2RhdGUtY29ob3J0LXBpY2tlcic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5saW5lQnVsbGV0U3BhY2VyQ29tcG9uZW50IH0gZnJvbSAnQGZlYXR1cmVzL3JldGFyZ2V0aW5nL2NvbXBvbmVudHMvaW5saW5lLWJ1bGxldC1zcGFjZXIvaW5saW5lLWJ1bGxldC1zcGFjZXIuY29tcG9uZW50JzsK</text>
       </register>
-      <register name="5" type="8">
-        <text>var(--ts-space-inline-500)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFRzQ29ob3J0RGF0ZVJhbmdlTW9kdWxlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDogdmFyKC0tdHMtc3BhY2UtaW5saW5lLTUwMCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVHNDb2hvcnREYXRlUmFuZ2VNb2R1bGUgfSBmcm9tICdAdGVybWludXMvdWkvY29ob3J0LWRhdGUtcmFuZ2UnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGF0ZUNvaG9ydCB9IGZyb20gJ0Bjb21wb25lbnRzL2RhdGUtY29ob3J0LXBpY2tlcic7CmltcG9ydCB7CiAgYWRkTWludXRlcywKICBlbmRPZkRheSwKICBnZXREYXksCiAgc3RhcnRPZkRheSwKICBzdGFydE9mTW9udGgsCiAgc3RhcnRPZlF1YXJ0ZXIsCiAgc3RhcnRPZldlZWssCiAgc3ViRGF5cywKICBzdWJNb250aHMsCiAgc3ViUXVhcnRlcnMsCn0gZnJvbSAnZGF0ZS1mbnMnOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
