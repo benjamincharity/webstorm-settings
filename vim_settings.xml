@@ -158,12 +158,18 @@
       <file name="/Dummy.txt" timestamp="1587395792440">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1587396107312">
-        <mark key="'" line="32" column="24" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1587396870097">
+        <mark key="'" line="42" column="34" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="84" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/campaign-overview/constants.ts" timestamp="1587397520031">
+        <mark key="[" line="81" column="89" />
+        <mark key="]" line="81" column="99" />
+        <mark key="." line="81" column="89" />
+        <mark key="^" line="80" column="120" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/components/account-form.component.spec.ts" timestamp="1587396298575">
         <mark key="'" line="36" column="15" />
@@ -189,12 +195,6 @@
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="10" />
         <mark key="." line="14" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/.stylelintrc" timestamp="1587392087292">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1587393845133">
         <mark key="[" line="130" column="0" />
@@ -315,7 +315,6 @@
       <jump line="40" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/steps/ttd-audience-targeting/container/ttd-audience-targeting.container.component.spec.ts" />
       <jump line="25" column="1" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
-      <jump line="42" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
       <jump line="23" column="19" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
       <jump line="52" column="30" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
@@ -325,6 +324,7 @@
       <jump line="12" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/components/accounts-table.component.spec.ts" />
       <jump line="18" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/components/exit-criteria.component.spec.ts" />
       <jump line="33" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/components/url-form.component.spec.ts" />
+      <jump line="42" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,19 +333,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif</text>
+        <text>number</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>object-curly-newline</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dHMtaWNvbgogICAgICAgICAgICBjbGFzcz0iZXhwYW5kLWljb24iCiAgICAgICAgICAgIFtjbGFzcy5vcGVuXT0iZXhwYW5kZWRVdWlkICYmIGV4cGFuZGVkVXVpZCA9PT0gaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgICAgKGNsaWNrKT0ic2V0RXhwYW5kZWRBY2NvdW50KGl0ZW0uYWNjb3VudFV1aWQpIgogICAgICAgID57eyAiYXJyb3dfcmlnaHQiIH19PC90cy1pY29uPgo=</text>
+      <register name="0" type="4">
+        <text>longNumber</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IGVhc2Utb3V0</text>
