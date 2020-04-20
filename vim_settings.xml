@@ -128,6 +128,19 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="67" column="28" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/styles.scss" timestamp="1587396606888">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/containers/audience-targeting.container.spec.ts" timestamp="1587396554723">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/specs/containers/tactic-details.container.component.spec.ts" timestamp="1587393989418">
         <mark key="'" line="0" column="0" />
       </file>
@@ -194,16 +207,11 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/account-performance/components/accounts-table/accounts-table.component.scss" timestamp="1587396462910">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/stylelint.config.js" timestamp="1587392074860">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/account-performance/components/accounts-table/accounts-table.component.scss" timestamp="1587396528331">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="60" />
+        <mark key="." line="51" column="59" />
+        <mark key="^" line="51" column="60" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/tabs/testing/src/test-helpers.ts" timestamp="1587394618571">
         <mark key="[" line="65" column="16" />
@@ -325,13 +333,13 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>}</text>
+        <text>Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif</text>
       </register>
       <register name="/" type="4">
         <text>object-curly-newline</text>
@@ -340,19 +348,19 @@
         <text encoding="base64">ICAgICAgICA8dHMtaWNvbgogICAgICAgICAgICBjbGFzcz0iZXhwYW5kLWljb24iCiAgICAgICAgICAgIFtjbGFzcy5vcGVuXT0iZXhwYW5kZWRVdWlkICYmIGV4cGFuZGVkVXVpZCA9PT0gaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgICAgKGNsaWNrKT0ic2V0RXhwYW5kZWRBY2NvdW50KGl0ZW0uYWNjb3VudFV1aWQpIgogICAgICAgID57eyAiYXJyb3dfcmlnaHQiIH19PC90cy1pY29uPgo=</text>
       </register>
       <register name="1" type="8">
+        <text encoding="base64">IGVhc2Utb3V0</text>
+      </register>
+      <register name="2" type="8">
         <text encoding="base64">Y3Vyc29yOiBjdXJzb3IocG9pbnRlcik7CSAg</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LmV4cGFuZC1pY29uIHsKICBjdXJzb3I6IGN1cnNvcihwb2ludGVyKTsKfQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dHMtaWNvbgogICAgICAgICAgICBjbGFzcz0iZXhwYW5kLWljb24iCiAgICAgICAgICAgICpuZ0lmPSIhZXhwYW5kZWRVdWlkIHx8IGV4cGFuZGVkVXVpZCAhPT0gaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgICAgKGNsaWNrKT0ic2V0RXhwYW5kZWRBY2NvdW50KGl0ZW0uYWNjb3VudFV1aWQpIgogICAgICAgID5hcnJvd19yaWdodDwvdHMtaWNvbj4KICAgICAgICA8dHMtaWNvbgogICAgICAgICAgICBjbGFzcz0iZXhwYW5kLWljb24iCiAgICAgICAgICAgICpuZ0lmPSJleHBhbmRlZFV1aWQgJiYgZXhwYW5kZWRVdWlkID09PSBpdGVtLmFjY291bnRVdWlkIgogICAgICAgICAgICAoY2xpY2spPSJzZXRFeHBhbmRlZEFjY291bnQoaXRlbS5hY2NvdW50VXVpZCkiCiAgICAgICAgPmFycm93X2Ryb3BfZG93bjwvdHMtaWNvbj4K</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50Rml4dHVyZSwgVGVzdEJlZCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUvdGVzdGluZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dHMtaWNvbgogICAgICAgICAgICBjbGFzcz0iZXhwYW5kLWljb24iCiAgICAgICAgICAgICpuZ0lmPSIhZXhwYW5kZWRVdWlkIHx8IGV4cGFuZGVkVXVpZCAhPT0gaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgICAgKGNsaWNrKT0ic2V0RXhwYW5kZWRBY2NvdW50KGl0ZW0uYWNjb3VudFV1aWQpIgogICAgICAgID5hcnJvd19yaWdodDwvdHMtaWNvbj4KICAgICAgICA8dHMtaWNvbgogICAgICAgICAgICBjbGFzcz0iZXhwYW5kLWljb24iCiAgICAgICAgICAgICpuZ0lmPSJleHBhbmRlZFV1aWQgJiYgZXhwYW5kZWRVdWlkID09PSBpdGVtLmFjY291bnRVdWlkIgogICAgICAgICAgICAoY2xpY2spPSJzZXRFeHBhbmRlZEFjY291bnQoaXRlbS5hY2NvdW50VXVpZCkiCiAgICAgICAgPmFycm93X2Ryb3BfZG93bjwvdHMtaWNvbj4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50Rml4dHVyZSwgVGVzdEJlZCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUvdGVzdGluZyc7Cg==</text>
@@ -364,7 +372,7 @@
         <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50Rml4dHVyZSwgVGVzdEJlZCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUvdGVzdGluZyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIGV4cGVjdChidG4pLnRvQmVUcnV0aHkoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50Rml4dHVyZSwgVGVzdEJlZCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUvdGVzdGluZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
