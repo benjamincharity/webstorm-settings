@@ -118,6 +118,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.ts" timestamp="1587475306467">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="21" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/date-cohort-picker/components/component.ts" timestamp="1587411407333">
         <mark key="'" line="109" column="22" />
         <mark key="[" line="49" column="13" />
@@ -133,11 +139,11 @@
         <mark key="^" line="8" column="60" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587411336190">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="8" column="47" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587474907598">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="96" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" timestamp="1587412840098">
         <mark key="'" line="86" column="21" />
@@ -182,10 +188,10 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587411026829">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587474949525">
         <mark key="'" line="57" column="13" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="9" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="79" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
@@ -203,13 +209,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.scss" timestamp="1587408261727">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="38" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
       <jump line="214" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
       <jump line="41" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
       <jump line="275" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/app-routing.module.ts" />
@@ -309,6 +310,7 @@
       <jump line="86" column="21" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.scss" />
       <jump line="9" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/stylelint.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/stylelint.config.js" />
+      <jump line="44" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,46 +319,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>:</text>
+        <text>HeadsUpComponent</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>tacticDetailsHeadsUpStatsFactory()</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">am9iczoKICAjCiAgIyBCdWlsZCB0aGUgbGlicmFyeQogICMKICBsaWJyYXJ5X2J1aWxkOgogICAgbmFtZTogQ29tcGlsZSBMaWJyYXJ5CiAgICBydW5zLW9uOiB1YnVudHUtbGF0ZXN0CiAgICBzdGVwczoKICAgICAgLSBuYW1lOiBDaGVja291dCByZXBvCiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2Mgo=</text>
+      <register name="0" type="4">
+        <text>HeadsUpComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0eXBlczogW2Fzc2lnbmVkLCBvcGVuZWQsIHN5bmNocm9uaXplLCByZW9wZW5lZCwgZWRpdGVkXQo=</text>
+        <text encoding="base64">LyogKioqKioqKioqKioqKioqKioqIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCByZXBvCiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2Mgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRGF0ZUNvaG9ydFBpY2tlck1vZHVsZSB9IGZyb20gJ0Bjb21wb25lbnRzL2RhdGUtY29ob3J0LXBpY2tlcic7CmltcG9ydCB7IEhlYWRzVXBDb21wb25lbnQgfSBmcm9tICdAZmVhdHVyZXMvcmV0YXJnZXRpbmcvY29tcG9uZW50cy9oZWFkcy11cC9oZWFkcy11cC5jb21wb25lbnQnOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjCiAgIyBCdWlsZCB0aGUgbGlicmFyeQogICMK</text>
+      <register name="3" type="8">
+        <text>tactic-details</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICBJVGFjdGljRGV0YWlsc0hlYWRzVXBTdGF0cywKICB0YWN0aWNEZXRhaWxzSGVhZHNVcFN0YXRzRmFjdG9yeSwKfSBmcm9tICdAc291cmNlcy90YWN0aWMtZGV0YWlscy90YWN0aWMtZGV0YWlscy5pbnRlcmZhY2UnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiA7CiAgICAgICAgY29sb3I6IDsK</text>
+        <text encoding="base64">ICB0eXBlczogW2Fzc2lnbmVkLCBvcGVuZWQsIHN5bmNocm9uaXplLCByZW9wZW5lZCwgZWRpdGVkXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLWNoaXAtYm9yZGVyUmFkaXVzOiAxNnB4Owo=</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCByZXBvCiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2Mgo=</text>
       </register>
-      <register name="7" type="8">
-        <text>#{color(pure, dark)}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjCiAgIyBCdWlsZCB0aGUgbGlicmFyeQogICMK</text>
       </register>
-      <register name="8" type="8">
-        <text>var(--chip-running-color)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>#{color(utility, light)}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiA7CiAgICAgICAgY29sb3I6IDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
