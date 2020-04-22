@@ -128,12 +128,12 @@
         <mark key="[" line="55" column="4" />
         <mark key="]" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.ts" timestamp="1587560134439">
-        <mark key="'" line="47" column="47" />
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="42" column="40" />
-        <mark key="." line="42" column="39" />
-        <mark key="^" line="42" column="40" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.ts" timestamp="1587562241731">
+        <mark key="'" line="46" column="47" />
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="21" />
+        <mark key="^" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.ts" timestamp="1587560326264">
         <mark key="'" line="227" column="27" />
@@ -196,16 +196,14 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.scss" timestamp="1587560568504">
-        <mark key="'" line="41" column="1" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="32" column="10" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.scss" timestamp="1587562102756">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+        <mark key="." line="22" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.ts" />
       <jump line="124" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="132" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
@@ -305,6 +303,7 @@
       <jump line="172" column="69" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.ts" />
       <jump line="173" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.ts" />
       <jump line="227" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/chip/src/chip.component.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,48 +311,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgIG91dGxpbmU6IDJweCBzb2xpZCAkY29sb3I7Cg==</text>
+      <register name="*" type="8">
+        <text>c-status-badge--</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>--chip-backgroundColor</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>selected</text>
       </register>
-      <register name="0" type="4">
-        <text>var(--chip-#{$color}-color)</text>
+      <register name="0" type="8">
+        <text>c-status-badge--</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG91dGxpbmU6IDJweCBzb2xpZCAkY29sb3I7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb2xvcjogJywgY29sb3IpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLm5vcm1hbGl6ZWRTdGF0dXM6ICcsIG5vcm1hbGl6ZWRTdGF0dXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZTogJywgdmFsdWUpOwo=</text>
       </register>
-      <register name="4" type="8">
-        <text>$color</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgLy8mLS1ncmVlbiB7CiAgLy8gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWNoaXAtZ3JlZW4tYmFja2dyb3VuZENvbG9yKTsKICAvLyAgY29sb3I6IHZhcigtLWNoaXAtZ3JlZW4tY29sb3IpOwogIC8vfQogIC8vCiAgLy8mLS1ncmV5IHsKICAvLyAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tY2hpcC1ncmVlbi1iYWNrZ3JvdW5kQ29sb3IpOwogIC8vICBjb2xvcjogdmFyKC0tY2hpcC1ncmVlbi1jb2xvcik7CiAgLy99CiAgLy8KICAvLyYtLWdyZXkgewogIC8vICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jaGlwLWdyZWVuLWJhY2tncm91bmRDb2xvcik7CiAgLy8gIGNvbG9yOiB2YXIoLS1jaGlwLWdyZWVuLWNvbG9yKTsKICAvL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3N0YXR1cyA9ICdBY3RpdmUgYnV0IE5vdCBSdW5uaW5nJzsK</text>
+        <text encoding="base64">ICAvLyBlbmNhcHN1bGF0aW9uOiBWaWV3RW5jYXBzdWxhdGlvbi5Ob25lLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tY2hpcC0jeyRjb2xvcn0tYmFja2dyb3VuZENvbG9yKTsKICAgICAgY29sb3I6IHZhcigtLWNoaXAtI3skY29sb3J9LWNvbG9yKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>var(--chip-#{$color}-backgroundColor)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBvdXRsaW5lOiAycHggc29saWQgcmVkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIG91dGxpbmU6IDJweCBzb2xpZCAkY29sb3I7Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>yellow
-yellow</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
