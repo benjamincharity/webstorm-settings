@@ -140,11 +140,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/selection-list/selection-list.component.ts" timestamp="1587642362850">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="9" />
-        <mark key="^" line="46" column="9" />
-        <mark key="." line="46" column="8" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/selection-list/selection-list.component.ts" timestamp="1587643424093">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="16" />
+        <mark key="^" line="35" column="8" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/core/notifications/components/notification/notification.component.ts" timestamp="1587571957683">
         <mark key="[" line="22" column="13" />
@@ -189,12 +190,12 @@
         <mark key="[" line="202" column="9" />
         <mark key="]" line="202" column="22" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/selection-list/selection-list.component.html" timestamp="1587642402882">
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/selection-list/selection-list.component.html" timestamp="1587643434928">
         <mark key="'" line="48" column="23" />
-        <mark key="[" line="105" column="36" />
-        <mark key="]" line="106" column="23" />
-        <mark key="^" line="106" column="23" />
-        <mark key="." line="106" column="22" />
+        <mark key="[" line="95" column="36" />
+        <mark key="]" line="96" column="40" />
+        <mark key="^" line="96" column="40" />
+        <mark key="." line="96" column="39" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587581875942">
         <mark key="[" line="75" column="0" />
@@ -210,17 +211,15 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="112" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.ts" timestamp="1587642804966">
-        <mark key="'" line="813" column="27" />
-        <mark key="[" line="813" column="32" />
-        <mark key="]" line="813" column="41" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.ts" timestamp="1587643368558">
+        <mark key="'" line="450" column="28" />
+        <mark key="[" line="94" column="17" />
+        <mark key="]" line="94" column="31" />
         <mark key="^" line="813" column="41" />
         <mark key="." line="813" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="6" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.ts" />
-      <jump line="28" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.ts" />
       <jump line="29" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.ts" />
       <jump line="30" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.ts" />
       <jump line="31" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.ts" />
@@ -319,6 +318,8 @@
       <jump line="177" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list-panel/selection-list-panel.component.ts" />
       <jump line="200" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list-panel/selection-list-panel.component.ts" />
       <jump line="813" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.ts" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/selection-list/selection-list.component.ts" />
+      <jump line="450" column="28" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,7 +328,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>selectItem</text>
+        <text>valueComparator</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -339,7 +340,7 @@
         <text encoding="base64">XDxzZWxlY3Rpb25MaXN0Rm9ybUNvbnRyb2xcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>optionSelected</text>
+        <text>valueComparator</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBbb3B0aW9uXT0ic3RhdGUiCg==</text>
