@@ -3,4 +3,12 @@
     <variable name="routePath" expression="" defaultValue="&quot;routePath&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="output" value="@Output()&#10;public readonly $OutputName$ = new EventEmitter&lt;$Type$&gt;($InitialValue$);&#10;" description="@Output definition" toReformat="false" toShortenFQNames="true">
+    <variable name="OutputName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Type" expression="" defaultValue="void" alwaysStopAt="true" />
+    <variable name="InitialValue" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
