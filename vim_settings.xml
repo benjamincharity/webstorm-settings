@@ -126,12 +126,17 @@
         <mark key="[" line="40" column="17" />
         <mark key="]" line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1587737884447">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/click-through-rate/click-through-rate.component.ts" timestamp="1587739479234">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1587739373853">
         <mark key="'" line="109" column="10" />
-        <mark key="[" line="144" column="54" />
-        <mark key="]" line="144" column="55" />
-        <mark key="." line="144" column="54" />
-        <mark key="^" line="144" column="55" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="144" column="47" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/index.html" timestamp="1587728657725">
         <mark key="[" line="21" column="0" />
@@ -139,17 +144,11 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587736712157">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="27" column="55" />
-        <mark key="." line="27" column="55" />
-        <mark key="^" line="70" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/tsconfig.json" timestamp="1587728142376">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="15" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587739452080">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="77" column="27" />
+        <mark key="." line="77" column="27" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/table-data.mock.ts" timestamp="1587735010088">
         <mark key="'" line="1303" column="2" />
@@ -170,6 +169,13 @@
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/core/sources/account-performance/account-performance.interface.ts" timestamp="1587730085134">
         <mark key="[" line="44" column="17" />
         <mark key="]" line="44" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/click-through-rate/click-through-rate.component.html" timestamp="1587739101855">
+        <mark key="'" line="1" column="28" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1587730569776">
         <mark key="'" line="156" column="22" />
@@ -204,9 +210,9 @@
         <mark key="^" line="118" column="100" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/click-through-rate/click-through-rate.pipe.ts" timestamp="1587737995431">
-        <mark key="[" line="25" column="62" />
-        <mark key="]" line="25" column="58" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/click-through-rate/click-through-rate.pipe.ts" timestamp="1587738105487">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="50" />
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="57" />
       </file>
@@ -217,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list-panel/selection-list-panel.component.ts" />
-      <jump line="177" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list-panel/selection-list-panel.component.ts" />
-      <jump line="200" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list-panel/selection-list-panel.component.ts" />
       <jump line="813" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.ts" />
       <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/selection-list/selection-list.component.ts" />
       <jump line="450" column="28" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.ts" />
@@ -317,6 +320,9 @@
       <jump line="114" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
       <jump line="21" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/account-performance/containers/account-performance.container.component.html" />
       <jump line="19" column="41" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" />
+      <jump line="26" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" />
+      <jump line="2" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/click-through-rate/click-through-rate.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,47 +330,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IXZhbHVlIHx8IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICBPbkluaXQsCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IXZhbHVlIHx8IA==</text>
+        <text encoding="base64">IGltcGxlbWVudHMgT25Jbml0</text>
       </register>
       <register name="/" type="4">
         <text>accountStatuses</text>
       </register>
       <register name="0" type="4">
-        <text>appClickThroughRate</text>
+        <text>DecimalPipe</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gK3ZhbHVlOwo=</text>
+        <text encoding="base64">ICBPbkluaXQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZVN0YW5kYXJkRm9ybWF0ID0gdmFsdWUgPj0gMC4wMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>small</text>
+      <register name="3" type="2">
+        <text encoding="base64">CgogIG5nT25Jbml0KCkgewogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIHRzVGl0bGVDYXNlUGlwZTogVHNUaXRsZUNhc2VQaXBlKSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIE5PVEU6IEVtcHR5IHN0cmluZyBmYWxsYmFjayBpcyBuZWVkZWQgZm9yIFRTIHNpbmNlIHRoZSB0aXRsZSBjYXNlIHBpcGUgY291bGQgcmV0dXJuIHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNTdHJpbmcgfSBmcm9tICdAdGVybWludXMvbmd4LXRvb2xzL3R5cGUtZ3VhcmRzJzsKaW1wb3J0IHsgVHNUaXRsZUNhc2VQaXBlIH0gZnJvbSAnQHRlcm1pbnVzL3VpL3BpcGVzJzsK</text>
+        <text encoding="base64">fSBmcm9tICdAdGVybWludXMvbmd4LXRvb2xzL3R5cGUtZ3VhcmRzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICA8bmctY29udGFpbmVyIHRzQ29sdW1uRGVmPSJyZWFjaCIgYWxpZ25tZW50PSJyaWdodCI+CiAgICAgIDx0aCB0cy1oZWFkZXItY2VsbCAqdHNIZWFkZXJDZWxsRGVmIHRzLXNvcnQtaGVhZGVyPgogICAgICAgIFJlYWNoCiAgICAgIDwvdGg+CiAgICAgIDx0ZCB0cy1jZWxsICp0c0NlbGxEZWY9ImxldCBpdGVtIj4KICAgICAgICB7eyBpdGVtLmxhc3RSZWFjaCB8IG51bWJlciB9fQogICAgICA8L3RkPgogICAgPC9uZy1jb250YWluZXI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICBpc051bWJlciwgaXNTdHJpbmcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICA8bmctY29udGFpbmVyIHRzQ29sdW1uRGVmPSJjbGlja3MiIGFsaWdubWVudD0icmlnaHQiPgogICAgICA8dGggdHMtaGVhZGVyLWNlbGwgKnRzSGVhZGVyQ2VsbERlZiB0cy1zb3J0LWhlYWRlcj4KICAgICAgICBDbGlja3MKICAgICAgPC90aD4KICAgICAgPHRkIHRzLWNlbGwgKnRzQ2VsbERlZj0ibGV0IGl0ZW0iPgogICAgICAgIHt7IGl0ZW0uY2xpY2tzVG90YWwgfCBudW1iZXIgfX0KICAgICAgPC90ZD4KICAgIDwvbmctY29udGFpbmVyPgo=</text>
+        <text encoding="base64">ICAgIERlY2ltYWxQaXBlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bmctY29udGFpbmVyICpuZ0lmPSJhY2NvdW50U3RhdHVzZXNbaXRlbS5hY2NvdW50VXVpZF07IGVsc2Ugbm9VcGRhdGVkU3RhdHVzIj4KICAgICAgICAgIHt7IGFjY291bnRTdGF0dXNlc1tpdGVtLmFjY291bnRVdWlkXSB8IHRpdGxlY2FzZSB9fQogICAgICAgIDwvbmctY29udGFpbmVyPgoKICAgICAgICA8bmctdGVtcGxhdGUgI25vVXBkYXRlZFN0YXR1cz4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJuby11cGRhdGVkLXN0YXR1cyI+e3sgaXRlbS5hY2NvdW50U3RhdHVzIHwgdGl0bGVjYXNlIH19PC9zcGFuPgogICAgICAgIDwvbmctdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">ICAgIERlY2ltYWxQaXBlLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
