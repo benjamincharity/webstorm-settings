@@ -146,10 +146,10 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/index.html" timestamp="1587728657725">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="38" column="9" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="41" column="9" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" timestamp="1587661347641">
         <mark key="[" line="9" column="43" />
@@ -178,9 +178,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587728269835">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="37" column="44" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1587729826407">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="50" />
         <mark key="." line="37" column="49" />
         <mark key="^" line="37" column="50" />
@@ -318,20 +318,20 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>.default.payloads[0].value</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>.default.payloads[0].value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3Rpb25GaWx0ZXJDb21wb25lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhcHAtcm9vdCBzdHlsZT0iZGlzcGxheTpmbGV4O2ZsZXgtZmxvdzpjb2x1bW4gbm93cmFwO2p1c3RpZnktY29udGVudDpjZW50ZXI7CiAgICAgIGFsaWduLWl0ZW1zOmNlbnRlcjttaW4taGVpZ2h0OjEwMCU7Zm9udC13ZWlnaHQ6NDAwOwogICAgICBmb250LWZhbWlseTonUm9ib3RvJyxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxNnB4OyIKICAgID5Mb2FkaW5nIE15VGVybWludXMuLi48L2FwcC1yb290Pgo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2ZvbzogJywgZm9vLmRlZmF1bHQucGF5bG9hZHNbMF0udmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
