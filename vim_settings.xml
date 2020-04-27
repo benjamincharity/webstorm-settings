@@ -131,12 +131,12 @@
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/click-through-rate/click-through-rate.component.html" timestamp="1588004096248" />
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/click-through-rate/click-through-rate.component.spec.ts" timestamp="1588002932790" />
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1588006028293">
-        <mark key="'" line="212" column="39" />
-        <mark key="[" line="211" column="11" />
-        <mark key="]" line="211" column="27" />
-        <mark key="." line="211" column="27" />
-        <mark key="^" line="211" column="28" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1588011010580">
+        <mark key="'" line="231" column="39" />
+        <mark key="[" line="223" column="45" />
+        <mark key="]" line="223" column="55" />
+        <mark key="." line="223" column="54" />
+        <mark key="^" line="223" column="55" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/core/pipes/timeago.pipe.ts" timestamp="1588002691614">
         <mark key="'" line="4" column="45" />
@@ -202,12 +202,11 @@
         <mark key="." line="181" column="25" />
         <mark key="^" line="191" column="49" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1588006321020">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1588006350110">
         <mark key="'" line="145" column="0" />
-        <mark key="[" line="328" column="28" />
-        <mark key="]" line="328" column="56" />
-        <mark key="." line="328" column="28" />
-        <mark key="^" line="328" column="23" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/global-header/global-header.module.ts" timestamp="1588002809698">
         <mark key="[" line="34" column="13" />
@@ -323,47 +322,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>retarg</text>
+      <register name="*" type="2">
+        <text encoding="base64">CiAgICA8bmctY29udGFpbmVyIHRzQ29sdW1uRGVmPSJ0ZXN0IiBzdGlja3k+CiAgICAgIDx0aCB0cy1oZWFkZXItY2VsbCAqdHNIZWFkZXJDZWxsRGVmPgogICAgICAgIFRlc3QhCiAgICAgIDwvdGg+CiAgICAgIDx0ZCB0cy1jZWxsICp0c0NlbGxEZWY9ImxldCBpdGVtIj4KICAgICAgICBURVNUSU5HCiAgICAgIDwvdGQ+CiAgICA8L25nLWNvbnRhaW5lcj4K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>retarg</text>
+        <text encoding="base64">IHRzLXNvcnQtaGVhZGVy</text>
       </register>
       <register name="/" type="4">
         <text>example-detail-row</text>
       </register>
-      <register name="0" type="4">
-        <text>retargetingTableAccountsMock</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICA8bmctY29udGFpbmVyIHRzQ29sdW1uRGVmPSJ0ZXN0IiBzdGlja3k+CiAgICAgIDx0aCB0cy1oZWFkZXItY2VsbCAqdHNIZWFkZXJDZWxsRGVmPgogICAgICAgIFRlc3QhCiAgICAgIDwvdGg+CiAgICAgIDx0ZCB0cy1jZWxsICp0c0NlbGxEZWY9ImxldCBpdGVtIj4KICAgICAgICBURVNUSU5HCiAgICAgIDwvdGQ+CiAgICA8L25nLWNvbnRhaW5lcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZURhdGEkLm5leHQoW10pOwo=</text>
+        <text encoding="base64">ICAgICAgPHRkIHRzLT48L3RkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXRhcmc6ICcsIHJldGFyZ2V0aW5nVGFibGVBY2NvdW50c01vY2spOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50YWJsZURhdGEkLm5leHQoW10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhZGRpbmcK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>table</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>''</text>
-      </register>
-      <register name="8" type="4">
-        <text>!tableDataSource.data.length</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
