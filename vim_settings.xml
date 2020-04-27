@@ -119,15 +119,14 @@
         <mark key="." line="641" column="65" />
         <mark key="^" line="642" column="60" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.scss" timestamp="1588006051709">
-        <mark key="'" line="51" column="2" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="39" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="11" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/column.ts" timestamp="1588021632459">
         <mark key="'" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/dist/library/package.json" timestamp="1588025551340">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/cell.ts" timestamp="1588022379167">
         <mark key="'" line="362" column="0" />
@@ -135,6 +134,10 @@
         <mark key="]" line="427" column="0" />
         <mark key="." line="427" column="0" />
         <mark key="^" line="429" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.circleci/config.yml" timestamp="1588025153049">
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="52" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/testing/src/test-components.ts" timestamp="1588022480106">
         <mark key="'" line="265" column="55" />
@@ -203,11 +206,6 @@
         <mark key="]" line="136" column="40" />
         <mark key="." line="136" column="39" />
         <mark key="^" line="136" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/account-performance/components/accounts-table/accounts-table.component.html" timestamp="1588005552200">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="161" column="14" />
-        <mark key="]" line="161" column="21" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.scss" timestamp="1588015989842" />
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1588006350110">
@@ -330,20 +328,20 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgImNvbmRpdGlvbi1jaXJjbGUiLAo=</text>
+      <register name="*" type="4">
+        <text>0.0.0-PLACEHOLDER</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>0.0.0-PLACEHOLDER</text>
       </register>
       <register name="/" type="4">
         <text>align</text>
       </register>
       <register name="0" type="4">
-        <text>yarn run build:styles</text>
+        <text>tooling/ci/rename-typings-index.sh</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgImNvbmRpdGlvbi1jaXJjbGUiLAo=</text>
