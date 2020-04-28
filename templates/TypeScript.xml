@@ -38,9 +38,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="tsobj" value="Record&lt;$string$, $any$&gt;$END$" description="Basic TypeScript object" toReformat="false" toShortenFQNames="true">
-    <variable name="string" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="any" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="tsobj" value="Record&lt;$key$, $val$&gt;$END$" description="Basic TypeScript object" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
+    <variable name="val" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>

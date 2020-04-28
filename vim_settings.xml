@@ -113,74 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/cell.ts" timestamp="1588074842619">
-        <mark key="'" line="94" column="32" />
-        <mark key="[" line="414" column="15" />
-        <mark key="]" line="414" column="16" />
-        <mark key="^" line="414" column="16" />
-        <mark key="." line="414" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.html" timestamp="1588073620789">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/visual-regression/stylelint.config.js" timestamp="1588073780262">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.module.ts" timestamp="1588073056010">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="87" column="29" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/testing/src/test-helpers.ts" timestamp="1588073007196">
-        <mark key="[" line="125" column="1" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="126" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.md" timestamp="1588072804613">
         <mark key="[" line="608" column="0" />
         <mark key="m" line="17" column="19" />
         <mark key="]" line="608" column="0" />
         <mark key="n" line="17" column="19" />
         <mark key="." line="608" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/column.ts" timestamp="1588021632459">
-        <mark key="'" line="25" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/dist/library/package.json" timestamp="1588025551340">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.circleci/config.yml" timestamp="1588025153049">
-        <mark key="[" line="103" column="19" />
-        <mark key="]" line="103" column="52" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/testing/src/test-components.ts" timestamp="1588073232930">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="258" column="21" />
-        <mark key="]" line="253" column="5" />
-        <mark key="." line="253" column="5" />
-        <mark key="^" line="253" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1588021503006">
-        <mark key="'" line="225" column="39" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="51" />
-        <mark key="." line="196" column="0" />
-        <mark key="^" line="116" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" timestamp="1588072938516">
-        <mark key="'" line="23" column="7" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="278" column="81" />
-        <mark key="." line="276" column="0" />
-        <mark key="^" line="276" column="6" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/row.ts" timestamp="1588073902921">
         <mark key="'" line="121" column="20" />
@@ -196,6 +134,58 @@
         <mark key="^" line="178" column="2" />
         <mark key="." line="178" column="1" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/column.ts" timestamp="1588021632459">
+        <mark key="'" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/dist/library/package.json" timestamp="1588025551340">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/cell.ts" timestamp="1588074842619">
+        <mark key="'" line="94" column="32" />
+        <mark key="[" line="414" column="15" />
+        <mark key="]" line="414" column="16" />
+        <mark key="^" line="414" column="16" />
+        <mark key="." line="414" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/testing/src/test-helpers.ts" timestamp="1588073007196">
+        <mark key="[" line="125" column="1" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.circleci/config.yml" timestamp="1588025153049">
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/testing/src/test-components.ts" timestamp="1588073232930">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="258" column="21" />
+        <mark key="]" line="253" column="5" />
+        <mark key="." line="253" column="5" />
+        <mark key="^" line="253" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.html" timestamp="1588073620789">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1588082108244">
+        <mark key="'" line="205" column="39" />
+        <mark key="[" line="172" column="62" />
+        <mark key="]" line="172" column="62" />
+        <mark key="." line="172" column="62" />
+        <mark key="^" line="112" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" timestamp="1588072938516">
+        <mark key="'" line="23" column="7" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="278" column="81" />
+        <mark key="." line="276" column="0" />
+        <mark key="^" line="276" column="6" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.scss" timestamp="1588072848633">
         <mark key="'" line="114" column="25" />
         <mark key="[" line="137" column="5" />
@@ -203,11 +193,22 @@
         <mark key="." line="137" column="11" />
         <mark key="^" line="137" column="12" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1588075944185">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1588082141485">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="106" column="23" />
+        <mark key="]" line="106" column="46" />
+        <mark key="." line="106" column="45" />
+        <mark key="^" line="106" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/visual-regression/stylelint.config.js" timestamp="1588073780262">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.module.ts" timestamp="1588073056010">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="87" column="29" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -318,14 +319,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Y29uc3QgIE1PQ0sK</text>
+      <register name="*" type="4">
+        <text>$any$</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$any$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3Rvclw+</text>
