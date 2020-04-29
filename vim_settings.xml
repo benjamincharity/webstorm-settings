@@ -113,19 +113,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.component.html" timestamp="1588158900496">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/jest.demo.config.js" timestamp="1588159495159">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/jest.base.config.js" timestamp="1588159246161">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="48" column="4" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/package.json" timestamp="1588163849910">
         <mark key="[" line="58" column="20" />
@@ -139,26 +129,38 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app.module.ts" timestamp="1588158922121">
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1588166957851">
+        <mark key="'" line="228" column="11" />
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="69" column="36" />
+        <mark key="." line="69" column="35" />
+        <mark key="^" line="69" column="36" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/tsconfig.json" timestamp="1588159870998">
         <mark key="'" line="84" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/jest-global-mocks.ts" timestamp="1588158720643">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/tsconfig.spec.json" timestamp="1588159840799">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/simple-pagination/simple-pagination.component.ts" timestamp="1588166939610">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="37" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.html" timestamp="1588161589108">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.module.ts" timestamp="1588166998136">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1588167199991">
+        <mark key="'" line="37" column="26" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/dist/library/fesm5/terminus-ui-button.js" timestamp="1588163842409">
         <mark key="'" line="277" column="49" />
@@ -174,7 +176,6 @@
         <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1588162950738">
-        <mark key="'" line="68" column="14" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -183,7 +184,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1588160657131">
         <mark key="'" line="34" column="32" />
@@ -199,8 +199,6 @@
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactics/tactic-show/linkedin/components/tactic-details/tactic-details.component.ts" timestamp="1588159384301" />
     </filemarks>
     <jumps>
-      <jump line="265" column="55" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/testing/src/test-components.ts" />
-      <jump line="227" column="67" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" />
       <jump line="20" column="7" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" />
       <jump line="157" column="60" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" />
       <jump line="160" column="58" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" />
@@ -299,6 +297,8 @@
       <jump line="326" column="49" filename="$USER_HOME$/code/Terminus/terminus-ui/dist/library/fesm2015/terminus-ui-button.js" />
       <jump line="87" column="10" filename="$USER_HOME$/code/Terminus/terminus-ui/dist/library/fesm5/terminus-ui-button.js" />
       <jump line="277" column="49" filename="$USER_HOME$/code/Terminus/terminus-ui/dist/library/fesm5/terminus-ui-button.js" />
+      <jump line="228" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
+      <jump line="34" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,47 +306,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCiAgICAicG9zdGluc3RhbGwiOiAieWFybiBydW4gbmdjYyIsCg==</text>
+      <register name="*" type="4">
+        <text>ReactiveFormsModule</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>NO_ERRORS_SCHEMA</text>
+        <text>ReactiveFormsModule</text>
       </register>
       <register name="/" type="4">
         <text>mat-raised-button</text>
       </register>
       <register name="0" type="4">
-        <text>mat-raised-button</text>
+        <text>DragDropModule</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCiAgICAicG9zdGluc3RhbGwiOiAieWFybiBydW4gbmdjYyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCiAgICAicG9zdGluc3RhbGwiOiAieWFybiBydW4gbmdjYyIsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>ngcc --properties main</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAnamVzdC1wcmVzZXQtYW5ndWxhci9idWlsZC9JbmxpbmVGaWxlc1RyYW5zZm9ybWVyJywKICAgICAgICAnamVzdC1wcmVzZXQtYW5ndWxhci9idWlsZC9TdHJpcFN0eWxlc1RyYW5zZm9ybWVyJywK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAiYW5ndWxhckNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJlbmFibGVJdnkiOiBmYWxzZQogIH0sCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgImphc21pbmUiLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsKICAgICIqKi8qLnNwZWMudHMiLAogICAgIioqLyoubW9jay50cyIsCiAgICAiKiovKi5mYWN0b3J5LnRzIiwKICAgICIqKi9tb2NrLnRzIiwKICAgICIqKi9mYWN0b3J5LnRzIiwKICAgICIqKi8qLmQudHMiLAogICAgImFwcC91dGlsaXRpZXMvdGVzdGluZy8qLnRzIgogIF0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsgIioqLyovKi5zcGVjLXR5cGVzLnRzIiBdLAo=</text>
+        <text encoding="base64">ICAiaW5jbHVkZSI6IFsKICAgICIqKi8qLnNwZWMudHMiLAogICAgIioqLyoubW9jay50cyIsCiAgICAiKiovKi5mYWN0b3J5LnRzIiwKICAgICIqKi9tb2NrLnRzIiwKICAgICIqKi9mYWN0b3J5LnRzIiwKICAgICIqKi8qLmQudHMiLAogICAgImFwcC91dGlsaXRpZXMvdGVzdGluZy8qLnRzIgogIF0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
