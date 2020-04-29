@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pinned</entry>
-        <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
         <entry>flexGap</entry>
         <entry encoding="base64">XDx0ZXh0RmlsdGVyQ29udHJvbFw+</entry>
         <entry>vtv</entry>
@@ -25,6 +23,8 @@
         <entry>hjtml</entry>
         <entry>html</entry>
         <entry>mat-raised-button</entry>
+        <entry>ivy</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>%s/echo/printf/g</entry>
@@ -151,6 +151,12 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/tsconfig.prod.json" timestamp="1588168616361">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/tsconfig.lib.prod.json" timestamp="1588160945668">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="22" />
@@ -169,10 +175,22 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/angular.json" timestamp="1588168626352">
+        <mark key="'" line="77" column="34" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/tsconfig.spec.json" timestamp="1588159864730">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/tsconfig.app.json" timestamp="1588168631249">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/tsconfig.json" timestamp="1588159870998">
         <mark key="'" line="84" column="0" />
@@ -198,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="58" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" />
       <jump line="178" column="25" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" />
       <jump line="179" column="60" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.spec.ts" />
       <jump line="359" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/cell.ts" />
@@ -298,6 +315,7 @@
       <jump line="34" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
       <jump line="35" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
+      <jump line="77" column="34" filename="$USER_HOME$/code/Terminus/terminus-ui/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,47 +323,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBDbGlja1Rocgo=</text>
+      <register name="*" type="4">
+        <text>true</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ReactiveFormsModule</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>mat-raised-button</text>
+        <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text>DragDropModule</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInRzQ29uZmlnIjogInByb2plY3RzL2RlbW8vdHNjb25maWcuc3BlYy5qc29uIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDbGlja1Rocgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAidHNDb25maWciOiAicHJvamVjdHMvZGVtby90c2NvbmZpZy5wcm9kLmpzb24iLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCiAgICAicG9zdGluc3RhbGwiOiAieWFybiBydW4gbmdjYyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiaXZ5IjogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICBDbGlja1Rocgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="8">
-        <text>ngcc --properties main</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCiAgICAicG9zdGluc3RhbGwiOiAieWFybiBydW4gbmdjYyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnamVzdC1wcmVzZXQtYW5ndWxhci9idWlsZC9JbmxpbmVGaWxlc1RyYW5zZm9ybWVyJywKICAgICAgICAnamVzdC1wcmVzZXQtYW5ndWxhci9idWlsZC9TdHJpcFN0eWxlc1RyYW5zZm9ybWVyJywK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiYW5ndWxhckNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJlbmFibGVJdnkiOiBmYWxzZQogIH0sCg==</text>
+        <text encoding="base64">ICAgICJuZ2NjIjogIm5nY2MgLS1wcm9wZXJ0aWVzIGVzMjAxNSBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1hc3luYyBmYWxzZSIsCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImphc21pbmUiLAo=</text>
+      <register name="9" type="8">
+        <text>ngcc --properties main</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
@@ -354,13 +372,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mat-raised-button</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>mat-raised-button</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>tsFooterCellDef</last-replace>
       <last-substitute>matFooterCellDef</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
