@@ -129,12 +129,11 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="89" column="35" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1588169828134">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1588170962950">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="143" column="33" />
-        <mark key="]" line="144" column="30" />
-        <mark key="." line="144" column="29" />
-        <mark key="^" line="144" column="30" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/package.json" timestamp="1588163849910">
         <mark key="[" line="58" column="20" />
@@ -201,19 +200,20 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="116" column="2" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1588160657131">
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1588170642466">
         <mark key="'" line="34" column="32" />
-        <mark key="[" line="83" column="13" />
-        <mark key="]" line="83" column="75" />
+        <mark key="[" line="137" column="21" />
+        <mark key="]" line="137" column="21" />
+        <mark key="." line="137" column="21" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/simple-pagination/simple-pagination.component.ts" timestamp="1588166939610">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/promote-next-and-deploy.sh" timestamp="1588170015950">
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/promote-next-and-deploy.sh" timestamp="1588170634701">
         <mark key="'" line="109" column="0" />
-        <mark key="[" line="109" column="23" />
-        <mark key="]" line="109" column="25" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="64" />
         <mark key="^" line="109" column="25" />
         <mark key="." line="109" column="24" />
       </file>
@@ -332,47 +332,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="8">
-        <text>grep -rl $PLACEHOLDER 'dist/demo' | xargs sed -i'' -e 's|'$PLACEHOLDER'|'&quot;$VERSION_NUMBER&quot;'|g'</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICBhY2NvdW50RXhwYW5kZWQoKSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>component</text>
+        <text encoding="base64">ID0gamVzdC5mbigpOw==</text>
       </register>
       <register name="/" type="4">
         <text>chalk</text>
       </register>
-      <register name="0" type="8">
-        <text>grep -rl $PLACEHOLDER 'dist/demo' | xargs sed -i'' -e 's|'$PLACEHOLDER'|'&quot;$VERSION_NUMBER&quot;'|g'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhY2NvdW50RXhwYW5kZWQgPSBqZXN0LmZuKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBhY2NvdW50RXhwYW5kZWQoKSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="2" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text>date-fns</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgSGVhZHNVcFN0YXQgfSBmcm9tICdAZmVhdHVyZXMvcmV0YXJnZXRpbmcvY29tcG9uZW50cy9oZWFkcy11cC9oZWFkcy11cC5jb21wb25lbnQnOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBoZWFkc1VwU3RhdHMkID0gbmV3IEJlaGF2aW9yU3ViamVjdDxIZWFkc1VwU3RhdFtdPihbXSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6Cg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB2YWx1ZSA9IC44NzIzOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
