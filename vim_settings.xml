@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>should debounce selection list filter</entry>
-        <entry>should emit when an account is selected</entry>
-        <entry>should allow columns to be hidden</entry>
         <entry>should only be enabled when at least one record is selected</entry>
         <entry>console</entry>
         <entry>tableDataSource</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxvbkNoYXJ0SW5pdGlhbGl6ZVw+</entry>
         <entry>ready</entry>
         <entry>spendValueAxis</entry>
+        <entry encoding="base64">XDxpbXByZXNzaW9uc0NvbG9yXD4=</entry>
+        <entry>am4core.color</entry>
+        <entry encoding="base64">XDxzcGVuZFZhbHVlQXhpc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -157,11 +157,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="52" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" timestamp="1588348106702">
-        <mark key="'" line="71" column="21" />
-        <mark key="[" line="71" column="14" />
-        <mark key="]" line="71" column="14" />
-        <mark key="." line="71" column="20" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" timestamp="1588349419701">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="115" column="82" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/core/sources/account-performance/account-performance.interface.ts" timestamp="1588336753032">
         <mark key="[" line="90" column="0" />
@@ -213,16 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
-      <jump line="189" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
-      <jump line="56" column="64" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
-      <jump line="258" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
-      <jump line="90" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="171" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="130" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="384" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="131" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="87" column="31" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
       <jump line="260" column="7" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
       <jump line="355" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
       <jump line="121" column="41" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
@@ -306,13 +297,23 @@
       <jump line="141" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
       <jump line="184" column="23" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
       <jump line="80" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
-      <jump line="96" column="33" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
       <jump line="190" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
       <jump line="164" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
       <jump line="63" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
       <jump line="83" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
-      <jump line="31" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
       <jump line="71" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="203" column="20" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="124" column="58" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="180" column="89" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="30" column="29" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="31" column="23" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="96" column="52" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="152" column="56" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="154" column="54" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="165" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="28" column="23" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="166" column="57" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,47 +321,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>addLicense</text>
+      <register name="*" type="2">
+        <text encoding="base64">CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcyA9IHRoaXMuY2hhcnQueUF4ZXMucHVzaChuZXcgYW00Y2hhcnRzLlZhbHVlQXhpcygpIGFzIGFueSk7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLm1hcmdpblJpZ2h0ID0gdGhpcy5heGlzTGluZU1hcmdpbjsKICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUuc3Ryb2tlT3BhY2l0eSA9IDE7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZVdpZHRoID0gdGhpcy5heGlzTGluZVdpZHRoOwogICAgdGhpcy5jbGlja3NWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2UgPSB0aGlzLmNsaWNrc0NvbG9yOwogICAgdGhpcy5jbGlja3NWYWx1ZUF4aXMucmVuZGVyZXIubGFiZWxzLnRlbXBsYXRlLmZvbnRTaXplID0gdGhpcy5heGlzRm9udFNpemU7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5taW4gPSAwOwoKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMgPSB0aGlzLmNoYXJ0LnlBeGVzLnB1c2gobmV3IGFtNGNoYXJ0cy5WYWx1ZUF4aXMoKSBhcyBhbnkpOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLm1hcmdpblJpZ2h0ID0gdGhpcy5heGlzTGluZU1hcmdpbjsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2VPcGFjaXR5ID0gMTsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2VXaWR0aCA9IHRoaXMuYXhpc0xpbmVXaWR0aDsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2UgPSB0aGlzLmltcHJlc3Npb25zQ29sb3I7CiAgICB0aGlzLmltcHJlc3Npb25zVmFsdWVBeGlzLnJlbmRlcmVyLmxhYmVscy50ZW1wbGF0ZS5mb250U2l6ZSA9IHRoaXMuYXhpc0ZvbnRTaXplOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5taW4gPSAwOwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>addLicense</text>
+        <text>[`margin${properSide}`]</text>
       </register>
       <register name="/" type="4">
-        <text>spendValueAxis</text>
+        <text encoding="base64">XDxzcGVuZFZhbHVlQXhpc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0VXBWYWx1ZUF4aXModGhpcy5pbXByZXNzaW9uc0NvbG9yKTsK</text>
+        <text encoding="base64">ICAgICAgbmV3QXhpcy5yZW5kZXJlci5saW5lLm1hcmdpbkxlZnQgPSB0aGlzLmF4aXNMaW5lTWFyZ2luOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcyA9IHRoaXMuY2hhcnQueUF4ZXMucHVzaChuZXcgYW00Y2hhcnRzLlZhbHVlQXhpcygpIGFzIGFueSk7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLm1hcmdpblJpZ2h0ID0gdGhpcy5heGlzTGluZU1hcmdpbjsKICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUuc3Ryb2tlT3BhY2l0eSA9IDE7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZVdpZHRoID0gdGhpcy5heGlzTGluZVdpZHRoOwogICAgdGhpcy5jbGlja3NWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2UgPSB0aGlzLmNsaWNrc0NvbG9yOwogICAgdGhpcy5jbGlja3NWYWx1ZUF4aXMucmVuZGVyZXIubGFiZWxzLnRlbXBsYXRlLmZvbnRTaXplID0gdGhpcy5heGlzRm9udFNpemU7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5taW4gPSAwOwoKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMgPSB0aGlzLmNoYXJ0LnlBeGVzLnB1c2gobmV3IGFtNGNoYXJ0cy5WYWx1ZUF4aXMoKSBhcyBhbnkpOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLm1hcmdpblJpZ2h0ID0gdGhpcy5heGlzTGluZU1hcmdpbjsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2VPcGFjaXR5ID0gMTsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2VXaWR0aCA9IHRoaXMuYXhpc0xpbmVXaWR0aDsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2UgPSB0aGlzLmltcHJlc3Npb25zQ29sb3I7CiAgICB0aGlzLmltcHJlc3Npb25zVmFsdWVBeGlzLnJlbmRlcmVyLmxhYmVscy50ZW1wbGF0ZS5mb250U2l6ZSA9IHRoaXMuYXhpc0ZvbnRTaXplOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5taW4gPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbiBpbml0aWFsaXplQ2hhcnREYXRhJywgdGhpcy5jaGFydCwgdGhpcy5yZWNvcmRzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuc3BlbmRWYWx1ZUF4aXMgPSB0aGlzLmNoYXJ0LnlBeGVzLnB1c2gobmV3IGFtNGNoYXJ0cy5WYWx1ZUF4aXMoKSBhcyBhbnkpOwogICAgLy8gdGhpcy5zcGVuZFZhbHVlQXhpcy5yZW5kZXJlci5saW5lLm1hcmdpbkxlZnQgPSB0aGlzLmF4aXNMaW5lTWFyZ2luOwogICAgLy8gdGhpcy5zcGVuZFZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZU9wYWNpdHkgPSAxOwogICAgLy8gdGhpcy5zcGVuZFZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZVdpZHRoID0gdGhpcy5heGlzTGluZVdpZHRoOwogICAgLy8gdGhpcy5zcGVuZFZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZSA9IHRoaXMuc3BlbmRDb2xvcjsKICAgIC8vIHRoaXMuc3BlbmRWYWx1ZUF4aXMucmVuZGVyZXIubGFiZWxzLnRlbXBsYXRlLmZvbnRTaXplID0gdGhpcy5heGlzRm9udFNpemU7CiAgICAvLyB0aGlzLnNwZW5kVmFsdWVBeGlzLnJlbmRlcmVyLm9wcG9zaXRlID0gdHJ1ZTsKICAgIC8vIHRoaXMuc3BlbmRWYWx1ZUF4aXMubWluID0gMDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmNoYXJ0LmRhdGE6ICcsIHRoaXMuY2hhcnQuZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIG5ld0F4aXMucmVuZGVyZXIubGluZVtgbWFyZ2luJHtwcm9wZXJTaWRlfWBdID0gdGhpcy5heGlzTGluZU1hcmdpbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb3BlclNpZGUgPSBtYXJnaW5TaWRlLmNoYXJBdCgwKS50b1VwcGVyQ2FzZSgpICsgbWFyZ2luU2lkZS5zbGljZSgxKTsKICAgIGNvbnNvbGUubG9nKCdwcm9wZXJTaWRlOiAnLCBwcm9wZXJTaWRlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">IGVmdA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0VNSVRUSU5HIFJFQURZJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUubWFyZ2luUmlnaHQgPSB0aGlzLmF4aXNMaW5lTWFyZ2luOwogICAgdGhpcy5jbGlja3NWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2VPcGFjaXR5ID0gMTsKICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUuc3Ryb2tlV2lkdGggPSB0aGlzLmF4aXNMaW5lV2lkdGg7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZSA9IHRoaXMuY2xpY2tzQ29sb3I7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5sYWJlbHMudGVtcGxhdGUuZm9udFNpemUgPSB0aGlzLmF4aXNGb250U2l6ZTsKICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLm1pbiA9IDA7CgogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcyA9IHRoaXMuY2hhcnQueUF4ZXMucHVzaChuZXcgYW00Y2hhcnRzLlZhbHVlQXhpcygpIGFzIGFueSk7CiAgICB0aGlzLmltcHJlc3Npb25zVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUubWFyZ2luUmlnaHQgPSB0aGlzLmF4aXNMaW5lTWFyZ2luOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZU9wYWNpdHkgPSAxOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZVdpZHRoID0gdGhpcy5heGlzTGluZVdpZHRoOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZSA9IHRoaXMuaW1wcmVzc2lvbnNDb2xvcjsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGFiZWxzLnRlbXBsYXRlLmZvbnRTaXplID0gdGhpcy5heGlzRm9udFNpemU7CiAgICB0aGlzLmltcHJlc3Npb25zVmFsdWVBeGlzLm1pbiA9IDA7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzID0gdGhpcy5jaGFydC55QXhlcy5wdXNoKG5ldyBhbTRjaGFydHMuVmFsdWVBeGlzKCkgYXMgYW55KTsKICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUubWFyZ2luUmlnaHQgPSB0aGlzLmF4aXNMaW5lTWFyZ2luOwogICAgdGhpcy5jbGlja3NWYWx1ZUF4aXMucmVuZGVyZXIubGluZS5zdHJva2VPcGFjaXR5ID0gMTsKICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUuc3Ryb2tlV2lkdGggPSB0aGlzLmF4aXNMaW5lV2lkdGg7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZSA9IHRoaXMuY2xpY2tzQ29sb3I7CiAgICB0aGlzLmNsaWNrc1ZhbHVlQXhpcy5yZW5kZXJlci5sYWJlbHMudGVtcGxhdGUuZm9udFNpemUgPSB0aGlzLmF4aXNGb250U2l6ZTsKICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzLm1pbiA9IDA7CgogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcyA9IHRoaXMuY2hhcnQueUF4ZXMucHVzaChuZXcgYW00Y2hhcnRzLlZhbHVlQXhpcygpIGFzIGFueSk7CiAgICB0aGlzLmltcHJlc3Npb25zVmFsdWVBeGlzLnJlbmRlcmVyLmxpbmUubWFyZ2luUmlnaHQgPSB0aGlzLmF4aXNMaW5lTWFyZ2luOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZU9wYWNpdHkgPSAxOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZVdpZHRoID0gdGhpcy5heGlzTGluZVdpZHRoOwogICAgdGhpcy5pbXByZXNzaW9uc1ZhbHVlQXhpcy5yZW5kZXJlci5saW5lLnN0cm9rZSA9IHRoaXMuaW1wcmVzc2lvbnNDb2xvcjsKICAgIHRoaXMuaW1wcmVzc2lvbnNWYWx1ZUF4aXMucmVuZGVyZXIubGFiZWxzLnRlbXBsYXRlLmZvbnRTaXplID0gdGhpcy5heGlzRm9udFNpemU7CiAgICB0aGlzLmltcHJlc3Npb25zVmFsdWVBeGlzLm1pbiA9IDA7Cgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xpY2tzVmFsdWVBeGlzID0gdGhpcy5jaGFydC55QXhlcy5wdXNoKG5ldyBhbTRjaGFydHMuVmFsdWVBeGlzKCkgYXMgYW55KTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -369,13 +370,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>spendValueAxis</last-search>
+      <last-search encoding="base64">XDxzcGVuZFZhbHVlQXhpc1w+</last-search>
       <last-offset />
-      <last-pattern>spendValueAxis</last-pattern>
+      <last-pattern encoding="base64">XDxzcGVuZFZhbHVlQXhpc1w+</last-pattern>
       <last-replace>tsFooterCellDef</last-replace>
       <last-substitute>matFooterCellDef</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
