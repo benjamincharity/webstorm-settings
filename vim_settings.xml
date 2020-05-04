@@ -141,12 +141,12 @@
         <mark key="." line="23" column="1" />
         <mark key="^" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1588602166788">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1588603982848">
         <mark key="'" line="153" column="51" />
-        <mark key="[" line="121" column="32" />
-        <mark key="]" line="121" column="33" />
-        <mark key="." line="121" column="32" />
-        <mark key="^" line="121" column="33" />
+        <mark key="[" line="121" column="12" />
+        <mark key="]" line="121" column="14" />
+        <mark key="." line="121" column="13" />
+        <mark key="^" line="121" column="14" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.scss" timestamp="1588599705940">
         <mark key="[" line="53" column="0" />
@@ -196,12 +196,12 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" timestamp="1588599957420">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" timestamp="1588603976014">
         <mark key="'" line="54" column="7" />
-        <mark key="[" line="43" column="34" />
-        <mark key="]" line="43" column="56" />
-        <mark key="^" line="66" column="61" />
-        <mark key="." line="43" column="34" />
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="27" />
+        <mark key="^" line="52" column="27" />
+        <mark key="." line="75" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1588598129217">
         <mark key="[" line="0" column="0" />
@@ -338,19 +338,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;</text>
+        <text>class</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkc1VwR3JhcGhEYXRhUG9pbnRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>IRetargetingGraphDataPoint</text>
+        <text>headsUpGraphDataForm</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
