@@ -143,11 +143,11 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/csv-entry/csv-entry.component.html" timestamp="1588593317667">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="35" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="37" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/csv-entry/csv-entry.component.html" timestamp="1588594958555">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="52" />
+        <mark key="." line="32" column="51" />
+        <mark key="^" line="32" column="52" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" timestamp="1588361376174">
         <mark key="'" line="194" column="0" />
@@ -337,14 +337,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NVU1RPTSBSRVNFVCcpOwo=</text>
+      <register name="*" type="4">
+        <text>reset button</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>reset button</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
@@ -353,31 +353,31 @@
         <text>csvComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NVU1RPTSBSRVNFVCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIChjbGljayk9ImN1c3RvbVJlc2V0KCkiPkN1c3RvbSByZXNldCBidXR0b248L2J1dHRvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbZnVsbFdpZHRoXT0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgPC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHNDYXJkQ29tcG9uZW50IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vbGlicmFyeS9jYXJkL3NyYy9jYXJkLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgPGxpPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NVU1RPTSBSRVNFVCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAVmlld0NoaWxkKCd0c0NTVkVudHJ5JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbZnVsbFdpZHRoXT0idHJ1ZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVHNDYXJkQ29tcG9uZW50IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vbGlicmFyeS9jYXJkL3NyYy9jYXJkLmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0YXAsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBAVmlld0NoaWxkKCd0c0NTVkVudHJ5JykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYWZ0ZXJFeHBhbmQoKTogdm9pZCB7CiAgICB0aGlzLnJvd0lzVmlzaWJsZSA9IHRydWU7CiAgfQoKICBwdWJsaWMgZXhwYW5zaW9uQ2hhbmdlKGU6IGJvb2xlYW4pOiB2b2lkIHsKICAgIGlmICghZSkgewogICAgICB0aGlzLnJvd0lzVmlzaWJsZSA9IGZhbHNlOwogICAgfQogIH0KCgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
