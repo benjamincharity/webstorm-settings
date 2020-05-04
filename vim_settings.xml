@@ -113,6 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/ui-stackblitz-starter/src/app/app.component.ts" timestamp="1588593008027">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="41" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/account-graph-data.mock.ts" timestamp="1588343665770">
         <mark key="'" line="1243" column="0" />
         <mark key="^" line="2" column="40" />
@@ -145,10 +151,10 @@
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.scss" timestamp="1588357511901">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" timestamp="1588356881264">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" timestamp="1588361376174">
         <mark key="'" line="194" column="0" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="27" />
         <mark key="^" line="76" column="39" />
         <mark key="." line="161" column="0" />
       </file>
@@ -178,19 +184,15 @@
         <mark key="^" line="39" column="60" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/core/sources/conversions/conversions.interface.ts" timestamp="1588343480717">
-        <mark key="[" line="114" column="17" />
-        <mark key="]" line="114" column="24" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588343016654">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="99" column="87" />
-        <mark key="." line="99" column="14" />
-        <mark key="^" line="98" column="21" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/spend-graph.module.ts" timestamp="1588357909028">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ui-stackblitz-starter/package.json" timestamp="1588593088830">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1588358662025">
         <mark key="'" line="253" column="32" />
@@ -334,19 +336,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>selector-type-no-unknown</text>
+        <text>^11.7.0</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>selector-type-no-unknown</text>
+        <text>^11.7.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUc0xvYWRpbmdPdmVybGF5TW9kdWxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvLyBzdHlsZWxpbnQtZGlzYWJsZS1uZXh0LWxpbmUgc2VsZWN0b3ItdHlwZS1uby11bmtub3duCg==</text>
+      <register name="0" type="4">
+        <text>app-spend-graph</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
