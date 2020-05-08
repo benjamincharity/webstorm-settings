@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRDb250cm9sc1RvU3RhdHNcPg==</entry>
-        <entry encoding="base64">XDxJUmV0YXJnZXRpbmdHcmFwaERhdGFQb2ludFw+</entry>
-        <entry>dropped</entry>
-        <entry encoding="base64">XDxoZWFkc1VwQm94Q2hhbmdlXD4=</entry>
-        <entry encoding="base64">XDxoZWFkc1VwU3RhdHNcPg==</entry>
-        <entry encoding="base64">XDxoZWFkc1VwR3JhcGhDaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxlbnZcPg==</entry>
-        <entry>expanded</entry>
-        <entry>open</entry>
-        <entry encoding="base64">XDxkcmF3ZXJGb3JtRGVmXD4=</entry>
-        <entry encoding="base64">XDxkcmF3ZXJGb3JtXD4=</entry>
         <entry>uiformatter</entry>
         <entry encoding="base64">XDxkYWlseUJ1ZGdldExlc3NUaGFuVG90YWxCdWRnZXRcPg==</entry>
         <entry>eader</entry>
         <entry>width</entry>
-        <entry>0</entry>
         <entry>inject</entry>
         <entry encoding="base64">XDxpbmplY3RSZXNpemVFbGVtZW50XD4=</entry>
         <entry>width-to-match-menu</entry>
         <entry>renov</entry>
+        <entry>onsole</entry>
+        <entry>[0]</entry>
+        <entry>\[0\]</entry>
+        <entry>0</entry>
+        <entry encoding="base64">XDxwYWdlQ29udHJvbFw+</entry>
+        <entry>should be zero-based by default</entry>
+        <entry>should set and retrieve dropdown to choose page</entry>
+        <entry encoding="base64">XDxyZWNvcmRzUGVyUGFnZUNob2ljZXNcPg==</entry>
+        <entry encoding="base64">XDxyZWNvcmRzUGVyUGFnZVw+</entry>
+        <entry encoding="base64">XDxpc1NldFw+</entry>
+        <entry encoding="base64">XDxkYXRhU291cmNlXD4=</entry>
+        <entry>dataSource</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -113,20 +113,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.scss" timestamp="1588895489459">
+        <mark key="'" line="46" column="12" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.html" timestamp="1588941945958">
+        <mark key="'" line="176" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" timestamp="1588941386337">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.spec.ts" timestamp="1588940766289">
+        <mark key="'" line="257" column="0" />
+        <mark key="[" line="264" column="8" />
+        <mark key="]" line="264" column="8" />
+        <mark key="^" line="264" column="13" />
+        <mark key="." line="264" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/testing/src/test-components.ts" timestamp="1588939853651">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/utility-classes.scss" timestamp="1588884560129">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.scss" timestamp="1588894842022">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.scss" timestamp="1588895489459">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" timestamp="1588940760355">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.html" timestamp="1588894048739">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="28" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.ts" timestamp="1588942055273">
+        <mark key="'" line="172" column="9" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="59" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/containers/tactic-wizard.scss" timestamp="1588886288415">
         <mark key="[" line="3" column="2" />
@@ -134,38 +167,33 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/styles.scss" timestamp="1588883692236">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-pr.yml" timestamp="1588896504450">
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-pr.yml" timestamp="1588897433207">
+        <mark key="'" line="239" column="24" />
         <mark key="[" line="238" column="47" />
         <mark key="]" line="238" column="48" />
         <mark key="^" line="238" column="48" />
         <mark key="." line="238" column="47" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/angular.json" timestamp="1588877875353">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="42" />
-        <mark key="^" line="28" column="43" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" timestamp="1588942467784">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="69" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.spec.ts" timestamp="1588942871584">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/" timestamp="1588895576035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/global-header/containers/global-header-container.component.scss" timestamp="1588877572105">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.html" timestamp="1588881855017">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" timestamp="1588942478695">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" timestamp="1588883885121">
         <mark key="'" line="25" column="44" />
@@ -173,33 +201,14 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-root/components/app-root.component.scss" timestamp="1588877580123">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-root/components/app-root.component.html" timestamp="1588877605348">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="5" column="73" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" timestamp="1588894206595">
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="29" column="41" />
-        <mark key="^" line="29" column="41" />
-        <mark key="." line="29" column="40" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/containers/tactic-wizard.component.html" timestamp="1588886307673">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" timestamp="1588894179498">
-        <mark key="'" line="488" column="32" />
-        <mark key="[" line="380" column="61" />
-        <mark key="]" line="380" column="74" />
-        <mark key="^" line="380" column="74" />
-        <mark key="." line="380" column="73" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" timestamp="1588942150090">
+        <mark key="'" line="104" column="31" />
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="380" column="0" />
+        <mark key="." line="380" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" timestamp="1588883870287">
         <mark key="'" line="152" column="8" />
@@ -208,81 +217,8 @@
         <mark key="^" line="118" column="91" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.scss" timestamp="1588883734716">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/utility-classes.scss" timestamp="1588884560129">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.scss" timestamp="1588883381298">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="33" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="170" column="24" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.scss" />
-      <jump line="55" column="7" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" />
-      <jump line="70" column="23" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="153" column="51" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="225" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="241" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="220" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="369" column="12" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="240" column="41" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="234" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="73" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="71" column="23" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="371" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="439" column="33" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="74" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="67" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="378" column="60" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="226" column="64" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="231" column="5" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="243" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="425" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="200" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="201" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="237" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="232" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="248" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="431" column="20" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="430" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="221" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="10" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/heads-up-graph-data.mock.ts" />
-      <jump line="97" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.spec.ts" />
-      <jump line="35" column="6" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/core/sources/account-performance/account-performance.source.spec.ts" />
-      <jump line="66" column="38" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" />
-      <jump line="92" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.spec.ts" />
-      <jump line="247" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="129" column="5" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" />
-      <jump line="136" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="295" column="30" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.scss" />
-      <jump line="8" column="42" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-graph/account-graph.component.scss" />
-      <jump line="90" column="46" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.scss" />
-      <jump line="23" column="44" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="129" column="48" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="155" column="48" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="208" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="218" column="33" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="229" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="22" column="75" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="129" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
-      <jump line="128" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
-      <jump line="38" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.html" />
-      <jump line="124" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.html" />
-      <jump line="151" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/css-custom-properties.scss" />
       <jump line="15" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/global-header/components/global-header.component.scss" />
       <jump line="6" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/global-header/containers/global-header-container.component.scss" />
       <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/_layout.scss" />
@@ -319,13 +255,70 @@
       <jump line="17" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
       <jump line="19" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
       <jump line="350" column="5" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
-      <jump line="485" column="11" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
       <jump line="488" column="32" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.scss" />
       <jump line="12" column="1" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.scss" />
       <jump line="46" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.scss" />
       <jump line="9" column="25" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-pr.yml" />
       <jump line="238" column="36" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-pr.yml" />
+      <jump line="239" column="24" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-pr.yml" />
+      <jump line="380" column="40" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
+      <jump line="485" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.spec.ts" />
+      <jump line="23" column="30" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="45" column="40" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="51" column="51" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="64" column="39" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="72" column="33" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="153" column="30" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="171" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="212" column="30" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="250" column="26" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="329" column="65" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="345" column="28" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="412" column="72" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="440" column="45" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="516" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="539" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="548" column="53" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="554" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="563" column="53" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="573" column="45" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="586" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="592" column="34" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="594" column="46" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="597" column="46" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="340" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="112" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="67" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.spec.ts" />
+      <jump line="474" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="70" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="262" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="453" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="534" column="28" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="535" column="33" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="536" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="342" column="68" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="142" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="308" column="36" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="145" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="16" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
+      <jump line="257" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.spec.ts" />
+      <jump line="65" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" />
+      <jump line="35" column="38" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
+      <jump line="81" column="56" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" />
+      <jump line="176" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.html" />
+      <jump line="338" column="4" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
+      <jump line="95" column="33" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.ts" />
+      <jump line="172" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.ts" />
+      <jump line="205" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
+      <jump line="105" column="18" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
+      <jump line="104" column="31" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
+      <jump line="2" column="1" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,46 +327,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogISBjb250YWlucyhlbnYuYXV0aG9yLCAncmVub3ZhdGUnKQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQuZGF0YVNvdXJjZSkudG9FcXVhbChbXSk7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>COMMIT_MESSAGE</text>
+        <text>models</text>
       </register>
       <register name="/" type="4">
-        <text>renov</text>
+        <text>dataSource</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogISBjb250YWlucyhlbnYuYXV0aG9yLCAncmVub3ZhdGUnKQo=</text>
+      <register name="0" type="4">
+        <text>IConversionSegment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogISBlbnYuYXV0aG9yID1+ICdyZW5vdmF0ZScK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQuZGF0YVNvdXJjZSkudG9FcXVhbChbXSk7Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>[skip ci]</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PGJ1dHRvbiAoY2xpY2spPSJ0ZXN0KCkiPlRFU1Q8L2J1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogc3BhY2luZyhzbWFsbCwgMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkd2lkdGgtdG8tbWF0Y2gtbWVudTogOGVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHdpZHRoLXRvLW1hdGNoLW1lbnU6IDhlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGNoYW5nZURldGVjdG9yUmVmOiBDaGFuZ2VEZXRlY3RvclJlZikge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkPSJyb3d3dyIK</text>
+        <text encoding="base64">CiAgcHVibGljIHRlc3QoKSB7CiAgICB0aGlzLmNoYW5nZURldGVjdG9yUmVmLmRldGVjdENoYW5nZXMoKTsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvOiBoZWlnaHQ6Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -382,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>renov</last-search>
+      <last-search>dataSource</last-search>
       <last-offset />
-      <last-pattern>renov</last-pattern>
+      <last-pattern>dataSource</last-pattern>
       <last-replace>tsFooterCellDef</last-replace>
       <last-substitute>matFooterCellDef</last-substitute>
       <last-dir>1</last-dir>
