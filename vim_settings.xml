@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYWlseUJ1ZGdldExlc3NUaGFuVG90YWxCdWRnZXRcPg==</entry>
         <entry>eader</entry>
         <entry>width</entry>
         <entry>inject</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkYXRhU291cmNlXD4=</entry>
         <entry>dataSource</entry>
         <entry>models</entry>
+        <entry encoding="base64">XDxyZWNvcmRDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -122,8 +122,8 @@
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.html" timestamp="1588941945958">
         <mark key="'" line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" timestamp="1588941386337">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" timestamp="1588944135647">
+        <mark key="'" line="27" column="18" />
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="25" />
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="687" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/fesm2015/terminus-ui-drawer.js" />
       <jump line="737" column="1700" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/fesm2015/terminus-ui-drawer.js" />
       <jump line="766" column="1700" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/fesm2015/terminus-ui-drawer.js" />
       <jump line="771" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/fesm2015/terminus-ui-drawer.js" />
@@ -320,6 +319,7 @@
       <jump line="88" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
       <jump line="69" column="45" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
       <jump line="68" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
+      <jump line="27" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,7 +337,7 @@
         <text>models</text>
       </register>
       <register name="/" type="4">
-        <text>models</text>
+        <text encoding="base64">XDxyZWNvcmRDb3VudFw+</text>
       </register>
       <register name="0" type="4">
         <text>IConversionSegment</text>
@@ -376,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>models</last-search>
+      <last-search encoding="base64">XDxyZWNvcmRDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern>models</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNvcmRDb3VudFw+</last-pattern>
       <last-replace>tsFooterCellDef</last-replace>
       <last-substitute>matFooterCellDef</last-substitute>
       <last-dir>1</last-dir>
