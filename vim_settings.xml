@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>eader</entry>
         <entry>width</entry>
         <entry>inject</entry>
         <entry encoding="base64">XDxpbmplY3RSZXNpemVFbGVtZW50XD4=</entry>
@@ -25,6 +24,7 @@
         <entry>dataSource</entry>
         <entry>models</entry>
         <entry encoding="base64">XDxyZWNvcmRDb3VudFw+</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -113,38 +113,52 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.scss" timestamp="1588894842022">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/surge/containers/index/index-container.component.ts" timestamp="1588952700597">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.scss" timestamp="1588895489459">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/ad-library/containers/ad-library-browser.container.component.ts" timestamp="1588952761961">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" timestamp="1588940760355">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/integations/containers/integrations-container.component.html" timestamp="1588953274099">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.ts" timestamp="1588942055273">
-        <mark key="'" line="172" column="9" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="59" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" timestamp="1588950224004">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/containers/tactic-wizard.scss" timestamp="1588886288415">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="20" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/demo-config/containers/container.component.ts" timestamp="1588952478736">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-pr.yml" timestamp="1588897433207">
-        <mark key="'" line="239" column="24" />
-        <mark key="[" line="238" column="47" />
-        <mark key="]" line="238" column="48" />
-        <mark key="^" line="238" column="48" />
-        <mark key="." line="238" column="47" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" timestamp="1588944135647">
+        <mark key="'" line="27" column="18" />
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/design-tokens/angular.json" timestamp="1588950882797">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/linkedin-oauth/containers/linkedin-oauth-container.component.ts" timestamp="1588953408287">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/design-tokens/package.json" timestamp="1588951743973">
+        <mark key="'" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" timestamp="1588942467784">
         <mark key="'" line="2" column="1" />
@@ -158,11 +172,15 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/table/table.component.html" timestamp="1588941945958">
-        <mark key="'" line="176" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/integations/containers/integrations-container.component.ts" timestamp="1588953126894">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="/" timestamp="1588895576035">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/integations/containers/integrations-container.scss" timestamp="1588953451454">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" timestamp="1588943831744">
         <mark key="'" line="68" column="14" />
@@ -171,59 +189,37 @@
         <mark key="^" line="69" column="46" />
         <mark key="." line="69" column="45" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1588948533059">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="14" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1588952146011">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="156" column="20" />
+        <mark key="]" line="156" column="21" />
+        <mark key="." line="156" column="21" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" timestamp="1588950030771">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="12" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/log-in-as-user/containers/log-in-as-user-container.component.ts" timestamp="1588953043885">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" timestamp="1588944135647">
-        <mark key="'" line="27" column="18" />
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="26" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/demo-config/containers/container.component.scss" timestamp="1588952498696">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/containers/tactic-wizard.component.html" timestamp="1588886307673">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/containers/conversions-configuration.container.component.ts" timestamp="1588952957467">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" timestamp="1588942150090">
-        <mark key="'" line="104" column="31" />
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="0" />
-        <mark key="." line="380" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.spec.ts" timestamp="1588940766289">
-        <mark key="'" line="257" column="0" />
-        <mark key="[" line="264" column="8" />
-        <mark key="]" line="264" column="8" />
-        <mark key="^" line="264" column="13" />
-        <mark key="." line="264" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/testing/src/test-components.ts" timestamp="1588939853651">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/utility-classes.scss" timestamp="1588884560129">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/campaign-overview/containers/container.component.ts" timestamp="1588952474013">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="36" />
+        <mark key="." line="55" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
-      <jump line="19" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
-      <jump line="350" column="5" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
-      <jump line="488" column="32" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.component.scss" />
       <jump line="12" column="1" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.scss" />
       <jump line="46" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.scss" />
@@ -320,6 +316,10 @@
       <jump line="32" column="40" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
       <jump line="33" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
       <jump line="38" column="20" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
+      <jump line="190" column="0" filename="$USER_HOME$/code/Terminus/design-tokens/package.json" />
+      <jump line="16" column="3" filename="$USER_HOME$/code/Terminus/design-tokens/package.json" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/package.json" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/campaign-overview/containers/container.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,47 +327,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>SEViwRITY</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICBjdXJzb3I6IGN1cnNvcihwb2ludGVyKTsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>SEViwRITY</text>
+        <text>^8.1.3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNvcmRDb3VudFw+</text>
+        <text>style</text>
       </register>
-      <register name="0" type="4">
-        <text>IConversionSegment</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBob3N0OiB7IGNsYXNzOiAndmlldy1jb250YWluZXInIH0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjdXJzb3I6IGN1cnNvcihwb2ludGVyKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>jest</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgW3N1cHBvcnRzSW50ZXJhY3Rpb25dPSJ0cnVlIgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>env</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJ0cy1qZXN0IjogIl4yNC4xLjAiLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>object-curly-newline</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJwcm90cmFjdG9yIjogIjUuNC4wIiwK</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJucG0iOiAiNi4xMy43IiwK</text>
       </register>
-      <register name="8" type="4">
-        <text>prefer-arrow/prefer-arrow-functions</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJlc2xpbnQiOiAiNi44LjAiLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJzdHlsZS1kaWN0aW9uYXJ5IjogIjIuOC4zIiwK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -376,13 +376,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWNvcmRDb3VudFw+</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNvcmRDb3VudFw+</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>tsFooterCellDef</last-replace>
       <last-substitute>matFooterCellDef</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
