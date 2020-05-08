@@ -120,6 +120,13 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/ngrx/audience-targeting.reducer.spec.ts" timestamp="1588968340242">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="79" />
+        <mark key="]" line="65" column="80" />
+        <mark key="^" line="65" column="80" />
+        <mark key="." line="65" column="79" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/marketer-conversions/components/table/table.component.ts" timestamp="1588960927300">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -208,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="554" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
       <jump line="563" column="53" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
       <jump line="573" column="45" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
       <jump line="586" column="27" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
@@ -308,6 +314,7 @@
       <jump line="32" column="36" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/containers/tactic-wizard.component.html" />
       <jump line="19" column="7" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/containers/tactic-wizard.component.html" />
       <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/containers/tactic-wizard.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/ngrx/audience-targeting.reducer.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
