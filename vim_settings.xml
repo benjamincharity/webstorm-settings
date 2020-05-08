@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>uiformatter</entry>
         <entry encoding="base64">XDxkYWlseUJ1ZGdldExlc3NUaGFuVG90YWxCdWRnZXRcPg==</entry>
         <entry>eader</entry>
         <entry>width</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpc1NldFw+</entry>
         <entry encoding="base64">XDxkYXRhU291cmNlXD4=</entry>
         <entry>dataSource</entry>
+        <entry>models</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -189,11 +189,12 @@
       <file name="/" timestamp="1588895576035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" timestamp="1588942478695">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" timestamp="1588943831744">
+        <mark key="'" line="68" column="14" />
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="69" column="46" />
+        <mark key="^" line="69" column="46" />
+        <mark key="." line="69" column="45" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.html" timestamp="1588883885121">
         <mark key="'" line="25" column="44" />
@@ -219,10 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/global-header/components/global-header.component.scss" />
-      <jump line="6" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/global-header/containers/global-header-container.component.scss" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/_layout.scss" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/_layout.scss" />
       <jump line="687" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/fesm2015/terminus-ui-drawer.js" />
       <jump line="737" column="1700" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/fesm2015/terminus-ui-drawer.js" />
       <jump line="766" column="1700" filename="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui/fesm2015/terminus-ui-drawer.js" />
@@ -319,6 +316,10 @@
       <jump line="104" column="31" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.component.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
       <jump line="2" column="1" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
+      <jump line="30" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
+      <jump line="88" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
+      <jump line="69" column="45" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
+      <jump line="68" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,8 +327,8 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChjb21wb25lbnQuZGF0YVNvdXJjZSkudG9FcXVhbChbXSk7Cg==</text>
+      <register name="*" type="4">
+        <text>models</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -336,7 +337,7 @@
         <text>models</text>
       </register>
       <register name="/" type="4">
-        <text>dataSource</text>
+        <text>models</text>
       </register>
       <register name="0" type="4">
         <text>IConversionSegment</text>
@@ -375,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dataSource</last-search>
+      <last-search>models</last-search>
       <last-offset />
-      <last-pattern>dataSource</last-pattern>
+      <last-pattern>models</last-pattern>
       <last-replace>tsFooterCellDef</last-replace>
       <last-substitute>matFooterCellDef</last-substitute>
       <last-dir>1</last-dir>
