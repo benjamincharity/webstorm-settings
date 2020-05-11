@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNvcmRzUGVyUGFnZVw+</entry>
-        <entry encoding="base64">XDxpc1NldFw+</entry>
-        <entry encoding="base64">XDxkYXRhU291cmNlXD4=</entry>
-        <entry>dataSource</entry>
-        <entry encoding="base64">XDxyZWNvcmRDb3VudFw+</entry>
-        <entry>style</entry>
-        <entry>production</entry>
-        <entry encoding="base64">XDx1bnRpbENvbXBvbmVudERlc3Ryb3llZFw+</entry>
         <entry>models</entry>
         <entry>onfig</entry>
         <entry>cypress</entry>
@@ -25,13 +17,16 @@
         <entry>editMode</entry>
         <entry>labelTotalBudgetHint</entry>
         <entry>labelTacticDateRangeHint</entry>
+        <entry>field-form-control</entry>
+        <entry>field-container</entry>
+        <entry>field-label</entry>
+        <entry>field-value</entry>
+        <entry>Tactic</entry>
+        <entry encoding="base64">XDx3ZWJob29rUmVmXD4=</entry>
+        <entry>disabled-value</entry>
+        <entry encoding="base64">XDx0YWN0aWNOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>Wa</entry>
-        <entry>%s/9\.0\.7/9\.0\.6/g</entry>
-        <entry>%s/9\.0\.6/9\.0\.7/g</entry>
-        <entry>%s/it(/test(/g</entry>
-        <entry>%s/it(`/test(`/g</entry>
         <entry>action com.andrewbrookins.idea.wrap.WrapAction</entry>
         <entry>wa</entry>
         <entry>%s/matFooterCellDef/tsFooterCellDef/g</entry>
@@ -45,8 +40,13 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action Javascript.Linters.EsLint.Fix</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiA9</entry>
-        <entry>action RenameElement</entry>
+        <entry>%s/field-form-control/editable-form__control/g</entry>
+        <entry>%s/field-container/editable-form__static-field/g</entry>
+        <entry>%s/field-label/editable-form__static-label/g</entry>
+        <entry>%s/field-value/editable-form__static-value/g</entry>
         <entry>noh</entry>
+        <entry>%s/disabled-value/editable-form--disabled/g</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,18 +125,18 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" timestamp="1589207401941">
-        <mark key="'" line="38" column="41" />
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="24" />
-        <mark key="^" line="66" column="2" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" timestamp="1589208655833">
+        <mark key="'" line="39" column="60" />
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1589199123043">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="4" />
-        <mark key="." line="40" column="3" />
-        <mark key="^" line="40" column="4" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1589208437616">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="42" column="34" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="34" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/index.ts" timestamp="1589201633942">
         <mark key="[" line="1" column="17" />
@@ -148,6 +148,12 @@
         <mark key="'" line="0" column="21" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.scss" timestamp="1589208393994">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/validHostname.ts" timestamp="1589202548174">
         <mark key="'" line="33" column="26" />
@@ -167,11 +173,11 @@
         <mark key="^" line="129" column="17" />
         <mark key="." line="73" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1589207443650">
-        <mark key="[" line="120" column="24" />
-        <mark key="]" line="121" column="33" />
-        <mark key="^" line="121" column="33" />
-        <mark key="." line="121" column="32" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1589208327980">
+        <mark key="[" line="196" column="35" />
+        <mark key="]" line="196" column="36" />
+        <mark key="^" line="196" column="36" />
+        <mark key="." line="196" column="35" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.spec.ts" timestamp="1589200749943">
         <mark key="'" line="23" column="21" />
@@ -187,19 +193,19 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" timestamp="1589206877546">
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="199" column="3" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" timestamp="1589208575206">
+        <mark key="'" line="34" column="2" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="52" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" timestamp="1589207468335">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="82" column="29" />
-        <mark key="]" line="82" column="35" />
-        <mark key="^" line="82" column="35" />
-        <mark key="." line="82" column="34" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" timestamp="1589208236439">
+        <mark key="'" line="73" column="23" />
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/steps/upload-or-entry/components/manual-entry/manual-entry.container.ts" timestamp="1589201887869">
         <mark key="'" line="22" column="0" />
@@ -207,29 +213,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.scss" timestamp="1589207734343">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="1" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
-      <jump line="30" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
-      <jump line="88" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
-      <jump line="69" column="45" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
-      <jump line="68" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.html" />
-      <jump line="27" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="26" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="1" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="2" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="3" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="4" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="5" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="8" column="45" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="9" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="10" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="11" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="12" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="13" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
-      <jump line="14" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
       <jump line="15" column="40" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
       <jump line="16" column="39" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
       <jump line="17" column="37" filename="$USER_HOME$/code/Terminus/engage-gui/.eslintrc.js" />
@@ -301,14 +290,35 @@
       <jump line="8" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/validHostname.ts" />
       <jump line="33" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/validHostname.ts" />
       <jump line="57" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
-      <jump line="37" column="41" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
       <jump line="82" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="66" column="35" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
-      <jump line="98" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="153" column="31" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
       <jump line="39" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
       <jump line="185" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
+      <jump line="13" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="5" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="94" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="97" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="98" column="6" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="44" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="73" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="84" column="43" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="100" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="103" column="31" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="10" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="9" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="95" column="73" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="73" column="23" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="204" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
+      <jump line="93" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
+      <jump line="34" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
+      <jump line="82" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="110" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="37" column="60" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,22 +327,22 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>currency</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>currency</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>labelTacticDateRangeHint</text>
+        <text encoding="base64">XDx0YWN0aWNOYW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmaWVsZC1jb250YWluZXIiPgogICAgPGRpdiBjbGFzcz0iZmllbGQtbGFiZWwiPkRhaWx5IEJ1ZGdldDwvZGl2PgogICAgPGRpdiBjbGFzcz0iZmllbGQtdmFsdWUiPgogICAgICB7eyB0YWN0aWM/LmRhaWx5QnVkZ2V0IHwgY3VycmVuY3kgfX0KICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>retargetingDrawerFormGroup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDUkVBVEVEIERBVEUK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,35 +351,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyByZW1haW5pbmdCdWRnZXQ6IDExMTIuMTcsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaXNXZWJIb29rQXVkaWVuY2UgPSBmYWxzZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdGFyZ2V0ZWREZXBhcnRtZW50czogc3RyaW5nW10gPSBbXTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PC9mb3JtPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBwdWJsaWMgZHJhd2VyRm9ybT86IENvbXBvbmVudEZvcm1JbnB1dDxSZXRhcmdldGluZ0RyYXdlckZvcm1Db25maWd1cmF0aW9uPjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>labelTacticDateRangeHint</last-search>
+      <last-search encoding="base64">XDx0YWN0aWNOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>labelTacticDateRangeHint</last-pattern>
-      <last-replace>tsFooterCellDef</last-replace>
-      <last-substitute>matFooterCellDef</last-substitute>
+      <last-pattern encoding="base64">XDx0YWN0aWNOYW1lXD4=</last-pattern>
+      <last-replace>editable-form--disabled</last-replace>
+      <last-substitute>disabled-value</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
