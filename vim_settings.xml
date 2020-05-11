@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>0</entry>
-        <entry encoding="base64">XDxwYWdlQ29udHJvbFw+</entry>
         <entry>should be zero-based by default</entry>
         <entry>should set and retrieve dropdown to choose page</entry>
         <entry encoding="base64">XDxyZWNvcmRzUGVyUGFnZUNob2ljZXNcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>reated</entry>
         <entry>date</entry>
         <entry>remain</entry>
+        <entry encoding="base64">XDxpc1ZhbGlkSG9zdG5hbWVcPg==</entry>
+        <entry encoding="base64">XDxnZXRWYWxpZEhvc3RuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Wa</entry>
@@ -113,22 +113,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.ts" timestamp="1589200789355">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="3" />
-        <mark key="^" line="25" column="4" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/validateEndDate" timestamp="1589201613748">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.html" timestamp="1589199498496">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="146" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/discworld/team-uxe-repos.tf" timestamp="1588966379655">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.spec.ts" timestamp="1589200749943">
         <mark key="'" line="23" column="21" />
@@ -137,18 +131,18 @@
         <mark key="." line="14" column="72" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/new-tactic-wizard/steps/audience-targeting/specs/ngrx/audience-targeting.reducer.spec.ts" timestamp="1588968340242">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="79" />
-        <mark key="]" line="65" column="80" />
-        <mark key="^" line="65" column="80" />
-        <mark key="." line="65" column="79" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/dailyBudgetLessThanTotalBudget.ts" timestamp="1589201461574">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="6" column="80" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" timestamp="1589200720420">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="24" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" timestamp="1589201718663">
+        <mark key="'" line="49" column="16" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="14" />
+        <mark key="^" line="60" column="14" />
+        <mark key="." line="60" column="13" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1589199123043">
         <mark key="[" line="40" column="20" />
@@ -156,9 +150,22 @@
         <mark key="." line="40" column="3" />
         <mark key="^" line="40" column="4" />
       </file>
-      <file name="/tactic-wizard.component.html" timestamp="1588967107178">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="40" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/index.ts" timestamp="1589201633942">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators.ts" timestamp="1589201812929">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/validHostname.ts" timestamp="1589201906482">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1589200380184">
         <mark key="[" line="73" column="20" />
@@ -172,20 +179,28 @@
         <mark key="^" line="67" column="17" />
         <mark key="." line="67" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" timestamp="1589199569372">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="38" column="1" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/surge/components/configuration/configuration.component.ts" timestamp="1589201936900">
+        <mark key="'" line="89" column="25" />
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" timestamp="1589201695220">
+        <mark key="'" line="115" column="18" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/steps/upload-or-entry/components/manual-entry/manual-entry.container.ts" timestamp="1589201887869">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="68" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
-      <jump line="142" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
-      <jump line="308" column="36" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
-      <jump line="145" column="29" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
-      <jump line="16" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.ts" />
-      <jump line="257" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/paginator/src/paginator.component.spec.ts" />
-      <jump line="65" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" />
       <jump line="35" column="38" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
       <jump line="81" column="56" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/components/table/table.component.ts" />
       <jump line="43" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/conversions/configuration/components/table/conversions-configuration-table.component.ts" />
@@ -278,6 +293,14 @@
       <jump line="61" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="21" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.spec.ts" />
+      <jump line="114" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.ts" />
+      <jump line="49" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
+      <jump line="0" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators.ts" />
+      <jump line="15" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/steps/upload-or-entry/components/manual-entry/manual-entry.container.ts" />
+      <jump line="30" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/steps/upload-or-entry/components/manual-entry/manual-entry.container.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-wizard/steps/upload-or-entry/components/manual-entry/manual-entry.container.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/surge/components/configuration/configuration.component.ts" />
+      <jump line="89" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/surge/components/configuration/configuration.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -285,47 +308,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VmFsaWRIb3N0bmFtZSB9IGZyb20gJ0B1dGlsaXRpZXMvdmFsaWRhdG9ycyc7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>formBuilder</text>
       </register>
       <register name="/" type="4">
-        <text>remain</text>
+        <text encoding="base64">XDxnZXRWYWxpZEhvc3RuYW1lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>RetargetingDrawerFormConfiguration</text>
+        <text>getValidHostname</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VmFsaWRIb3N0bmFtZSB9IGZyb20gJ0B1dGlsaXRpZXMvdmFsaWRhdG9ycyc7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>should create</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgaXNWYWxpZEhvc3RuYW1lIH0gZnJvbSAnQHV0aWxpdGllcy92YWxpZGF0b3JzJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">OwoKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBBYnN0cmFjdENvbnRyb2wsCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>Tactic</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBWYWxpZGF0b3JGbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBARm9ybVN5bmNlcklucHV0KHsgZm9ybUdyb3VwOiAnZHJhd2VyRm9ybUdyb3VwJyB9KQo=</text>
+        <text encoding="base64">Y29uc3QgZGFpbHlCdWRnZXRMZXNzVGhhblRvdGFsQnVkZ2V0OiBWYWxpZGF0b3JGbiA9IChmZzogQWJzdHJhY3RDb250cm9sKSA9PiB7CiAgY29uc3QgZGFpbHlCdWRnZXQgICA9IGZnLmdldCgnZGFpbHlCdWRnZXQnKTsKICBjb25zdCBvdmVyYWxsQnVkZ2V0ID0gZmcuZ2V0KCd0b3RhbEJ1ZGdldCcpOwoKICBpZiAoIWRhaWx5QnVkZ2V0IHx8ICFvdmVyYWxsQnVkZ2V0IHx8ICFkYWlseUJ1ZGdldC52YWx1ZSB8fCAhb3ZlcmFsbEJ1ZGdldC52YWx1ZSkgewogICAgcmV0dXJuIG51bGw7CiAgfQoKICBpZiAoK2RhaWx5QnVkZ2V0LnZhbHVlID4gK292ZXJhbGxCdWRnZXQudmFsdWUpIHsKICAgIHJldHVybiB7IG92ZXJhbGxfYnVkZ2V0X2JlbG93X2RhaWx5OiB0cnVlIH07CiAgfQoKICByZXR1cm4gbnVsbDsKfTsKCmNvbnN0IHZhbGlkYXRlRW5kRGF0ZTogVmFsaWRhdG9yRm4gPSAoZmc6IEFic3RyYWN0Q29udHJvbCkgPT4gewogIGNvbnN0IHRpbWVMaW5lID0gZmcuZ2V0KCdpbmRlZmluaXRlJyk7CiAgY29uc3QgZW5kRGF0ZVJhdyA9IGZnLmdldCgnZW5kRGF0ZScpOwoKICBpZiAoIXRpbWVMaW5lIHx8ICFlbmREYXRlUmF3KSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIGNvbnN0IGVuZERhdGUgPSAoZW5kRGF0ZVJhdy52YWx1ZSkgPyBuZXcgRGF0ZShlbmREYXRlUmF3LnZhbHVlKSA6IG51bGw7CiAgaWYgKHRpbWVMaW5lLnZhbHVlID09PSAnbm8nKSB7CiAgICBjb25zdCB0b2RheSA9IG5ldyBEYXRlKCk7CgogICAgLy8gRW5zdXJlIGFuIGVuZCBkYXRlIGlzIHByb3ZpZGVkCiAgICBpZiAoIWVuZERhdGUpIHsKICAgICAgcmV0dXJuIHsgbm9fZW5kX2RhdGU6IHRydWUgfTsKICAgIH0KCiAgICAvLyBFbnN1cmUgdGhlIGVuZCBkYXRlIGlzIG5vdCBpbiB0aGUgcGFzdAogICAgaWYgKGVuZERhdGUgPCB0b2RheSkgewogICAgICByZXR1cm4geyBlbmRfZGF0ZV9pbl9wYXN0OiB0cnVlIH07CiAgICB9CiAgfQogIHJldHVybiBudWxsOwp9Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="8">
+        <text>: ValidatorFn</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGRhaWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9ImZpZWxkLWNvbnRhaW5lciI+CiAgPGRpdiBjbGFzcz0iZmllbGQtbGFiZWwiPlJlbWFpbmluZyBCdWRnZXQ8L2Rpdj4KICA8ZGl2IGNsYXNzPSJmaWVsZC12YWx1ZSI+CiAgICA8bmctY29udGFpbmVyICpuZ0lmPSJ0YWN0aWM/LnJlbWFpbmluZ0J1ZGdldCgpOyBlbHNlIG5vUmVtYWluaW5nQnVkZ2V0Ij4KICAgICAge3sgdGFjdGljPy5yZW1haW5pbmdCdWRnZXQoKSB8IGN1cnJlbmN5IH19CiAgICA8L25nLWNvbnRhaW5lcj4KCiAgICA8bmctdGVtcGxhdGUgI25vUmVtYWluaW5nQnVkZ2V0PgogICAgICA8c3BhbiBjbGFzcz0iZGlzYWJsZWQtdmFsdWUiPk4vQTwvc3Bhbj4KICAgIDwvbmctdGVtcGxhdGU+CiAgPC9kaXY+CjwvZGl2Pgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVGFjdGljRHJhd2VyRm9ybUNvbmZpZ3VyYXRpb24gfSBmcm9tICdAZmVhdHVyZXMvdGFjdGljLWRldGFpbHMvY29tcG9uZW50cy90YWN0aWMtc2V0dGluZ3MtZHJhd2VyL3RhY3RpYy1zZXR0aW5ncy1kcmF3ZXIuY29tcG9uZW50JzsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CjxkaXYgY2xhc3M9ImZpZWxkLWNvbnRhaW5lciI+CiAgPGRpdiBjbGFzcz0iZmllbGQtbGFiZWwiPkxhc3QgU3luY2VkPC9kaXY+CiAgPGRpdiBjbGFzcz0iZmllbGQtdmFsdWUiPnt7IHRhY3RpYz8uc3luY2VkQXQgfCBkYXRlOiAnTU0vZGQveXknIH19PC9kaXY+CjwvZGl2Pgo=</text>
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
@@ -334,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>remain</last-search>
+      <last-search encoding="base64">XDxnZXRWYWxpZEhvc3RuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>remain</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRWYWxpZEhvc3RuYW1lXD4=</last-pattern>
       <last-replace>tsFooterCellDef</last-replace>
       <last-substitute>matFooterCellDef</last-substitute>
       <last-dir>1</last-dir>
