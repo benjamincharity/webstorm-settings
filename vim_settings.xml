@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWJob29rUmVmXD4=</entry>
         <entry>disabled-value</entry>
         <entry encoding="base64">XDx0YWN0aWNOYW1lXD4=</entry>
         <entry encoding="base64">XDxkcmF3ZXJGb3JtRGVmXD4=</entry>
@@ -17,7 +16,6 @@
         <entry>rules</entry>
         <entry>button</entry>
         <entry encoding="base64">XDxlZGl0UnVsZXNCdG5DbGlja2VkXD4=</entry>
-        <entry encoding="base64">XDxFZGl0XD4=</entry>
         <entry>trigger</entry>
         <entry>concat</entry>
         <entry>Bool</entry>
@@ -25,9 +23,10 @@
         <entry encoding="base64">XDxBQ0NPVU5UX1BST0NFU1NJTkdfVFlQRVw+</entry>
         <entry>tslint</entry>
         <entry encoding="base64">XDxpc051bGxcPg==</entry>
+        <entry encoding="base64">XDxFZGl0XD4=</entry>
+        <entry>trigger_inner</entry>
       </history-search>
       <history-cmd>
-        <entry>action com.andrewbrookins.idea.wrap.WrapAction</entry>
         <entry>wa</entry>
         <entry>%s/matFooterCellDef/tsFooterCellDef/g</entry>
         <entry>w</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>action RenameElement</entry>
         <entry>noh</entry>
+        <entry>%s/trigger_inner/trigger-inner/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,6 +146,12 @@
         <mark key="." line="60" column="15" />
         <mark key="^" line="60" column="16" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.scss" timestamp="1589293459185">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="30" column="76" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" timestamp="1589289194424">
         <mark key="'" line="23" column="29" />
         <mark key="[" line="23" column="28" />
@@ -201,14 +207,15 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" timestamp="1589291077014">
-        <mark key="'" line="26" column="49" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" timestamp="1589293057073">
+        <mark key="'" line="283" column="34" />
+        <mark key="[" line="266" column="29" />
+        <mark key="]" line="266" column="29" />
+        <mark key="^" line="266" column="57" />
+        <mark key="." line="266" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="38" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.ts" />
-      <jump line="8" column="61" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.ts" />
-      <jump line="10" column="38" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.ts" />
       <jump line="13" column="29" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.ts" />
       <jump line="94" column="75" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/containers/tactic-details.container.component.ts" />
       <jump line="150" column="50" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
@@ -306,6 +313,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/components/performance/performance.module.ts" />
       <jump line="60" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/retargeting.module.ts" />
       <jump line="26" column="49" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="270" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="159" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
+      <jump line="283" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,62 +323,62 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPG5nLWNvbnRhaW5lciAqbmdUZW1wbGF0ZU91dGxldD0iaGVhZHNVcEdyYXBoIj48L25nLWNvbnRhaW5lcj4tLT4K</text>
+      <register name="*" type="4">
+        <text>.</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWRQcm92aWRlclR5cGVzLCA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc051bGxcPg==</text>
+        <text>trigger_inner</text>
       </register>
       <register name="0" type="4">
-        <text>BoolToTextPipe</text>
+        <text>trigger_inner</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPG5nLWNvbnRhaW5lciAqbmdUZW1wbGF0ZU91dGxldD0iaGVhZHNVcEdyYXBoIj48L25nLWNvbnRhaW5lcj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGZ4TGF5b3V0PSJyb3ciIGZ4TGF5b3V0QWxpZ249ImVuZCBjZW50ZXIiIGZ4TGF5b3V0R2FwPSI4cHgiIGZ4RmxleD0iMSAxIDUwJSI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGZ4TGF5b3V0PSJyb3ciIGZ4TGF5b3V0QWxpZ249ImVuZCBjZW50ZXIiIGZ4TGF5b3V0R2FwPSI4cHgiIGZ4RmxleD0iMSAxIDUwJSI+Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>PerformanceComponent</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJleHBhbnNpb24tcGFuZWxfX3RyaWdnZXJfaW5uZXIiIGZ4TGF5b3V0PSJyb3ciIGZ4TGF5b3V0QWxpZ249ImVuZCBjZW50ZXIiIGZ4TGF5b3V0R2FwPSI4cHgiIGZ4RmxleD0iMSAxIDUwJSI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnRzOiBbCiAgXSwK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPG5nLWNvbnRhaW5lciAqbmdUZW1wbGF0ZU91dGxldD0iaGVhZHNVcEdyYXBoIj48L25nLWNvbnRhaW5lcj4tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbW1vbk1vZHVsZSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFRzQ2hhcnRNb2R1bGUsCg==</text>
+      <register name="6" type="8">
+        <text>PerformanceComponent</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHNDaGFydE1vZHVsZSB9IGZyb20gJ0B0ZXJtaW51cy91aS9jaGFydCc7Cg==</text>
+        <text encoding="base64">ICBpbXBvcnRzOiBbCiAgXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGVyZm9ybWFuY2VHcmFwaENvbXBvbmVudCB9IGZyb20gJ0Bjb21wb25lbnRzL3BlcmZvcm1hbmNlL2dyYXBoL2dyYXBoLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgIENvbW1vbk1vZHVsZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFRoaXMgc2hvdWxkIGJlIHJlLWVuYWJsZWQgb25jZSB0aGUgaXNzdWVzIGFyZSBmaXhlZAo=</text>
+        <text encoding="base64">ICAgIFRzQ2hhcnRNb2R1bGUsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>%s/trigger_inner/trigger-inner/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc051bGxcPg==</last-search>
+      <last-search>trigger_inner</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc051bGxcPg==</last-pattern>
-      <last-replace>editable-form--disabled</last-replace>
-      <last-substitute>disabled-value</last-substitute>
+      <last-pattern>trigger_inner</last-pattern>
+      <last-replace>trigger-inner</last-replace>
+      <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
