@@ -124,7 +124,12 @@
         <mark key="'" line="202" column="14" />
         <mark key="[" line="204" column="59" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1589396250623" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/drawer/src/drawer.component.scss" timestamp="1589456749971">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="26" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/utilities/validators/dailyBudgetLessThanTotalBudget.ts" timestamp="1589391481913">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="38" />
@@ -374,7 +379,7 @@
       <last-replace>trigger-inner</last-replace>
       <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
