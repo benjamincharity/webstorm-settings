@@ -127,11 +127,11 @@
       <file name="$USER_HOME$/Desktop/ng-simple-alert/package.json" timestamp="1589476270199">
         <mark key="'" line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.scss" timestamp="1589475455490">
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.scss" timestamp="1589477392696">
         <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="26" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/mylibapp/src/app/app.component.scss" timestamp="1589467192576">
         <mark key="[" line="2" column="21" />
@@ -174,11 +174,11 @@
         <mark key="." line="733" column="48" />
         <mark key="^" line="733" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/tsconfig.json" timestamp="1589475613920">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/tsconfig.json" timestamp="1589477099138">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.ts" timestamp="1589475314048">
         <mark key="[" line="9" column="19" />
@@ -312,13 +312,13 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>lib1</text>
+        <text>yellow</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>lib1</text>
+        <text>yellow</text>
       </register>
       <register name="/" type="4">
         <text>watch</text>
@@ -326,34 +326,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dHMtZXhwYW5zaW9uLXBhbmVsCiAgICAgICAgICBbaGlkZVRvZ2dsZV09InRydWUiCiAgICAgICAgICBbaXNFeHBhbmRlZF09ImV4cGFuZGVkVXVpZCA9PT0gaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgIChhZnRlckV4cGFuZCk9InJvd0lzVmlzaWJsZSA9IHRydWUiCiAgICAgICAgICAoZXhwYW5kZWRDaGFuZ2UpPSIhJGV2ZW50ID8gcm93SXNWaXNpYmxlID0gZmFsc2UgOiBudWxsIgogICAgICAgID4KICAgICAgICAgIDx0cy1leHBhbnNpb24tcGFuZWwtdHJpZ2dlcgogICAgICAgICAgICBjb2xsYXBzZWRIZWlnaHQ9IjBweCIKICAgICAgICAgICAgZXhwYW5kZWRIZWlnaHQ9IjBweCIKICAgICAgICAgID48L3RzLWV4cGFuc2lvbi1wYW5lbC10cmlnZ2VyPgoKICAgICAgICAgIDxuZy10ZW1wbGF0ZSB0c0V4cGFuc2lvblBhbmVsQ29udGVudD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWNjb3VudC1ncmFwaC1jb250YWluZXIiIGZ4TGF5b3V0PSJyb3ciPgogICAgICAgICAgICAgIDxhcHAtcmV0YXJnZXRpbmctYWNjb3VudC1ncmFwaAogICAgICAgICAgICAgICAgKm5nSWY9InJvd0lzVmlzaWJsZSIKICAgICAgICAgICAgICAgIGZ4RmxleAogICAgICAgICAgICAgICAgW2FjY291bnRVdWlkXT0iaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgICAgICAgIFtkYXRhXT0iYWNjb3VudEdyYXBoRGF0YSIKICAgICAgICAgICAgICAgIFtzaG93U2Nyb2xsYmFyXT0idHJ1ZSIKICAgICAgICAgICAgICAgIFtpc0xvYWRpbmddPSJhY2NvdW50R3JhcGhJc0xvYWRpbmciCiAgICAgICAgICAgICAgPjwvYXBwLXJldGFyZ2V0aW5nLWFjY291bnQtZ3JhcGg+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9uZy10ZW1wbGF0ZT4KICAgICAgICA8L3RzLWV4cGFuc2lvbi1wYW5lbD4K</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAicHJvamVjdHMvbGliMSIK</text>
+      </register>
+      <register name="2" type="8">
         <text>dist
 dist</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFtdCg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAbmcvbGliMSI6ICJmaWxlOmRpc3QvbGliMSIsCg==</text>
+        <text encoding="base64">ICBzdHlsZXM6IFtdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICJAbmcvbGliMSI6ICJmaWxlOmRpc3QvbGliMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2l0ZW06ICcsIGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICJAbmcvbGliMSI6ICJmaWxlOmRpc3QvbGliMSIsCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2l0ZW06ICcsIGl0ZW0pOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcigndGhpcy5lbWl0dGVkR2VuZXJhdGVkRmlsZXM6ICcsIHRoaXMuZW1pdHRlZEdlbmVyYXRlZEZpbGVzKTsK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>2
 2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWIxL2xpYjEiLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAbmcvbGliMSI6ICJmaWxlOmRpc3QvbGliMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGlzdC9saWIxL2xpYjEiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
