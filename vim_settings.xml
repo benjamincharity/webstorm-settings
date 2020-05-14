@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>collaps</entry>
         <entry encoding="base64">XDx2YWxpZGF0b3JzXD4=</entry>
         <entry encoding="base64">XDxmYWtlRm9ybVVwZGF0ZUZyb21TdG9yZVw+</entry>
         <entry>budget</entry>
@@ -21,10 +20,11 @@
         <entry>socket</entry>
         <entry>pink</entry>
         <entry>Emitted no files</entry>
-        <entry encoding="base64">XDx3cml0ZVRzRmlsZVw+</entry>
         <entry>checking for source file</entry>
         <entry encoding="base64">XDxvdXRTcmNNYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxlbWl0dGVkU291cmNlRmlsZXNcPg==</entry>
+        <entry encoding="base64">XDxnZW5GaWxlc1w+</entry>
+        <entry encoding="base64">XDx3cml0ZVRzRmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -175,11 +175,12 @@
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" timestamp="1589471308319">
-        <mark key="'" line="323" column="104" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" timestamp="1589472055394">
+        <mark key="'" line="326" column="16" />
+        <mark key="[" line="403" column="32" />
+        <mark key="]" line="403" column="46" />
+        <mark key="." line="403" column="45" />
+        <mark key="^" line="403" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/ng-lib-watch/tsconfig.json" timestamp="1589466609306">
         <mark key="[" line="21" column="7" />
@@ -218,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="23" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="161" column="5" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
       <jump line="165" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
       <jump line="162" column="45" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
       <jump line="52" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
@@ -318,6 +317,8 @@
       <jump line="433" column="31" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="321" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="322" column="104" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="316" column="41" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="326" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +336,7 @@
         <text>pink</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbWl0dGVkU291cmNlRmlsZXNcPg==</text>
+        <text encoding="base64">XDx3cml0ZVRzRmlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnd3JpdGVUc0ZpbGUgX2VtaXRSZW5kZXIyOiBvdXRGaWxlTmFtZTogJywgb3V0RmlsZU5hbWUpOwogICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd3cml0ZVRzRmlsZSBfZW1pdFJlbmRlcjI6IHNvdXJjZUZpbGVzOiAnLCBzb3VyY2VGaWxlcy5sZW5ndGgpOwo=</text>
@@ -375,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlbWl0dGVkU291cmNlRmlsZXNcPg==</last-search>
+      <last-search encoding="base64">XDx3cml0ZVRzRmlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbWl0dGVkU291cmNlRmlsZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZVRzRmlsZVw+</last-pattern>
       <last-replace>trigger-inner</last-replace>
       <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
