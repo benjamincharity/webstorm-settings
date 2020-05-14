@@ -5,18 +5,15 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0b3JzXD4=</entry>
         <entry encoding="base64">XDxmYWtlRm9ybVVwZGF0ZUZyb21TdG9yZVw+</entry>
         <entry>budget</entry>
         <entry encoding="base64">XDxvbmx5XD4=</entry>
         <entry>eslint</entry>
         <entry>setStat</entry>
         <entry encoding="base64">XDx1cGRhdGVTdGF0dXNcPg==</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxvdXRsaW5lXD4=</entry>
         <entry>generate:styles</entry>
-        <entry>css</entry>
         <entry>socket</entry>
         <entry>pink</entry>
         <entry>Emitted no files</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxlbWl0dGVkU291cmNlRmlsZXNcPg==</entry>
         <entry encoding="base64">XDxnZW5GaWxlc1w+</entry>
         <entry encoding="base64">XDx3cml0ZVRzRmlsZVw+</entry>
+        <entry encoding="base64">XDxnZXRTb3VyY2VGaWxlc0ZvckVtaXRcPg==</entry>
+        <entry>console</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -124,16 +124,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.scss" timestamp="1589460122045">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.scss" timestamp="1589471392425">
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.scss" timestamp="1589475455490">
         <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="29" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/mylibapp/src/app/app.component.scss" timestamp="1589467192576">
         <mark key="[" line="2" column="21" />
@@ -141,16 +136,21 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1589474118334">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="199" column="29" />
+      </file>
       <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/tsconfig.lib.prod.json" timestamp="1589461936041">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/angular.json" timestamp="1589465177516">
-        <mark key="'" line="77" column="22" />
-        <mark key="[" line="125" column="53" />
-        <mark key="]" line="125" column="54" />
-        <mark key="^" line="125" column="54" />
-        <mark key="." line="125" column="53" />
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/angular.json" timestamp="1589475391642">
+        <mark key="'" line="130" column="45" />
+        <mark key="[" line="66" column="44" />
+        <mark key="]" line="66" column="45" />
+        <mark key="^" line="66" column="45" />
+        <mark key="." line="66" column="44" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/gulpfile.js" timestamp="1589460957070">
         <mark key="'" line="0" column="0" />
@@ -160,39 +160,28 @@
         <mark key="[" line="7648" column="4" />
         <mark key="]" line="7648" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/mylibapp/tsconfig.app.json" timestamp="1589465394038">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.scss" timestamp="1589460143354">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/ng-lib-watch/dist/lib1/fesm5/ng-lib1.js" timestamp="1589467301092">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" timestamp="1589472055394">
-        <mark key="'" line="326" column="16" />
-        <mark key="[" line="403" column="32" />
-        <mark key="]" line="403" column="46" />
-        <mark key="." line="403" column="45" />
-        <mark key="^" line="403" column="46" />
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" timestamp="1589474296164">
+        <mark key="'" line="375" column="18" />
+        <mark key="[" line="733" column="25" />
+        <mark key="]" line="733" column="49" />
+        <mark key="." line="733" column="48" />
+        <mark key="^" line="733" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/tsconfig.json" timestamp="1589466609306">
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/tsconfig.json" timestamp="1589475613920">
         <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="11" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.ts" timestamp="1589468506897">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="42" />
-        <mark key="." line="9" column="41" />
-        <mark key="^" line="9" column="42" />
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.ts" timestamp="1589475314048">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" timestamp="1589461299887">
         <mark key="[" line="39" column="21" />
@@ -200,11 +189,10 @@
         <mark key="^" line="39" column="28" />
         <mark key="." line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/package.json" timestamp="1589466508957">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/package.json" timestamp="1589475058009">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1589460466400" />
       <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1589460795710">
@@ -212,31 +200,8 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/status-badge/status-badge.component.scss" timestamp="1589460256000">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="16" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="162" column="45" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="52" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="59" column="62" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="62" column="5" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="193" column="5" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="194" column="14" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="197" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="202" column="14" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
-      <jump line="22" column="75" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
-      <jump line="37" column="1" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.spec.ts" />
-      <jump line="114" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
-      <jump line="132" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
-      <jump line="211" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
-      <jump line="107" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.spec.ts" />
-      <jump line="109" column="5" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.spec.ts" />
-      <jump line="23" column="55" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="25" column="70" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="26" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="29" column="31" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
@@ -283,7 +248,6 @@
       <jump line="80" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/tooling/gulpfile.js" />
       <jump line="24" column="45" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
-      <jump line="125" column="54" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
       <jump line="63" column="54" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
       <jump line="77" column="22" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
@@ -304,14 +268,10 @@
       <jump line="7643" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
       <jump line="13" column="737" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="300" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="309" column="32" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="310" column="20" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="414" column="31" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="320" column="27" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="319" column="0" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="318" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="252" column="31" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="216" column="59" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="427" column="51" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="277" column="70" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="433" column="31" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
@@ -319,6 +279,29 @@
       <jump line="322" column="104" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="316" column="41" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="326" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="387" column="45" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
+      <jump line="903" column="52" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="215" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="216" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="278" column="10" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="291" column="12" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="301" column="12" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="303" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="309" column="15" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="310" column="12" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="312" column="14" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="320" column="15" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="327" column="14" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="328" column="14" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="332" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="388" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="403" column="18" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
+      <jump line="125" column="23" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
+      <jump line="166" column="20" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
+      <jump line="66" column="45" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
+      <jump line="81" column="22" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
+      <jump line="130" column="45" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,47 +310,48 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>pink</text>
+        <text>lib1</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>pink</text>
+        <text>lib1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZVRzRmlsZVw+</text>
+        <text>css</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnd3JpdGVUc0ZpbGUgX2VtaXRSZW5kZXIyOiBvdXRGaWxlTmFtZTogJywgb3V0RmlsZU5hbWUpOwogICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd3cml0ZVRzRmlsZSBfZW1pdFJlbmRlcjI6IHNvdXJjZUZpbGVzOiAnLCBzb3VyY2VGaWxlcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8dHMtZXhwYW5zaW9uLXBhbmVsCiAgICAgICAgICBbaGlkZVRvZ2dsZV09InRydWUiCiAgICAgICAgICBbaXNFeHBhbmRlZF09ImV4cGFuZGVkVXVpZCA9PT0gaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgIChhZnRlckV4cGFuZCk9InJvd0lzVmlzaWJsZSA9IHRydWUiCiAgICAgICAgICAoZXhwYW5kZWRDaGFuZ2UpPSIhJGV2ZW50ID8gcm93SXNWaXNpYmxlID0gZmFsc2UgOiBudWxsIgogICAgICAgID4KICAgICAgICAgIDx0cy1leHBhbnNpb24tcGFuZWwtdHJpZ2dlcgogICAgICAgICAgICBjb2xsYXBzZWRIZWlnaHQ9IjBweCIKICAgICAgICAgICAgZXhwYW5kZWRIZWlnaHQ9IjBweCIKICAgICAgICAgID48L3RzLWV4cGFuc2lvbi1wYW5lbC10cmlnZ2VyPgoKICAgICAgICAgIDxuZy10ZW1wbGF0ZSB0c0V4cGFuc2lvblBhbmVsQ29udGVudD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWNjb3VudC1ncmFwaC1jb250YWluZXIiIGZ4TGF5b3V0PSJyb3ciPgogICAgICAgICAgICAgIDxhcHAtcmV0YXJnZXRpbmctYWNjb3VudC1ncmFwaAogICAgICAgICAgICAgICAgKm5nSWY9InJvd0lzVmlzaWJsZSIKICAgICAgICAgICAgICAgIGZ4RmxleAogICAgICAgICAgICAgICAgW2FjY291bnRVdWlkXT0iaXRlbS5hY2NvdW50VXVpZCIKICAgICAgICAgICAgICAgIFtkYXRhXT0iYWNjb3VudEdyYXBoRGF0YSIKICAgICAgICAgICAgICAgIFtzaG93U2Nyb2xsYmFyXT0idHJ1ZSIKICAgICAgICAgICAgICAgIFtpc0xvYWRpbmddPSJhY2NvdW50R3JhcGhJc0xvYWRpbmciCiAgICAgICAgICAgICAgPjwvYXBwLXJldGFyZ2V0aW5nLWFjY291bnQtZ3JhcGg+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9uZy10ZW1wbGF0ZT4KICAgICAgICA8L3RzLWV4cGFuc2lvbi1wYW5lbD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2l0ZW06ICcsIGl0ZW0pOwo=</text>
+      <register name="1" type="8">
+        <text>dist
+dist</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBzdHlsZXM6IFtdCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJAbmcvbGliMSI6ICJmaWxlOmRpc3QvbGliMSIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJAbmcvbGliMSI6ICJmaWxlOmRpc3QvbGliMSIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2l0ZW06ICcsIGl0ZW0pOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcigndGhpcy5lbWl0dGVkR2VuZXJhdGVkRmlsZXM6ICcsIHRoaXMuZW1pdHRlZEdlbmVyYXRlZEZpbGVzKTsK</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>2
 2</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAiZGlzdC9saWIxL2xpYjEiLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICJAbmcvbGliMSI6ICJmaWxlOmRpc3QvbGliMSIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJydW4tcCI6ICIwLjAuMCIsCg==</text>
-      </register>
-      <register name="7" type="8">
-        <text>your-library-name</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>your-library-name</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -376,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx3cml0ZVRzRmlsZVw+</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZVRzRmlsZVw+</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-replace>trigger-inner</last-replace>
       <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
