@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>created</entry>
         <entry encoding="base64">XDxUaW1lQ29tcG9uZW50XD4=</entry>
         <entry>drawer</entry>
         <entry encoding="base64">XDxkcmF3ZXJcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxvdXRsaW5lXD4=</entry>
         <entry>generate:styles</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -129,21 +129,36 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.scss" timestamp="1589465452663">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/tsconfig.lib.prod.json" timestamp="1589461936041">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/angular.json" timestamp="1589465177516">
+        <mark key="'" line="77" column="22" />
+        <mark key="[" line="125" column="53" />
+        <mark key="]" line="125" column="54" />
+        <mark key="^" line="125" column="54" />
+        <mark key="." line="125" column="53" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/gulpfile.js" timestamp="1589460957070">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/mylibapp/tsconfig.app.json" timestamp="1589465394038">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.scss" timestamp="1589460143354">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.spec.ts" timestamp="1589396239925">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="53" column="2" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" timestamp="1589458650950">
         <mark key="[" line="79" column="31" />
@@ -166,10 +181,10 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.ts" timestamp="1589461916140">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/Desktop/ng-lib-watch/projects/lib1/src/lib/lib1.component.ts" timestamp="1589465149428">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="36" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.scss" timestamp="1589461299887">
@@ -195,17 +210,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" timestamp="1589398964837">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.scss" />
-      <jump line="260" column="32" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
-      <jump line="101" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.ts" />
-      <jump line="113" column="33" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/drawer-form/drawer-form.component.html" />
       <jump line="13" column="6" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/tactic-details/components/tactic-settings-drawer/tactic-settings-drawer.component.html" />
       <jump line="305" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="494" column="36" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
@@ -302,6 +308,10 @@
       <jump line="222" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
       <jump line="80" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.component.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/tooling/gulpfile.js" />
+      <jump line="24" column="45" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
+      <jump line="125" column="54" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
+      <jump line="63" column="54" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
+      <jump line="77" column="22" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,17 +319,17 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAiYW5ndWxhckNvbXBpbGVyT3B0aW9ucyI6IHsKICB9LAo=</text>
+      <register name="*" type="4">
+        <text>red</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
-        <text>generate:styles</text>
+        <text>css</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiYW5ndWxhckNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJlbmFibGVJdnkiOiBmYWxzZQogIH0K</text>
@@ -359,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>generate:styles</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern>generate:styles</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-replace>trigger-inner</last-replace>
       <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
