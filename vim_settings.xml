@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Emitted no files</entry>
-        <entry>checking for source file</entry>
-        <entry encoding="base64">XDxvdXRTcmNNYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxlbWl0dGVkU291cmNlRmlsZXNcPg==</entry>
         <entry encoding="base64">XDxnZW5GaWxlc1w+</entry>
         <entry encoding="base64">XDx3cml0ZVRzRmlsZVw+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxjbGFzc1w+</entry>
         <entry>retargetingTableAccountsMock</entry>
         <entry>help</entry>
+        <entry encoding="base64">XDxBY2NvdW50VGFibGVGaWx0ZXJDaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDx0eXBlRmlsdGVyTW9kZWxcPg==</entry>
+        <entry encoding="base64">XDx0ZXh0RmlsdGVyQ29udHJvbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -172,12 +172,12 @@
       <file name="$USER_HOME$/Desktop/ng-simple-alert/package.json" timestamp="1589476270199">
         <mark key="'" line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1589546035550">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1589547747243">
         <mark key="'" line="51" column="14" />
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="9" column="65" />
-        <mark key="." line="9" column="64" />
-        <mark key="^" line="9" column="65" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/card/src/card.component.ts" timestamp="1589481768526">
         <mark key="[" line="63" column="26" />
@@ -205,14 +205,14 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1589545949391">
-        <mark key="'" line="331" column="0" />
-        <mark key="[" line="118" column="2" />
-        <mark key="]" line="214" column="38" />
-        <mark key="^" line="118" column="35" />
-        <mark key="." line="118" column="34" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1589547781697">
+        <mark key="'" line="293" column="15" />
+        <mark key="[" line="294" column="45" />
+        <mark key="]" line="295" column="47" />
+        <mark key="." line="295" column="46" />
+        <mark key="^" line="295" column="47" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1589545993219">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1589547589309">
         <mark key="'" line="389" column="41" />
         <mark key="[" line="58" column="3" />
         <mark key="]" line="58" column="7" />
@@ -227,13 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="19" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="523" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="529" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="116" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="299" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="308" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="319" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="328" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="346" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="356" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
@@ -327,6 +320,13 @@
       <jump line="100" column="40" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
       <jump line="52" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
       <jump line="388" column="41" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
+      <jump line="167" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
+      <jump line="235" column="62" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
+      <jump line="211" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
+      <jump line="282" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
+      <jump line="209" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
+      <jump line="283" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
+      <jump line="292" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,47 +334,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>also</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaW5jbHVkZUZvcm1lckFjY291bnROYW1lcy52YWx1ZUNoYW5nZXMK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>also</text>
+        <text>(ngModel)</text>
       </register>
       <register name="/" type="4">
-        <text>help</text>
+        <text encoding="base64">XDx0ZXh0RmlsdGVyQ29udHJvbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>retargetingTableAccountsMockInitial</text>
+        <text>includeFormerAccountNames</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuaW5jbHVkZUZvcm1lckFjY291bnROYW1lcy52YWx1ZUNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICBwdWJsaWMgaW5jbHVkZUZvcm1lckFjY291bnROYW1lcyA9IHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogOwo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
@@ -383,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>help</last-search>
+      <last-search encoding="base64">XDx0ZXh0RmlsdGVyQ29udHJvbFw+</last-search>
       <last-offset />
-      <last-pattern>help</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXh0RmlsdGVyQ29udHJvbFw+</last-pattern>
       <last-replace>trigger-inner</last-replace>
       <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
