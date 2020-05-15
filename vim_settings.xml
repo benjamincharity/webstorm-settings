@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>watch</entry>
-        <entry>replace</entry>
-        <entry>graph</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQ2hhcnREYXRhXD4=</entry>
         <entry>heads-up</entry>
         <entry encoding="base64">XDxoZWFkc1VwR3JhcGhSZWNvcmRzXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>should emit current filters state when any filter changes</entry>
         <entry>package</entry>
         <entry>ng-content</entry>
+        <entry>customValidationMessageCtrl</entry>
+        <entry>in if</entry>
+        <entry>Basic</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -44,9 +44,9 @@
         <entry>%s/field-value/editable-form__static-value/g</entry>
         <entry>%s/disabled-value/editable-form--disabled/g</entry>
         <entry>%s/trigger_inner/trigger-inner/g</entry>
+        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>noh</entry>
-        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,12 +117,18 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1589544763956">
-        <mark key="'" line="247" column="55" />
-        <mark key="[" line="135" column="17" />
-        <mark key="]" line="135" column="38" />
-        <mark key="^" line="182" column="68" />
-        <mark key="." line="135" column="17" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/custom-validation.directive.ts" timestamp="1589559995646">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="6" column="50" />
+        <mark key="^" line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/testing/src/test-components.ts" timestamp="1589563778705">
+        <mark key="'" line="36" column="26" />
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="50" />
+        <mark key="^" line="23" column="51" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/projects/tokens/release-package.json" timestamp="1589553320824">
         <mark key="[" line="75" column="3" />
@@ -130,23 +136,23 @@
         <mark key="." line="75" column="3" />
         <mark key="^" line="74" column="5" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.html" timestamp="1589558120882">
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.html" timestamp="1589560702134">
         <mark key="j" line="15" column="2" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/form-field.component.html" timestamp="1589558117699">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/form-field.component.html" timestamp="1589561034669">
+        <mark key="'" line="49" column="9" />
+        <mark key="[" line="68" column="52" />
+        <mark key="]" line="68" column="56" />
+        <mark key="." line="68" column="55" />
+        <mark key="^" line="68" column="56" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.ts" timestamp="1589483890958">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="45" />
-        <mark key="^" line="30" column="45" />
-        <mark key="." line="30" column="44" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tsconfig.json" timestamp="1589564649993">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.scss" timestamp="1589550109293">
         <mark key="[" line="75" column="2" />
@@ -154,12 +160,12 @@
         <mark key="." line="76" column="86" />
         <mark key="^" line="76" column="87" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" timestamp="1589558041296">
-        <mark key="'" line="47" column="49" />
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="47" column="22" />
-        <mark key="." line="47" column="22" />
-        <mark key="^" line="47" column="23" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" timestamp="1589560936932">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+        <mark key="^" line="47" column="51" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" timestamp="1589550229167">
         <mark key="'" line="0" column="0" />
@@ -168,30 +174,36 @@
         <mark key="." line="108" column="13" />
         <mark key="^" line="108" column="14" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" timestamp="1589483364492">
-        <mark key="'" line="56" column="20" />
-        <mark key="[" line="60" column="17" />
-        <mark key="]" line="60" column="35" />
-        <mark key="^" line="60" column="36" />
-        <mark key="." line="60" column="35" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" timestamp="1589564358761">
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="154" column="55" />
+        <mark key="]" line="154" column="56" />
+        <mark key="." line="154" column="55" />
+        <mark key="^" line="154" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/form-field.module.ts" timestamp="1589560011634">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/package.json" timestamp="1589554372133">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="23" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.ts" timestamp="1589557713191">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="104" />
-        <mark key="]" line="17" column="104" />
-        <mark key="." line="17" column="104" />
-        <mark key="^" line="17" column="105" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.ts" timestamp="1589561918477">
+        <mark key="'" line="32" column="42" />
+        <mark key="[" line="63" column="90" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="32" />
+        <mark key="^" line="64" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.ts" timestamp="1589557629272">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="15" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.ts" timestamp="1589560709480">
+        <mark key="'" line="50" column="38" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/package.json" timestamp="1589554379144">
         <mark key="'" line="0" column="0" />
@@ -200,13 +212,6 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="50" column="83" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/spend-graph/graph/graph.component.ts" timestamp="1589483328470">
-        <mark key="'" line="100" column="11" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="54" column="64" />
-        <mark key="." line="54" column="63" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1589553106587">
         <mark key="'" line="20" column="51" />
         <mark key="[" line="289" column="0" />
@@ -214,11 +219,9 @@
         <mark key="^" line="254" column="40" />
         <mark key="." line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/table-data.mock.ts" timestamp="1589544846921">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/tsconfig.spec.json" timestamp="1589564648044">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1589547781697">
         <mark key="'" line="293" column="15" />
@@ -234,39 +237,8 @@
         <mark key="." line="62" column="192" />
         <mark key="^" line="62" column="193" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-graph/account-graph.component.html" timestamp="1589484043344">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="26" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="45" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
-      <jump line="63" column="54" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
-      <jump line="77" column="22" filename="$USER_HOME$/Desktop/ng-lib-watch/angular.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="7644" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="7645" column="66" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="7648" column="7" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="7650" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="7652" column="66" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="7655" column="7" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="11434" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="16707" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="16717" column="12" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="19478" column="3" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="19480" column="63" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="19485" column="7" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="19487" column="3" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="19489" column="67" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="7643" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/yarn.lock" />
-      <jump line="13" column="737" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="300" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="414" column="31" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="319" column="0" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="318" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="252" column="31" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="427" column="51" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="277" column="70" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="433" column="31" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
@@ -341,7 +313,32 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/form-field.component.html" />
       <jump line="26" column="21" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
-      <jump line="47" column="49" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
+      <jump line="47" column="48" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
+      <jump line="48" column="4" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.ts" />
+      <jump line="51" column="38" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.ts" />
+      <jump line="52" column="9" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/form-field.component.html" />
+      <jump line="19" column="19" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="56" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/testing/src/test-components.ts" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="127" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="123" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="32" column="42" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.ts" />
+      <jump line="150" column="51" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="17" column="6" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/testing/src/test-components.ts" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/testing/src/test-components.ts" />
+      <jump line="41" column="24" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="165" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="154" column="26" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="13" column="34" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="44" column="31" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/testing/src/test-components.ts" />
+      <jump line="163" column="14" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="36" column="26" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/testing/src/test-components.ts" />
+      <jump line="155" column="41" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
+      <jump line="28" column="24" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -350,57 +347,57 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgPC9uZy1jb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS8qIjogWwogICAgICAgICJwcm9qZWN0cy9saWJyYXJ5Lyovc3JjL3B1YmxpYy1hcGkiCiAgICAgIF0sCiAgICAgICJAdGVybWludXMvdWkvKi90ZXN0aW5nIjogWwogICAgICAgICJwcm9qZWN0cy9saWJyYXJ5LyovdGVzdGluZy9zcmMvcHVibGljLWFwaSIKICAgICAgXQo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>counter</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
-        <text>ng-content</text>
+        <text>Basic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPC9uZy1jb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aSI6IFsKICAgICAgICAiZGlzdC9saWJyYXJ5L3Rlcm1pbnVzLXVpIiwKICAgICAgICAiZGlzdC9saWJyYXJ5IgogICAgICBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9uZy1jb250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS8qIjogWwogICAgICAgICJwcm9qZWN0cy9saWJyYXJ5Lyovc3JjL3B1YmxpYy1hcGkiCiAgICAgIF0sCiAgICAgICJAdGVybWludXMvdWkvKi90ZXN0aW5nIjogWwogICAgICAgICJwcm9qZWN0cy9saWJyYXJ5LyovdGVzdGluZy9zcmMvcHVibGljLWFwaSIKICAgICAgXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPG5nLWNvbnRhaW5lciBuZ1Byb2plY3RBcz0idHMtdmFsaWRhdGlvbi1tZXNzYWdlcyI+Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3RDb21wb25lbnRzOiAnLCB0ZXN0Q29tcG9uZW50cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ZhbGlkYXRpb25NZXNzYWdlSW5zdGFuY2U6ICcsIHZhbGlkYXRpb25NZXNzYWdlSW5zdGFuY2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhLCBiOiAnLCBhLCBiKTsK</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50ID0gZml4dHVyZS5jb21wb25lbnRJbnN0YW5jZTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+      <register name="5" type="8">
+        <text encoding="base64">KGEsIGIpID0+ICdNeSBtZXNzYWdlLic=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgZnhMYXlvdXQ9InJvdyIgW2Z4TGF5b3V0R2FwXT0iZmxleEdhcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgW21lc3NhZ2VzRmFjdG9yeV09Im15RmFjdG9yeSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHByZSBmeEZsZXg+Ci8vIFZhbGlkIGVtYWlsczoKZm9vQGJhci5jbwpmb29AYmFyLmJhei5uZXQKPC9wcmU+CgogICAgICA8cHJlIGZ4RmxleD4KLy8gSW52YWxpZCBlbWFpbHM6CmZvbwpmb29ACmZvb0BiYXIKZm9vQGJhci4KZm9vQGJhci5jCjwvcHJlPgogICAgPC9kaXY+Cgo=</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aSI6IFsKICAgICAgICAiZGlzdC9saWJyYXJ5L3Rlcm1pbnVzLXVpIiwKICAgICAgICAiZGlzdC9saWJyYXJ5IgogICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0icWEtZm9ybS1maWVsZC12YWxpZGF0aW9uLW1lc3NhZ2VzIgo=</text>
+        <text encoding="base64">ICAgICJwYXRocyI6IHsKICAgICAgIkB0ZXJtaW51cy91aSI6IFsKICAgICAgICAiZGlzdC9saWJyYXJ5L3Rlcm1pbnVzLXVpIiwKICAgICAgICAiZGlzdC9saWJyYXJ5IgogICAgICBdCiAgICB9Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>control.ngControl || control.formContro</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJwYXRocyI6IHsKICAgICAgIkB0ZXJtaW51cy91aS8qIjogWwogICAgICAgICJwcm9qZWN0cy9saWJyYXJ5Lyovc3JjL3B1YmxpYy1hcGkiCiAgICAgIF0KICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ng-content</last-search>
+      <last-search>Basic</last-search>
       <last-offset />
-      <last-pattern>ng-content</last-pattern>
+      <last-pattern>Basic</last-pattern>
       <last-replace>trigger-inner</last-replace>
       <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
