@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0eXBlRmlsdGVyTW9kZWxcPg==</entry>
-        <entry encoding="base64">XDx0ZXh0RmlsdGVyQ29udHJvbFw+</entry>
         <entry>tooltip</entry>
         <entry>Acccount</entry>
         <entry>Account</entry>
@@ -25,10 +23,10 @@
         <entry>react</entry>
         <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry>ng</entry>
+        <entry>ngx</entry>
+        <entry>bjpc</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
-        <entry>%s/matFooterCellDef/tsFooterCellDef/g</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>action ESLintFix</entry>
@@ -44,9 +42,11 @@
         <entry>%s/field-value/editable-form__static-value/g</entry>
         <entry>%s/disabled-value/editable-form--disabled/g</entry>
         <entry>%s/trigger_inner/trigger-inner/g</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>noh</entry>
+        <entry>%s/ngx/bjpc/g</entry>
+        <entry>action RenameElement</entry>
+        <entry>%s/bjpc/npx/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,45 +113,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/libs/ngx-responsive-nav/src/lib/ngx-responsive-nav.module.ts" timestamp="1589644937751" />
-      <file name="$USER_HOME$/code/open-source/bjpc/package.json" timestamp="1589649225872">
-        <mark key="[" line="68" column="25" />
-        <mark key="]" line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-        <mark key="." line="68" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.scss" timestamp="1589651879195">
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.scss" timestamp="1589653772611">
         <mark key="'" line="44" column="28" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="56" column="14" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="4" />
       </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" timestamp="1589651802327">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="5" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="5" />
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" timestamp="1589653789015">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/.prettierrc" timestamp="1589643987795">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="1" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/react-responsive-nav/src/lib/react-responsive-nav.tsx" timestamp="1589649064876">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/libs/ngx-responsive-nav/src/lib/ngx-nav-item.directive.ts" timestamp="1589644372803">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="27" />
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/bjpc-responsive-nav/src/lib/bjpc-responsive-nav.module.spec.ts" timestamp="1589653302149">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase-react/src/app/app.tsx" timestamp="1589648866762">
         <mark key="'" line="111" column="14" />
@@ -160,16 +141,68 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.html" timestamp="1589651976190">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.html" timestamp="1589653901266">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.scss" timestamp="1589650753786">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.ts" timestamp="1589654024041">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="9" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/nx.json" timestamp="1589653575292">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-item/nav-item.directive.ts" timestamp="1589653888342">
+        <mark key="'" line="14" column="27" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/package.json" timestamp="1589649225872">
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="24" />
+        <mark key="^" line="68" column="24" />
+        <mark key="." line="68" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/ngx-responsive-nav.module.spec.ts" timestamp="1589653561092">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-logo/nav-logo.directive.ts" timestamp="1589653820053">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/react-responsive-nav/src/lib/react-responsive-nav.tsx" timestamp="1589649064876">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.module.ts" timestamp="1589653635244">
+        <mark key="'" line="2" column="47" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/code/open-source/bjpc/libs/react-responsive-nav/src/index.ts" timestamp="1589648944040">
         <mark key="[" line="0" column="50" />
@@ -177,68 +210,22 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.ts" timestamp="1589651202926">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/code/open-source/bjpc/angular.json" timestamp="1589653371481">
+        <mark key="'" line="141" column="35" />
+        <mark key="[" line="141" column="35" />
+        <mark key="]" line="141" column="36" />
+        <mark key="." line="141" column="35" />
+        <mark key="^" line="141" column="36" />
       </file>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/apps/showcase/src/app/app.component.html" timestamp="1589645813649">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="1" />
-        <mark key="n" line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" timestamp="1589645007331">
-        <mark key="'" line="130" column="7" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/angular.json" timestamp="1589649282971">
-        <mark key="[" line="170" column="6" />
-        <mark key="]" line="170" column="5" />
-        <mark key="." line="170" column="4" />
-        <mark key="^" line="170" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/libs/ngx-responsive-nav/src/lib/ngx-responsive-nav/ngx-responsive-nav.component.ts" timestamp="1589644258501">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="53" />
-        <mark key="." line="5" column="52" />
-        <mark key="^" line="5" column="53" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/nx.json" timestamp="1589649198413">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-item/nav-item.directive.ts" timestamp="1589651573186">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/package.json" timestamp="1589644101547">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-trigger/nav-trigger.directive.ts" timestamp="1589653812605">
+        <mark key="'" line="3" column="18" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="235" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="179" column="44" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
-      <jump line="187" column="22" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="246" column="55" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
-      <jump line="224" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="226" column="43" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
-      <jump line="189" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
-      <jump line="174" column="8" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
-      <jump line="217" column="13" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
       <jump line="331" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
       <jump line="259" column="37" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
       <jump line="58" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
@@ -329,6 +316,16 @@
       <jump line="14" column="40" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" />
       <jump line="18" column="7" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" />
       <jump line="11" column="5" filename="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.html" />
+      <jump line="3" column="33" filename="$USER_HOME$/code/open-source/bjpc/libs/bjpc-responsive-nav/src/lib/bjpc-responsive-nav.module.spec.ts" />
+      <jump line="10" column="19" filename="$USER_HOME$/code/open-source/bjpc/libs/bjpc-responsive-nav/src/lib/bjpc-responsive-nav.module.spec.ts" />
+      <jump line="17" column="42" filename="$USER_HOME$/code/open-source/bjpc/angular.json" />
+      <jump line="141" column="35" filename="$USER_HOME$/code/open-source/bjpc/angular.json" />
+      <jump line="2" column="47" filename="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.module.ts" />
+      <jump line="0" column="14" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" />
+      <jump line="3" column="18" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-trigger/nav-trigger.directive.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-logo/nav-logo.directive.ts" />
+      <jump line="14" column="27" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-item/nav-item.directive.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,62 +333,62 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>Women</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmxpc3RJdGVtczogJywgdGhpcy5saXN0SXRlbXMpOwoKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBjb25zb2xlLmxvZygndGhpcy5saXN0SXRlbXM6IGxhdGU6ICcsIHRoaXMubGlzdEl0ZW1zKTsKICAgIH0sIDMwMDApOwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Women</text>
+        <text>late</text>
       </register>
       <register name="/" type="4">
-        <text>ng</text>
+        <text>bjpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8YnV0dG9uICpianBjTmF2SXRlbT5Xb21lbjwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RoaXMubGlzdEl0ZW1zOiBsYXRlOiAnLCB0aGlzLmxpc3RJdGVtcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8YnV0dG9uICpianBjTmF2SXRlbT5TYWxlczwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLmxpc3RJdGVtczogJywgdGhpcy5saXN0SXRlbXMpOwoKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBjb25zb2xlLmxvZygndGhpcy5saXN0SXRlbXM6IGxhdGU6ICcsIHRoaXMubGlzdEl0ZW1zKTsKICAgIH0sIDMwMDApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpCg==</text>
+      <register name="3" type="8">
+        <text>ngx</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="8">
+        <text>ngx</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8cD48L3A+Cg==</text>
+      <register name="5" type="8">
+        <text>ngx</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBMaWJlcm8gdml0YWUgbmlzaS4gVGVtcG9yZSBjb25zZXF1YXR1ciBhdXQgcXVhc2kgb3B0aW8gbmFtIG51bGxhLiBEb2xvcmVtcXVlIGRvbG9yZW1xdWUgZXhlcmNpdGF0aW9uZW0uCg==</text>
+      <register name="6" type="4">
+        <text>''</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8aDI+TmV4dCBTdGVwczwvaDI+CiAgPHA+SGVyZSBhcmUgc29tZSB0aGluZ3MgeW91IGNhbiBkbyB3aXRoIE54LjwvcD4KICA8ZGV0YWlscyBvcGVuPgogICAgPHN1bW1hcnk+QWRkIFVJIGxpYnJhcnk8L3N1bW1hcnk+CiAgICA8cHJlPgojIEdlbmVyYXRlIFVJIGxpYgpuZyBnIEBucndsL2FuZ3VsYXI6bGliIHVpCgojIEFkZCBhIGNvbXBvbmVudApuZyBnIEBucndsL2FuZ3VsYXI6Y29tcG9uZW50IHh5eiAtLXByb2plY3QgdWk8L3ByZQogICAgPgogIDwvZGV0YWlscz4KICA8ZGV0YWlscz4KICAgIDxzdW1tYXJ5PlZpZXcgZGVwZW5kZW5jeSBncmFwaDwvc3VtbWFyeT4KICAgIDxwcmU+bnggZGVwLWdyYXBoPC9wcmU+CiAgPC9kZXRhaWxzPgogIDxkZXRhaWxzPgogICAgPHN1bW1hcnk+UnVuIGFmZmVjdGVkIGNvbW1hbmRzPC9zdW1tYXJ5PgogICAgPHByZT4KIyBzZWUgd2hhdCdzIGJlZW4gYWZmZWN0ZWQgYnkgY2hhbmdlcwpuZyBhZmZlY3RlZDpkZXAtZ3JhcGgKCiMgcnVuIHRlc3RzIGZvciBjdXJyZW50IGNoYW5nZXMKbmcgYWZmZWN0ZWQ6dGVzdAoKIyBydW4gZTJlIHRlc3RzIGZvciBjdXJyZW50IGNoYW5nZXMKbmcgYWZmZWN0ZWQ6ZTJlCjwvcHJlCiAgICA+CiAgPC9kZXRhaWxzPgo=</text>
+      <register name="7" type="4">
+        <text>should create</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="8" type="4">
+        <text>''</text>
+      </register>
+      <register name="9" type="4">
+        <text>BjpcResponsiveNavModule</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>%s/bjpc/npx/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ng</last-search>
+      <last-search>bjpc</last-search>
       <last-offset />
-      <last-pattern>ng</last-pattern>
-      <last-replace>trigger-inner</last-replace>
-      <last-substitute>trigger_inner</last-substitute>
+      <last-pattern>bjpc</last-pattern>
+      <last-replace>npx</last-replace>
+      <last-substitute>bjpc</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
