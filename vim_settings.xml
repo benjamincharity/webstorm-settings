@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoZWFkc1VwR3JhcGhSZWNvcmRzXD4=</entry>
-        <entry>table</entry>
-        <entry encoding="base64">XDxhY2NvdW50R3JhcGhEYXRhXD4=</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
         <entry>retargetingTableAccountsMock</entry>
         <entry>help</entry>
@@ -25,6 +22,9 @@
         <entry>Basic</entry>
         <entry encoding="base64">XDxzZXRGYWN0b3J5XD4=</entry>
         <entry>prettier</entry>
+        <entry>workspace-lint</entry>
+        <entry>tslint</entry>
+        <entry>prefix</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -113,10 +113,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/package.json" timestamp="1589554364740">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="23" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/custom-validation.directive.ts" timestamp="1589559995646">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="39" />
@@ -136,17 +132,24 @@
         <mark key="." line="23" column="50" />
         <mark key="^" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/design-tokens/projects/tokens/release-package.json" timestamp="1589553320824">
-        <mark key="[" line="75" column="3" />
-        <mark key="]" line="75" column="3" />
-        <mark key="." line="75" column="3" />
-        <mark key="^" line="74" column="5" />
+      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/.prettierrc" timestamp="1589643987795">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.html" timestamp="1589560702134">
         <mark key="j" line="15" column="2" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/libs/ngx-responsive-nav/src/lib/ngx-nav-item.directive.ts" timestamp="1589644372803">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/form-field/src/form-field.component.html" timestamp="1589567372544">
         <mark key="'" line="49" column="9" />
@@ -180,11 +183,6 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/design-tokens/dist/tokens/package.json" timestamp="1589554372133">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.component.ts" timestamp="1589561918477">
         <mark key="'" line="32" column="42" />
         <mark key="[" line="63" column="90" />
@@ -192,44 +190,33 @@
         <mark key="." line="64" column="32" />
         <mark key="^" line="64" column="33" />
       </file>
+      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" timestamp="1589644391954">
+        <mark key="'" line="140" column="7" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.ts" timestamp="1589560709480">
         <mark key="'" line="50" column="38" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/design-tokens/package.json" timestamp="1589554379144">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="23" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="50" column="83" />
+      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/libs/ngx-responsive-nav/src/lib/ngx-responsive-nav/ngx-responsive-nav.component.ts" timestamp="1589644258501">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="53" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1589553106587">
-        <mark key="'" line="20" column="51" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="42" />
-        <mark key="^" line="254" column="40" />
-        <mark key="." line="289" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/package.json" timestamp="1589643217443">
-        <mark key="'" line="53" column="5" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
+      <file name="$USER_HOME$/code/open-source/ngx-responsive-nav/package.json" timestamp="1589644101547">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="29" />
         <mark key="." line="53" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="104" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="316" column="41" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="326" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="387" column="45" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="903" column="52" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="215" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="216" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="278" column="10" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="291" column="12" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
-      <jump line="301" column="12" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="303" column="16" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="309" column="15" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
       <jump line="310" column="12" filename="$USER_HOME$/Desktop/ng-lib-watch/node_modules/@angular/compiler-cli/src/transformers/program.js" />
@@ -319,7 +306,17 @@
       <jump line="7" column="4" filename="$USER_HOME$/code/Terminus/terminus-ui/node_modules/@terminus/ui/validation-messages/testing/test-components.d.ts" />
       <jump line="48" column="5" filename="$USER_HOME$/code/Terminus/terminus-ui/dist/library/fesm2015/terminus-ui-validation-messages-testing.js" />
       <jump line="15" column="37" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/.prettierrc" />
+      <jump line="19" column="29" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/package.json" />
       <jump line="53" column="5" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/package.json" />
+      <jump line="10" column="16" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" />
+      <jump line="81" column="52" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" />
+      <jump line="123" column="52" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" />
+      <jump line="143" column="52" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" />
+      <jump line="14" column="17" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" />
+      <jump line="12" column="7" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" />
+      <jump line="140" column="7" filename="$USER_HOME$/code/open-source/ngx-responsive-nav/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,20 +324,20 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICJwcmV0dGllciI6ICIyLjAuNCIsCg==</text>
+      <register name="*" type="4">
+        <text>ngx-responsive-nav</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>validationWrapper.innerText | json</text>
+        <text>ngx-responsive-nav</text>
       </register>
       <register name="/" type="4">
-        <text>prettier</text>
+        <text>prefix</text>
       </register>
-      <register name="0" type="4">
-        <text>!(validationWrapper.innerText||'').trim()</text>
+      <register name="0" type="8">
+        <text>workspace-lint</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJwcmV0dGllciI6ICIyLjAuNCIsCg==</text>
@@ -376,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>prettier</last-search>
+      <last-search>prefix</last-search>
       <last-offset />
-      <last-pattern>prettier</last-pattern>
+      <last-pattern>prefix</last-pattern>
       <last-replace>trigger-inner</last-replace>
       <last-substitute>trigger_inner</last-substitute>
       <last-dir>1</last-dir>
