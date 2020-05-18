@@ -143,11 +143,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589807199414">
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="30" column="9" />
-        <mark key="." line="30" column="9" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589810306473">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1589806662457">
         <mark key="[" line="213" column="11" />
@@ -321,14 +321,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>/</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgXSwKICAgICAgIkB0ZXJtaW51cy91aS9pY29uIjogWwogICAgICAgICJsaWJzL3VpL3NyYy9saWIvaWNvbi9zcmMvcHVibGljLWFwaS50cyIK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>link</text>
       </register>
       <register name="/" type="4">
         <text>npx</text>
@@ -337,33 +337,33 @@
         <text>TsUtilitiesModule</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgXSwKICAgICAgIkB0ZXJtaW51cy91aS9pY29uIjogWwogICAgICAgICJsaWJzL3VpL3NyYy9saWIvaWNvbi9zcmMvcHVibGljLWFwaS50cyIK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>.module
 .module</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>../../../../libs/ui/src/lib/icon/src
 ../../../../libs/ui/src/lib/link/src</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIkBianBjL3JlYWN0LXJlc3BvbnNpdmUtbmF2IjogWyJsaWJzL3JlYWN0LXJlc3BvbnNpdmUtbmF2L3NyYy9pbmRleC50cyJdCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PHRzLWljb24+PC90cy1pY29uPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PHRzLWxpbms+VGVzdDwvdHMtbGluaz4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiQHRlcm1pbnVzL25neC10b29scyI6ICJ0ZXJtaW51cy5uZ3hUb29scyIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
