@@ -118,14 +118,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/ngx-responsive-nav.module.ts" timestamp="1589806470127" />
-      <file name="$USER_HOME$/code/open-source/bjpc/tsconfig.json" timestamp="1589806425643">
-        <mark key="[" line="18" column="74" />
-        <mark key="]" line="18" column="74" />
-        <mark key="." line="18" column="74" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/link/bundles/terminus-ui-link.umd.js" timestamp="1589818220855">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/style-helpers/index.scss" timestamp="1589824154976">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="15" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589817117792">
         <mark key="[" line="35" column="19" />
@@ -188,11 +188,17 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase/src/app/app.component.html" timestamp="1589806409109">
-        <mark key="'" line="8" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1589824739209">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="62" />
+        <mark key="^" line="27" column="62" />
+        <mark key="." line="27" column="61" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/scss-bundle.config.json" timestamp="1589824717019">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/ng-package.json" timestamp="1589823465663">
         <mark key="[" line="5" column="50" />
@@ -328,46 +334,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>_layout</text>
+        <text>/</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>_layout</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>foo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9AaW1wb3J0ICdzdHlsZXMvY3VzdG9tLXByb3BlcnRpZXMnOwo=</text>
+        <text encoding="base64">QGltcG9ydCAiYW5pbWF0aW9uIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>!implies</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAnfnN0eWxlLWhlbHBlcnMnOwo=</text>
+      <register name="2" type="8">
+        <text>/simple/main</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QGltcG9ydCAnfnN0eWxlLWhlbHBlcnMnOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInN0eWxlUHJlcHJvY2Vzc29yT3B0aW9ucyI6IHsKICAgICAgICAgICAgICAiaW5jbHVkZVBhdGhzIjogWyJsaWJzL3N0eWxlc2hlZXRzL3Njc3Mvc3JjL2xpYiJdCiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>style-helpers</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>/style-paths</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJsaWIiOiB7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjbwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJsaWIiOiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
