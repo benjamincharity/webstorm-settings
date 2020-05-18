@@ -153,16 +153,17 @@
         <mark key="[" line="213" column="11" />
         <mark key="]" line="213" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/ng-package.json" timestamp="1589805551217">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase/src/app/app.module.ts" timestamp="1589806528145">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="47" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1589811523816">
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/package.json" timestamp="1589805611914">
         <mark key="'" line="70" column="0" />
@@ -207,14 +208,14 @@
         <mark key="]" line="18" column="39" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/ng-package.json" timestamp="1589805520685">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="1" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1589811544036">
+        <mark key="[" line="135" column="6" />
+        <mark key="]" line="135" column="5" />
+        <mark key="^" line="135" column="5" />
+        <mark key="." line="135" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
       <jump line="47" column="48" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
       <jump line="49" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/input/src/input.component.html" />
       <jump line="48" column="4" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/components/validation/validation.component.ts" />
@@ -304,7 +305,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.eslintrc.js" />
       <jump line="61" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.eslintignore" />
-      <jump line="136" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/ng-package.json" />
       <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/ng-package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/package.json" />
@@ -314,6 +314,8 @@
       <jump line="7" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/src/lib/ui.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/src/lib/ui.module.ts" />
       <jump line="9" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase/src/app/app.component.html" />
+      <jump line="136" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="182" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +324,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgXSwKICAgICAgIkB0ZXJtaW51cy91aS9pY29uIjogWwogICAgICAgICJsaWJzL3VpL3NyYy9saWIvaWNvbi9zcmMvcHVibGljLWFwaS50cyIK</text>
+        <text encoding="base64">ICAgICJ1aSI6IHsKICAgICAgInByb2plY3RUeXBlIjogImxpYnJhcnkiLAogICAgICAicm9vdCI6ICJsaWJzL3VpIiwKICAgICAgInNvdXJjZVJvb3QiOiAibGlicy91aS9zcmMiLAogICAgICAicHJlZml4IjogInRlcm1pbnVzIiwKICAgICAgImFyY2hpdGVjdCI6IHsKICAgICAgICAiYnVpbGQiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAbnJ3bC9hbmd1bGFyOnBhY2thZ2UiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6ICJsaWJzL3VpL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgInByb2plY3QiOiAibGlicy91aS9uZy1wYWNrYWdlLmpzb24iCiAgICAgICAgICB9LAogICAgICAgICAgImNvbmZpZ3VyYXRpb25zIjogewogICAgICAgICAgICAicHJvZHVjdGlvbiI6IHsKICAgICAgICAgICAgICAidHNDb25maWciOiAibGlicy91aS90c2NvbmZpZy5saWIucHJvZC5qc29uIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICAibGludCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBhbmd1bGFyLWRldmtpdC9idWlsZC1hbmd1bGFyOnRzbGludCIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInRzQ29uZmlnIjogWwogICAgICAgICAgICAgICJsaWJzL3VpL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgICAibGlicy91aS90c2NvbmZpZy5zcGVjLmpzb24iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJleGNsdWRlIjogWwogICAgICAgICAgICAgICIqKi9ub2RlX21vZHVsZXMvKioiLAogICAgICAgICAgICAgICIhbGlicy91aS8qKiIKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgInRlc3QiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAbnJ3bC9qZXN0Omplc3QiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJqZXN0Q29uZmlnIjogImxpYnMvdWkvamVzdC5jb25maWcuanMiLAogICAgICAgICAgICAidHNDb25maWciOiAibGlicy91aS90c2NvbmZpZy5zcGVjLmpzb24iLAogICAgICAgICAgICAicGFzc1dpdGhOb1Rlc3RzIjogdHJ1ZSwKICAgICAgICAgICAgInNldHVwRmlsZSI6ICJsaWJzL3VpL3NyYy90ZXN0LXNldHVwLnRzIgogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSwKICAgICAgInNjaGVtYXRpY3MiOiB7CiAgICAgICAgIkBucndsL2FuZ3VsYXI6Y29tcG9uZW50IjogewogICAgICAgICAgInN0eWxlIjogInNjc3MiCiAgICAgICAgfQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -337,33 +339,33 @@
         <text>TsUtilitiesModule</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXSwKICAgICAgIkB0ZXJtaW51cy91aS9pY29uIjogWwogICAgICAgICJsaWJzL3VpL3NyYy9saWIvaWNvbi9zcmMvcHVibGljLWFwaS50cyIK</text>
+        <text encoding="base64">ICAgICJ1aSI6IHsKICAgICAgInByb2plY3RUeXBlIjogImxpYnJhcnkiLAogICAgICAicm9vdCI6ICJsaWJzL3VpIiwKICAgICAgInNvdXJjZVJvb3QiOiAibGlicy91aS9zcmMiLAogICAgICAicHJlZml4IjogInRlcm1pbnVzIiwKICAgICAgImFyY2hpdGVjdCI6IHsKICAgICAgICAiYnVpbGQiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAbnJ3bC9hbmd1bGFyOnBhY2thZ2UiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6ICJsaWJzL3VpL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgInByb2plY3QiOiAibGlicy91aS9uZy1wYWNrYWdlLmpzb24iCiAgICAgICAgICB9LAogICAgICAgICAgImNvbmZpZ3VyYXRpb25zIjogewogICAgICAgICAgICAicHJvZHVjdGlvbiI6IHsKICAgICAgICAgICAgICAidHNDb25maWciOiAibGlicy91aS90c2NvbmZpZy5saWIucHJvZC5qc29uIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICAibGludCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBhbmd1bGFyLWRldmtpdC9idWlsZC1hbmd1bGFyOnRzbGludCIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInRzQ29uZmlnIjogWwogICAgICAgICAgICAgICJsaWJzL3VpL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgICAibGlicy91aS90c2NvbmZpZy5zcGVjLmpzb24iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJleGNsdWRlIjogWwogICAgICAgICAgICAgICIqKi9ub2RlX21vZHVsZXMvKioiLAogICAgICAgICAgICAgICIhbGlicy91aS8qKiIKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgInRlc3QiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAbnJ3bC9qZXN0Omplc3QiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJqZXN0Q29uZmlnIjogImxpYnMvdWkvamVzdC5jb25maWcuanMiLAogICAgICAgICAgICAidHNDb25maWciOiAibGlicy91aS90c2NvbmZpZy5zcGVjLmpzb24iLAogICAgICAgICAgICAicGFzc1dpdGhOb1Rlc3RzIjogdHJ1ZSwKICAgICAgICAgICAgInNldHVwRmlsZSI6ICJsaWJzL3VpL3NyYy90ZXN0LXNldHVwLnRzIgogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSwKICAgICAgInNjaGVtYXRpY3MiOiB7CiAgICAgICAgIkBucndsL2FuZ3VsYXI6Y29tcG9uZW50IjogewogICAgICAgICAgInN0eWxlIjogInNjc3MiCiAgICAgICAgfQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICJ1aSI6IHsKICAgICAgInByb2plY3RUeXBlIjogImxpYnJhcnkiLAogICAgICAicm9vdCI6ICJsaWJzL3VpIiwKICAgICAgInNvdXJjZVJvb3QiOiAibGlicy91aS9zcmMiLAogICAgICAicHJlZml4IjogInRlcm1pbnVzIiwKICAgICAgImFyY2hpdGVjdCI6IHsKICAgICAgICAiYnVpbGQiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAbnJ3bC9hbmd1bGFyOnBhY2thZ2UiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6ICJsaWJzL3VpL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgInByb2plY3QiOiAibGlicy91aS9uZy1wYWNrYWdlLmpzb24iCiAgICAgICAgICB9LAogICAgICAgICAgImNvbmZpZ3VyYXRpb25zIjogewogICAgICAgICAgICAicHJvZHVjdGlvbiI6IHsKICAgICAgICAgICAgICAidHNDb25maWciOiAibGlicy91aS90c2NvbmZpZy5saWIucHJvZC5qc29uIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICAibGludCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBhbmd1bGFyLWRldmtpdC9idWlsZC1hbmd1bGFyOnRzbGludCIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInRzQ29uZmlnIjogWwogICAgICAgICAgICAgICJsaWJzL3VpL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgICAibGlicy91aS90c2NvbmZpZy5zcGVjLmpzb24iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJleGNsdWRlIjogWwogICAgICAgICAgICAgICIqKi9ub2RlX21vZHVsZXMvKioiLAogICAgICAgICAgICAgICIhbGlicy91aS8qKiIKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgInRlc3QiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAbnJ3bC9qZXN0Omplc3QiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJqZXN0Q29uZmlnIjogImxpYnMvdWkvamVzdC5jb25maWcuanMiLAogICAgICAgICAgICAidHNDb25maWciOiAibGlicy91aS90c2NvbmZpZy5zcGVjLmpzb24iLAogICAgICAgICAgICAicGFzc1dpdGhOb1Rlc3RzIjogdHJ1ZSwKICAgICAgICAgICAgInNldHVwRmlsZSI6ICJsaWJzL3VpL3NyYy90ZXN0LXNldHVwLnRzIgogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSwKICAgICAgInNjaGVtYXRpY3MiOiB7CiAgICAgICAgIkBucndsL2FuZ3VsYXI6Y29tcG9uZW50IjogewogICAgICAgICAgInN0eWxlIjogInNjc3MiCiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJ1aSI6IHsKICAgICAgInRhZ3MiOiBbXQogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgXSwKICAgICAgIkB0ZXJtaW51cy91aS9pY29uIjogWwogICAgICAgICJsaWJzL3VpL3NyYy9saWIvaWNvbi9zcmMvcHVibGljLWFwaS50cyIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>.module
 .module</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>../../../../libs/ui/src/lib/icon/src
 ../../../../libs/ui/src/lib/link/src</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIkBianBjL3JlYWN0LXJlc3BvbnNpdmUtbmF2IjogWyJsaWJzL3JlYWN0LXJlc3BvbnNpdmUtbmF2L3NyYy9pbmRleC50cyJdCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PHRzLWljb24+PC90cy1pY29uPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHRzLWxpbms+VGVzdDwvdHMtbGluaz4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PHRzLWljb24+PC90cy1pY29uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
