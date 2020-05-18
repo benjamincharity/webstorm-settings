@@ -113,24 +113,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.scss" timestamp="1589653772611">
-        <mark key="'" line="44" column="28" />
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="48" column="4" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" timestamp="1589653789015">
-        <mark key="'" line="0" column="14" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/test-setup.ts" timestamp="1589801395067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/package.json" timestamp="1589803911920">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="39" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="27" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/ngx-responsive-nav.module.spec.ts" timestamp="1589653561092">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.html" timestamp="1589655247279">
         <mark key="'" line="25" column="0" />
@@ -139,17 +138,37 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-trigger/nav-trigger.directive.ts" timestamp="1589655222574">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.scss" timestamp="1589653772611">
+        <mark key="'" line="44" column="28" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-logo/nav-logo.directive.ts" timestamp="1589655216398">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase-e2e/src/support/index.ts" timestamp="1589800802629">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.ts" timestamp="1589654024041">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="9" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1589803891367">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/code/open-source/bjpc/nx.json" timestamp="1589653575292">
         <mark key="[" line="28" column="9" />
@@ -164,6 +183,13 @@
         <mark key="." line="79" column="16" />
         <mark key="^" line="79" column="6" />
       </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/polyfills.ts" timestamp="1589801493164">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-item/nav-item.directive.ts" timestamp="1589801437699">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="23" column="47" />
@@ -171,37 +197,11 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="53" />
       </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/package.json" timestamp="1589800915309">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="27" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/ngx-responsive-nav.module.spec.ts" timestamp="1589653561092">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-logo/nav-logo.directive.ts" timestamp="1589655216398">
-        <mark key="'" line="7" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="23" />
-      </file>
       <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase-e2e/src/support/app.po.ts" timestamp="1589801549206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/polyfills.ts" timestamp="1589801493164">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="45" />
-        <mark key="^" line="0" column="46" />
       </file>
       <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.module.ts" timestamp="1589653635244">
         <mark key="'" line="2" column="47" />
@@ -210,12 +210,18 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav-trigger/nav-trigger.directive.ts" timestamp="1589655222574">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="13" />
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.ts" timestamp="1589654024041">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" timestamp="1589653789015">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/test-setup.ts" timestamp="1589800810447">
         <mark key="[" line="0" column="0" />
@@ -224,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
       <jump line="209" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
       <jump line="283" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
       <jump line="292" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
@@ -324,6 +329,7 @@
       <jump line="79" column="12" filename="$USER_HOME$/code/open-source/bjpc/.eslintrc.js" />
       <jump line="80" column="35" filename="$USER_HOME$/code/open-source/bjpc/.eslintrc.js" />
       <jump line="57" column="0" filename="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/polyfills.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/open-source/bjpc/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,8 +337,8 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>-next-line</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLWN5cHJlc3MiOiAiXjIuMTAuMyIsCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -344,35 +350,35 @@
         <text>npx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYXBwcy9zaG93Y2FzZS1lMmUvKiovKi5zcGVjLnRzJywKICAgICAgICAnYXBwcy9zaG93Y2FzZS1lMmUvKiovKi5tb2NrLnRzJywK</text>
+        <text encoding="base64">ICAgICJlc2xpbnQiOiAiXjcuMC4wIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIGltcG9ydC9uby11bmFzc2lnbmVkLWltcG9ydAo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLWN5cHJlc3MiOiAiXjIuMTAuMyIsCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICJwcmV0dGllciI6ICIyLjAuNCIsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIGltcG9ydC9uby11bmFzc2lnbmVkLWltcG9ydAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIHNwYWNlZC1jb21tZW50Ci8vLyA8cmVmZXJlbmNlIHR5cGVzPSJjeXByZXNzIiAvPgo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="4" type="4">
-        <text>plugin:cypress/recommended</text>
       </register>
       <register name="5" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="6" type="4">
+        <text>plugin:cypress/recommended</text>
+      </register>
+      <register name="7" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="8" type="4">
         <text>extends</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>-e2e
 -e2e</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJwcmV0dGllciI6ICIyLjAuNCIsCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>%s/npx/ngx/g</text>
@@ -387,7 +393,7 @@
       <last-replace>ngx</last-replace>
       <last-substitute>npx</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
