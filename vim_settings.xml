@@ -113,29 +113,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/link/bundles/terminus-ui-link.umd.js" timestamp="1589904176132">
-        <mark key="'" line="287" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589904789273">
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-        <mark key="." line="45" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/ng-package.json" timestamp="1589904060744">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589905361348">
+        <mark key="'" line="45" column="27" />
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="31" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="49" column="30" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/src/button.module.ts" timestamp="1589904851547">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="29" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1589904808339">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/button/package.json" timestamp="1589904818683">
         <mark key="[" line="4" column="0" />
@@ -146,11 +134,12 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/src/lib/ui-utilities.module.spec.ts" timestamp="1589904926720">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="16" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/src/lib/ui-utilities.module.spec.ts" timestamp="1589905954923">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/icon.component.spec.ts" timestamp="1589904888343">
         <mark key="[" line="13" column="32" />
@@ -158,38 +147,43 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1589904777139">
-        <mark key="'" line="341" column="11" />
-        <mark key="[" line="544" column="5" />
-        <mark key="]" line="547" column="5" />
-        <mark key="." line="547" column="4" />
-        <mark key="^" line="547" column="5" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/autofocus/src/autofocus.module.ts" timestamp="1589905425663">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.ts" timestamp="1589904162139">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="98" column="9" />
-        <mark key="]" line="98" column="13" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.spec.ts" timestamp="1589905895455">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.spec.ts" timestamp="1589904872985">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="23" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/ui-autofocus.module.spec.ts" timestamp="1589905678806">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/ng-package.json" timestamp="1589904824597">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/ui-link.module.spec.ts" timestamp="1589904907057" />
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.html" timestamp="1589905233526">
-        <mark key="'" line="37" column="11" />
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/ui-link.module.spec.ts" timestamp="1589905887883">
+        <mark key="'" line="4" column="26" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.html" timestamp="1589906125466">
+        <mark key="'" line="35" column="24" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" timestamp="1589905065640">
         <mark key="'" line="117" column="0" />
@@ -198,15 +192,36 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/autofocus/autofocus.directive.md" timestamp="1589906115179">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.scss" timestamp="1589905308889">
         <mark key="'" line="266" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/icon/package.json" timestamp="1589904055973">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="7" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/ui-autofocus.module.ts" timestamp="1589905613582">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.module.ts" timestamp="1589905998336">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/ui-icon.module.spec.ts" timestamp="1589905890679">
+        <mark key="'" line="4" column="26" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/package.json" timestamp="1589904810596">
         <mark key="[" line="2" column="0" />
@@ -222,19 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/link/bundles/terminus-ui-link.umd.js" />
-      <jump line="229" column="40" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/link/bundles/terminus-ui-link.umd.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" />
-      <jump line="119" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" />
-      <jump line="10" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" />
-      <jump line="117" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/link/src/link.component.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.ts" />
-      <jump line="10" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/ui-link.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/demo/src/app/app-routing.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scss/shadows/_shadows.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/design-tokens/renovate.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/renovate.json" />
@@ -322,6 +324,19 @@
       <jump line="112" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.scss" />
       <jump line="266" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.scss" />
       <jump line="36" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.html" />
+      <jump line="45" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/autofocus/src/autofocus.module.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/ui-autofocus.module.ts" />
+      <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/ui-autofocus.module.spec.ts" />
+      <jump line="12" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.spec.ts" />
+      <jump line="12" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/ui-icon.module.spec.ts" />
+      <jump line="12" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/ui-link.module.spec.ts" />
+      <jump line="4" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/ui-link.module.spec.ts" />
+      <jump line="4" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/ui-icon.module.spec.ts" />
+      <jump line="4" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.spec.ts" />
+      <jump line="4" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/src/lib/ui-utilities.module.spec.ts" />
+      <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/src/lib/ui-utilities.module.spec.ts" />
+      <jump line="34" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,47 +344,50 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICBvdXRsaW5lOiAycHggc29saWQgYmxhY2s7Cg==</text>
+      <register name="*" type="8">
+        <text>a
+a</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>TsUtility</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAifkB0ZXJtaW51cy9zdHlsZXMvaGVscGVycyI7Cg==</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIGF1dG9mb2N1cyAvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBvdXRsaW5lOiAycHggc29saWQgYmxhY2s7Cg==</text>
+      <register name="1" type="8">
+        <text>a
+a</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9hbmltYXRpb24vYW5pbWF0aW9uJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy9jb2xvci9jb2xvcic7CkBpbXBvcnQgJy4uLy4uL3Njc3MvY3Vyc29ycy9jdXJzb3JzJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy9yZXNldC9yZXNldCc7CkBpbXBvcnQgJy4uLy4uL3Njc3Mvc3BhY2luZy9zcGFjaW5nJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">cHV0IHR5cGU9InRleHQiIFthCnB1dCB0eXBlPSJ0ZXh0IiBbYQogICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKICAgICAgICBpbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwogICAgICAgIAogICAgICAgIEBOZ01vZHVsZSh7CiAgICAgICAgICBpbXBvcnRzOiBbCiAgICAgICAgICAgIENvbW1vbk1vZHVsZQogICAgICAgICAgXQogICAgICAgIH0pCiAgICAgICAgZXhwb3J0IGNsYXNzIFVpQnV0dG9uTW9kdWxlIHsgfQogICAgICAgIA==</text>
+      <register name="3" type="8">
+        <text>a
+a</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIwLjAuMSIsCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1RzTGlua01vZHVsZTogJywgVHNMaW5rTW9kdWxlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgVHNJY29uTW9kdWxlIH0gZnJvbSAnQHRlcm1pbnVzL3VpLWljb24nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9zdHlsZXMiOiBbCiAgICAgICAgImRpc3QvbGlicy9zdHlsZXMvIgogICAgICBdLAogICAgICAiQHRlcm1pbnVzL2Rlc2lnbi10b2tlbnMiOiBbCiAgICAgICAgImRpc3QvbGlicy9kZXNpZ24tdG9rZW5zLyIKICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIC8vIFRzSWNvbk1vZHVsZSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL2ljb24iLAo=</text>
+      <register name="7" type="4">
+        <text>''</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aSI6IFsKICAgICAgICAibGlicy91aS9zcmMvaW5kZXgudHMiCiAgICAgIF0sCg==</text>
+      <register name="8" type="4">
+        <text>should create</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS8qIjogWwogICAgICAgICJsaWJzL3VpL3NyYy9saWIvKi9zcmMvcHVibGljLWFwaS50cyIKICAgICAgXSwK</text>
+      <register name="9" type="4">
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
