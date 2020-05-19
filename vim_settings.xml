@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ng-content</entry>
-        <entry>customValidationMessageCtrl</entry>
-        <entry>in if</entry>
-        <entry>Basic</entry>
         <entry encoding="base64">XDxzZXRGYWN0b3J5XD4=</entry>
         <entry>prettier</entry>
         <entry>workspace-lint</entry>
@@ -25,6 +21,10 @@
         <entry>foo</entry>
         <entry>bada55</entry>
         <entry>foobar</entry>
+        <entry encoding="base64">XDxkaXN0XD4=</entry>
+        <entry encoding="base64">XDx0b2tlbnNcPg==</entry>
+        <entry encoding="base64">XDxkZXBsb3lfZGVtb3NcPg==</entry>
+        <entry>prod</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
@@ -113,14 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/styles/package.json" timestamp="1589833601164">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="27" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scss/shadows/_shadows.scss" timestamp="1589889287930">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/design-tokens/.circleci/config.yml" timestamp="1589895488313">
+        <mark key="'" line="150" column="8" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase/src/app/app.module.ts" timestamp="1589834309971">
         <mark key="[" line="13" column="12" />
@@ -134,11 +131,23 @@
         <mark key="." line="41" column="26" />
         <mark key="^" line="34" column="5" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/styles/package.json" timestamp="1589833610310">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="27" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-compound.js" timestamp="1589895148032">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-sketch-typography.js" timestamp="1589895329702">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-ui-library.js" timestamp="1589895374017">
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="35" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="35" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase/src/app/app.component.html" timestamp="1589890979678">
         <mark key="'" line="10" column="5" />
@@ -147,9 +156,9 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/design-tokens/package.json" timestamp="1589891524645">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="33" />
+      <file name="$USER_HOME$/code/Terminus/design-tokens/package.json" timestamp="1589895556513">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="88" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/index.ts" timestamp="1589891322617">
         <mark key="[" line="0" column="0" />
@@ -161,24 +170,17 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1589833584246">
-        <mark key="'" line="221" column="10" />
-        <mark key="[" line="229" column="6" />
-        <mark key="]" line="229" column="5" />
-        <mark key="." line="229" column="4" />
-        <mark key="^" line="229" column="5" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1589895862136">
+        <mark key="'" line="369" column="13" />
+        <mark key="[" line="338" column="26" />
+        <mark key="]" line="338" column="25" />
+        <mark key="." line="338" column="24" />
+        <mark key="^" line="338" column="25" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.ts" timestamp="1589833954980">
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="27" />
-        <mark key="." line="100" column="18" />
-        <mark key="^" line="100" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.html" timestamp="1589834011560">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/index.js" timestamp="1589892410452">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/ui-link.module.ts" timestamp="1589834025216">
         <mark key="'" line="12" column="34" />
@@ -187,24 +189,17 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" timestamp="1589833879340">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/renovate.json" timestamp="1589891649332">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="56" column="1" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1589892160800">
-        <mark key="'" line="73" column="35" />
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="49" column="21" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1589895573959">
+        <mark key="'" line="87" column="35" />
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="48" />
+        <mark key="." line="44" column="48" />
+        <mark key="^" line="44" column="77" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/renovate.json" timestamp="1589891597784">
         <mark key="'" line="0" column="0" />
@@ -213,20 +208,21 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/link/src/link.component.ts" timestamp="1589833912501">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="99" column="1" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-base.js" timestamp="1589895141158">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="40" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-sketch-color.js" timestamp="1589895316640">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="20" filename="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.html" />
-      <jump line="3" column="28" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.scss" />
-      <jump line="2" column="16" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" />
-      <jump line="11" column="37" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" />
-      <jump line="14" column="40" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" />
-      <jump line="18" column="7" filename="$USER_HOME$/code/open-source/bjpc/libs/ngx-responsive-nav/src/lib/nav/nav.component.html" />
-      <jump line="11" column="5" filename="$USER_HOME$/code/open-source/bjpc/apps/showcase/src/app/app.component.html" />
       <jump line="3" column="33" filename="$USER_HOME$/code/open-source/bjpc/libs/bjpc-responsive-nav/src/lib/bjpc-responsive-nav.module.spec.ts" />
       <jump line="10" column="19" filename="$USER_HOME$/code/open-source/bjpc/libs/bjpc-responsive-nav/src/lib/bjpc-responsive-nav.module.spec.ts" />
       <jump line="17" column="42" filename="$USER_HOME$/code/open-source/bjpc/angular.json" />
@@ -301,7 +297,6 @@
       <jump line="24" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.html" />
       <jump line="30" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.html" />
       <jump line="23" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" />
-      <jump line="221" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/link/bundles/terminus-ui-link.umd.js" />
       <jump line="229" column="40" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/link/bundles/terminus-ui-link.umd.js" />
       <jump line="3" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.scss" />
@@ -320,6 +315,14 @@
       <jump line="6" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/renovate.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/renovate.json" />
       <jump line="74" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
+      <jump line="22" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-base.js" />
+      <jump line="31" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-base.js" />
+      <jump line="4" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/config/config-base.js" />
+      <jump line="101" column="11" filename="$USER_HOME$/code/Terminus/design-tokens/.circleci/config.yml" />
+      <jump line="150" column="8" filename="$USER_HOME$/code/Terminus/design-tokens/.circleci/config.yml" />
+      <jump line="221" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="335" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="366" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,37 +340,37 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>foobar</text>
+        <text>prod</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgInBhY2thZ2VQYXR0ZXJucyI6IFsic3R5bGVsaW50Il0sCiAgICAgICJncm91cE5hbWUiOiAiU3R5bGVMaW50IFBhY2thZ2VzIgogICAgfQo=</text>
+      <register name="0" type="8">
+        <text encoding="base64">IC0tYmFzZS1ocmVmPS9kZXNpZ24tdG9rZW5zLw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJuZ2NjIC0tcHJvcGVydGllcyBlczIwMTUgYnJvd3NlciBtb2R1bGUgbWFpbiAtLWZpcnN0LW9ubHkgLS1jcmVhdGUtaXZ5LWVudHJ5LXBvaW50cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJiYXNlSHJlZiI6ICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgInBhY2thZ2VQYXR0ZXJucyI6IFsic3R5bGVsaW50Il0sCiAgICAgICJncm91cE5hbWUiOiAiU3R5bGVMaW50IFBhY2thZ2VzIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgInBhY2thZ2VQYXR0ZXJucyI6IFsiXkB0ZXJtaW51cyJdLAogICAgICAiZ3JvdXBOYW1lIjogIlRlcm1pbnVzIFBhY2thZ2VzIgogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ewogICJleHRlbmRzIjogWwogICAgImNvbmZpZzpiYXNlIiwKICAgICJzY2hlZHVsZTp3ZWVrZW5kcyIKICBdLAogICJhc3NpZ25lZXMiOiBbImJlbmphbWluY2hhcml0eSJdLAogICJtYXN0ZXJJc3N1ZSI6IHRydWUsCiAgInBhY2thZ2VSdWxlcyI6IFsKICAgIHsKICAgICAgInBhY2thZ2VQYXR0ZXJucyI6IFsiamVzdCJdLAogICAgICAiZ3JvdXBOYW1lIjogIkplc3QgUGFja2FnZXMiCiAgICB9CiAgXSwKICAicHJDb25jdXJyZW50TGltaXQiOiAwLAogICJwckhvdXJseUxpbWl0IjogMCwKICAicmViYXNlTGFiZWwiOiAiQWN0aW9uOiByZWJhc2UiLAogICJyZWJhc2VDb25mbGljdGVkUHJzIjogZmFsc2UsCiAgInJlYmFzZVN0YWxlUHJzIjogZmFsc2UsCiAgInJldmlld2VycyI6IFsidGVhbTp1eGUiXSwKICAic2VtYW50aWNDb21taXRzIjogdHJ1ZSwKICAic2VtYW50aWNDb21taXRTY29wZSI6ICJQYWNrYWdlcyIsCiAgInNlbWFudGljQ29tbWl0VHlwZSI6ICJjaG9yZSIsCiAgInNjaGVkdWxlIjogWyJldmVyeSB3ZWVrZW5kIl0sCiAgInN0YWJpbGl0eURheXMiOiAxLAogICJ2dWxuZXJhYmlsaXR5QWxlcnRzIjogewogICAgImxhYmVscyI6IFsiRm9jdXM6IHNlY3VyaXR5Il0sCiAgICAiYXNzaWduZWVzIjogWyJ0ZWFtOnV4ZSJdCiAgfQo=</text>
+      <register name="4" type="8">
+        <text>projects/tokens</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="5" type="8">
+        <text>projects/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9saWIvZGVzaWduLXRva2Vucyc7Cg==</text>
+      <register name="6" type="8">
+        <text>projects/tokens</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGEgaHJlZj0iIyI+WW8sIGxpbmsgdGVzdDwvYT4K</text>
+      <register name="7" type="8">
+        <text>projects/tokens</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">Ly8gCi8vIA==</text>
+        <text>projects/tokens/</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBPbkluaXQgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKaW1wb3J0IHsgZm9vYmFyIH0gZnJvbSAnQHRlcm1pbnVzL3N0eWxlcyc7CgpAQ29tcG9uZW50KHsKICBzZWxlY3RvcjogJ3RzLWxpbmsnLAogIHRlbXBsYXRlVXJsOiAnLi9saW5rLmNvbXBvbmVudC5odG1sJywKICBzdHlsZVVybHM6IFsnLi9saW5rLmNvbXBvbmVudC5zY3NzJ10KfSkKZXhwb3J0IGNsYXNzIExpbmtDb21wb25lbnQgaW1wbGVtZW50cyBPbkluaXQgewoKICBjb25zdHJ1Y3RvcigpIHsgfQoKICBuZ09uSW5pdCgpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKCdsb2c6ICcsIGZvb2JhcigpKTsKICB9Cgp9Cg==</text>
+      <register name="9" type="8">
+        <text>projects/tokens</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -376,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>foobar</last-search>
+      <last-search>prod</last-search>
       <last-offset />
-      <last-pattern>foobar</last-pattern>
+      <last-pattern>prod</last-pattern>
       <last-replace>ngx</last-replace>
       <last-substitute>npx</last-substitute>
       <last-dir>1</last-dir>
