@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>npx</entry>
         <entry>\.foo</entry>
         <entry>foo</entry>
         <entry>bada55</entry>
@@ -25,6 +24,7 @@
         <entry>TsUtility</entry>
         <entry>isChecked</entry>
         <entry encoding="base64">XDxfaXNDaGVja2VkXD4=</entry>
+        <entry>depr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
@@ -161,10 +161,10 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/date-cohort-picker/module.ts" timestamp="1589911285449">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/date-cohort-picker/module.ts" timestamp="1589911508636">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/ng-package.json" timestamp="1589910207200">
         <mark key="[" line="6" column="0" />
@@ -206,14 +206,11 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/styles.scss" timestamp="1589908640131">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1589911429469">
+        <mark key="'" line="33" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="15" filename="$USER_HOME$/code/Terminus/terminus-ui/.all-contributorsrc" />
       <jump line="142" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.all-contributorsrc" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.all-contributorsrc" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.all-contributorsrc" />
@@ -313,6 +310,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/ui-autocomplete.module.ts" />
       <jump line="25" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/surge/containers/edit/edit-container.component.spec.ts" />
       <jump line="87" column="31" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/surge/containers/edit/edit-container.component.spec.ts" />
+      <jump line="33" column="47" filename="$USER_HOME$/code/Terminus/engage-gui/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +319,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIFRzRGF0ZQo=</text>
+        <text encoding="base64">ICAgIFRzQXV0b2NvbXBsZXRlTW9kdWxlLAogICAgVHNTZWxlY3RNb2R1bGUsCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -330,22 +328,22 @@
         <text>create</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNDaGVja2VkXD4=</text>
+        <text>depr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgT3ZlcmxheU1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2Nkay9vdmVybGF5JzsKaW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsKaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKaW1wb3J0IHsgRmxleExheW91dE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2ZsZXgtbGF5b3V0JzsKaW1wb3J0IHsKICBGb3Jtc01vZHVsZSwKICBSZWFjdGl2ZUZvcm1zTW9kdWxlLAp9IGZyb20gJ0Bhbmd1bGFyL2Zvcm1zJzsKaW1wb3J0IHsgTWF0UmlwcGxlTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvbWF0ZXJpYWwvY29yZSc7CmltcG9ydCB7IE1hdElucHV0TW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvbWF0ZXJpYWwvaW5wdXQnOwppbXBvcnQgeyBNYXRQcm9ncmVzc1NwaW5uZXJNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9tYXRlcmlhbC9wcm9ncmVzcy1zcGlubmVyJzsKaW1wb3J0IHsgVHNDaGVja2JveE1vZHVsZSB9IGZyb20gJ0B0ZXJtaW51cy91aS9jaGVja2JveCc7CmltcG9ydCB7IFRzQ2hpcE1vZHVsZSB9IGZyb20gJ0B0ZXJtaW51cy91aS9jaGlwJzsKaW1wb3J0IHsgVHNGb3JtRmllbGRNb2R1bGUgfSBmcm9tICdAdGVybWludXMvdWkvZm9ybS1maWVsZCc7CmltcG9ydCB7IFRzSWNvbk1vZHVsZSB9IGZyb20gJ0B0ZXJtaW51cy91aS9pY29uJzsKaW1wb3J0IHsgVHNJbnB1dE1vZHVsZSB9IGZyb20gJ0B0ZXJtaW51cy91aS9pbnB1dCc7CmltcG9ydCB7IFRzT3B0aW9uTW9kdWxlIH0gZnJvbSAnQHRlcm1pbnVzL3VpL29wdGlvbic7CmltcG9ydCB7IFRzVmFsaWRhdGlvbk1lc3NhZ2VzTW9kdWxlIH0gZnJvbSAnQHRlcm1pbnVzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMnOwoKaW1wb3J0IHsgVHNBdXRvY29tcGxldGVQYW5lbENvbXBvbmVudCB9IGZyb20gJy4vYXV0b2NvbXBsZXRlLXBhbmVsL2F1dG9jb21wbGV0ZS1wYW5lbC5jb21wb25lbnQnOwppbXBvcnQgewogIFRTX0FVVE9DT01QTEVURV9TQ1JPTExfU1RSQVRFR1lfRkFDVE9SWV9QUk9WSURFUiwKICBUc0F1dG9jb21wbGV0ZVRyaWdnZXJEaXJlY3RpdmUsCn0gZnJvbSAnLi9hdXRvY29tcGxldGUtcGFuZWwvYXV0b2NvbXBsZXRlLXRyaWdnZXIuZGlyZWN0aXZlJzsKaW1wb3J0IHsgVHNBdXRvY29tcGxldGVDb21wb25lbnQgfSBmcm9tICcuL2F1dG9jb21wbGV0ZS5jb21wb25lbnQnOwoKZXhwb3J0ICogZnJvbSAnLi9hdXRvY29tcGxldGUuY29tcG9uZW50JzsKZXhwb3J0ICogZnJvbSAnLi9hdXRvY29tcGxldGUtcGFuZWwvYXV0b2NvbXBsZXRlLXBhbmVsLmNvbXBvbmVudCc7CmV4cG9ydCAqIGZyb20gJy4vYXV0b2NvbXBsZXRlLXBhbmVsL2F1dG9jb21wbGV0ZS10cmlnZ2VyLmRpcmVjdGl2ZSc7CgovKiBlc2xpbnQtZGlzYWJsZSBkZXByZWNhdGlvbi9kZXByZWNhdGlvbiAqLwoKLy8gQGRlcHJlY2F0ZWQgUGxlYXNlIHVzZSBgVHNTZWxlY3Rpb25MaXN0TW9kdWxlYApATmdNb2R1bGUoewogIGltcG9ydHM6IFsKICAgIENvbW1vbk1vZHVsZSwKICAgIEZvcm1zTW9kdWxlLAogICAgUmVhY3RpdmVGb3Jtc01vZHVsZSwKICAgIEZsZXhMYXlvdXRNb2R1bGUsCiAgICBNYXRJbnB1dE1vZHVsZSwKICAgIE1hdFByb2dyZXNzU3Bpbm5lck1vZHVsZSwKICAgIE1hdFJpcHBsZU1vZHVsZSwKICAgIE92ZXJsYXlNb2R1bGUsCiAgICBUc0NoZWNrYm94TW9kdWxlLAogICAgVHNDaGlwTW9kdWxlLAogICAgVHNJY29uTW9kdWxlLAogICAgVHNGb3JtRmllbGRNb2R1bGUsCiAgICBUc09wdGlvbk1vZHVsZSwKICAgIFRzVmFsaWRhdGlvbk1lc3NhZ2VzTW9kdWxlLAogICAgVHNJbnB1dE1vZHVsZSwKICBdLAogIHByb3ZpZGVyczogWwogICAgVFNfQVVUT0NPTVBMRVRFX1NDUk9MTF9TVFJBVEVHWV9GQUNUT1JZX1BST1ZJREVSLAogIF0sCiAgZGVjbGFyYXRpb25zOiBbCiAgICBUc0F1dG9jb21wbGV0ZUNvbXBvbmVudCwKICAgIFRzQXV0b2NvbXBsZXRlUGFuZWxDb21wb25lbnQsCiAgICBUc0F1dG9jb21wbGV0ZVRyaWdnZXJEaXJlY3RpdmUsCiAgXSwKICBleHBvcnRzOiBbCiAgICBUc0F1dG9jb21wbGV0ZUNvbXBvbmVudCwKICAgIFRzQXV0b2NvbXBsZXRlUGFuZWxDb21wb25lbnQsCiAgICBUc0F1dG9jb21wbGV0ZVRyaWdnZXJEaXJlY3RpdmUsCiAgXSwKfSkKZXhwb3J0IGNsYXNzIFRzQXV0b2NvbXBsZXRlTW9kdWxlIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRzRGF0ZQo=</text>
+        <text encoding="base64">ICAgIFRzQXV0b2NvbXBsZXRlTW9kdWxlLAogICAgVHNTZWxlY3RNb2R1bGUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKICAgICAgICBpbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwogICAgICAgIAogICAgICAgIEBOZ01vZHVsZSh7CiAgICAgICAgICBpbXBvcnRzOiBbCiAgICAgICAgICAgIENvbW1vbk1vZHVsZQogICAgICAgICAgXQogICAgICAgIH0pCiAgICAgICAgZXhwb3J0IGNsYXNzIFVpQXV0b2NvbXBsZXRlTW9kdWxlIHsgfQogICAgICAgIA==</text>
+        <text encoding="base64">ICAgIFRzRGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9jYXJkL2NhcmQnOwpAaW1wb3J0ICcuLi8uLi9zY3NzL2xheW91dC9sYXlvdXQnOwpAaW1wb3J0ICcuLi8uLi9zY3NzL3Jlc2V0L3Jlc2V0JzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwoK</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKICAgICAgICBpbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwogICAgICAgIAogICAgICAgIEBOZ01vZHVsZSh7CiAgICAgICAgICBpbXBvcnRzOiBbCiAgICAgICAgICAgIENvbW1vbk1vZHVsZQogICAgICAgICAgXQogICAgICAgIH0pCiAgICAgICAgZXhwb3J0IGNsYXNzIFVpQXV0b2NvbXBsZXRlTW9kdWxlIHsgfQogICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMiOiAidGVybWludXMubmd4VG9vbHMiLAo=</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9jYXJkL2NhcmQnOwpAaW1wb3J0ICcuLi8uLi9zY3NzL2xheW91dC9sYXlvdXQnOwpAaW1wb3J0ICcuLi8uLi9zY3NzL3Jlc2V0L3Jlc2V0JzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMiOiAidGVybWludXMubmd4VG9vbHMiLAo=</text>
@@ -353,14 +351,14 @@
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMiOiAidGVybWludXMubmd4VG9vbHMiLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>''</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMiOiAidGVybWludXMubmd4VG9vbHMiLAo=</text>
       </register>
       <register name="8" type="4">
-        <text>UiCardModule</text>
+        <text>''</text>
       </register>
       <register name="9" type="4">
-        <text>''</text>
+        <text>UiCardModule</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
@@ -369,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfaXNDaGVja2VkXD4=</last-search>
+      <last-search>depr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNDaGVja2VkXD4=</last-pattern>
+      <last-pattern>depr</last-pattern>
       <last-replace>ngx</last-replace>
       <last-substitute>npx</last-substitute>
       <last-dir>1</last-dir>
