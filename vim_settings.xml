@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXBsb3lfZGVtb3NcPg==</entry>
-        <entry>prod</entry>
         <entry encoding="base64">XDx0eXBlc1w+</entry>
         <entry>tokens</entry>
         <entry>node</entry>
@@ -25,6 +23,8 @@
         <entry>Ui</entry>
         <entry>ui-options</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry>font-size</entry>
+        <entry>auto</entry>
       </history-search>
       <history-cmd>
         <entry>action ESLintFix</entry>
@@ -113,36 +113,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/tooltip/src/tooltip.module.ts" timestamp="1589978298764">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="31" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/ng-package.json" timestamp="1589982944552">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="46" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/package.json" timestamp="1589978128094">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="33" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1589982177196">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="128" column="14" />
+        <mark key="]" line="128" column="14" />
+        <mark key="." line="128" column="14" />
+        <mark key="^" line="56" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/icon/icon.component.scss" timestamp="1589981995792">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
         <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/toggle/src/toggle.module.ts" timestamp="1589978241366">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/nxdeps.json" timestamp="1589982257328">
+        <mark key="'" line="17430" column="14" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/ui-validation-messages.module.spec.ts" timestamp="1589978375306">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/ng-package.json" timestamp="1589982684098">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/nxdeps.json" timestamp="1589979074273">
-        <mark key="'" line="18015" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/src/lib/ui-tooltip.module.ts" timestamp="1589978305377">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/ng-package.json" timestamp="1589982546756">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589978778138">
         <mark key="'" line="158" column="31" />
@@ -151,31 +153,44 @@
         <mark key="^" line="201" column="32" />
         <mark key="." line="201" column="31" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validation-messages/src/validation-messages.module.ts" timestamp="1589978348951">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="42" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" timestamp="1589982383089">
+        <mark key="'" line="294" column="2" />
+        <mark key="[" line="248" column="2" />
+        <mark key="]" line="248" column="3" />
+        <mark key="." line="248" column="3" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/validators/src/validators.module.ts" timestamp="1589978424902">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/chip/chip.component.scss" timestamp="1589981970831">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="34" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1589978406766">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/scrollbars/scrollbars.component.ts" timestamp="1589982804030">
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="25" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="70" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.ts" timestamp="1589979788779">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="51" />
+        <mark key="." line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-panel.component.scss" timestamp="1589981936068">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1589981912528">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/messages/validation-messages.component.scss" timestamp="1589978407958">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/ui-validation-messages.module.ts" timestamp="1589978360797">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/styles/src/style-helpers/theme.scss" timestamp="1589981984758">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1589978829873">
         <mark key="'" line="1590" column="23" />
@@ -183,71 +198,26 @@
         <mark key="]" line="1604" column="40" />
         <mark key="." line="1604" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/src/lib/toggle/toggle.component.scss" timestamp="1589978283272">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/tabs/bundles/terminus-ui-tabs.umd.js" timestamp="1589981809417">
+        <mark key="'" line="1680" column="1141" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1589981844565">
+        <mark key="'" line="43" column="48" />
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="8" />
+        <mark key="^" line="46" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.scss" timestamp="1589981999912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/src/lib/ui-validators.module.spec.ts" timestamp="1589978447049">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/src/lib/tooltip/tooltip.component.scss" timestamp="1589978332948">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/src/lib/ui-toggle.module.spec.ts" timestamp="1589978263620">
-        <mark key="'" line="4" column="28" />
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/src/lib/ui-toggle.module.ts" timestamp="1589978251592">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/src/lib/ui-validators.module.ts" timestamp="1589978436410">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/src/lib/ui-tooltip.module.spec.ts" timestamp="1589978314573">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" timestamp="1589982411017">
+        <mark key="'" line="310" column="48" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/ui-paginator.module.spec.ts" />
-      <jump line="4" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/ui-paginator.module.spec.ts" />
-      <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/ui-paginator.module.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/pipes/src/pipes.module.ts" />
-      <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/ui-pipes.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/ui-pipes.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/ui-pipes.module.spec.ts" />
-      <jump line="4" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/ui-pipes.module.spec.ts" />
-      <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/ui-pipes.module.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/popover/src/popover.module.ts" />
-      <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/ui-popover.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/ui-popover.module.ts" />
-      <jump line="16" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/ui-popover.module.spec.ts" />
-      <jump line="4" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/ui-popover.module.spec.ts" />
-      <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/ui-popover.module.spec.ts" />
-      <jump line="112" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/radio-group/src/radio-group.module.ts" />
-      <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/ui-radio-group.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/ui-radio-group.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/ui-radio-group.module.spec.ts" />
-      <jump line="4" column="32" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/ui-radio-group.module.spec.ts" />
-      <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/ui-radio-group.module.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scrollbars/src/scrollbars.module.ts" />
       <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/ui-scrollbars.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/ui-scrollbars.module.ts" />
@@ -326,6 +296,28 @@
       <jump line="1590" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/nxdeps.json" />
       <jump line="18015" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/nxdeps.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/tabs/bundles/terminus-ui-tabs.umd.js" />
+      <jump line="1743" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/tabs/bundles/terminus-ui-tabs.umd.js" />
+      <jump line="1226" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/tabs/bundles/terminus-ui-tabs.umd.js" />
+      <jump line="1680" column="1141" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/tabs/bundles/terminus-ui-tabs.umd.js" />
+      <jump line="17435" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/nxdeps.json" />
+      <jump line="29" column="15" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="10" column="51" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="247" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="107" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="109" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="120" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="123" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="294" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
+      <jump line="21" column="8" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="44" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="348" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="20" column="54" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="43" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="307" column="45" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="308" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="310" column="48" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,46 +326,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>s</text>
+        <text>vali</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>vali</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcHRpb25zXD4=</text>
+        <text>auto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3RhYnMiLAo=</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMvdXRpbGl0aWVzIjogInRlcm1pbnVzLm5neFRvb2xzLnV0aWxpdGllcyIK</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9zcGFjaW5nL3NwYWNpbmcnOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>should create</text>
+      <register name="2" type="2">
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9yZXNldC9yZXNldCc7CkBpbXBvcnQgJy4uLy4uL3Njc3Mvc3BhY2luZy9zcGFjaW5nJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwpAaW1wb3J0ICcuLi8uLi9zY3NzL2NvbG9yL2NvbG9yJzsKCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9yZXNldC9yZXNldCc7CkBpbXBvcnQgJy4uLy4uL3Njc3MvY29sb3IvY29sb3InOwpAaW1wb3J0ICcuLi8uLi9zY3NzL2N1cnNvcnMvY3Vyc29ycyc7CkBpbXBvcnQgJy4uLy4uL3Njc3Mvc3BhY2luZy9zcGFjaW5nJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>TsValidatorsModule</text>
+      <register name="4" type="2">
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vc2Nzcy9tZW51L21lbnUnOwpAaW1wb3J0ICcuLi8uLi8uLi9zY3NzL3NoYWRvd3Mvc2hhZG93cyc7CkBpbXBvcnQgJy4uLy4uLy4uL3Njc3MvYTExeS9hMTF5JzsKQGltcG9ydCAnLi4vLi4vLi4vc2Nzcy9jb2xvci9jb2xvcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKICAgICAgICBpbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwogICAgICAgIAogICAgICAgIEBOZ01vZHVsZSh7CiAgICAgICAgICBpbXBvcnRzOiBbCiAgICAgICAgICAgIENvbW1vbk1vZHVsZQogICAgICAgICAgXQogICAgICAgIH0pCiAgICAgICAgZXhwb3J0IGNsYXNzIFVpVmFsaWRhdG9yc01vZHVsZSB7IH0KICAgICAgICA=</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9oZWxwZXJzJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9jb2xvci9jb2xvcic7CkBpbXBvcnQgJy4uLy4uL3Njc3MvcmVzZXQvcmVzZXQnOwpAaW1wb3J0ICcuLi8uLi9zY3NzL3RyaWFuZ2xlL3RyaWFuZ2xlJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwo=</text>
+      <register name="6" type="4">
+        <text>''</text>
       </register>
       <register name="7" type="4">
-        <text>''</text>
-      </register>
-      <register name="8" type="4">
         <text>should create</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>''</text>
+      </register>
+      <register name="9" type="4">
+        <text>TsValidatorsModule</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -382,13 +374,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
+      <last-search>auto</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
+      <last-pattern>auto</last-pattern>
       <last-replace>Ts</last-replace>
       <last-substitute>Ui</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
