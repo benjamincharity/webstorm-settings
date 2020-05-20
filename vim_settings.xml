@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tokens</entry>
         <entry>node</entry>
         <entry>design-tokens</entry>
         <entry>package</entry>
@@ -25,6 +24,7 @@
         <entry>font-size</entry>
         <entry>auto</entry>
         <entry>ts-icon</entry>
+        <entry encoding="base64">XDxJbWFnZVJhdGlvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ESLintFix</entry>
@@ -136,6 +136,12 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="23" column="24" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/src/lib/selected-file/selected-file.ts" timestamp="1589990244687">
+        <mark key="'" line="70" column="37" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/checkbox/ng-package.json" timestamp="1589988523064">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="55" />
@@ -180,12 +186,6 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/package.json" timestamp="1589986619719">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="11" column="37" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/ng-package.json" timestamp="1589988427138">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="55" />
@@ -197,6 +197,12 @@
         <mark key="]" line="9" column="55" />
         <mark key="." line="8" column="66" />
         <mark key="^" line="8" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/csv-entry/ng-package.json" timestamp="1589989370059">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/ng-package.json" timestamp="1589988574179">
         <mark key="[" line="7" column="0" />
@@ -216,16 +222,8 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/ng-package.json" timestamp="1589988291370">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="26" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/src/lib/ui-select.module.spec.ts" />
-      <jump line="4" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/src/lib/ui-select.module.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/selection-list/src/selection-list.module.ts" />
       <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/ui-selection-list.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/ui-selection-list.module.ts" />
@@ -324,6 +322,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/icon/src/icon.module.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/ui-icon.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/ui-icon.module.ts" />
+      <jump line="4" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/src/lib/selected-file/selected-file.ts" />
+      <jump line="70" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/src/lib/selected-file/selected-file.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,49 +331,49 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>-</text>
+      <register name="*" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VSYXRpbyB9IGZyb20gJy4vZmlsZS11cGxvYWQubW9kdWxlJzsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>utilities</text>
       </register>
       <register name="/" type="4">
-        <text>ts-icon</text>
+        <text encoding="base64">XDxJbWFnZVJhdGlvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMvdHlwZS1ndWFyZHMiOiAidGVybWludXMubmd4VG9vbHMudHlwZS1ndWFyZHMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZHM6ICcsIGRzKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VSYXRpbyB9IGZyb20gJy4vZmlsZS11cGxvYWQubW9kdWxlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCduLmxlbmd0aDogJywgbi5sZW5ndGgpOwogICAgICAgICAgY29uc29sZS5sb2coJ246ICcsIG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZHM6ICcsIGRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKICAgICAgICBpbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwoKICAgICAgICBATmdNb2R1bGUoewogICAgICAgICAgaW1wb3J0czogWwogICAgICAgICAgICBDb21tb25Nb2R1bGUKICAgICAgICAgIF0KICAgICAgICB9KQogICAgICAgIGV4cG9ydCBjbGFzcyBUc0ljb25Nb2R1bGUgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCduLmxlbmd0aDogJywgbi5sZW5ndGgpOwogICAgICAgICAgY29uc29sZS5sb2coJ246ICcsIG4pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHNJY29uTW9kdWxlIH0gZnJvbSAnQHRlcm1pbnVzL3VpLWljb24nOwo=</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKICAgICAgICBpbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwoKICAgICAgICBATmdNb2R1bGUoewogICAgICAgICAgaW1wb3J0czogWwogICAgICAgICAgICBDb21tb25Nb2R1bGUKICAgICAgICAgIF0KICAgICAgICB9KQogICAgICAgIGV4cG9ydCBjbGFzcyBUc0ljb25Nb2R1bGUgeyB9Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>/
-/</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVHNJY29uTW9kdWxlIH0gZnJvbSAnQHRlcm1pbnVzL3VpLWljb24nOwo=</text>
       </register>
       <register name="6" type="8">
         <text>/
 /</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogIH0sCg==</text>
+      <register name="7" type="8">
+        <text>/
+/</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0c2xpYiI6ICJeMS4xMC4wIgo=</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogIH0sCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>^9.1.0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJ0c2xpYiI6ICJeMS4xMC4wIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
@@ -382,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ts-icon</last-search>
+      <last-search encoding="base64">XDxJbWFnZVJhdGlvXD4=</last-search>
       <last-offset />
-      <last-pattern>ts-icon</last-pattern>
+      <last-pattern encoding="base64">XDxJbWFnZVJhdGlvXD4=</last-pattern>
       <last-replace>Ts</last-replace>
       <last-substitute>Ui</last-substitute>
       <last-dir>1</last-dir>
