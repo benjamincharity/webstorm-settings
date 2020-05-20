@@ -113,6 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1589984191261">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/ng-package.json" timestamp="1589982944552">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="46" />
@@ -146,13 +152,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589978778138">
-        <mark key="'" line="158" column="31" />
-        <mark key="[" line="201" column="22" />
-        <mark key="]" line="201" column="32" />
-        <mark key="^" line="201" column="32" />
-        <mark key="." line="201" column="31" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" timestamp="1589982383089">
         <mark key="'" line="294" column="2" />
         <mark key="[" line="248" column="2" />
@@ -169,11 +168,6 @@
         <mark key="]" line="70" column="25" />
         <mark key="^" line="70" column="25" />
         <mark key="." line="70" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.ts" timestamp="1589979788779">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-panel.component.scss" timestamp="1589981936068">
         <mark key="[" line="0" column="0" />
@@ -192,14 +186,18 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1589978829873">
-        <mark key="'" line="1590" column="23" />
-        <mark key="[" line="1604" column="40" />
-        <mark key="]" line="1604" column="40" />
-        <mark key="." line="1604" column="40" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.md" timestamp="1589984758040">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/tabs/bundles/terminus-ui-tabs.umd.js" timestamp="1589981809417">
         <mark key="'" line="1680" column="1141" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-helpers.ts" timestamp="1589984741245">
+        <mark key="[" line="94" column="16" />
+        <mark key="]" line="94" column="54" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1589981844565">
         <mark key="'" line="43" column="48" />
@@ -218,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scrollbars/src/scrollbars.module.ts" />
-      <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/ui-scrollbars.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/ui-scrollbars.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/ui-scrollbars.module.spec.ts" />
       <jump line="4" column="32" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/ui-scrollbars.module.spec.ts" />
       <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/ui-scrollbars.module.spec.ts" />
@@ -318,6 +313,9 @@
       <jump line="307" column="45" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
       <jump line="308" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
       <jump line="310" column="48" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="105" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,47 +323,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>vali</text>
+      <register name="*" type="2">
+        <text encoding="base64">fCBgZ2V0Q2hpcENvbGxlY3Rpb25JbnN0YW5jZUluQXV0b2NvbXBsZXRlYCB8Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>vali</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>auto</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMvdXRpbGl0aWVzIjogInRlcm1pbnVzLm5neFRvb2xzLnV0aWxpdGllcyIK</text>
+      <register name="0" type="4">
+        <text>getChipCollectionInstanceInAutocomplete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9zcGFjaW5nL3NwYWNpbmcnOwo=</text>
+        <text encoding="base64">fCBgZ2V0Q2hpcENvbGxlY3Rpb25JbnN0YW5jZUluQXV0b2NvbXBsZXRlYCB8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9yZXNldC9yZXNldCc7CkBpbXBvcnQgJy4uLy4uL3Njc3Mvc3BhY2luZy9zcGFjaW5nJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwpAaW1wb3J0ICcuLi8uLi9zY3NzL2NvbG9yL2NvbG9yJzsKCg==</text>
+        <text encoding="base64">VGhpcyBwcm9qZWN0IHdhcyBnZW5lcmF0ZWQgdXNpbmcgW054XShodHRwczovL254LmRldikuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9yZXNldC9yZXNldCc7CkBpbXBvcnQgJy4uLy4uL3Njc3MvY29sb3IvY29sb3InOwpAaW1wb3J0ICcuLi8uLi9zY3NzL2N1cnNvcnMvY3Vyc29ycyc7CkBpbXBvcnQgJy4uLy4uL3Njc3Mvc3BhY2luZy9zcGFjaW5nJzsKQGltcG9ydCAnLi4vLi4vc2Nzcy90eXBvZ3JhcGh5L3R5cG9ncmFwaHknOwo=</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vc2Nzcy9tZW51L21lbnUnOwpAaW1wb3J0ICcuLi8uLi8uLi9zY3NzL3NoYWRvd3Mvc2hhZG93cyc7CkBpbXBvcnQgJy4uLy4uLy4uL3Njc3MvYTExeS9hMTF5JzsKQGltcG9ydCAnLi4vLi4vLi4vc2Nzcy9jb2xvci9jb2xvcic7Cg==</text>
+        <text encoding="base64">LSBbXSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vc2Nzcy9oZWxwZXJzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>''</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBQcmludCBpbmZvIGFib3V0IGFmZmVjdGVkIGZpbGVzOgokIG54IHByaW50LWFmZmVjdGVkCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>should create</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>''</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyMgQWRkaW5nIGNhcGFiaWxpdGllcyB0byB5b3VyIHdvcmtzcGFjZQoKTnggc3VwcG9ydHMgbWFueSBwbHVnaW5zIHdoaWNoIGFkZCBjYXBhYmlsaXRpZXMgZm9yIGRldmVsb3BpbmcgZGlmZmVyZW50IHR5cGVzIG9mIGFwcGxpY2F0aW9ucyBhbmQgZGlmZmVyZW50IHRvb2xzLgoKVGhlc2UgY2FwYWJpbGl0aWVzIGluY2x1ZGUgZ2VuZXJhdGluZyBhcHBsaWNhdGlvbnMsIGxpYnJhcmllcywgZXRjIGFzIHdlbGwgYXMgdGhlIGRldnRvb2xzIHRvIHRlc3QsIGFuZCBidWlsZCBwcm9qZWN0cyBhcyB3ZWxsLgoKQmVsb3cgYXJlIHNvbWUgcGx1Z2lucyB3aGljaCB5b3UgY2FuIGFkZCB0byB5b3VyIHdvcmtzcGFjZToKCi0gW0FuZ3VsYXJdKGh0dHBzOi8vYW5ndWxhci5pbykKICAtIGBuZyBhZGQgQG5yd2wvYW5ndWxhcmAKLSBbUmVhY3RdKGh0dHBzOi8vcmVhY3Rqcy5vcmcpCiAgLSBgbmcgYWRkIEBucndsL3JlYWN0YAotIFdlYiAobm8gZnJhbWV3b3JrIGZyb250ZW5kcykKICAtIGBuZyBhZGQgQG5yd2wvd2ViYAotIFtOZXN0XShodHRwczovL25lc3Rqcy5jb20pCiAgLSBgbmcgYWRkIEBucndsL25lc3RgCi0gW0V4cHJlc3NdKGh0dHBzOi8vZXhwcmVzc2pzLmNvbSkKICAtIGBuZyBhZGQgQG5yd2wvZXhwcmVzc2AKLSBbTm9kZV0oaHR0cHM6Ly9ub2RlanMub3JnKQogIC0gYG5nIGFkZCBAbnJ3bC9ub2RlYAoKIyMgR2VuZXJhdGUgYW4gYXBwbGljYXRpb24KClJ1biBgbmcgZyBAbnJ3bC9hbmd1bGFyOmFwcCBteS1hcHBgIHRvIGdlbmVyYXRlIGFuIGFwcGxpY2F0aW9uLgoKPiBZb3UgY2FuIHVzZSBhbnkgb2YgdGhlIHBsdWdpbnMgYWJvdmUgdG8gZ2VuZXJhdGUgYXBwbGljYXRpb25zIGFzIHdlbGwuCgpXaGVuIHVzaW5nIE54LCB5b3UgY2FuIGNyZWF0ZSBtdWx0aXBsZSBhcHBsaWNhdGlvbnMgYW5kIGxpYnJhcmllcyBpbiB0aGUgc2FtZSB3b3Jrc3BhY2UuCgojIyBHZW5lcmF0ZSBhIGxpYnJhcnkKClJ1biBgbmcgZyBAbnJ3bC9hbmd1bGFyOmxpYiBteS1saWJgIHRvIGdlbmVyYXRlIGEgbGlicmFyeS4KCj4gWW91IGNhbiBhbHNvIHVzZSBhbnkgb2YgdGhlIHBsdWdpbnMgYWJvdmUgdG8gZ2VuZXJhdGUgbGlicmFyaWVzIGFzIHdlbGwuCgpMaWJyYXJpZXMgYXJlIHNoYXJhYmxlIGFjcm9zcyBsaWJyYXJpZXMgYW5kIGFwcGxpY2F0aW9ucy4gVGhleSBjYW4gYmUgaW1wb3J0ZWQgZnJvbSBgQHRlcm1pbnVzLW9zcy9teWxpYmAuCgojIyBEZXZlbG9wbWVudCBzZXJ2ZXIKClJ1biBgbmcgc2VydmUgbXktYXBwYCBmb3IgYSBkZXYgc2VydmVyLiBOYXZpZ2F0ZSB0byBodHRwOi8vbG9jYWxob3N0OjQyMDAvLiBUaGUgYXBwIHdpbGwgYXV0b21hdGljYWxseSByZWxvYWQgaWYgeW91IGNoYW5nZSBhbnkgb2YgdGhlIHNvdXJjZSBmaWxlcy4KCiMjIENvZGUgc2NhZmZvbGRpbmcKClJ1biBgbmcgZyBjb21wb25lbnQgbXktY29tcG9uZW50IC0tcHJvamVjdD1teS1hcHBgIHRvIGdlbmVyYXRlIGEgbmV3IGNvbXBvbmVudC4KCiMjIEJ1aWxkCgpSdW4gYG5nIGJ1aWxkIG15LWFwcGAgdG8gYnVpbGQgdGhlIHByb2plY3QuIFRoZSBidWlsZCBhcnRpZmFjdHMgd2lsbCBiZSBzdG9yZWQgaW4gdGhlIGBkaXN0L2AgZGlyZWN0b3J5LiBVc2UgdGhlIGAtLXByb2RgIGZsYWcgZm9yIGEgcHJvZHVjdGlvbiBidWlsZC4KCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBuZyB0ZXN0IG15LWFwcGAgdG8gZXhlY3V0ZSB0aGUgdW5pdCB0ZXN0cyB2aWEgW0plc3RdKGh0dHBzOi8vamVzdGpzLmlvKS4KClJ1biBgbnggYWZmZWN0ZWQ6dGVzdGAgdG8gZXhlY3V0ZSB0aGUgdW5pdCB0ZXN0cyBhZmZlY3RlZCBieSBhIGNoYW5nZS4KCiMjIFJ1bm5pbmcgZW5kLXRvLWVuZCB0ZXN0cwoKUnVuIGBuZyBlMmUgbXktYXBwYCB0byBleGVjdXRlIHRoZSBlbmQtdG8tZW5kIHRlc3RzIHZpYSBbQ3lwcmVzc10oaHR0cHM6Ly93d3cuY3lwcmVzcy5pbykuCgpSdW4gYG54IGFmZmVjdGVkOmUyZWAgdG8gZXhlY3V0ZSB0aGUgZW5kLXRvLWVuZCB0ZXN0cyBhZmZlY3RlZCBieSBhIGNoYW5nZS4KCiMjIFVuZGVyc3RhbmQgeW91ciB3b3Jrc3BhY2UKClJ1biBgbnggZGVwLWdyYXBoYCB0byBzZWUgYSBkaWFncmFtIG9mIHRoZSBkZXBlbmRlbmNpZXMgb2YgeW91ciBwcm9qZWN0cy4KCiMjIEZ1cnRoZXIgaGVscAoKVmlzaXQgdGhlIFtOeCBEb2N1bWVudGF0aW9uXShodHRwczovL254LmRldi9hbmd1bGFyKSB0byBsZWFybiBtb3JlLgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>TsValidatorsModule</text>
+      <register name="9" type="2">
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
