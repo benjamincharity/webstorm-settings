@@ -119,23 +119,27 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/ui-date-range.module.ts" timestamp="1589995342375">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/ng-package.json" timestamp="1589989266884">
         <mark key="[" line="10" column="60" />
         <mark key="]" line="10" column="60" />
         <mark key="." line="10" column="60" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.module.ts" timestamp="1589988893535">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-        <mark key="^" line="23" column="24" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/src/lib/selected-file/selected-file.ts" timestamp="1589990244687">
         <mark key="'" line="70" column="37" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/date-range/src/date-range.module.ts" timestamp="1589995336282">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1589991196566">
         <mark key="'" line="138" column="23" />
@@ -165,23 +169,23 @@
         <mark key="]" line="11" column="5" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/ng-package.json" timestamp="1589995311633">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/ng-package.json" timestamp="1589991271464">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@nrwl/workspace/src/core/project-graph/operators.js" timestamp="1589988847537">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/ng-package.json" timestamp="1589989174291">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="9" column="67" />
-        <mark key="." line="9" column="66" />
-        <mark key="^" line="9" column="67" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/ng-package.json" timestamp="1589995227869">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.directive.ts" timestamp="1589991596587">
         <mark key="[" line="34" column="17" />
@@ -199,17 +203,17 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="14" column="56" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/date-range/date-range.component.scss" timestamp="1589995390962">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/csv-entry/ng-package.json" timestamp="1589989370059">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="27" />
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/ui-icon.module.ts" timestamp="1589988756707">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="39" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/ng-package.json" timestamp="1589991814270">
         <mark key="[" line="12" column="0" />
@@ -222,13 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/src/lib/ui-spacing.module.spec.ts" />
-      <jump line="4" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/src/lib/ui-spacing.module.spec.ts" />
-      <jump line="12" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/src/lib/ui-spacing.module.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/table/src/table.module.ts" />
-      <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/ui-table.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/ui-table.module.ts" />
-      <jump line="12" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/ui-table.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/ui-table.module.spec.ts" />
       <jump line="12" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/ui-table.module.spec.ts" />
       <jump line="4" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/ui-table.module.spec.ts" />
@@ -322,6 +319,13 @@
       <jump line="2" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/ng-package.json" />
       <jump line="21" column="53" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/ng-package.json" />
       <jump line="21" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/ng-package.json" />
+      <jump line="16" column="49" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/ng-package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/ng-package.json" />
+      <jump line="11" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/ng-package.json" />
+      <jump line="22" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/ng-package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/date-range/src/date-range.module.ts" />
+      <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/ui-date-range.module.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/ui-date-range.module.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,47 +333,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWNoZWNrYm94JyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpQ2hlY2tib3gnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1mb3JtLWZpZWxkJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpRm9ybUZpZWxkJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktaWNvbicgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUljb24nCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1pbnB1dCcgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUlucHV0JwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktb3B0aW9uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpT3B0aW9uJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktdmFsaWRhdGlvbi1tZXNzYWdlcycgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aVZhbGlkYXRpb25NZXNzYWdlcycKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXNwYWNpbmcnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlTcGFjaW5nJwo=</text>
+      <register name="*" type="4">
+        <text>../../../../../../node_modules/</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>../../../../../../node_modules/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUc1NvcnRhYmxlSXRlbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS1pbnB1dCI6ICJ0ZXJtaW51cy51aS1pbnB1dCIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsKaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKaW1wb3J0IHsgRmxleExheW91dE1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL2ZsZXgtbGF5b3V0JzsKaW1wb3J0IHsgVHNJbnB1dE1vZHVsZSB9IGZyb20gJ0B0ZXJtaW51cy91aS9pbnB1dCc7CgppbXBvcnQgeyBUc0RhdGVSYW5nZUNvbXBvbmVudCB9IGZyb20gJy4vZGF0ZS1yYW5nZS5jb21wb25lbnQnOwoKZXhwb3J0ICogZnJvbSAnLi9kYXRlLXJhbmdlLmNvbXBvbmVudCc7CgoKQE5nTW9kdWxlKHsKICBpbXBvcnRzOiBbCiAgICBDb21tb25Nb2R1bGUsCiAgICBGbGV4TGF5b3V0TW9kdWxlLAogICAgVHNJbnB1dE1vZHVsZSwKICBdLAogIGV4cG9ydHM6IFsKICAgIFRzRGF0ZVJhbmdlQ29tcG9uZW50LAogIF0sCiAgZGVjbGFyYXRpb25zOiBbCiAgICBUc0RhdGVSYW5nZUNvbXBvbmVudCwKICBdLAp9KQpleHBvcnQgY2xhc3MgVHNEYXRlUmFuZ2VNb2R1bGUge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWNoZWNrYm94JyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpQ2hlY2tib3gnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1mb3JtLWZpZWxkJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpRm9ybUZpZWxkJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktaWNvbicgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUljb24nCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1pbnB1dCcgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUlucHV0JwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktb3B0aW9uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpT3B0aW9uJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktdmFsaWRhdGlvbi1tZXNzYWdlcycgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aVZhbGlkYXRpb25NZXNzYWdlcycKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXNwYWNpbmcnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlTcGFjaW5nJwo=</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKICAgICAgICBpbXBvcnQgeyBDb21tb25Nb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb21tb24nOwogICAgICAgIAogICAgICAgIEBOZ01vZHVsZSh7CiAgICAgICAgICBpbXBvcnRzOiBbCiAgICAgICAgICAgIENvbW1vbk1vZHVsZQogICAgICAgICAgXQogICAgICAgIH0pCiAgICAgICAgZXhwb3J0IGNsYXNzIFVpRGF0ZVJhbmdlTW9kdWxlIHsgfQogICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS12YWxpZGF0b3JzIjogInRlcm1pbnVzLnVpLXZhbGlkYXRvcnMiLAo=</text>
+        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWNoZWNrYm94JyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpQ2hlY2tib3gnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1jaGlwJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpQ2hpcCcKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWZvcm0tZmllbGQnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlGb3JtRmllbGQnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1pY29uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpSWNvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWlucHV0JyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpSW5wdXQnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1vcHRpb24nIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlPcHRpb24nCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS12YWxpZGF0aW9uLW1lc3NhZ2VzJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpVmFsaWRhdGlvbk1lc3NhZ2VzJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktdXRpbGl0aWVzJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpVXRpbGl0aWVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS1waXBlcyI6ICJ0ZXJtaW51cy51aS1waXBlcyIsCg==</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS1zZWxlY3Rpb24tbGlzdCI6ICJ0ZXJtaW51cy51aS1zZWxlY3Rpb24tbGlzdCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWJ1dHRvbicgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUJ1dHRvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWljb24tYnV0dG9uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpSWNvbkJ1dHRvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXBpcGVzJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpUGlwZXMnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS10b29sdGlwJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpVG9vbHRpcCcKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXZhbGlkYXRpb24tbWVzc2FnZXMnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlWYWxpZGF0aW9uTWVzc2FnZXMnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1zcGFjaW5nJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpU3BhY2luZycKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXV0aWxpdGllcycgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aVV0aWxpdGllcycK</text>
+        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWJ1dHRvbicgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUJ1dHRvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLW1lbnUnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlNZW51JwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktb3B0aW9uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpT3B0aW9uJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktc2VsZWN0aW9uLWxpc3QnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlTZWxlY3Rpb25MaXN0JwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktdG9vbHRpcCcgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aVRvb2x0aXAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWljb24nIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlJY29uJwo=</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS12YWxpZGF0aW9uLW1lc3NhZ2VzIjogInRlcm1pbnVzLnVpLXZhbGlkYXRpb24tbWVzc2FnZXMiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMvYnJvd3NlciI6ICJ0ZXJtaW51cy5uZ3hUb29scy5icm93c2VyIiwKICAgICAgIkB0ZXJtaW51cy9uZ3gtdG9vbHMvY29lcmNpb24iOiAidGVybWludXMubmd4VG9vbHMuY29lcmNpb24iLAogICAgICAiQHRlcm1pbnVzL25neC10b29scy91dGlsaXRpZXMiOiAidGVybWludXMubmd4VG9vbHMudXRpbGl0aWVzIiwKICAgICAgIkB0ZXJtaW51cy91aS1mb3JtLWZpZWxkIjogInRlcm1pbnVzLnVpLWZvcm0tZmllbGQiLAo=</text>
+        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWNoZWNrYm94JyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpQ2hlY2tib3gnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1mb3JtLWZpZWxkJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpRm9ybUZpZWxkJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktaWNvbicgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUljb24nCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1pbnB1dCcgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUlucHV0JwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktb3B0aW9uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpT3B0aW9uJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktdmFsaWRhdGlvbi1tZXNzYWdlcycgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aVZhbGlkYXRpb25NZXNzYWdlcycKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXNwYWNpbmcnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlTcGFjaW5nJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWJ1dHRvbicgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUJ1dHRvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWNoZWNrYm94JyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpQ2hlY2tib3gnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1pbnB1dCcgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUlucHV0JwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktbGluaycgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUxpbmsnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1zcGFjaW5nJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpU3BhY2luZycKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXZhbGlkYXRvcnMnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlWYWxpZGF0b3JzJwo=</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS12YWxpZGF0b3JzIjogInRlcm1pbnVzLnVpLXZhbGlkYXRvcnMiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIkB0ZXJtaW51cy91aS1waXBlcyI6ICJ0ZXJtaW51cy51aS1waXBlcyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWZvcm0tZmllbGQnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlGb3JtRmllbGQnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1pY29uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpSWNvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXBpcGVzJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpUGlwZXMnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS12YWxpZGF0aW9uLW1lc3NhZ2VzJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpVmFsaWRhdGlvbk1lc3NhZ2VzJwpXQVJOSU5HOiBObyBuYW1lIHdhcyBwcm92aWRlZCBmb3IgZXh0ZXJuYWwgbW9kdWxlICdAdGVybWludXMvdWktdmFsaWRhdG9ycycgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aVZhbGlkYXRvcnMnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1zcGFjaW5nJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpU3BhY2luZycK</text>
+        <text encoding="base64">V0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWJ1dHRvbicgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aUJ1dHRvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLWljb24tYnV0dG9uJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpSWNvbkJ1dHRvbicKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXBpcGVzJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpUGlwZXMnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS10b29sdGlwJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpVG9vbHRpcCcKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXZhbGlkYXRpb24tbWVzc2FnZXMnIGluIG91dHB1dC5nbG9iYWxzIOKAkyBndWVzc2luZyAndWlWYWxpZGF0aW9uTWVzc2FnZXMnCldBUk5JTkc6IE5vIG5hbWUgd2FzIHByb3ZpZGVkIGZvciBleHRlcm5hbCBtb2R1bGUgJ0B0ZXJtaW51cy91aS1zcGFjaW5nJyBpbiBvdXRwdXQuZ2xvYmFscyDigJMgZ3Vlc3NpbmcgJ3VpU3BhY2luZycKV0FSTklORzogTm8gbmFtZSB3YXMgcHJvdmlkZWQgZm9yIGV4dGVybmFsIG1vZHVsZSAnQHRlcm1pbnVzL3VpLXV0aWxpdGllcycgaW4gb3V0cHV0Lmdsb2JhbHMg4oCTIGd1ZXNzaW5nICd1aVV0aWxpdGllcycK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
