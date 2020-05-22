@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cursor</entry>
-        <entry>styles</entry>
-        <entry>icon</entry>
-        <entry>create</entry>
-        <entry>canOpen</entry>
         <entry>clearPre</entry>
         <entry>radio</entry>
         <entry>dist</entry>
@@ -25,6 +20,11 @@
         <entry>terminus\/ui</entry>
         <entry encoding="base64">XDx0ZXJtaW51c1w+</entry>
         <entry encoding="base64">XDxUc0Zvcm1GaWVsZENvbXBvbmVudFw+</entry>
+        <entry encoding="base64">XDxUc09wdGlvbk1vZHVsZVw+</entry>
+        <entry>Option</entry>
+        <entry encoding="base64">XDxUc0F1dG9jb21wbGV0ZU1vZHVsZVw+</entry>
+        <entry>table</entry>
+        <entry encoding="base64">XDx0c1RhYmxlVHNTb3J0QXBwRml4dHVyZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">YWN0aW9uIA==</entry>
@@ -113,35 +113,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/src/lib/optgroup/optgroup.component.ts" timestamp="1590163514399" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.spec.ts" timestamp="1590163927062">
+        <mark key="'" line="343" column="71" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" timestamp="1590162568604">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="42" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/testing/src/test-components.ts" timestamp="1590160416449">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/testing/src/test-components.ts" timestamp="1590160525521">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="65" />
-        <mark key="^" line="12" column="66" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/src/lib/testing/src/test-helpers.ts" timestamp="1590160445179">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="4" column="77" />
-        <mark key="." line="4" column="76" />
-        <mark key="^" line="4" column="77" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/testing/src/test-components.ts" timestamp="1590160479110">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.directive.ts" timestamp="1590163924133">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/testing/src/test-components.ts" timestamp="1590160503974">
         <mark key="[" line="11" column="8" />
@@ -155,14 +138,33 @@
         <mark key="." line="4" column="68" />
         <mark key="^" line="4" column="69" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" timestamp="1590161588584">
+        <mark key="'" line="38" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-trigger.directive.ts" timestamp="1590162498071">
+        <mark key="'" line="56" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/testing/src/test-components.ts" timestamp="1590160525521">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="65" />
+        <mark key="^" line="12" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/testing/src/test-components.ts" timestamp="1590163181991">
+        <mark key="'" line="276" column="4" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/testing/src/test-helpers.ts" timestamp="1590160509514">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="55" />
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" timestamp="1590161588584">
-        <mark key="'" line="38" column="39" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" timestamp="1590163361030">
+        <mark key="'" line="43" column="9" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/ui-form-field.module.ts" timestamp="1590161089205">
         <mark key="[" line="35" column="13" />
@@ -175,9 +177,6 @@
         <mark key="." line="3" column="60" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-trigger.directive.ts" timestamp="1590162498071">
-        <mark key="'" line="56" column="9" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/src/lib/drawer/drawer.component.spec.ts" timestamp="1590161138813">
         <mark key="'" line="29" column="9" />
         <mark key="[" line="69" column="85" />
@@ -185,24 +184,15 @@
         <mark key="." line="70" column="22" />
         <mark key="^" line="70" column="23" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/src/lib/testing/src/test-components.ts" timestamp="1590160454059">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="41" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/testing/src/test-helpers.ts" timestamp="1590160423467">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="64" />
-        <mark key="." line="9" column="63" />
-        <mark key="^" line="9" column="64" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.spec.ts" timestamp="1590161490463">
         <mark key="'" line="22" column="36" />
         <mark key="[" line="649" column="0" />
         <mark key="]" line="653" column="16" />
         <mark key="^" line="653" column="16" />
         <mark key="." line="653" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/src/lib/option-utilities.spec.ts" timestamp="1590163470159">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1590161700551">
         <mark key="'" line="0" column="0" />
@@ -218,25 +208,8 @@
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/testing/src/test-helpers.ts" timestamp="1590160468081">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="28" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="56" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="62" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="65" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="71" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="80" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="83" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="89" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
       <jump line="92" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
       <jump line="95" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
       <jump line="101" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
@@ -326,6 +299,17 @@
       <jump line="22" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" />
       <jump line="203" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" />
+      <jump line="18" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/testing/src/test-components.ts" />
+      <jump line="276" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/testing/src/test-components.ts" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="24" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="43" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="13" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/src/lib/option-utilities.spec.ts" />
+      <jump line="14" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/src/lib/option-utilities.spec.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/src/lib/option-utilities.spec.ts" />
+      <jump line="294" column="38" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.spec.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.directive.ts" />
+      <jump line="343" column="71" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,7 +327,7 @@
         <text>@terminus/ui-autocomplete</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUc0Zvcm1GaWVsZENvbXBvbmVudFw+</text>
+        <text encoding="base64">XDx0c1RhYmxlVHNTb3J0QXBwRml4dHVyZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsKaW1wb3J0IHsKICBDb21wb25lbnQsCiAgTmdNb2R1bGUsCiAgT25Jbml0LAogIFZpZXdDaGlsZCwKfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKaW1wb3J0IHsKICBGb3JtQ29udHJvbCwKICBSZWFjdGl2ZUZvcm1zTW9kdWxlLAogIFZhbGlkYXRvcnMsCn0gZnJvbSAnQGFuZ3VsYXIvZm9ybXMnOwoKaW1wb3J0IHsKICBUc0Zvcm1GaWVsZENvbXBvbmVudCwKICBUc0Zvcm1GaWVsZE1vZHVsZSwKfSBmcm9tICcuLi8uLi91aS1mb3JtLWZpZWxkLm1vZHVsZSc7CmltcG9ydCB7CiAgVHNJbnB1dENvbXBvbmVudCwKICBUc0lucHV0TW9kdWxlLAp9IGZyb20gJ0B0ZXJtaW51cy91aS1pbnB1dCc7CgpAQ29tcG9uZW50KHsKICB0ZW1wbGF0ZTogYAogICAgPHRzLWZvcm0tZmllbGQKICAgICAgIFtjb250cm9sXT0iaW5wdXRDb21wb25lbnQiCiAgICAgICBbaWRdPSJteUlkIj4KICAgICAgPHRzLWlucHV0CiAgICAgICAgW2hhc0V4dGVybmFsRm9ybUZpZWxkXT0idHJ1ZSIKICAgICAgICBbZm9ybUNvbnRyb2xdPSJmb3JtQ29udHJvbCIKICAgICAgPjwvdHMtaW5wdXQ+CiAgICA8L3RzLWZvcm0tZmllbGQ+CiAgYCwKfSkKZXhwb3J0IGNsYXNzIElkIHsKICBwdWJsaWMgZm9ybUNvbnRyb2wgPSBuZXcgRm9ybUNvbnRyb2woKTsKICBwdWJsaWMgbXlJZDogc3RyaW5nIHwgdW5kZWZpbmVkID0gJ2Zvbyc7CgogIEBWaWV3Q2hpbGQoVHNJbnB1dENvbXBvbmVudCwgeyBzdGF0aWM6IHRydWUgfSkKICBwdWJsaWMgaW5wdXRDb21wb25lbnQhOiBUc0lucHV0Q29tcG9uZW50OwoKICBAVmlld0NoaWxkKFRzRm9ybUZpZWxkQ29tcG9uZW50LCB7IHN0YXRpYzogdHJ1ZSB9KQogIHB1YmxpYyBmb3JtRmllbGQhOiBUc0Zvcm1GaWVsZENvbXBvbmVudDsKfQoKQENvbXBvbmVudCh7CiAgdGVtcGxhdGU6IGAKICAgIDx0cy1mb3JtLWZpZWxkCiAgICAgIFtjb250cm9sXT0iaW5wdXRDb21wb25lbnQiCiAgICAgIFtoaWRlUmVxdWlyZWRNYXJrZXJdPSJoaWRlUmVxdWlyZWRNYXJrZXIiCiAgICA+CiAgICAgIDx0cy1pbnB1dAogICAgICAgIFtoYXNFeHRlcm5hbEZvcm1GaWVsZF09InRydWUiCiAgICAgICAgW2Zvcm1Db250cm9sXT0iZm9ybUNvbnRyb2wiCiAgICAgID48L3RzLWlucHV0PgogICAgPC90cy1mb3JtLWZpZWxkPgogIGAsCn0pCmV4cG9ydCBjbGFzcyBSZXF1aXJlZE1hcmtlciB7CiAgcHVibGljIGZvcm1Db250cm9sID0gbmV3IEZvcm1Db250cm9sKG51bGwsIFZhbGlkYXRvcnMucmVxdWlyZWQpOwogIHB1YmxpYyBoaWRlUmVxdWlyZWRNYXJrZXIgPSBmYWxzZTsKCiAgQFZpZXdDaGlsZChUc0lucHV0Q29tcG9uZW50LCB7IHN0YXRpYzogdHJ1ZSB9KQogIHB1YmxpYyBpbnB1dENvbXBvbmVudCE6IFRzSW5wdXRDb21wb25lbnQ7Cn0KCkBDb21wb25lbnQoewogIHRlbXBsYXRlOiBgCiAgICA8dHMtZm9ybS1maWVsZAogICAgICBbY29udHJvbF09ImlucHV0Q29tcG9uZW50IgogICAgICBbZmxvYXRMYWJlbF09ImZsb2F0IgogICAgPgogICAgICA8dHMtaW5wdXQKICAgICAgICBbaGFzRXh0ZXJuYWxGb3JtRmllbGRdPSJ0cnVlIgogICAgICAgIFtmb3JtQ29udHJvbF09ImZvcm1Db250cm9sIgogICAgICA+PC90cy1pbnB1dD4KICAgIDwvdHMtZm9ybS1maWVsZD4KICBgLAp9KQpleHBvcnQgY2xhc3MgRmxvYXQgewogIHB1YmxpYyBmb3JtQ29udHJvbCA9IG5ldyBGb3JtQ29udHJvbCgpOwogIHB1YmxpYyBmbG9hdDsKCiAgQFZpZXdDaGlsZChUc0lucHV0Q29tcG9uZW50LCB7IHN0YXRpYzogdHJ1ZSB9KQogIHB1YmxpYyBpbnB1dENvbXBvbmVudCE6IFRzSW5wdXRDb21wb25lbnQ7CgogIEBWaWV3Q2hpbGQoVHNGb3JtRmllbGRDb21wb25lbnQsIHsgc3RhdGljOiB0cnVlIH0pCiAgcHVibGljIGZvcm1GaWVsZCE6IFRzRm9ybUZpZWxkQ29tcG9uZW50Owp9CgpAQ29tcG9uZW50KHsKICB0ZW1wbGF0ZTogYAogICAgPHRzLWZvcm0tZmllbGQ+PC90cy1mb3JtLWZpZWxkPgogIGAsCn0pCmV4cG9ydCBjbGFzcyBOb0NvbnRyb2wgewp9CgpAQ29tcG9uZW50KHsKICB0ZW1wbGF0ZTogYAogICAgPHRzLWZvcm0tZmllbGQKICAgICAgW2NvbnRyb2xdPSJpbnB1dENvbXBvbmVudCIKICAgICAgW3ZhbGlkYXRlT25DaGFuZ2VdPSJ0cnVlIgogICAgPgogICAgICA8dHMtaW5wdXQKICAgICAgICBbaGFzRXh0ZXJuYWxGb3JtRmllbGRdPSJ0cnVlIgogICAgICAgIFtmb3JtQ29udHJvbF09ImZvcm1Db250cm9sIgogICAgICA+PC90cy1pbnB1dD4KICAgIDwvdHMtZm9ybS1maWVsZD4KICBgLAp9KQpleHBvcnQgY2xhc3MgRXJyb3JTdGF0ZSBpbXBsZW1lbnRzIE9uSW5pdCB7CiAgcHVibGljIGZvcm1Db250cm9sID0gbmV3IEZvcm1Db250cm9sKG51bGwsIFZhbGlkYXRvcnMucmVxdWlyZWQpOwoKICBAVmlld0NoaWxkKFRzSW5wdXRDb21wb25lbnQsIHsgc3RhdGljOiB0cnVlIH0pCiAgcHVibGljIGlucHV0Q29tcG9uZW50ITogVHNJbnB1dENvbXBvbmVudDsKCiAgQFZpZXdDaGlsZChUc0Zvcm1GaWVsZENvbXBvbmVudCwgeyBzdGF0aWM6IHRydWUgfSkKICBwdWJsaWMgZm9ybUZpZWxkITogVHNGb3JtRmllbGRDb21wb25lbnQ7CgogIHB1YmxpYyBuZ09uSW5pdCgpIHsKICAgIHRoaXMuZm9ybUNvbnRyb2wubWFya0FzRGlydHkoKTsKICB9Cn0KCkBDb21wb25lbnQoewogIHRlbXBsYXRlOiBgCiAgICA8dHMtZm9ybS1maWVsZCBbY29udHJvbF09ImlucHV0Q29tcG9uZW50Ij4KICAgICAgPHRzLWlucHV0CiAgICAgICAgW2hhc0V4dGVybmFsRm9ybUZpZWxkXT0idHJ1ZSIKICAgICAgICBbZm9ybUNvbnRyb2xdPSJmb3JtQ29udHJvbCIKICAgICAgPjwvdHMtaW5wdXQ+CiAgICA8L3RzLWZvcm0tZmllbGQ+CiAgYCwKfSkKZXhwb3J0IGNsYXNzIFVwZGF0ZU91dGxpbmUgewogIHB1YmxpYyBmb3JtQ29udHJvbCA9IG5ldyBGb3JtQ29udHJvbCgpOwoKICBAVmlld0NoaWxkKFRzSW5wdXRDb21wb25lbnQsIHsgc3RhdGljOiB0cnVlIH0pCiAgcHVibGljIGlucHV0Q29tcG9uZW50ITogVHNJbnB1dENvbXBvbmVudDsKCiAgQFZpZXdDaGlsZChUc0Zvcm1GaWVsZENvbXBvbmVudCwgeyBzdGF0aWM6IHRydWUgfSkKICBwdWJsaWMgZm9ybUZpZWxkITogVHNGb3JtRmllbGRDb21wb25lbnQ7Cn0KCkBDb21wb25lbnQoewogIHRlbXBsYXRlOiBgCiAgICA8dHMtZm9ybS1maWVsZAogICAgICBbY29udHJvbF09ImlucHV0Q29tcG9uZW50IgogICAgICBbbm9WYWxpZGF0aW9uT3JIaW50XT0idmFsaWRhdGlvbkZsYWciCiAgICA+CiAgICAgIDx0cy1pbnB1dAogICAgICAgIFtoYXNFeHRlcm5hbEZvcm1GaWVsZF09InRydWUiCiAgICAgICAgW2Zvcm1Db250cm9sXT0iZm9ybUNvbnRyb2wiCiAgICAgID48L3RzLWlucHV0PgogICAgPC90cy1mb3JtLWZpZWxkPgogIGAsCn0pCmV4cG9ydCBjbGFzcyBOb1ZhbGlkYXRpb25PckhpbnQgewogIHB1YmxpYyBmb3JtQ29udHJvbCA9IG5ldyBGb3JtQ29udHJvbCgpOwogIHB1YmxpYyB2YWxpZGF0aW9uRmxhZyA9IGZhbHNlOwoKICBAVmlld0NoaWxkKFRzSW5wdXRDb21wb25lbnQsIHsgc3RhdGljOiB0cnVlIH0pCiAgcHVibGljIGlucHV0Q29tcG9uZW50ITogVHNJbnB1dENvbXBvbmVudDsKCiAgQFZpZXdDaGlsZChUc0Zvcm1GaWVsZENvbXBvbmVudCwgeyBzdGF0aWM6IHRydWUgfSkKICBwdWJsaWMgZm9ybUZpZWxkITogVHNGb3JtRmllbGRDb21wb25lbnQ7Cn0KCi8qKgogKiBOT1RFOiBDdXJyZW50bHkgYWxsIGV4cG9ydGVkIENvbXBvbmVudHMgbXVzdCBiZWxvbmcgdG8gYSBtb2R1bGUuIFNvIHRoaXMgaXMgb3VyIHVzZWxlc3MgbW9kdWxlIHRvIGF2b2lkIHRoZSBidWlsZCBlcnJvci4KICovCkBOZ01vZHVsZSh7CiAgaW1wb3J0czogWwogICAgQ29tbW9uTW9kdWxlLAogICAgUmVhY3RpdmVGb3Jtc01vZHVsZSwKICAgIFRzRm9ybUZpZWxkTW9kdWxlLAogICAgVHNJbnB1dE1vZHVsZSwKICBdLAogIGRlY2xhcmF0aW9uczogWwogICAgSWQsCiAgICBSZXF1aXJlZE1hcmtlciwKICAgIEZsb2F0LAogICAgTm9Db250cm9sLAogICAgTm9WYWxpZGF0aW9uT3JIaW50LAogICAgRXJyb3JTdGF0ZSwKICAgIFVwZGF0ZU91dGxpbmUsCiAgXSwKfSkKZXhwb3J0IGNsYXNzIFRzRm9ybUZpZWxkVGVzdENvbXBvbmVudHNNb2R1bGUge30K</text>
@@ -382,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUc0Zvcm1GaWVsZENvbXBvbmVudFw+</last-search>
+      <last-search encoding="base64">XDx0c1RhYmxlVHNTb3J0QXBwRml4dHVyZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUc0Zvcm1GaWVsZENvbXBvbmVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0c1RhYmxlVHNTb3J0QXBwRml4dHVyZVw+</last-pattern>
       <last-replace>index</last-replace>
       <last-substitute>public-api</last-substitute>
       <last-dir>1</last-dir>
