@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mock</entry>
         <entry>material</entry>
         <entry>commands</entry>
         <entry>paralle</entry>
@@ -25,6 +24,7 @@
         <entry>radio</entry>
         <entry>dist</entry>
         <entry>theme</entry>
+        <entry>ButtonTestHelper ran!</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">YWN0aW9uIA==</entry>
@@ -113,28 +113,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/package.json" timestamp="1590094536383">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
-      </file>
       <file name="$USER_HOME$/Desktop/foobar/apps/showcase/src/app/app.component.html" timestamp="1590152319277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button-spec-helpers.ts" timestamp="1590152272309">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="36" />
+      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button-spec-helpers.ts" timestamp="1590153180601">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="35" />
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/ui-form-field.module.ts" timestamp="1590094471001">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/ui.module.ts" timestamp="1590153573665">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1590095772382">
         <mark key="'" line="15" column="17" />
@@ -143,36 +138,53 @@
         <mark key="^" line="178" column="5" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button.component.html" timestamp="1590152328165">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="40" />
+      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button.component.html" timestamp="1590153503555">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/testing/src/test-components.ts" timestamp="1590094640048" />
+      <file name="$USER_HOME$/Desktop/foobar/angular.json" timestamp="1590153417479">
+        <mark key="[" line="125" column="6" />
+        <mark key="]" line="125" column="5" />
+        <mark key="." line="125" column="4" />
+        <mark key="^" line="125" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/testing/helpers.ts" timestamp="1590153479470">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="36" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1590147467372">
         <mark key="'" line="199" column="0" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button.component.ts" timestamp="1590152226968">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button.component.ts" timestamp="1590153516133">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/group/radio-group.component.spec.ts" timestamp="1590094032214">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="8" />
+      <file name="$USER_HOME$/Desktop/foobar/nx.json" timestamp="1590153252468">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/testing.ts" timestamp="1590152296336">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/testing/index.ts" timestamp="1590153488860">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" timestamp="1590095422396">
         <mark key="[" line="9" column="0" />
@@ -181,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/jest-setup.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/jest-mocks/matchMedia.js" />
       <jump line="14" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/jest-mocks/matchMedia.js" />
       <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/jest-mocks/createRange.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/jest-mocks/createRange.ts" />
@@ -281,6 +291,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="191" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button.component.ts" />
+      <jump line="126" column="11" filename="$USER_HOME$/Desktop/foobar/angular.json" />
+      <jump line="9" column="18" filename="$USER_HOME$/Desktop/foobar/libs/ui/src/lib/button/button.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,8 +300,8 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>Click me!</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpdGVtOiAnLCBpdGVtKTsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -298,37 +310,37 @@
         <text>Click me!</text>
       </register>
       <register name="/" type="4">
-        <text>theme</text>
+        <text>ButtonTestHelper ran!</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJAdGVybWludXMvdWktc3R5bGVzIjogIi4vZGlzdC9saWJzL3VpL3N0eWxlcyIsCg==</text>
+      <register name="0" type="4">
+        <text>ButtonTestHelper ran!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGJ1dHRvbj48L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpdGVtOiAnLCBpdGVtKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PHA+YnV0dG9uIHdvcmtzITwvcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAdGVybWludXMvdWktc3R5bGVzIjogIi4vZGlzdC9saWJzL3VpL3N0eWxlcyIsCg==</text>
+        <text encoding="base64">ICAgICJ1aSI6IHsKICAgICAgInByb2plY3RUeXBlIjogImxpYnJhcnkiLAogICAgICAicm9vdCI6ICJsaWJzL3VpIiwKICAgICAgInNvdXJjZVJvb3QiOiAibGlicy91aS9zcmMiLAogICAgICAicHJlZml4IjogImZvb2JhciIsCiAgICAgICJhcmNoaXRlY3QiOiB7CiAgICAgICAgImxpbnQiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAYW5ndWxhci1kZXZraXQvYnVpbGQtYW5ndWxhcjp0c2xpbnQiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6IFsKICAgICAgICAgICAgICAibGlicy91aS90c2NvbmZpZy5saWIuanNvbiIsCiAgICAgICAgICAgICAgImxpYnMvdWkvdHNjb25maWcuc3BlYy5qc29uIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiZXhjbHVkZSI6IFsiKiovbm9kZV9tb2R1bGVzLyoqIiwgIiFsaWJzL3VpLyoqIl0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJ0ZXN0IjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQG5yd2wvamVzdDpqZXN0IiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAiamVzdENvbmZpZyI6ICJsaWJzL3VpL2plc3QuY29uZmlnLmpzIiwKICAgICAgICAgICAgInRzQ29uZmlnIjogImxpYnMvdWkvdHNjb25maWcuc3BlYy5qc29uIiwKICAgICAgICAgICAgInBhc3NXaXRoTm9UZXN0cyI6IHRydWUsCiAgICAgICAgICAgICJzZXR1cEZpbGUiOiAibGlicy91aS9zcmMvdGVzdC1zZXR1cC50cyIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICAgICJzY2hlbWF0aWNzIjogewogICAgICAgICJAbnJ3bC9hbmd1bGFyOmNvbXBvbmVudCI6IHsKICAgICAgICAgICJzdHlsZSI6ICJzY3NzIgogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJidWlsZCIsCg==</text>
+        <text encoding="base64">ICAgIH0sCiAgICAidWkiOiB7CiAgICAgICJ0YWdzIjogW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdueC1lbmZvcmNlLW1vZHVsZS1ib3VuZGFyaWVzJzogWwogICAgICB0cnVlLAogICAgICB7CiAgICAgICAgZW5mb3JjZUJ1aWxkYWJsZUxpYkRlcGVuZGVuY3k6IHRydWUsCiAgICAgICAgYWxsb3c6IFtdLAogICAgICAgIGRlcENvbnN0cmFpbnRzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHNvdXJjZVRhZzogJyonLAogICAgICAgICAgICBvbmx5RGVwZW5kT25MaWJzV2l0aFRhZ3M6IFsKICAgICAgICAgICAgICAnKicKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgXSwKCg==</text>
+        <text encoding="base64">PGJ1dHRvbj48L2J1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJidWlsZCIsCg==</text>
+        <text encoding="base64">PHA+YnV0dG9uIHdvcmtzITwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdueC1lbmZvcmNlLW1vZHVsZS1ib3VuZGFyaWVzJzogWwogICAgICB0cnVlLAogICAgICB7CiAgICAgICAgZW5mb3JjZUJ1aWxkYWJsZUxpYkRlcGVuZGVuY3k6IHRydWUsCiAgICAgICAgYWxsb3c6IFtdLAogICAgICAgIGRlcENvbnN0cmFpbnRzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHNvdXJjZVRhZzogJyonLAogICAgICAgICAgICBvbmx5RGVwZW5kT25MaWJzV2l0aFRhZ3M6IFsKICAgICAgICAgICAgICAnKicKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgXSwKCg==</text>
+        <text encoding="base64">ICAgICJAdGVybWludXMvdWktc3R5bGVzIjogIi4vZGlzdC9saWJzL3VpL3N0eWxlcyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJidWlsZCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdueC1lbmZvcmNlLW1vZHVsZS1ib3VuZGFyaWVzJzogWwogICAgICB0cnVlLAogICAgICB7CiAgICAgICAgZW5mb3JjZUJ1aWxkYWJsZUxpYkRlcGVuZGVuY3k6IHRydWUsCiAgICAgICAgYWxsb3c6IFtdLAogICAgICAgIGRlcENvbnN0cmFpbnRzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHNvdXJjZVRhZzogJyonLAogICAgICAgICAgICBvbmx5RGVwZW5kT25MaWJzV2l0aFRhZ3M6IFsKICAgICAgICAgICAgICAnKicKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgXSwKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -337,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>theme</last-search>
+      <last-search>ButtonTestHelper ran!</last-search>
       <last-offset />
-      <last-pattern>theme</last-pattern>
+      <last-pattern>ButtonTestHelper ran!</last-pattern>
       <last-replace>index</last-replace>
       <last-substitute>public-api</last-substitute>
       <last-dir>1</last-dir>
