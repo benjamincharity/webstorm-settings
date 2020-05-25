@@ -113,15 +113,64 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/testing/src/index.ts" timestamp="1590383075424">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1590379221730">
+        <mark key="'" line="110" column="20" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="213" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" timestamp="1590383558380">
+        <mark key="'" line="295" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1590384288857">
+        <mark key="'" line="323" column="126" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/renovate.json" timestamp="1590384958202">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/index.ts" timestamp="1590383606016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/popover/popover.component.ts" timestamp="1590378541751">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" timestamp="1590383208543">
+        <mark key="'" line="59" column="13" />
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="339" column="24" />
+        <mark key="^" line="351" column="22" />
+        <mark key="." line="339" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/testing/src/index.ts" timestamp="1590383881214">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/tsconfig.lib.json" timestamp="1590380569048">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/test-components.ts" timestamp="1590383740742">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="298" column="11" />
+        <mark key="]" line="310" column="11" />
+        <mark key="." line="310" column="10" />
+        <mark key="^" line="310" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.spec.ts" timestamp="1590384036116">
+        <mark key="'" line="419" column="0" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="422" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/testing/src/index.ts" timestamp="1590383075424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/chip/chip.component.spec.ts" timestamp="1590383777237">
         <mark key="'" line="15" column="25" />
@@ -149,52 +198,16 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/testing/src/index.ts" timestamp="1590378524045">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/testing/src/test-components.ts" timestamp="1590382931887">
         <mark key="'" line="325" column="0" />
         <mark key="[" line="325" column="0" />
         <mark key="]" line="342" column="43" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1590379221730">
-        <mark key="'" line="110" column="20" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="213" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" timestamp="1590383558380">
-        <mark key="'" line="295" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1590379047165">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/index.ts" timestamp="1590383606016">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/tsconfig.spec.json" timestamp="1590380556721">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" timestamp="1590383208543">
-        <mark key="'" line="59" column="13" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="339" column="24" />
-        <mark key="^" line="351" column="22" />
-        <mark key="." line="339" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/testing/src/index.ts" timestamp="1590383881214">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/tsconfig.lib.json" timestamp="1590380569048">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="27" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1590384939318">
+        <mark key="'" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" timestamp="1590384174616">
         <mark key="[" line="24" column="32" />
@@ -202,30 +215,14 @@
         <mark key="." line="24" column="52" />
         <mark key="^" line="24" column="53" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/test-components.ts" timestamp="1590383740742">
-        <mark key="'" line="248" column="0" />
-        <mark key="[" line="298" column="11" />
-        <mark key="]" line="310" column="11" />
-        <mark key="." line="310" column="10" />
-        <mark key="^" line="310" column="11" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" timestamp="1590384128284">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="9" column="48" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.spec.ts" timestamp="1590384036116">
-        <mark key="'" line="419" column="0" />
-        <mark key="[" line="55" column="23" />
-        <mark key="]" line="55" column="23" />
-        <mark key="." line="55" column="23" />
-        <mark key="^" line="422" column="3" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/selection-list/selection-list.component.spec.ts" />
-      <jump line="590" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/selection-list/selection-list.component.spec.ts" />
       <jump line="991" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/selection-list/selection-list.component.spec.ts" />
       <jump line="976" column="15" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/selection-list/selection-list.component.spec.ts" />
       <jump line="947" column="56" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/selection-list/selection-list.component.spec.ts" />
@@ -324,6 +321,8 @@
       <jump line="82" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/test-components.ts" />
       <jump line="296" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
       <jump line="24" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
+      <jump line="323" column="126" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="26" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,19 +331,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>@terminus/ui-chip/testing</text>
+        <text>Terminus</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>@terminus/ui-chip/testing</text>
+        <text>Terminus</text>
       </register>
       <register name="/" type="4">
         <text>TestComponents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEJhc2ljLAogICAgUmVjb3Jkc0NvdW50LAogICAgUmVjb3Jkc1BlclBhZ2UsCiAgICBTaW1wbGVNb2RlLAogICAgWmVyb0Jhc2VkLAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgInBhY2thZ2VQYXR0ZXJucyI6IFsiXkB0ZXJtaW51cyJdLAogICAgICAiZ3JvdXBOYW1lIjogIlRlcm1pbnVzIFBhY2thZ2VzIgogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgdGVzdENvbXBvbmVudHMgfSBmcm9tICdAdGVybWludXMvdWktY2hpcC90ZXN0aW5nJzsK</text>
