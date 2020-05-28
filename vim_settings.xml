@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUc0NoYXJ0VGVzdENvbXBvbmVudFw+</entry>
-        <entry>consol</entry>
-        <entry>chart</entry>
-        <entry encoding="base64">XDxUYWJsZUNvbHVtbkludmFsaWRBbGlnbm1lbnRUYWJsZUFwcFw+</entry>
-        <entry encoding="base64">XDxUYWJsZUNvbHVtbkFsaWdubWVudFRhYmxlQXBwXD4=</entry>
         <entry encoding="base64">XDxBcnJheURhdGFTb3VyY2VUYWJsZUFwcFw+</entry>
         <entry encoding="base64">XDxUYWJsZVdpdGhXaGVuUm93QXBwXD4=</entry>
         <entry>TestComponents</entry>
@@ -19,34 +14,39 @@
         <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxQYW5lbFw+</entry>
         <entry encoding="base64">XDxUaGVtZVw+</entry>
-        <entry encoding="base64">XDxhdXRvY29tcGxldGVcPg==</entry>
         <entry>input-types</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry encoding="base64">XDxTY3JvbGxcPg==</entry>
         <entry>Action</entry>
         <entry encoding="base64">XDxUc1NlYXJjaFJlc3BvbnNlXD4=</entry>
+        <entry>zenh</entry>
+        <entry>size</entry>
+        <entry encoding="base64">XDx0ZXJtaW51c1w+</entry>
+        <entry encoding="base64">XDxhdXRvY29tcGxldGVcPg==</entry>
+        <entry>ui-autocomplete</entry>
+        <entry>ui-button</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/field-form-control/editable-form__control/g</entry>
-        <entry>%s/field-container/editable-form__static-field/g</entry>
-        <entry>%s/field-label/editable-form__static-label/g</entry>
-        <entry>%s/field-value/editable-form__static-value/g</entry>
-        <entry>%s/disabled-value/editable-form--disabled/g</entry>
-        <entry>%s/trigger_inner/trigger-inner/g</entry>
-        <entry>%s/ngx/bjpc/g</entry>
-        <entry>%s/bjpc/npx/g</entry>
-        <entry>%s/npx/ngx/g</entry>
-        <entry>action RenameElement</entry>
-        <entry>%s/Ui/Ts/g</entry>
-        <entry>%s/public-api/index/g</entry>
-        <entry>%s/TestComponents/testComponents/g</entry>
-        <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
-        <entry>%s/TestComponents.//g</entry>
-        <entry>%s/testComponents.//g</entry>
-        <entry>noh</entry>
-        <entry>w</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action SelectInProjectView</entry>
+        <entry>%s/ui-button/ui-navigation/g</entry>
+        <entry>%s/ui-button/ui-option/g</entry>
+        <entry>%s/ui-button/ui-paginator/g</entry>
+        <entry>%s/ui-button/ui-pipes/g</entry>
+        <entry>%s/ui-button/ui-popover/g</entry>
+        <entry>%s/ui-button/ui-radio-group/g</entry>
+        <entry>%s/ui-button/ui-scrollbars/g</entry>
+        <entry>%s/ui-button/ui-search/g</entry>
+        <entry>%s/ui-button/ui-select/g</entry>
+        <entry>%s/ui-button/ui-selection-list/g</entry>
+        <entry>%s/ui-button/ui-sort/g</entry>
+        <entry>%s/ui-button/ui-spacing/g</entry>
+        <entry>%s/ui-button/ui-styles/g</entry>
+        <entry>%s/ui-button/ui-table/g</entry>
+        <entry>%s/ui-button/ui-tabs/g</entry>
+        <entry>%s/ui-button/ui-toggle/g</entry>
+        <entry>%s/ui-button/ui-tooltip/g</entry>
+        <entry>%s/ui-button/ui-utilities/g</entry>
+        <entry>%s/ui-button/ui-validation-messages/g</entry>
+        <entry>%s/ui-button/ui-validators/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -108,226 +108,254 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/README.md" timestamp="1590687601987">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/README.md" timestamp="1590696528441">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/README.md" timestamp="1590687463122">
-        <mark key="'" line="788" column="30" />
-        <mark key="[" line="795" column="20" />
-        <mark key="]" line="795" column="20" />
-        <mark key="." line="795" column="19" />
-        <mark key="^" line="795" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/src/lib/tooltip/tooltip.component.ts" timestamp="1590687681333">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.md" timestamp="1590687351356">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" timestamp="1590687952798">
-        <mark key="'" line="124" column="33" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="103" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1590690127315">
-        <mark key="'" line="129" column="99" />
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="428" column="134" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590689989718">
-        <mark key="'" line="129" column="5" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="58" column="229" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" timestamp="1590687971358">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="56" column="112" />
-        <mark key="]" line="56" column="113" />
-        <mark key="." line="56" column="112" />
-        <mark key="^" line="56" column="113" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" timestamp="1590688807386">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/src/lib/collection/tab-collection.component.md" timestamp="1590687490515">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/README.md" timestamp="1590696469019">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="156" column="3" />
+        <mark key="[" line="804" column="19" />
+        <mark key="]" line="804" column="22" />
+        <mark key="." line="804" column="21" />
+        <mark key="^" line="804" column="22" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" timestamp="1590687859155">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" timestamp="1590696490719">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="166" column="94" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="111" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" timestamp="1590696299431">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="60" />
+        <mark key="^" line="157" column="23" />
+        <mark key="." line="157" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" timestamp="1590696122241">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="23" />
+        <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" timestamp="1590696551187">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="49" column="94" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/README.md" timestamp="1590696355862">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="65" column="70" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" timestamp="1590696689072">
+        <mark key="'" line="26" column="58" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="29" column="94" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" timestamp="1590687910677">
-        <mark key="[" line="76" column="2" />
-        <mark key="]" line="76" column="2" />
-        <mark key="." line="76" column="1" />
-        <mark key="^" line="76" column="2" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" timestamp="1590696743171">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" timestamp="1590690488198">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="10" column="79" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" timestamp="1590696193502">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="166" column="20" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/src/lib/service/validators.service.md" timestamp="1590687888588">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" timestamp="1590696144191">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="99" column="30" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/README.md" timestamp="1590696381378">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="46" column="94" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/README.md" timestamp="1590696172505">
+        <mark key="'" line="265" column="22" />
+        <mark key="[" line="265" column="20" />
+        <mark key="]" line="265" column="23" />
+        <mark key="^" line="265" column="23" />
+        <mark key="." line="265" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" timestamp="1590696435331">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="10" column="90" />
+        <mark key="^" line="10" column="90" />
+        <mark key="." line="10" column="89" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" timestamp="1590696055831">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="157" column="3" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" timestamp="1590696217046">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="40" column="21" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" timestamp="1590696303598">
+        <mark key="'" line="537" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/README.md" timestamp="1590696332834">
+        <mark key="'" line="225" column="0" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="^" line="226" column="22" />
+        <mark key="." line="225" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/README.md" timestamp="1590696573802">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" timestamp="1590696703024">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="83" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" timestamp="1590687329174">
-        <mark key="'" line="14" column="84" />
-        <mark key="[" line="14" column="76" />
-        <mark key="]" line="14" column="81" />
-        <mark key="^" line="14" column="81" />
-        <mark key="." line="14" column="80" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/src/lib/toggle/toggle.component.md" timestamp="1590687582778">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1590688008337">
-        <mark key="'" line="181" column="5" />
-        <mark key="[" line="53" column="86" />
-        <mark key="]" line="53" column="90" />
-        <mark key="." line="53" column="89" />
-        <mark key="^" line="53" column="90" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/README.md" timestamp="1590687851956">
-        <mark key="'" line="6" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/styles.scss" timestamp="1590687086861">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="1" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="36" column="94" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/src/lib/nav/navigation.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/src/lib/nav/navigation.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
-      <jump line="99" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
-      <jump line="92" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.md" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
+      <jump line="99" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
+      <jump line="29" column="66" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
+      <jump line="114" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
+      <jump line="127" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
+      <jump line="64" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
+      <jump line="16" column="38" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="575" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/README.md" />
+      <jump line="110" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/README.md" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/README.md" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/README.md" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/README.md" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/README.md" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
+      <jump line="121" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" />
-      <jump line="27" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/popover/popover.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/popover/popover.component.md" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="101" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="20" column="86" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="104" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="103" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="100" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="26" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="105" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="88" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="17" column="36" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/group/radio-group.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/group/radio-group.component.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" />
+      <jump line="160" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" />
+      <jump line="8" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="25" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
+      <jump line="100" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
+      <jump line="50" column="17" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="12" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="108" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/README.md" />
-      <jump line="37" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/scrollbars/scrollbars.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/scrollbars/scrollbars.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
-      <jump line="109" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
-      <jump line="155" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/README.md" />
+      <jump line="265" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
+      <jump line="168" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="20" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" />
-      <jump line="25" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/README.md" />
-      <jump line="29" column="43" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/README.md" />
-      <jump line="27" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/README.md" />
-      <jump line="123" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/README.md" />
-      <jump line="26" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="13" column="12" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="60" column="57" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="207" column="47" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/src/lib/search/search.component.ts" />
-      <jump line="32" column="78" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="31" column="75" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
-      <jump line="12" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/src/lib/select/select.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/src/lib/select/select.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" />
-      <jump line="245" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" />
-      <jump line="42" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/selection-list/selection-list.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/src/lib/selection-list/selection-list.component.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" />
+      <jump line="528" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" />
+      <jump line="157" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
+      <jump line="506" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
+      <jump line="12" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" />
+      <jump line="158" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
+      <jump line="537" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/README.md" />
-      <jump line="161" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/README.md" />
-      <jump line="27" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.directive.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/src/lib/sort/sort.directive.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/README.md" />
+      <jump line="225" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/selection-list/README.md" />
+      <jump line="7" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/README.md" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/README.md" />
-      <jump line="15" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/src/lib/vertical/vertical-spacing.directive.ts" />
-      <jump line="8" column="84" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" />
-      <jump line="16" column="32" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/README.md" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/README.md" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" />
+      <jump line="44" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/README.md" />
+      <jump line="788" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/README.md" />
-      <jump line="600" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/README.md" />
-      <jump line="787" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/README.md" />
-      <jump line="25" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/src/lib/collection/tab-collection.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/src/lib/collection/tab-collection.component.md" />
-      <jump line="134" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
-      <jump line="120" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
-      <jump line="114" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/src/lib/toggle/toggle.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/src/lib/toggle/toggle.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/README.md" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" />
-      <jump line="6" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" />
-      <jump line="16" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/src/lib/service/validators.service.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/src/lib/service/validators.service.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
       <jump line="124" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
-      <jump line="55" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="75" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="76" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="88" column="35" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="10" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
-      <jump line="129" column="99" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="38" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
-      <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
+      <jump line="154" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="10" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/README.md" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/README.md" />
+      <jump line="14" column="64" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" />
+      <jump line="10" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/README.md" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/README.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" />
+      <jump line="26" column="58" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" />
+      <jump line="76" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,78 +363,60 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>|</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cgo8IS0tIExpbmtzIC0tPgpbbGljZW5zZS11cmxdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvYmxvYi9tYXN0ZXIvTElDRU5TRQpbbGljZW5zZS1pbWFnZV06ICAgICAgIGh0dHA6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9saWNlbnNlLU1JVC1ibHVlLnN2ZwpbY29kZWNvdi1wcm9qZWN0XTogICAgIGh0dHBzOi8vY29kZWNvdi5pby9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MKW2NvZGVjb3YtYmFkZ2VdOiAgICAgICBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtb3NzL2JyYW5jaC9tYXN0ZXIvZ3JhcGgvYmFkZ2Uuc3ZnCltucG0tdmVyc2lvbi1pbWFnZV06ICAgaHR0cDovL2ltZy5zaGllbGRzLmlvL25wbS92L0B0ZXJtaW51cy91aS1idXR0b24uc3ZnCltucG0tcGFja2FnZV06ICAgICAgICAgaHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvQHRlcm1pbnVzL3VpLWJ1dHRvbgpbZ2gtcmVsZWFzZS1iYWRnZV06ICAgIGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL3JlbGVhc2UvR2V0VGVybWludXMvdGVybWludXMtb3NzLnN2ZwpbZ2gtcmVsZWFzZXNdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9yZWxlYXNlcy8KW2dpdGh1Yi1hY3Rpb24tYmFkZ2VdOiBodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtb3NzL3dvcmtmbG93cy9DSSUyMFJlbGVhc2UvYmFkZ2Uuc3ZnCltnaXRodWItYWN0aW9uLWxpbmtdOiAgaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLW9zcy9hY3Rpb25zP3F1ZXJ5PXdvcmtmbG93JTNBJTIyQ0krUmVsZWFzZSUyMgpbZmlsZS1zaXplLWJhZGdlXTogICAgIGh0dHA6Ly9pbWcuYmFkZ2VzaXplLmlvL2h0dHBzOi8vdW5wa2cuY29tL0B0ZXJtaW51cy91aS1idXR0b24vYnVuZGxlcy90ZXJtaW51cy11aS1idXR0b24udW1kLm1pbi5qcz9jb21wcmVzc2lvbj1nemlwCltyYXctZGlzdHJpYnV0aW9uLWpzXTogaHR0cHM6Ly91bnBrZy5jb20vQHRlcm1pbnVzL3VpLWJ1dHRvbi9idW5kbGVzL3Rlcm1pbnVzLXVpLWJ1dHRvbi51bWQuanMK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUc1NlYXJjaFJlc3BvbnNlXD4=</text>
+        <text>ui-button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W3NyYy1waXBlcy1hYmJyZXZpYXRlTnVtYmVyXTogaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLXVpL2Jsb2IvcmVsZWFzZS9wcm9qZWN0cy9saWJyYXJ5L3BpcGVzL3NyYy9hYmJyZXZpYXRlLW51bWJlci9hYmJyZXZpYXRlLW51bWJlci5waXBlLnRzCltzcmMtcGlwZXMtZGF0ZV06ICAgICAgICAgaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLXVpL2Jsb2IvcmVsZWFzZS9wcm9qZWN0cy9saWJyYXJ5L3BpcGVzL3NyYy9kYXRlL2RhdGUucGlwZS50cwpbc3JjLXBpcGVzLXJvdW5kTnVtYmVyXTogIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9ibG9iL3JlbGVhc2UvcHJvamVjdHMvbGlicmFyeS9waXBlcy9zcmMvcm91bmQtbnVtYmVyL3JvdW5kLW51bWJlci5waXBlLnRzCltzcmMtcGlwZXMtc2VudGVuY2VDYXNlXTogaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLXVpL2Jsb2IvcmVsZWFzZS9wcm9qZWN0cy9saWJyYXJ5L3BpcGVzL3NyYy9zZW50ZW5jZS1jYXNlL3NlbnRlbmNlLWNhc2UucGlwZS50cwpbc3JjLXBpcGVzLXRpbWVBZ29dOiAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9ibG9iL3JlbGVhc2UvcHJvamVjdHMvbGlicmFyeS9waXBlcy9zcmMvdGltZS1hZ28vdGltZS1hZ28ucGlwZS50cwpbc3JjLXBpcGVzLXRpdGxlQ2FzZV06ICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9ibG9iL3JlbGVhc2UvcHJvamVjdHMvbGlicmFyeS9waXBlcy9zcmMvdGl0bGUtY2FzZS90aXRsZS1jYXNlLnBpcGUudHMKW3NyYy1waXBlcy10cnVuY2F0ZV06ICAgICBodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtdWkvYmxvYi9yZWxlYXNlL3Byb2plY3RzL2xpYnJhcnkvcGlwZXMvc3JjL3RydW5jYXRlL3RydW5jYXRlLnBpcGUudHMK</text>
+        <text encoding="base64">Cgo8IS0tIExpbmtzIC0tPgpbbGljZW5zZS11cmxdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvYmxvYi9tYXN0ZXIvTElDRU5TRQpbbGljZW5zZS1pbWFnZV06ICAgICAgIGh0dHA6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9saWNlbnNlLU1JVC1ibHVlLnN2ZwpbY29kZWNvdi1wcm9qZWN0XTogICAgIGh0dHBzOi8vY29kZWNvdi5pby9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MKW2NvZGVjb3YtYmFkZ2VdOiAgICAgICBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtb3NzL2JyYW5jaC9tYXN0ZXIvZ3JhcGgvYmFkZ2Uuc3ZnCltucG0tdmVyc2lvbi1pbWFnZV06ICAgaHR0cDovL2ltZy5zaGllbGRzLmlvL25wbS92L0B0ZXJtaW51cy91aS1idXR0b24uc3ZnCltucG0tcGFja2FnZV06ICAgICAgICAgaHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvQHRlcm1pbnVzL3VpLWJ1dHRvbgpbZ2gtcmVsZWFzZS1iYWRnZV06ICAgIGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL3JlbGVhc2UvR2V0VGVybWludXMvdGVybWludXMtb3NzLnN2ZwpbZ2gtcmVsZWFzZXNdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9yZWxlYXNlcy8KW2dpdGh1Yi1hY3Rpb24tYmFkZ2VdOiBodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtb3NzL3dvcmtmbG93cy9DSSUyMFJlbGVhc2UvYmFkZ2Uuc3ZnCltnaXRodWItYWN0aW9uLWxpbmtdOiAgaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLW9zcy9hY3Rpb25zP3F1ZXJ5PXdvcmtmbG93JTNBJTIyQ0krUmVsZWFzZSUyMgpbZmlsZS1zaXplLWJhZGdlXTogICAgIGh0dHA6Ly9pbWcuYmFkZ2VzaXplLmlvL2h0dHBzOi8vdW5wa2cuY29tL0B0ZXJtaW51cy91aS1idXR0b24vYnVuZGxlcy90ZXJtaW51cy11aS1idXR0b24udW1kLm1pbi5qcz9jb21wcmVzc2lvbj1nemlwCltyYXctZGlzdHJpYnV0aW9uLWpzXTogaHR0cHM6Ly91bnBrZy5jb20vQHRlcm1pbnVzL3VpLWJ1dHRvbi9idW5kbGVzL3Rlcm1pbnVzLXVpLWJ1dHRvbi51bWQuanMK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IFN0YXR1cyAgICAgICAgICAgICB8CjotLS0tLS0tLS0tLS0tLS0tLS06fAogOndoaXRlX2NoZWNrX21hcms6IHwKIDp3aGl0ZV9jaGVja19tYXJrOiB8CiA6d2hpdGVfY2hlY2tfbWFyazogfAogOndoaXRlX2NoZWNrX21hcms6IHwKIDp3aGl0ZV9jaGVja19tYXJrOiB8CiA6d2hpdGVfY2hlY2tfbWFyazogfAogOndoaXRlX2NoZWNrX21hcms6IHw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="2" type="8">
-        <text>/
-/
-/
-/
-/
-/
-/</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="8">
-        <text>/
-/
-/
-/
-/
-/
-/</text>
+      <register name="3" type="2">
+        <text encoding="base64">PCEtLSBMaW5rcyAtLT4KCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
-https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
-https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
-https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
-https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
-https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
-https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IAogCiAKIAogCiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Wzpib29rczogUGlwZXMgRG9jdW1lbnRhdGlvbl1bcGlwZXMtZG9jc10KPGJyPgpbOmNpcmN1c190ZW50OiBQaXBlcyBEZW1vXVtkZW1vLXBpcGVzXQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgUGlwZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LSBbVGVybWludXNPc3NdKCN0ZXJtaW51c29zcykK</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>%s/ui-button/ui-validators/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUc1NlYXJjaFJlc3BvbnNlXD4=</last-search>
+      <last-search>ui-button</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUc1NlYXJjaFJlc3BvbnNlXD4=</last-pattern>
-      <last-replace />
-      <last-substitute>testComponents.</last-substitute>
+      <last-pattern>ui-button</last-pattern>
+      <last-replace>ui-validators</last-replace>
+      <last-substitute>ui-button</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
