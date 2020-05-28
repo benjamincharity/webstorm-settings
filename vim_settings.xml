@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUc1NlbGVjdGlvbkxpc3RUcmlnZ2VyRGlyZWN0aXZlXD4=</entry>
-        <entry encoding="base64">XDx0cmlnZ2VyXD4=</entry>
-        <entry>selection-list</entry>
-        <entry>item</entry>
-        <entry>styles</entry>
-        <entry>design-tokens</entry>
-        <entry encoding="base64">XDxjb21tYW5kc1w+</entry>
         <entry>value</entry>
         <entry>color</entry>
         <entry encoding="base64">XDxUc0NoYXJ0VGVzdENvbXBvbmVudFw+</entry>
@@ -25,6 +18,13 @@
         <entry>TestComponents.</entry>
         <entry>testComponents.</entry>
         <entry>husky</entry>
+        <entry encoding="base64">XDxEYXRlXD4=</entry>
+        <entry encoding="base64">XDxQYW5lbFw+</entry>
+        <entry encoding="base64">XDxUaGVtZVw+</entry>
+        <entry encoding="base64">XDxhdXRvY29tcGxldGVcPg==</entry>
+        <entry>input-types</entry>
+        <entry encoding="base64">XDxVc2VyXD4=</entry>
+        <entry encoding="base64">XDxTY3JvbGxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -45,8 +45,8 @@
         <entry>%s/TestComponents/testComponents/g</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>%s/TestComponents.//g</entry>
-        <entry>noh</entry>
         <entry>%s/testComponents.//g</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,215 +113,221 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/lint-staged.config.js" timestamp="1590668750086">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" timestamp="1590683572895">
+        <mark key="'" line="92" column="13" />
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="99" column="2" />
+        <mark key="." line="99" column="1" />
+        <mark key="^" line="99" column="2" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/src/lib/card/card.component.md" timestamp="1590678258612">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" timestamp="1590684417326">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/lib/logo/logo.component.md" timestamp="1590683236454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/package.json" timestamp="1590675492613">
-        <mark key="[" line="68" column="4" />
-        <mark key="]" line="68" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/README.md" timestamp="1590678268973">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="108" column="3" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.md" timestamp="1590670264839">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/README.md" timestamp="1590678136359">
-        <mark key="'" line="21" column="2" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/README.md" timestamp="1590683948501">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="7" column="12" />
+        <mark key="]" line="70" column="3" />
       </file>
-      <file name="/Dummy.css" timestamp="1590677012155">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/src/lib/nav/navigation.component.md" timestamp="1590683461313">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3040" column="3" />
-        <mark key="." line="3040" column="2" />
-        <mark key="^" line="3040" column="3" />
+        <mark key="]" line="113" column="0" />
       </file>
-      <file name="/Dummy.html" timestamp="1590671209345">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" timestamp="1590684596350">
+        <mark key="'" line="155" column="16" />
+        <mark key="[" line="109" column="2" />
+        <mark key="]" line="139" column="2" />
+        <mark key="." line="139" column="1" />
+        <mark key="^" line="139" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/group/radio-group.component.md" timestamp="1590684434287">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="269" column="132" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.md" timestamp="1590678296848">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" timestamp="1590684004987">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="38" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/scrollbars/scrollbars.component.md" timestamp="1590684537658">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="161" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590668090734">
-        <mark key="'" line="30" column="20" />
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="9" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/README.md" timestamp="1590683442473">
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="58" column="53" />
+        <mark key="." line="58" column="53" />
+        <mark key="^" line="34" column="3" />
       </file>
-      <file name="/" timestamp="1590675962817">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/README.md" timestamp="1590684522448">
+        <mark key="[" line="256" column="20" />
+        <mark key="]" line="256" column="20" />
+        <mark key="." line="256" column="19" />
+        <mark key="^" line="256" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" timestamp="1590670367290">
-        <mark key="'" line="77" column="1" />
-        <mark key="[" line="140" column="27" />
-        <mark key="]" line="140" column="31" />
-        <mark key="^" line="140" column="31" />
-        <mark key="." line="140" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1590667912956">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="75" column="304" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/README.md" timestamp="1590678366368">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="132" column="20" />
-        <mark key="]" line="132" column="20" />
-        <mark key="." line="132" column="20" />
-        <mark key="^" line="132" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/autofocus/autofocus.directive.md" timestamp="1590678084432">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/src/lib/menu/menu.component.md" timestamp="1590683383996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/testing/src/index.ts" timestamp="1590667683251">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="0" column="29" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" timestamp="1590683918783">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="131" column="3" />
+        <mark key="." line="131" column="2" />
+        <mark key="^" line="131" column="3" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1590673154092">
-        <mark key="'" line="181" column="5" />
-        <mark key="[" line="38" column="61" />
-        <mark key="]" line="38" column="92" />
-        <mark key="." line="38" column="91" />
-        <mark key="^" line="38" column="92" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590671209362">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/popover/popover.component.md" timestamp="1590684032078">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="103" column="128" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" timestamp="1590678198458">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/src/lib/option/option-display.directive.ts" timestamp="1590683866290">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1590667584745">
-        <mark key="'" line="415" column="14" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/src/lib/optgroup/optgroup.component.ts" timestamp="1590683617676">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="42" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/README.md" timestamp="1590683368023">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="60" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.md" timestamp="1590683883365">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="152" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/README.md" timestamp="1590683218538">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" timestamp="1590683848985">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="28" column="95" />
+        <mark key="^" line="28" column="95" />
+        <mark key="." line="28" column="94" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/services/tokens.service.spec.ts" />
-      <jump line="20" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/typography/typography.component.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/testing/src/test-components.ts" />
-      <jump line="13" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/testing/src/test-components.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.spec.ts" />
-      <jump line="234" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.spec.ts" />
-      <jump line="24" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.spec.ts" />
-      <jump line="144" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.spec.ts" />
-      <jump line="257" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.spec.ts" />
-      <jump line="236" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="110" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
-      <jump line="24" column="48" filename="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" />
-      <jump line="12" column="79" filename="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" />
-      <jump line="34" column="48" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/testing/src/test-components.ts" />
-      <jump line="342" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/testing/src/test-components.ts" />
-      <jump line="484" column="8" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/tsconfig.spec.json" />
-      <jump line="475" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.spec.ts" />
-      <jump line="43" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="306" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/testing/src/test-components.ts" />
-      <jump line="319" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="325" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="325" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/testing/src/test-components.ts" />
-      <jump line="473" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.spec.ts" />
-      <jump line="105" column="46" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/table/table.component.spec.ts" />
-      <jump line="315" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="271" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="216" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="348" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="349" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="180" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="337" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="127" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="350" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="92" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="351" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="59" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/test-components.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
-      <jump line="295" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/testing/src/test-components.ts" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
-      <jump line="247" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/test-components.ts" />
-      <jump line="15" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/chip/chip.component.spec.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.spec.ts" />
-      <jump line="9" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.spec.ts" />
-      <jump line="43" column="36" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.spec.ts" />
-      <jump line="387" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.spec.ts" />
-      <jump line="415" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.spec.ts" />
-      <jump line="63" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/test-components.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/test-components.ts" />
-      <jump line="296" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
-      <jump line="24" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/src/lib/collection/chip-collection.component.spec.ts" />
-      <jump line="323" column="126" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="26" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="24" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/test-components.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/src/lib/test-components.ts" />
-      <jump line="298" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/src/lib/test-components.ts" />
-      <jump line="32" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.spec.ts" />
-      <jump line="681" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.spec.ts" />
-      <jump line="17" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/src/lib/cohort/cohort-date-range.component.spec.ts" />
-      <jump line="215" column="58" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/src/lib/cohort/cohort-date-range.component.spec.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/src/lib/panel/expansion-panel.component.spec.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/src/lib/accordion/accordion.component.spec.ts" />
-      <jump line="42" column="69" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.spec.ts" />
-      <jump line="65" column="71" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.spec.ts" />
-      <jump line="15" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/src/lib/ink-bar/ink-bar.component.spec.ts" />
-      <jump line="38" column="45" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="56" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
-      <jump line="34" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="2388" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="2489" column="15" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="2387" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="314" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="415" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="147" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="171" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="22" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="41" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="21" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="20" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
-      <jump line="73" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.md" />
-      <jump line="49" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.md" />
-      <jump line="67" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/README.md" />
-      <jump line="0" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/autofocus/autofocus.directive.md" />
-      <jump line="21" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
-      <jump line="7" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/src/lib/card/card.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/src/lib/card/card.component.md" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/README.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/README.md" />
-      <jump line="108" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/README.md" />
-      <jump line="0" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/src/lib/chart/chart.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/README.md" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/README.md" />
+      <jump line="7" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/README.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/README.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/confirmation/README.md" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/confirmation/src/lib/confirmation/confirmation.directive.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/confirmation/README.md" />
+      <jump line="16" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/confirmation/README.md" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/confirmation/README.md" />
+      <jump line="0" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/copy/src/lib/copy/copy.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/copy/README.md" />
+      <jump line="47" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/checkbox/README.md" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/README.md" />
+      <jump line="17" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/csv-entry/src/lib/csv-entry/csv-entry.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/csv-entry/src/lib/csv-entry/csv-entry.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/csv-entry/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/date-range/date-range.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/README.md" />
+      <jump line="107" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/README.md" />
+      <jump line="10" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/src/lib/drawer/drawer.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/src/lib/drawer/drawer.component.md" />
+      <jump line="7" column="78" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/README.md" />
+      <jump line="127" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/README.md" />
+      <jump line="18" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/src/lib/panel/expansion-panel.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/src/lib/panel/expansion-panel.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/README.md" />
+      <jump line="136" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/README.md" />
+      <jump line="24" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/README.md" />
+      <jump line="5" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/src/lib/file-upload/file-upload.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/src/lib/file-upload/file-upload.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/README.md" />
+      <jump line="247" column="61" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
+      <jump line="65" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/src/lib/icon/icon.component.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
+      <jump line="11" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/src/lib/icon-button/icon-button.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/src/lib/icon-button/icon-button.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
+      <jump line="21" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="215" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="221" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="210" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="567" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="205" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
+      <jump line="18" column="44" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/README.md" />
+      <jump line="74" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/README.md" />
+      <jump line="99" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/README.md" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/src/lib/form/login-form.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/README.md" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/lib/logo/logo.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/lib/logo/logo.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/README.md" />
+      <jump line="7" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/src/lib/menu/menu.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/src/lib/menu/menu.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/README.md" />
+      <jump line="27" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/src/lib/nav/navigation.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/src/lib/nav/navigation.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
+      <jump line="99" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
+      <jump line="92" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/option/README.md" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/paginator/paginator.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" />
+      <jump line="27" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/popover/popover.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/popover/popover.component.md" />
+      <jump line="24" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="20" column="86" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="104" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="103" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="100" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="26" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="88" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="17" column="36" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/group/radio-group.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/src/lib/group/radio-group.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/README.md" />
+      <jump line="37" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/scrollbars/scrollbars.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/lib/scrollbars/scrollbars.component.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
+      <jump line="109" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
+      <jump line="155" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,62 +335,61 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>/</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Basic u</text>
       </register>
       <register name="/" type="4">
-        <text>husky</text>
+        <text encoding="base64">XDxTY3JvbGxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGgxPkF1dG9mb2N1czwvaDE+Cgo8IS0tIFNUQVJUIGRvY3RvYyBnZW5lcmF0ZWQgVE9DIHBsZWFzZSBrZWVwIGNvbW1lbnQgaGVyZSB0byBhbGxvdyBhdXRvIHVwZGF0ZSAtLT4KPCEtLSBET04nVCBFRElUIFRISVMgU0VDVElPTiwgSU5TVEVBRCBSRS1SVU4gZG9jdG9jIFRPIFVQREFURSAtLT4KKipUYWJsZSBvZiBDb250ZW50cyoqCgotIFtCYXNpYyB1c2FnZV0oI2Jhc2ljLXVzYWdlKQotIFtCaW5kaW5nXSgjYmluZGluZykKCjwhLS0gRU5EIGRvY3RvYyBnZW5lcmF0ZWQgVE9DIHBsZWFzZSBrZWVwIGNvbW1lbnQgaGVyZSB0byBhbGxvdyBhdXRvIHVwZGF0ZSAtLT4KCiMjIEJhc2ljIHVzYWdlCgpUaGUgYHRzQXV0b2ZvY3VzYCBkaXJlY3RpdmUgY2FuIGJlIHVzZWQgb24gYW55IGVsZW1lbnQgdGhhdCBoYXMgYSBgLmZvY3VzKClgIG1ldGhvZC4gVGhpcyBpbmNsdWRlcwppbnB1dHMsIHNlbGVjdCBtZW51cywgdGV4dGFyZWEsIGJ1dHRvbnMsIGxpbmtzLCBpZnJhbWVzIGFuZCBhbnkgZWxlbWVudCB3aXRoIGEgZGVmaW5lZCBgdGFiaW5kZXhgCmFib3ZlIC0xLgoKQWRkIHRoZSBkaXJlY3RpdmUgdG8gYSBmb2N1c2FibGUgZWxlbWVudDoKCmBgYGh0bWwKPGlucHV0IHR5cGU9InRleHQiIHRzQXV0b2ZvY3VzIC8+CmBgYAo=</text>
+        <text encoding="base64">PGgxPlNjcm9sbGJhcnM8L2gxPgoKCjwhLS0gU1RBUlQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgo8IS0tIERPTidUIEVESVQgVEhJUyBTRUNUSU9OLCBJTlNURUFEIFJFLVJVTiBkb2N0b2MgVE8gVVBEQVRFIC0tPgoqKlRhYmxlIG9mIENvbnRlbnRzKioKCi0gW0Jhc2ljIHVzYWdlXSgjYmFzaWMtdXNhZ2UpCiAgLSBbRGlzYWJsZV0oI2Rpc2FibGUpCiAgLSBbVXBkYXRlXSgjdXBkYXRlKQotIFtNYW51YWwgUG9zaXRpb24gQ29udHJvbF0oI21hbnVhbC1wb3NpdGlvbi1jb250cm9sKQogIC0gW1Njcm9sbCB0byBmaXhlZCBsb2NhdGlvbl0oI3Njcm9sbC10by1maXhlZC1sb2NhdGlvbikKICAtIFtTY3JvbGwgdG8geC95IGxvY2F0aW9uXSgjc2Nyb2xsLXRvLXh5LWxvY2F0aW9uKQogIC0gW1Njcm9sbCB0byBlbGVtZW50XSgjc2Nyb2xsLXRvLWVsZW1lbnQpCi0gW0V2ZW50c10oI2V2ZW50cykKCjwhLS0gRU5EIGRvY3RvYyBnZW5lcmF0ZWQgVE9DIHBsZWFzZSBrZWVwIGNvbW1lbnQgaGVyZSB0byBhbGxvdyBhdXRvIHVwZGF0ZSAtLT4KCgojIyBCYXNpYyB1c2FnZQoKWW91IF9tdXN0XyBzZXQgYSBmaXhlZCBoZWlnaHQgYW5kL29yIHdpZHRoIHRvIGVuYWJsZSBzY3JvbGxiYXJzIChvdGhlcndpc2UgdGhlIGJyb3dzZXIgd2lsbCBqdXN0IGNvbnRpbnVlIG1ha2luZyB0aGUgY29udGFpbmVyIGxhcmdlciB0byBmaXQKdGhlIGNvbnRlbnQpLgoKYGBgaHRtbAo8dHMtc2Nyb2xsYmFycyBzdHlsZT0iaGVpZ2h0OiAzMDBweDsgd2lkdGg6IDQwMHB4OyI+CiAgLi4uCjwvdHMtc2Nyb2xsYmFycz4KYGBgCgoKIyMjIERpc2FibGUKClRoZSBzY3JvbGxiYXJzIGNhbiBiZSBkaXNhYmxlZCBkeW5hbWljYWxseSBpZiBuZWVkZWQ6CgpgYGBodG1sCjx0cy1zY3JvbGxiYXJzIFtpc0Rpc2FibGVkXT0idHJ1ZSI+CiAgLi4uCjwvdHMtc2Nyb2xsYmFycz4KYGBgCgoKIyMjIFVwZGF0ZQoKSWYgdGhlIHNjcm9sbGJhcnMgY29udGVudCBpcyBkeW5hbWljYWxseSB1cGRhdGVkLCB5b3Ugd2lsbCBuZWVkIHRvIHVwZGF0ZSB0aGUgc2Nyb2xsYmFycyBpbnN0YW5jZToKCmBgYGh0bWwKPCEtLSBHZXQgYSByZWZlcmVuY2UgdG8gdGhlIGNvbXBvbmVudCBjbGFzcyAtLT4KPHRzLXNjcm9sbGJhcnMgI3Njcm9sbGJhcnM9InRzU2Nyb2xsYmFycyI+CiAgLi4uCjwvdHMtc2Nyb2xsYmFycz4KYGBgCgpgYGB0eXBlc2NyaXB0Ci4uLgoKQFZpZXdDaGlsZChUc1Njcm9sbGJhcnNDb21wb25lbnQsIHtzdGF0aWM6IGZhbHNlfSkKcHVibGljIHNjcm9sbGJhcnMhOiBUc1Njcm9sbGJhcnNDb21wb25lbnQ7CgoKbXlVcGRhdGUoKSB7CiAgLy8gVXBkYXRlIHRoZSBjb250ZW50CiAgdGhpcy51cGRhdGVTY3JvbGxDb250ZW50KCk7CgogIC8vIFVwZGF0ZSB0aGUgc2Nyb2xsYmFycwogIHRoaXMuc2Nyb2xsYmFycy51cGRhdGUoKTsKfQpgYGAKCiMjIE1hbnVhbCBQb3NpdGlvbiBDb250cm9sCgpTY3JvbGxpbmcgbWV0aG9kcyBjYW4gYmUgY2FsbGVkIGRpcmVjdGx5IG9uY2UgYSByZWZlcmVuY2UgdG8gdGhlIGNvbXBvbmVudCBpcyBhdHRhaW5lZDoKCmBgYGh0bWwKPCEtLSBHZXQgYSByZWZlcmVuY2UgdG8gdGhlIGNvbXBvbmVudCBjbGFzcyAtLT4KPHRzLXNjcm9sbGJhcnMgI3Njcm9sbGJhcnM9InRzU2Nyb2xsYmFycyI+CiAgLi4uCjwvdHMtc2Nyb2xsYmFycz4KYGBgCgpgYGB0eXBlc2NyaXB0Ci4uLgovLyBBIHJlZmVyZW5jZSB0byB0aGUgY29tcG9uZW50IGluc3RhbmNlOgpAVmlld0NoaWxkKFRzU2Nyb2xsYmFyc0NvbXBvbmVudCwge3N0YXRpYzogZmFsc2V9KQpwdWJsaWMgc2Nyb2xsYmFycyE6IFRzU2Nyb2xsYmFyc0NvbXBvbmVudDsKLi4uCmBgYAoKVGhlIGZvbGxvd2luZyBzY3JvbGwgZXhhbXBsZXMgd2lsbCBhc3N1bWUgdGhhdCBhIHJlZmVyZW5jZSBoYXMgYWxyZWFkeSBiZWVuIGNyZWF0ZWQuCgojIyMgU2Nyb2xsIHRvIGZpeGVkIGxvY2F0aW9uCgpgYGB0eXBlc2NyaXB0CkBWaWV3Q2hpbGQoVHNTY3JvbGxiYXJzQ29tcG9uZW50LCB7c3RhdGljOiBmYWxzZX0pCnB1YmxpYyBzY3JvbGxiYXJzITogVHNTY3JvbGxiYXJzQ29tcG9uZW50OwoKc2Nyb2xsVG9Ub3AoKSB7CiAgLy8gU2Nyb2xsIHRoZSBjb250YWluZXIgdG8gdGhlIHZlcnkgdG9wCiAgdGhpcy5zY3JvbGxiYXJzLnNjcm9sbFRvVG9wKCk7Cn0KYGBgCgpBdmFpbGFibGUgZml4ZWQgbG9jYXRpb24gbWV0aG9kczoKCnwgTWV0aG9kICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tLS0tLS0tLS0tfAp8IGBzY3JvbGxUb0JvdHRvbSgpYCB8CnwgYHNjcm9sbFRvTGVmdCgpYCAgIHwKfCBgc2Nyb2xsVG9SaWdodCgpYCAgfAp8IGBzY3JvbGxUb1RvcCgpYCAgICB8CgoKIyMjIFNjcm9sbCB0byB4L3kgbG9jYXRpb24KClNjcm9sbCB0aGUgY29udGFpbmVyIHRvIGEgc3BlY2lmaWMgeC95IGxvY2F0aW9uOgoKYGBgdHlwZXNjcmlwdApAVmlld0NoaWxkKFRzU2Nyb2xsYmFyc0NvbXBvbmVudCwge3N0YXRpYzogZmFsc2V9KQpwdWJsaWMgc2Nyb2xsYmFycyE6IFRzU2Nyb2xsYmFyc0NvbXBvbmVudDsKCnNjcm9sbFRvQ29vcmRpbmF0ZXMoKSB7CiAgLy8gICAgICAgICAgICAgICAgICAgICAgIHggICAgeSAgICBzcGVlZAogIHRoaXMuc2Nyb2xsYmFycy5zY3JvbGxUbygxMDAsIDI1MCwgMjAwKTsKfQpgYGAKCgojIyMgU2Nyb2xsIHRvIGVsZW1lbnQKClRoZSBjb21wb25lbnQgY2FuIHNjcm9sbCBhIG5lc3RlZCBlbGVtZW50IHRvIHRoZSB0b3Agb2YgdGhlIHNjcm9sbCBjb250YWluZXI6CgpgYGB0eXBlc2NyaXB0CkBWaWV3Q2hpbGQoVHNTY3JvbGxiYXJzQ29tcG9uZW50LCB7c3RhdGljOiBmYWxzZX0pCnB1YmxpYyBzY3JvbGxiYXJzITogVHNTY3JvbGxiYXJzQ29tcG9uZW50OwoKc2Nyb2xsVG9FbGVtZW50KCkgewogIC8vIFRoaXMgc3VwcG9ydHMgYW55IHN0cmluZyB0aGF0IGNhbiBiZSBwYXNzZWQgdG8gYHF1ZXJ5U2VsZWN0b3IoKWAKICB0aGlzLnNjcm9sbGJhcnMuc2Nyb2xsVG9FbGVtZW50KCcubXktY2xhc3MnKTsKfQpgYGAKCgojIyBFdmVudHMKCmBgYGh0bWwKPHRzLXNjcm9sbGJhcnMgKHNjcm9sbERvd24pPSJteUZ1bmMoJGV2ZW50KSI+CiAgLi4uCjwvdHMtc2Nyb2xsYmFycz4KYGBgCgp8IEF2YWlsYWJsZSBldmVudHMgfAp8LS0tLS0tLS0tLS0tLS0tLS0tfAp8IGBzY3JvbGxEb3duYCAgICAgfAp8IGBzY3JvbGxMZWZ0YCAgICAgfAp8IGBzY3JvbGxSaWdodGAgICAgfAp8IGBzY3JvbGxVcGAgICAgICAgfAp8IGBzY3JvbGxYYCAgICAgICAgfAp8IGBzY3JvbGxZYCAgICAgICAgfAp8IGB4UmVhY2hFbmRgICAgICAgfAp8IGB4UmVhY2hTdGFydGAgICAgfAp8IGB5UmVhY2hFbmRgICAgICAgfAp8IGB5UmVhY2hTdGFydGAgICAgfAo=</text>
       </register>
-      <register name="1" type="8">
-        <text>src/lib/chart/chart.component.md
-src/lib/chart/chart.component.md</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktY2hhcnRdKCN1aS1jaGFydCkKICAtIFtSdW5uaW5nIHVuaXQgdGVzdHNdKCNydW5uaW5nLXVuaXQtdGVzdHMpCgo8IS0tIEVORCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CgojIHVpLWNoYXJ0CgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLWNoYXJ0YCB0byBleGVjdXRlIHRoZSB1bml0IHRlc3RzLgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGgxPlRzQ2hhcnQ8L2gxPgoKCjwhLS0gU1RBUlQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgo8IS0tIERPTidUIEVESVQgVEhJUyBTRUNUSU9OLCBJTlNURUFEIFJFLVJVTiBkb2N0b2MgVE8gVVBEQVRFIC0tPgoqKlRhYmxlIG9mIENvbnRlbnRzKioKCi0gW0Jhc2ljIHVzYWdlXSgjYmFzaWMtdXNhZ2UpCiAgLSBbSW5qZWN0IHRoZSBuZWVkZWQgbGlicmFyaWVzXSgjaW5qZWN0LXRoZS1uZWVkZWQtbGlicmFyaWVzKQogIC0gW1NldCB1cCB0aGUgY2hhcnRdKCNzZXQtdXAtdGhlLWNoYXJ0KQotIFtTdXBwb3J0ZWQgY2hhcnQgdHlwZXNdKCNzdXBwb3J0ZWQtY2hhcnQtdHlwZXMpCiAgLSBbQ2hhcnQgVHlwZSBDb2VyY2lvbl0oI2NoYXJ0LXR5cGUtY29lcmNpb24pCi0gW2FtQ2hhcnRzIGRvY3VtZW50YXRpb25dKCNhbWNoYXJ0cy1kb2N1bWVudGF0aW9uKQotIFtUZXN0IEhlbHBlcnNdKCN0ZXN0LWhlbHBlcnMpCgo8IS0tIEVORCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CgoKIyMgQmFzaWMgdXNhZ2UKCiMjIyBJbmplY3QgdGhlIG5lZWRlZCBsaWJyYXJpZXMKCj4gTm90ZTogIFNpbmNlIHRoZSBlbmQtdXNlciBvZiB0aGlzIGxpYnJhcnkgaXMgdGhlIG9uZSB3aXRoIHRoZSBhY3R1YWwgbGljZW5zZSB0byB1c2UgYW1DaGFydHMsIHdlIGxldCB0aGUgY29uc3VtZXIgcGFzcyBpbiB0aGUgbGlicmFyeS4KCkNyZWF0ZSBhIGZhY3RvcnkgZnVuY3Rpb24gdG8gaW5qZWN0IHRoZSBuZWVkZWQgbGlicmFyaWVzIGFuZCBwbHVnaW5zOgoKYGBgdHlwZXNjcmlwdAppbXBvcnQgeyBUU19BTUNIQVJUU19UT0tFTiwgVHNBbUNoYXJ0c1Rva2VuIH0gZnJvbSAnQHRlcm1pbnVzL3VpLWNoYXJ0JzsKaW1wb3J0ICogYXMgYW00Y29yZSBmcm9tICdAYW1jaGFydHMvYW1jaGFydHM0L2NvcmUnOwppbXBvcnQgKiBhcyBhbTRjaGFydHMgZnJvbSAnQGFtY2hhcnRzL2FtY2hhcnRzNC9jaGFydHMnOwppbXBvcnQgKiBhcyBhbTRtYXBzIGZyb20gJ0BhbWNoYXJ0cy9hbWNoYXJ0czQvbWFwcyc7CmltcG9ydCBhbTR0aGVtZXNfYW5pbWF0ZWQgZnJvbSAnQGFtY2hhcnRzL2FtY2hhcnRzNC90aGVtZXMvYW5pbWF0ZWQnOwppbXBvcnQgYW00dGhlbWVzX21hdGVyaWFsIGZyb20gJ0BhbWNoYXJ0cy9hbWNoYXJ0czQvdGhlbWVzL2FuaW1hdGVkJzsKCi8vIGBjb3JlYCBhbmQgYGNoYXJ0c2AgYXJlIGFsd2F5cyByZXF1aXJlZC4KLy8gYG1hcHNgIGlzIHJlcXVpcmVkIGlmIHVzaW5nIGFueSBtYXAgdmlzdWFsaXphdGlvbnMuCmV4cG9ydCBmdW5jdGlvbiBhbUNoYXJ0c0ZhY3RvcnkoKTogVHNBbUNoYXJ0c1Rva2VuIHsKICByZXR1cm4gewogICAgY29yZTogYW00Y29yZSwKICAgIGNoYXJ0czogYW00Y2hhcnRzLAogICAgbWFwczogYW00bWFwcywKICAgIHRoZW1lczogW2FtNHRoZW1lc19hbmltYXRlZCwgYW00dGhlbWVzX21hdGVyaWFsXSwKICB9Owp9CgpATmdNb2R1bGUoewogIC4uLgogIHByb3ZpZGVyczogWwogICAgLy8gVXNlIHRoZSBmYWN0b3J5IGZ1bmN0aW9uIHRvIG92ZXJ3cml0ZSB0aGUgYFRTX0FNQ0hBUlRTX1RPS0VOYCBpbmplY3RhYmxlOgogICAgewogICAgICBwcm92aWRlOiBUU19BTUNIQVJUU19UT0tFTiwKICAgICAgdXNlRmFjdG9yeTogYW1DaGFydHNGYWN0b3J5LAogICAgfSwKICBdLAogIC4uLgpgYGAKCgo+IE5PVEU6IFRoZW1lcyB3aWxsIGJlIGFwcGxpZWQgaW4gdGhlIG9yZGVyIHRoZXkgYXJlIHByb3ZpZGVkLgoKCiMjIyBTZXQgdXAgdGhlIGNoYXJ0CgpBZGQgdGhlIGNvbXBvbmVudCBhbmQgc2V0IHVwIGFjY2VzcyB0byB0aGUgZ2VuZXJhdGVkIGNoYXJ0OgoKYGBgaHRtbAo8dHMtY2hhcnQgKGNoYXJ0SW5pdGlhbGl6ZWQpPSJzZXRVcENoYXJ0KCRldmVudCkiPjwvdHMtY2hhcnQ+CmBgYAoKYGBgdHlwZXNjcmlwdApzZXRVcENoYXJ0KGNoYXJ0OiBhbTRjaGFydHMuQ2hhcnQpIHsKICAvLyBBZGQgYXhpcycgYW5kIHNlcmllcycgZXRjLi4uCn0KYGBgCgo+IFNlZSB0aGUgZGVtbyBhcHAgZm9yIGNvbmNyZXRlIGV4YW1wbGVzIG9mIHRoZSBzdXBwb3J0ZWQgY2hhcnQgdHlwZXMuCgoKIyMgU3VwcG9ydGVkIGNoYXJ0IHR5cGVzCgotIGB4eWAKLSBgcGllYAotIGBtYXBgCi0gYHJhZGFyYAotIGB0cmVlYAotIGBzYW5rZXlgCi0gYGNob3JkYAoKPiBTZWUgYFRzQ2hhcnRWaXN1YWxpemF0aW9uT3B0aW9uc2AgZm9yIGFsbCBzdXBwb3J0ZWQgdHlwZXMuCgoKIyMjIENoYXJ0IFR5cGUgQ29lcmNpb24KClRoZSBsaWJyYXJ5IGV4cG9zZXMgZnVuY3Rpb25zIGZvciBjb2VyY2luZyB0byBzcGVjaWZpYyBjaGFydCB0eXBlczoKCi0gYHRzQ2hhcnRYWVR5cGVDaGVja2AKLSBgdHNDaGFydFBpZVR5cGVDaGVja2AKLSBgdHNDaGFydE1hcFR5cGVDaGVja2AKLSBgdHNDaGFydFJhZGFyVHlwZUNoZWNrYAotIGB0c0NoYXJ0VHJlZVR5cGVDaGVja2AKLSBgdHNDaGFydFNhbmtleVR5cGVDaGVja2AKLSBgdHNDaGFydENob3JkVHlwZUNoZWNrYAoKRXhhbXBsZToKCmBgYHR5cGVzY3JpcHQKaWYgKHRzQ2hhcnRYWVR5cGVDaGVjayhjaGFydCkpIHsKICAvLyBOb3cgd2Uga25vdyB3ZSBhcmUgZGVhbGluZyB3aXRoIGFuIFhZIGNoYXJ0IHR5cGUKfQpgYGAKCgojIyBhbUNoYXJ0cyBkb2N1bWVudGF0aW9uCgpTZWUgaHR0cHM6Ly93d3cuYW1jaGFydHMuY29tL2RvY3MvdjQvIGZvciBmdWxsIGRvY3VtZW50YXRpb24uCgoKIyMgVGVzdCBIZWxwZXJzCgpTb21lIGhlbHBlcnMgYXJlIGV4cG9zZWQgdG8gYXNzaXN0IHdpdGggdGVzdGluZy4gVGhlc2UgYXJlIGltcG9ydGVkIGZyb20gYEB0ZXJtaW51cy91aS1jaGFydC90ZXN0aW5nYDsKCltbc291cmNlXV1bdGVzdC1oZWxwZXJzLXNyY10KCnwgICAgICAgIEZ1bmN0aW9uICAgICAgICB8CnwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18CnwgYGdldENoYXJ0RGVidWdFbGVtZW50YCB8CnwgYGdldENoYXJ0SW5zdGFuY2VgICAgICB8Cgp8ICAgQ2hhcnQgc2VydmljZSBtb2NrICAgIHwKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18CnwgYEFtQ2hhcnRzU2VydmljZU1vY2tgICAgfAoKClt0ZXN0LWhlbHBlcnMtc3JjXTogaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLXVpL2Jsb2IvcmVsZWFzZS9wcm9qZWN0cy9saWJyYXJ5L2NoYXJ0L3Rlc3Rpbmcvc3JjL3Rlc3QtaGVscGVycy50cwo=</text>
+        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktc2Nyb2xsYmFyc10oI3VpLXNjcm9sbGJhcnMpCiAgLSBbUnVubmluZyB1bml0IHRlc3RzXSgjcnVubmluZy11bml0LXRlc3RzKQoKPCEtLSBFTkQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgoKIyB1aS1zY3JvbGxiYXJzCgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLXNjcm9sbGJhcnNgIHRvIGV4ZWN1dGUgdGhlIHVuaXQgdGVzdHMuCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktY2FyZF0oI3VpLWNhcmQpCiAgLSBbUnVubmluZyB1bml0IHRlc3RzXSgjcnVubmluZy11bml0LXRlc3RzKQoKPCEtLSBFTkQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgoKIyB1aS1jYXJkCgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLWNhcmRgIHRvIGV4ZWN1dGUgdGhlIHVuaXQgdGVzdHMuCgo=</text>
+        <text encoding="base64">ICAuLi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbQmFzaWMgdXNhZ2VdKCNiYXNpYy11c2FnZSkKLSBbSW50ZXJhY3Rpdml0eV0oI2ludGVyYWN0aXZpdHkpCi0gW0NlbnRlcmVkIGNvbnRlbnRdKCNjZW50ZXJlZC1jb250ZW50KQotIFtBc3BlY3QgcmF0aW9dKCNhc3BlY3QtcmF0aW8pCi0gW1V0aWxpdHkgbWVudV0oI3V0aWxpdHktbWVudSkKLSBbQ2FyZCB3aXRoIGEgVGl0bGVdKCNjYXJkLXdpdGgtYS10aXRsZSkKLSBbRGlzYWJsZWQgQ2FyZF0oI2Rpc2FibGVkLWNhcmQpCgo8IS0tIEVORCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CgojIyBCYXNpYyB1c2FnZQoKV3JhcCB0aGUgY2FyZCBjb21wb25lbnQgYXJvdW5kIHlvdXIgY29udGVudDoKCmBgYGh0bWwKPHRzLWNhcmQ+CiAgSGVyZSBpcyBteSBjb250ZW50IQo8L3RzLWNhcmQ+CmBgYAoKIyMgSW50ZXJhY3Rpdml0eQoKVG8gbWFrZSB0aGUgY2FyZCBmZWVsIGludGVyYWN0aXZlLCBwYXNzIGB0cnVlYCB0byB0aGUgYHN1cHBvcnRzSW50ZXJhY3Rpb25gIGlucHV0LgoKYGBgaHRtbAo8dHMtY2FyZCBbc3VwcG9ydHNJbnRlcmFjdGlvbl09InRydWUiPgogIE5vdyBteSBjYXJkIHJlc3BvbmRzIHRvIGhvdmVyIGFuZCBjbGljayEKPC90cy1jYXJkPgpgYGAKCiMjIENlbnRlcmVkIGNvbnRlbnQKClRvIGNlbnRlciB0aGUgY29udGVudCwgcGFzcyBgdHJ1ZWAgdG8gdGhlIGBjZW50ZXJlZENvbnRlbnRgIGlucHV0LgoKYGBgaHRtbAo8dHMtY2FyZCBbY2VudGVyZWRDb250ZW50XT0idHJ1ZSI+CiAgTm93IG15IGNvbnRlbnQgaXMgY2VudGVyZWQhCjwvdHMtY2FyZD4KYGBgCgojIyBBc3BlY3QgcmF0aW8KClBhc3MgeW91ciBkZXNpcmVkIGFzcGVjdCByYXRpbyBpbiB0aGUgZm9ybWF0IGAzOjRgIHRvIHRoZSBgYXNwZWN0UmF0aW9gIGlucHV0LgoKYGBgaHRtbAo8dHMtY2FyZCBbYXNwZWN0UmF0aW9dPSIxNjo5Ij4KICBIZXJlIGlzIGEgY2FyZCB3aXRoIGEgZml4ZWQgYXNwZWN0IHJhdGlvIQo8L3RzLWNhcmQ+CmBgYAoKLSBUeXBlOiBgVHNBc3BlY3RSYXRpb1R5cGVzYC4KLSBBbGxvd2VkIHJhdGlvczogYDE2OjlgLCBgNDozYCwgYDM6MmAsIGA1OjRgLCBgMToxYCwKCgojIyBVdGlsaXR5IG1lbnUKClRvIGluY2x1ZGUgYSB1dGlsaXR5IG1lbnUsIHBhc3MgYSB0ZW1wbGF0ZSB3aGljaCBpbmNsdWRlcyB0aGUgbWVudSB0cmlnZ2VyIGFuZCB0aGUgbWVudSBjb250ZW50cy4KCmBgYGh0bWwKPCEtLSBUaGlzIHRlbXBsYXRlIG5hbWUgc2hvdWxkIHBvaW50IHRvIHRoZSBuZy10ZW1wbGF0ZSAtLT4KPHRzLWNhcmQgW3V0aWxpdHlNZW51VGVtcGxhdGVdPSJteVRlbXBsYXRlIj4KICBIZXJlIGlzIGEgY2FyZCB3aXRoIGEgdXRpbGl0eSBtZW51IQo8L3RzLWNhcmQ+Cgo8bmctdGVtcGxhdGUgI215VGVtcGxhdGU+CiAgPCEtLSBJbmNsdWRlIHRoZSB0cmlnZ2VyIHRvIG9wZW4vY2xvc2UgdGhlIG1lbnUgLS0+CiAgPCEtLSBSZWZlcmVuY2UgdGhlIG5nLXRlbXBsYXRlIGZvciB0aGUgbWVudSBjb250ZW50IGluIGBtZW51SXRlbXNUZW1wbGF0ZWAgLS0+CiAgPHRzLW1lbnUKICAgIHRyaWdnZXJUeXBlPSJ1dGlsaXR5IgogICAgbWVudVBvc2l0aW9uWD0iYmVmb3JlIgogICAgW21lbnVJdGVtc1RlbXBsYXRlXT0idXRpbGl0eUJ1dHRvbnMiCiAgPjwvdHMtbWVudT4KCgogIDwhLS0gVGhpcyB0ZW1wbGF0ZSBpbmNsdWRlcyBhbGwgaXRlbXMgdGhhdCBzaG91bGQgYXBwZWFyIGluIHRoZSBtZW51IC0tPgogIDxuZy10ZW1wbGF0ZSAjdXRpbGl0eUJ1dHRvbnM+CiAgICA8dHMtbGluayBbZGVzdGluYXRpb25dPSJbJ2Zvby8nLCAnYmFyLyddIj4KICAgICAgTXkgbGluawogICAgPC90cy1saW5rPgogIDwvbmctdGVtcGxhdGU+CjwvbmctdGVtcGxhdGU+CmBgYAoKIyMgQ2FyZCB3aXRoIGEgVGl0bGUKCkF0dGFjaCB0aGUgYHRzQ2FyZFRpdGxlYCBkaXJlY3RpdmUgdG8geW91ciB0aXRsZSBlbGVtZW50LiBUaGlzIGRpcmVjdGl2ZSBzaW1wbHkgYWRkcyBhIGNsYXNzIHRvIHRoZQplbGVtZW50IHdoaWNoIHByb3ZpZGVzIHRoZSBuZWVkZWQgc3R5bGVzLgoKYGBgaHRtbAo8dHMtY2FyZD4KICA8aDMgdHNDYXJkVGl0bGU+TXkgVGl0bGU8L2gzPgo8L3RzLWNhcmQ+CmBgYAoKIyMgRGlzYWJsZWQgQ2FyZAoKVGhpcyB3aWxsIHB1c2ggdGhlIG9wYWNpdHkgb2YgdGhlIGNhcmQgY29udGVudHMgYmFjayBhbmQgYWRkIGEgbG9jayBpY29uIGluIHRoZSB0b3AgcmlnaHQgY29ybmVyLgoKYGBgaHRtbAo8dHMtY2FyZCBbaXNEaXNhYmxlZF09InRydWUiPgogIE15IGNhcmQKPC90cy1jYXJkPgpgYGAK</text>
+        <text encoding="base64">ICAuLi4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhlIGB0c0F1dG9mb2N1c2AgZGlyZWN0aXZlIGNhbiBiZSB1c2VkIG9uIGFueSBlbGVtZW50IHRoYXQgaGFzIGEgYC5mb2N1cygpYCBtZXRob2QuIFRoaXMgaW5jbHVkZXMKaW5wdXRzLCBzZWxlY3QgbWVudXMsIHRleHRhcmVhLCBidXR0b25zLCBsaW5rcywgaWZyYW1lcyBhbmQgYW55IGVsZW1lbnQgd2l0aCBhIGRlZmluZWQgYHRhYmluZGV4YAphYm92ZSAtMS4KCkFkZCB0aGUgZGlyZWN0aXZlIHRvIGEgZm9jdXNhYmxlIGVsZW1lbnQ6Cg==</text>
+        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktcmFkaW8tZ3JvdXBdKCN1aS1yYWRpby1ncm91cCkKICAtIFtSdW5uaW5nIHVuaXQgdGVzdHNdKCNydW5uaW5nLXVuaXQtdGVzdHMpCgo8IS0tIEVORCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CgojIHVpLXJhZGlvLWdyb3VwCgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLXJhZGlvLWdyb3VwYCB0byBleGVjdXRlIHRoZSB1bml0IHRlc3RzLgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBbQmluZGluZ10oLi4vYXV0b2ZvY3VzL1JFQURNRS5tZCNiaW5kaW5nKQo=</text>
+        <text encoding="base64">LSBbcG9wcGVyLmpzXVtwb3BwZXJdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/testComponents.//g</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>husky</last-search>
+      <last-search encoding="base64">XDxTY3JvbGxcPg==</last-search>
       <last-offset />
-      <last-pattern>husky</last-pattern>
+      <last-pattern encoding="base64">XDxTY3JvbGxcPg==</last-pattern>
       <last-replace />
       <last-substitute>testComponents.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
