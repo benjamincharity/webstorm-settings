@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcnJheURhdGFTb3VyY2VUYWJsZUFwcFw+</entry>
-        <entry encoding="base64">XDxUYWJsZVdpdGhXaGVuUm93QXBwXD4=</entry>
         <entry>TestComponents</entry>
         <entry>TestComponents.</entry>
         <entry>testComponents.</entry>
@@ -25,9 +23,10 @@
         <entry encoding="base64">XDxhdXRvY29tcGxldGVcPg==</entry>
         <entry>ui-autocomplete</entry>
         <entry>ui-button</entry>
+        <entry encoding="base64">XDxwb3BvdmVyXD4=</entry>
+        <entry>-docs]</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ui-button/ui-navigation/g</entry>
         <entry>%s/ui-button/ui-option/g</entry>
         <entry>%s/ui-button/ui-paginator/g</entry>
         <entry>%s/ui-button/ui-pipes/g</entry>
@@ -47,6 +46,7 @@
         <entry>%s/ui-button/ui-utilities/g</entry>
         <entry>%s/ui-button/ui-validation-messages/g</entry>
         <entry>%s/ui-button/ui-validators/g</entry>
+        <entry>%s/-docs]/]/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -137,19 +137,24 @@
         <mark key="." line="152" column="0" />
         <mark key="^" line="111" column="2" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1590697326766">
+        <mark key="'" line="443" column="17" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="482" column="105" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590697900974">
+        <mark key="'" line="69" column="185" />
+        <mark key="[" line="221" column="26" />
+        <mark key="]" line="221" column="28" />
+        <mark key="^" line="221" column="28" />
+        <mark key="." line="221" column="26" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" timestamp="1590696299431">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="60" />
         <mark key="^" line="157" column="23" />
         <mark key="." line="157" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" timestamp="1590696122241">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="108" column="23" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/README.md" timestamp="1590696551187">
         <mark key="'" line="36" column="0" />
@@ -212,13 +217,6 @@
         <mark key="^" line="10" column="90" />
         <mark key="." line="10" column="89" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/README.md" timestamp="1590696055831">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="157" column="3" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="159" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/README.md" timestamp="1590696217046">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="49" column="0" />
@@ -256,20 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
-      <jump line="99" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
-      <jump line="29" column="66" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
-      <jump line="114" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
-      <jump line="127" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
-      <jump line="64" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/README.md" />
-      <jump line="16" column="38" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
-      <jump line="575" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/README.md" />
       <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/README.md" />
       <jump line="110" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/README.md" />
       <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/README.md" />
@@ -356,6 +340,20 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
       <jump line="92" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
       <jump line="104" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
+      <jump line="302" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="89" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="178" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="26" column="176" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="443" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="219" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="205" column="91" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="247" column="83" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="289" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="56" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="83" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="272" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="69" column="185" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -363,60 +361,139 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cgo8IS0tIExpbmtzIC0tPgpbbGljZW5zZS11cmxdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvYmxvYi9tYXN0ZXIvTElDRU5TRQpbbGljZW5zZS1pbWFnZV06ICAgICAgIGh0dHA6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9saWNlbnNlLU1JVC1ibHVlLnN2ZwpbY29kZWNvdi1wcm9qZWN0XTogICAgIGh0dHBzOi8vY29kZWNvdi5pby9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MKW2NvZGVjb3YtYmFkZ2VdOiAgICAgICBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtb3NzL2JyYW5jaC9tYXN0ZXIvZ3JhcGgvYmFkZ2Uuc3ZnCltucG0tdmVyc2lvbi1pbWFnZV06ICAgaHR0cDovL2ltZy5zaGllbGRzLmlvL25wbS92L0B0ZXJtaW51cy91aS1idXR0b24uc3ZnCltucG0tcGFja2FnZV06ICAgICAgICAgaHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvQHRlcm1pbnVzL3VpLWJ1dHRvbgpbZ2gtcmVsZWFzZS1iYWRnZV06ICAgIGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL3JlbGVhc2UvR2V0VGVybWludXMvdGVybWludXMtb3NzLnN2ZwpbZ2gtcmVsZWFzZXNdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9yZWxlYXNlcy8KW2dpdGh1Yi1hY3Rpb24tYmFkZ2VdOiBodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtb3NzL3dvcmtmbG93cy9DSSUyMFJlbGVhc2UvYmFkZ2Uuc3ZnCltnaXRodWItYWN0aW9uLWxpbmtdOiAgaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLW9zcy9hY3Rpb25zP3F1ZXJ5PXdvcmtmbG93JTNBJTIyQ0krUmVsZWFzZSUyMgpbZmlsZS1zaXplLWJhZGdlXTogICAgIGh0dHA6Ly9pbWcuYmFkZ2VzaXplLmlvL2h0dHBzOi8vdW5wa2cuY29tL0B0ZXJtaW51cy91aS1idXR0b24vYnVuZGxlcy90ZXJtaW51cy11aS1idXR0b24udW1kLm1pbi5qcz9jb21wcmVzc2lvbj1nemlwCltyYXctZGlzdHJpYnV0aW9uLWpzXTogaHR0cHM6Ly91bnBrZy5jb20vQHRlcm1pbnVzL3VpLWJ1dHRvbi9idW5kbGVzL3Rlcm1pbnVzLXVpLWJ1dHRvbi51bWQuanMK</text>
+      <register name="*" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ui-button</text>
+        <text>-docs]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cgo8IS0tIExpbmtzIC0tPgpbbGljZW5zZS11cmxdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvYmxvYi9tYXN0ZXIvTElDRU5TRQpbbGljZW5zZS1pbWFnZV06ICAgICAgIGh0dHA6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9saWNlbnNlLU1JVC1ibHVlLnN2ZwpbY29kZWNvdi1wcm9qZWN0XTogICAgIGh0dHBzOi8vY29kZWNvdi5pby9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MKW2NvZGVjb3YtYmFkZ2VdOiAgICAgICBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtb3NzL2JyYW5jaC9tYXN0ZXIvZ3JhcGgvYmFkZ2Uuc3ZnCltucG0tdmVyc2lvbi1pbWFnZV06ICAgaHR0cDovL2ltZy5zaGllbGRzLmlvL25wbS92L0B0ZXJtaW51cy91aS1idXR0b24uc3ZnCltucG0tcGFja2FnZV06ICAgICAgICAgaHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvQHRlcm1pbnVzL3VpLWJ1dHRvbgpbZ2gtcmVsZWFzZS1iYWRnZV06ICAgIGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL3JlbGVhc2UvR2V0VGVybWludXMvdGVybWludXMtb3NzLnN2ZwpbZ2gtcmVsZWFzZXNdOiAgICAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9yZWxlYXNlcy8KW2dpdGh1Yi1hY3Rpb24tYmFkZ2VdOiBodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtb3NzL3dvcmtmbG93cy9DSSUyMFJlbGVhc2UvYmFkZ2Uuc3ZnCltnaXRodWItYWN0aW9uLWxpbmtdOiAgaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLW9zcy9hY3Rpb25zP3F1ZXJ5PXdvcmtmbG93JTNBJTIyQ0krUmVsZWFzZSUyMgpbZmlsZS1zaXplLWJhZGdlXTogICAgIGh0dHA6Ly9pbWcuYmFkZ2VzaXplLmlvL2h0dHBzOi8vdW5wa2cuY29tL0B0ZXJtaW51cy91aS1idXR0b24vYnVuZGxlcy90ZXJtaW51cy11aS1idXR0b24udW1kLm1pbi5qcz9jb21wcmVzc2lvbj1nemlwCltyYXctZGlzdHJpYnV0aW9uLWpzXTogaHR0cHM6Ly91bnBrZy5jb20vQHRlcm1pbnVzL3VpLWJ1dHRvbi9idW5kbGVzL3Rlcm1pbnVzLXVpLWJ1dHRvbi51bWQuanMK</text>
+        <text encoding="base64">W2RlbW8tdmFsaWRhdG9yc106ICAgICAgIGh0dHBzOi8vZ2V0dGVybWludXMuZ2l0aHViLmlvL3VpLWRlbW9zLXJlbGVhc2UvY29tcG9uZW50cy92YWxpZGF0aW9uCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAo6CiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PCEtLSBMaW5rcyAtLT4KCg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="5" type="8">
+        <text>[
+[
+[
+[</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>a
+a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text>[
+[
+[
+[</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ui-button/ui-validators/g</text>
+        <text>%s/-docs]/]/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ui-button</last-search>
+      <last-search>-docs]</last-search>
       <last-offset />
-      <last-pattern>ui-button</last-pattern>
-      <last-replace>ui-validators</last-replace>
-      <last-substitute>ui-button</last-substitute>
+      <last-pattern>-docs]</last-pattern>
+      <last-replace>]</last-replace>
+      <last-substitute>-docs]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
