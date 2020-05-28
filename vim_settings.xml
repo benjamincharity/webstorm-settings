@@ -113,27 +113,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/lint-staged.config.js" timestamp="1590668750086">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.md" timestamp="1590670264839">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/testing/src/index.ts" timestamp="1590666864901">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590668090734">
+        <mark key="'" line="30" column="20" />
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="29" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" timestamp="1590670367290">
+        <mark key="'" line="77" column="1" />
+        <mark key="[" line="140" column="27" />
+        <mark key="]" line="140" column="31" />
+        <mark key="^" line="140" column="31" />
+        <mark key="." line="140" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1590667912956">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="75" column="304" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1590667534442">
+        <mark key="'" line="65" column="19" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/src/lib/accordion/accordion.component.spec.ts" timestamp="1590666770940">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/lint-staged.config.js" timestamp="1590668750086">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/testing/src/index.ts" timestamp="1590667683251">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/testing/src/index.ts" timestamp="1590666620363">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/src/lib/collection/tab-collection.component.spec.ts" timestamp="1590666966691">
         <mark key="^" line="20" column="51" />
@@ -156,25 +185,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/testing/src/index.ts" timestamp="1590666864901">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/expansion-panel/src/lib/panel/expansion-panel.component.spec.ts" timestamp="1590666712062">
-        <mark key="'" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/testing/src/index.ts" timestamp="1590667000476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590668090734">
-        <mark key="'" line="30" column="20" />
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="9" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.spec.ts" timestamp="1590666832411">
         <mark key="'" line="65" column="71" />
@@ -195,29 +209,14 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1590667912956">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="75" column="304" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1590667584745">
         <mark key="'" line="415" column="14" />
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1590667534442">
-        <mark key="'" line="65" column="19" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/app.component.spec.ts" />
-      <jump line="28" column="32" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/components/tokens/tokens.component.ts" />
-      <jump line="29" column="57" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/components/tokens/tokens.component.ts" />
-      <jump line="38" column="50" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/components/tokens/tokens.component.ts" />
-      <jump line="44" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/components/tokens/tokens.component.ts" />
       <jump line="16" column="78" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/components/tokens/tokens.component.ts" />
       <jump line="19" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/components/tokens/tokens.component.ts" />
       <jump line="24" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/components/tokens/tokens.component.ts" />
@@ -313,6 +312,11 @@
       <jump line="41" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="21" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="20" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.md" />
+      <jump line="49" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete/autocomplete.component.md" />
+      <jump line="67" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,14 +324,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CiAgLy8gVGFyZ2V0IGFwcCBTQ1NTIGZpbGVzCiAgJ2FwcHMvKiovISgqLnNwZWMpLnNjc3MnOiBmaWxlcyA9PiBbCiAgICBgbnB4IHN0eWxlbGludCAtLWZpeCAke2ZpbGVzLm1hcChmID0+IGAiJHtmfSJgKS5qb2luKCcgJyl9YCwKICBdLAo=</text>
+      <register name="*" type="4">
+        <text>src/lib</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>filenames</text>
+        <text>src/lib</text>
       </register>
       <register name="/" type="4">
         <text>husky</text>
@@ -336,31 +340,31 @@
         <text>removeDirectories(filenames)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLy8gVGFyZ2V0IGFwcCBTQ1NTIGZpbGVzCiAgJ2FwcHMvKiovISgqLnNwZWMpLnNjc3MnOiBmaWxlcyA9PiBbCiAgICBgbnB4IHN0eWxlbGludCAtLWZpeCAke2ZpbGVzLm1hcChmID0+IGAiJHtmfSJgKS5qb2luKCcgJyl9YCwKICBdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lcyA9IDsK</text>
+        <text encoding="base64">CiMjIFRlc3QgSGVscGVycwoKU29tZSBoZWxwZXJzIGFyZSBleHBvc2VkIHRvIGFzc2lzdCB3aXRoIHRlc3RpbmcuIFRoZXNlIGFyZSBpbXBvcnRlZCBmcm9tIGBAdGVybWludXMvdWktYXV0b2NvbXBsZXRlL3Rlc3RpbmdgOwoKW1tzb3VyY2VdXVt0ZXN0LWhlbHBlcnMtc3JjXQoKfCBGdW5jdGlvbiAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBgZ2V0QWxsQXV0b2NvbXBsZXRlRGVidWdFbGVtZW50c2AgIHwKfCBgZ2V0QXV0b2NvbXBsZXRlSW5zdGFuY2VgICAgICAgICAgIHwKfCBgZ2V0QXV0b2NvbXBsZXRlRWxlbWVudGAgICAgICAgICAgIHwKfCBgZ2V0QXV0b2NvbXBsZXRlVHJpZ2dlckVsZW1lbnRgICAgIHwKfCBgZ2V0QWxsT3B0aW9uSW5zdGFuY2VzYCAgICAgICAgICAgIHwKfCBgZ2V0T3B0aW9uSW5zdGFuY2VgICAgICAgICAgICAgICAgIHwKfCBgZ2V0T3B0aW9uRWxlbWVudGAgICAgICAgICAgICAgICAgIHwKfCBgZ2V0QWxsT3B0Z3JvdXBzYCAgICAgICAgICAgICAgICAgIHwKfCBgZ2V0T3B0Z3JvdXBgICAgICAgICAgICAgICAgICAgICAgIHwKfCBgZ2V0T3B0Z3JvdXBFbGVtZW50YCAgICAgICAgICAgICAgIHwKfCBgZ2V0QXV0b2NvbXBsZXRlSW5wdXRgICAgICAgICAgICAgIHwKfCBgZ2V0QWxsQ2hpcEluc3RhbmNlc2AgICAgICAgICAgICAgIHwKfCBgZ2V0Q2hpcEluc3RhbmNlYCAgICAgICAgICAgICAgICAgIHwKfCBgZ2V0Q2hpcEVsZW1lbnRgICAgICAgICAgICAgICAgICAgIHwKCgpbdGVzdC1oZWxwZXJzLXNyY106IGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9ibG9iL3JlbGVhc2UvcHJvamVjdHMvbGlicmFyeS9hdXRvY29tcGxldGUvdGVzdGluZy9zcmMvdGVzdC1oZWxwZXJzLnRzCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>${files}</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyMgQmFzaWMgdXNhZ2Ugd2l0aCBhIEZvcm1Db250cm9sCgphKSBQYXNzIGFuIGFycmF5IG9mIGF2YWlsYWJsZSBvcHRpb25zIGluLiBUaGVzZSBhcmUgdGhlIG9wdGlvbnMgZGlzcGxheWVkIHRvIHRoZSB1c2VyIGluIHRoZQogICBkcm9wZG93bi4KCmIpIENyZWF0ZSBhIGxvY2FsIHJlZmVyZW5jZSB0byB0aGUgYXV0b2NvbXBsZXRlIGNvbXBvbmVudC4KCmBgYGh0bWwKPHRzLWF1dG9jb21wbGV0ZQogIFtzaG93UHJvZ3Jlc3NdPSJpblByb2dyZXNzIgo+CiA8dHMtb3B0aW9uCiAgICBbdmFsdWVdPSJzdGF0ZSIKICAgIFtvcHRpb25dPSJzdGF0ZSIKICAgICpuZ0Zvcj0ibGV0IHN0YXRlIG9mIHN0YXRlcyB8IGFzeW5jIgogID4KICAgIHt7IHN0YXRlLm5hbWUgfX0KICA8L3RzLW9wdGlvbj4KPC90cy1hdXRvY29tcGxldGU+CmBgYAoKYykgU3Vic2NyaWJlIHRvIHRoZSBgcXVlcnlgIGV2ZW50cyBjb21pbmcgZnJvbSB0aGUgYXV0b2NvbXBsZXRlLiBUaGlzIGlzIGEgc3RyZWFtIG9mIHF1ZXJ5IHN0cmluZ3MKZW50ZXJlZCBieSB0aGUgdXNlci4gVGhpcyBzdHJlYW0gaXMgZGVib3VuY2VkIGFuZCBkZS1kdXBlZCBieSBkZWZhdWx0LgoKCiMjIER1cGxpY2F0ZSBzZWxlY3Rpb25zCgpCeSBkZWZhdWx0LCBkdXBsaWNhdGUgc2VsZWN0aW9ucyBhcmUgaWdub3JlZC4gVGhleSBjYW4gYmUgYWxsb3dlZCB2aWEgYSBmbGFnOgoKYGBgaHRtbAo8dHMtYXV0b2NvbXBsZXRlCiAgW2Zvcm1Db250cm9sXT0ibXlDdHJsIgogIFthbGxvd011bHRpcGxlXT0idHJ1ZSIKICBbYWxsb3dEdXBsaWNhdGVTZWxlY3Rpb25zXT0idHJ1ZSIKPgogIC4uLgo8L3RzLWF1dG9jb21wbGV0ZT4KYGBgCgoKIyMgS2VlcCBQYW5lbCBPcGVuIEFmdGVyIFNlbGVjdGlvbgoKQnkgZGVmYXVsdCwgdGhlIHBhbmVsIHdpbGwgY2xvc2UgYWZ0ZXIgZWFjaCBzZWxlY3Rpb24uIEl0IGNhbiBiZSBmb3JjZWQgdG8gc3RheSBvcGVuIHZpYSBhIGZsYWcuCgo+IE5PVEU6IFdoaWxlIHRoZSBwYW5lbCBzZWVtcyB0byBzdGF5IG9wZW4sIGl0IGlzIGFjdHVhbGx5IGNsb3NpbmcgYW5kIHJlb3BlbmluZyBpbW1lZGlhdGVseS4gVGhhdCBpcyB3aHkgdGhlIGBASW5wdXRgIGlzIG5hbWVkCmByZW9wZW5BZnRlclNlbGVjdGlvbmAKCmBgYGh0bWwKPHRzLWF1dG9jb21wbGV0ZQogIFtmb3JtQ29udHJvbF09Im15Q3RybCIKICBbYWxsb3dNdWx0aXBsZV09InRydWUiCiAgW3Jlb3BlbkFmdGVyU2VsZWN0aW9uXT0idHJ1ZSIKPgogIC4uLgo8L3RzLWF1dG9jb21wbGV0ZT4KYGBgCgoKIyMgRGVib3VuY2luZwoKQnkgZGVmYXVsdCwgdGhlIGF1dG9jb21wbGV0ZSBpbnB1dCBxdWVyeSB3aWxsIGJlIGRlYm91bmNlZCAyMDBtcy4gVGhpcyB0aW1lIG1heSBiZSBhZGp1c3RlZCBhcyBuZWVkZWQ6CgpgYGBodG1sCjx0cy1hdXRvY29tcGxldGUKICBbZm9ybUNvbnRyb2xdPSJteUN0cmwiCiAgW2RlYm91bmNlRGVsYXldPSI0MDAiCj4KICAuLi4KPC90cy1hdXRvY29tcGxldGU+CmBgYAoKCiMjIE1pbmltdW0gQ2hhcmFjdGVycwoKQnkgZGVmYXVsdCwgYXQgbGVhc3QgdHdvIGNoYXJhY3RlcnMgbXVzdCBiZSB0eXBlZCBiZWZvcmUgdGhlIHF1ZXJ5IGlzIGZpcmVkLiBUaGlzIGxpbWl0IG1heSBiZSBhZGp1c3RlZDoKCmBgYGh0bWwKPHRzLWF1dG9jb21wbGV0ZQogIFtmb3JtQ29udHJvbF09Im15Q3RybCIKICBbbWluaW11bUNoYXJhY3RlcnNdPSI0Igo+CiAgLi4uCjwvdHMtYXV0b2NvbXBsZXRlPgpgYGAKCiMjIEZvcm1hdHRpbmcgb3B0aW9ucwpgYGBodG1sCjx0cy1hdXRvY29tcGxldGUKICBbZm9ybUNvbnRyb2xdPSJteUN0cmwiCiAgW2Rpc3BsYXlGb3JtYXR0ZXJdPSJmb3JtYXREaXNwbGF5IgogIFt2YWx1ZUNvbXBhcmF0b3JdPSJjb21wYXJlVmFsdWVzIgo+CiAgLi4uCjwvdHMtYXV0b2NvbXBsZXRlPgpgYGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lcyA9IDsK</text>
+        <text encoding="base64">IyB1aS1hdXRvY29tcGxldGUKClRoaXMgbGlicmFyeSB3YXMgZ2VuZXJhdGVkIHdpdGggW054XShodHRwczovL254LmRldikuCgoKIyMgUnVubmluZyB1bml0IHRlc3RzCgpSdW4gYG54IHRlc3QgdWktYXV0b2NvbXBsZXRlYCB0byBleGVjdXRlIHRoZSB1bml0IHRlc3RzLgoK</text>
       </register>
-      <register name="5" type="8">
-        <text>${files}</text>
+      <register name="5" type="2">
+        <text encoding="base64">KipUYWJsZSBvZiBDb250ZW50cyoqCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>${files}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ci0gW3VpLWF1dG9jb21wbGV0ZV0oI3VpLWF1dG9jb21wbGV0ZSkKICAtIFtSdW5uaW5nIHVuaXQgdGVzdHNdKCNydW5uaW5nLXVuaXQtdGVzdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZXNjYXBlID0gcmVxdWlyZSgnc2hlbGwtcXVvdGUnKS5xdW90ZTsK</text>
+        <text encoding="base64">PGgxPkF1dG9jb21wbGV0ZTwvaDE+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvbyA9IDI7Cg==</text>
+        <text encoding="base64">CiAgLy8gVGFyZ2V0IGFwcCBTQ1NTIGZpbGVzCiAgJ2FwcHMvKiovISgqLnNwZWMpLnNjc3MnOiBmaWxlcyA9PiBbCiAgICBgbnB4IHN0eWxlbGludCAtLWZpeCAke2ZpbGVzLm1hcChmID0+IGAiJHtmfSJgKS5qb2luKCcgJyl9YCwKICBdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvbyA9IDI7Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lcyA9IDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/testComponents.//g</text>
