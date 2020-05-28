@@ -135,18 +135,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.css" timestamp="1590686695320">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5022" column="3" />
-        <mark key="." line="5022" column="2" />
-        <mark key="^" line="5022" column="3" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" timestamp="1590687952798">
         <mark key="'" line="124" column="33" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
         <mark key="^" line="103" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590689535085">
+        <mark key="'" line="76" column="5" />
+        <mark key="[" line="76" column="2" />
+        <mark key="]" line="76" column="6" />
+        <mark key="." line="76" column="5" />
+        <mark key="^" line="76" column="6" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/src/lib/vertical/vertical-spacing.directive.ts" timestamp="1590687029411">
         <mark key="'" line="15" column="11" />
@@ -226,9 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/src/lib/form/login-form.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/README.md" />
-      <jump line="20" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/lib/logo/logo.component.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/lib/logo/logo.component.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/README.md" />
       <jump line="7" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/src/lib/menu/menu.component.md" />
@@ -326,6 +324,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
       <jump line="124" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/README.md" />
       <jump line="55" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="75" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="76" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +335,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBbVGVybWludXNPc3NdKCN0ZXJtaW51c29zcykK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -349,31 +350,31 @@
         <text>TsTooltipPositionTypes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBbVGVybWludXNPc3NdKCN0ZXJtaW51c29zcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2V0IFRzVG9vbHRpcFBvc2l0aW9uVHlwZXMK</text>
+        <text encoding="base64">ClRPRE8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9vIGBUc1Rvb2x0aXBQb3NpdGlvblR5cGVzYAo=</text>
+        <text encoding="base64">CiMgVGVybWludXNPc3MK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2V0IFRzVG9vbHRpcFBvc2l0aW9uVHlwZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktdmFsaWRhdG9yc10oI3VpLXZhbGlkYXRvcnMpCiAgLSBbUnVubmluZyB1bml0IHRlc3RzXSgjcnVubmluZy11bml0LXRlc3RzKQoKPCEtLSBFTkQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgoKIyB1aS12YWxpZGF0b3JzCgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLXZhbGlkYXRvcnNgIHRvIGV4ZWN1dGUgdGhlIHVuaXQgdGVzdHMuCgo=</text>
+        <text encoding="base64">Zm9vIGBUc1Rvb2x0aXBQb3NpdGlvblR5cGVzYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktdmFsaWRhdGlvbi1tZXNzYWdlc10oI3VpLXZhbGlkYXRpb24tbWVzc2FnZXMpCiAgLSBbUnVubmluZyB1bml0IHRlc3RzXSgjcnVubmluZy11bml0LXRlc3RzKQoKPCEtLSBFTkQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgoKIyB1aS12YWxpZGF0aW9uLW1lc3NhZ2VzCgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLXZhbGlkYXRpb24tbWVzc2FnZXNgIHRvIGV4ZWN1dGUgdGhlIHVuaXQgdGVzdHMuCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB1aS11dGlsaXRpZXMKClRoaXMgbGlicmFyeSB3YXMgZ2VuZXJhdGVkIHdpdGggW054XShodHRwczovL254LmRldikuCgoKIyMgUnVubmluZyB1bml0IHRlc3RzCgpSdW4gYG54IHRlc3QgdWktdXRpbGl0aWVzYCB0byBleGVjdXRlIHRoZSB1bml0IHRlc3RzLgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KipUYWJsZSBvZiBDb250ZW50cyoqCgotIFt1aS11dGlsaXRpZXNdKCN1aS11dGlsaXRpZXMpCiAgLSBbUnVubmluZyB1bml0IHRlc3RzXSgjcnVubmluZy11bml0LXRlc3RzKQoK</text>
+        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktdmFsaWRhdG9yc10oI3VpLXZhbGlkYXRvcnMpCiAgLSBbUnVubmluZyB1bml0IHRlc3RzXSgjcnVubmluZy11bml0LXRlc3RzKQoKPCEtLSBFTkQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgoKIyB1aS12YWxpZGF0b3JzCgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLXZhbGlkYXRvcnNgIHRvIGV4ZWN1dGUgdGhlIHVuaXQgdGVzdHMuCgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
