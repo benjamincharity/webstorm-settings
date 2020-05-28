@@ -142,17 +142,17 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="103" column="2" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590689535085">
-        <mark key="'" line="76" column="5" />
-        <mark key="[" line="76" column="2" />
-        <mark key="]" line="76" column="6" />
-        <mark key="." line="76" column="5" />
-        <mark key="^" line="76" column="6" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1590690127315">
+        <mark key="'" line="129" column="99" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="428" column="134" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/src/lib/vertical/vertical-spacing.directive.ts" timestamp="1590687029411">
-        <mark key="'" line="15" column="11" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="33" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590689989718">
+        <mark key="'" line="129" column="5" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="58" column="229" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/README.md" timestamp="1590687971358">
         <mark key="'" line="55" column="0" />
@@ -184,11 +184,12 @@
         <mark key="." line="76" column="1" />
         <mark key="^" line="76" column="2" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/README.md" timestamp="1590687022468">
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="41" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" timestamp="1590690488198">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="10" column="79" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/src/lib/service/validators.service.md" timestamp="1590687888588">
         <mark key="'" line="0" column="0" />
@@ -227,11 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/lib/logo/logo.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/README.md" />
-      <jump line="7" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/src/lib/menu/menu.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/src/lib/menu/menu.component.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/README.md" />
       <jump line="27" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/src/lib/nav/navigation.component.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/src/lib/nav/navigation.component.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/README.md" />
@@ -327,6 +323,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="75" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="76" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="88" column="35" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="10" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
+      <jump line="129" column="99" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
+      <jump line="38" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,47 +335,65 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">LSBbVGVybWludXNPc3NdKCN0ZXJtaW51c29zcykK</text>
+      <register name="*" type="4">
+        <text>|</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>demo</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUc1NlYXJjaFJlc3BvbnNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>TsTooltipPositionTypes</text>
+      <register name="0" type="2">
+        <text encoding="base64">W3NyYy1waXBlcy1hYmJyZXZpYXRlTnVtYmVyXTogaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLXVpL2Jsb2IvcmVsZWFzZS9wcm9qZWN0cy9saWJyYXJ5L3BpcGVzL3NyYy9hYmJyZXZpYXRlLW51bWJlci9hYmJyZXZpYXRlLW51bWJlci5waXBlLnRzCltzcmMtcGlwZXMtZGF0ZV06ICAgICAgICAgaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLXVpL2Jsb2IvcmVsZWFzZS9wcm9qZWN0cy9saWJyYXJ5L3BpcGVzL3NyYy9kYXRlL2RhdGUucGlwZS50cwpbc3JjLXBpcGVzLXJvdW5kTnVtYmVyXTogIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9ibG9iL3JlbGVhc2UvcHJvamVjdHMvbGlicmFyeS9waXBlcy9zcmMvcm91bmQtbnVtYmVyL3JvdW5kLW51bWJlci5waXBlLnRzCltzcmMtcGlwZXMtc2VudGVuY2VDYXNlXTogaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLXVpL2Jsb2IvcmVsZWFzZS9wcm9qZWN0cy9saWJyYXJ5L3BpcGVzL3NyYy9zZW50ZW5jZS1jYXNlL3NlbnRlbmNlLWNhc2UucGlwZS50cwpbc3JjLXBpcGVzLXRpbWVBZ29dOiAgICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9ibG9iL3JlbGVhc2UvcHJvamVjdHMvbGlicmFyeS9waXBlcy9zcmMvdGltZS1hZ28vdGltZS1hZ28ucGlwZS50cwpbc3JjLXBpcGVzLXRpdGxlQ2FzZV06ICAgIGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy11aS9ibG9iL3JlbGVhc2UvcHJvamVjdHMvbGlicmFyeS9waXBlcy9zcmMvdGl0bGUtY2FzZS90aXRsZS1jYXNlLnBpcGUudHMKW3NyYy1waXBlcy10cnVuY2F0ZV06ICAgICBodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtdWkvYmxvYi9yZWxlYXNlL3Byb2plY3RzL2xpYnJhcnkvcGlwZXMvc3JjL3RydW5jYXRlL3RydW5jYXRlLnBpcGUudHMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LSBbVGVybWludXNPc3NdKCN0ZXJtaW51c29zcykK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IFN0YXR1cyAgICAgICAgICAgICB8CjotLS0tLS0tLS0tLS0tLS0tLS06fAogOndoaXRlX2NoZWNrX21hcms6IHwKIDp3aGl0ZV9jaGVja19tYXJrOiB8CiA6d2hpdGVfY2hlY2tfbWFyazogfAogOndoaXRlX2NoZWNrX21hcms6IHwKIDp3aGl0ZV9jaGVja19tYXJrOiB8CiA6d2hpdGVfY2hlY2tfbWFyazogfAogOndoaXRlX2NoZWNrX21hcms6IHw=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ClRPRE8K</text>
+      <register name="2" type="8">
+        <text>/
+/
+/
+/
+/
+/
+/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiMgVGVybWludXNPc3MK</text>
+      <register name="3" type="8">
+        <text>/
+/
+/
+/
+/
+/
+/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
+https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
+https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
+https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
+https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
+https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes
+https://github.com/GetTerminus/terminus-ui/blob/release/projects/library/pipes</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">U2V0IFRzVG9vbHRpcFBvc2l0aW9uVHlwZXMK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vIGBUc1Rvb2x0aXBQb3NpdGlvblR5cGVzYAo=</text>
+        <text encoding="base64">Wzpib29rczogUGlwZXMgRG9jdW1lbnRhdGlvbl1bcGlwZXMtZG9jc10KPGJyPgpbOmNpcmN1c190ZW50OiBQaXBlcyBEZW1vXVtkZW1vLXBpcGVzXQoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgUGlwZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSBTVEFSVCBkb2N0b2MgZ2VuZXJhdGVkIFRPQyBwbGVhc2Uga2VlcCBjb21tZW50IGhlcmUgdG8gYWxsb3cgYXV0byB1cGRhdGUgLS0+CjwhLS0gRE9OJ1QgRURJVCBUSElTIFNFQ1RJT04sIElOU1RFQUQgUkUtUlVOIGRvY3RvYyBUTyBVUERBVEUgLS0+CioqVGFibGUgb2YgQ29udGVudHMqKgoKLSBbdWktdmFsaWRhdG9yc10oI3VpLXZhbGlkYXRvcnMpCiAgLSBbUnVubmluZyB1bml0IHRlc3RzXSgjcnVubmluZy11bml0LXRlc3RzKQoKPCEtLSBFTkQgZG9jdG9jIGdlbmVyYXRlZCBUT0MgcGxlYXNlIGtlZXAgY29tbWVudCBoZXJlIHRvIGFsbG93IGF1dG8gdXBkYXRlIC0tPgoKIyB1aS12YWxpZGF0b3JzCgpUaGlzIGxpYnJhcnkgd2FzIGdlbmVyYXRlZCB3aXRoIFtOeF0oaHR0cHM6Ly9ueC5kZXYpLgoKCiMjIFJ1bm5pbmcgdW5pdCB0ZXN0cwoKUnVuIGBueCB0ZXN0IHVpLXZhbGlkYXRvcnNgIHRvIGV4ZWN1dGUgdGhlIHVuaXQgdGVzdHMuCgo=</text>
+        <text encoding="base64">LSBbVGVybWludXNPc3NdKCN0ZXJtaW51c29zcykK</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
