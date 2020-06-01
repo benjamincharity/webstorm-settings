@@ -199,12 +199,12 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591015346841">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591016380227">
         <mark key="'" line="2314" column="13" />
-        <mark key="[" line="2467" column="13" />
-        <mark key="]" line="2467" column="14" />
-        <mark key="." line="2467" column="14" />
-        <mark key="^" line="2480" column="50" />
+        <mark key="[" line="2470" column="0" />
+        <mark key="]" line="2470" column="0" />
+        <mark key="." line="2470" column="0" />
+        <mark key="^" line="2472" column="50" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.gitignore" timestamp="1590765975409">
         <mark key="'" line="39" column="0" />
@@ -342,7 +342,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAibGludCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBucndsL3dvcmtzcGFjZTpydW4tY29tbWFuZHMiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6IFsKICAgICAgICAgICAgICAibGlicy91aS92YWxpZGF0aW9uLW1lc3NhZ2VzL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgICAibGlicy91aS92YWxpZGF0aW9uLW1lc3NhZ2VzL3RzY29uZmlnLnNwZWMuanNvbiIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImV4Y2x1ZGUiOiBbCiAgICAgICAgICAgICAgIioqL25vZGVfbW9kdWxlcy8qKiIsCiAgICAgICAgICAgICAgIiFsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvKioiCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGxpbnQ6dHMgJ2xpYnMvdWkvdmFsaWRhdGlvbi1tZXNzYWdlcy8qKi8qLntqcyx0c30nIiB9LAogICAgICAgICAgICAgIHsgImNvbW1hbmQiOiAieWFybiBydW4gbGludDpzY3NzICdsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvKiovISgqLnNwZWMpLnNjc3MnIiB9CiAgICAgICAgICAgIF0KICAgICAgICAgIH0KICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRzQ29uZmlnIjogWwogICAgICAgICAgICAgICJsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvdHNjb25maWcubGliLmpzb24iLAogICAgICAgICAgICAgICJsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvdHNjb25maWcuc3BlYy5qc29uIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiZXhjbHVkZSI6IFsKICAgICAgICAgICAgICAiKiovbm9kZV9tb2R1bGVzLyoqIiwKICAgICAgICAgICAgICAiIWxpYnMvdWkvdmFsaWRhdGlvbi1tZXNzYWdlcy8qKiIKICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -356,32 +356,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAibGludCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBucndsL3dvcmtzcGFjZTpydW4tY29tbWFuZHMiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6IFsKICAgICAgICAgICAgICAibGlicy91aS92YWxpZGF0aW9uLW1lc3NhZ2VzL3RzY29uZmlnLmxpYi5qc29uIiwKICAgICAgICAgICAgICAibGlicy91aS92YWxpZGF0aW9uLW1lc3NhZ2VzL3RzY29uZmlnLnNwZWMuanNvbiIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImV4Y2x1ZGUiOiBbCiAgICAgICAgICAgICAgIioqL25vZGVfbW9kdWxlcy8qKiIsCiAgICAgICAgICAgICAgIiFsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvKioiCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGxpbnQ6dHMgJ2xpYnMvdWkvdmFsaWRhdGlvbi1tZXNzYWdlcy8qKi8qLntqcyx0c30nIiB9LAogICAgICAgICAgICAgIHsgImNvbW1hbmQiOiAieWFybiBydW4gbGludDpzY3NzICdsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvKiovISgqLnNwZWMpLnNjc3MnIiB9CiAgICAgICAgICAgIF0KICAgICAgICAgIH0KICAgICAgICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInRzQ29uZmlnIjogWwogICAgICAgICAgICAgICJsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvdHNjb25maWcubGliLmpzb24iLAogICAgICAgICAgICAgICJsaWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvdHNjb25maWcuc3BlYy5qc29uIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiZXhjbHVkZSI6IFsKICAgICAgICAgICAgICAiKiovbm9kZV9tb2R1bGVzLyoqIiwKICAgICAgICAgICAgICAiIWxpYnMvdWkvdmFsaWRhdGlvbi1tZXNzYWdlcy8qKiIKICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="2" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text>~@terminus/ui-styles/helpers</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGxpbnQ6c2NzcyAnbGlicy91aS92YWxpZGF0b3JzLyoqLyEoKi5zcGVjKS5zY3NzJyIgfQo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>npx stylelint</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>npx eslint</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>nrn px eslint</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogIm5weCBzdHlsZWxpbnQgJ2xpYnMvdWkvdXRpbGl0aWVzLyoqLyEoKi5zcGVjKS5zY3NzJyIgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjb21tYW5kcyI6IFt7ICJjb21tYW5kIjogIm5weCBlc2xpbnQgJ2xpYnMvdWkvdG9vbHRpcC8qKi8qLntqcyx0c30nIiB9XQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgeyAiY29tbWFuZCI6ICJucHggZXNsaW50ICdsaWJzL3VpL3V0aWxpdGllcy8qKi8qLntqcyx0c30nIiB9LAogICAgICAgICAgICB7ICJjb21tYW5kIjogIm5weCBzdHlsZWxpbnQgJ2xpYnMvdWkvdXRpbGl0aWVzLyoqLyEoKi5zcGVjKS5zY3NzJyIgfQogICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJjb21tYW5kcyI6IFt7ICJjb21tYW5kIjogIm5weCBlc2xpbnQgJ2xpYnMvdWkvdG9vbHRpcC8qKi8qLntqcyx0c30nIiB9XQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
