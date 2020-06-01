@@ -147,6 +147,10 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591019184862">
         <mark key="'" line="199" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/index.html" timestamp="1591023865001">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="90" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1591017474611">
         <mark key="'" line="242" column="24" />
         <mark key="[" line="222" column="19" />
@@ -162,13 +166,6 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/vr/src/styles.scss" timestamp="1591020054527">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.gitignore" timestamp="1590765975409">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591022235498">
         <mark key="'" line="84" column="23" />
         <mark key="[" line="87" column="14" />
@@ -176,6 +173,7 @@
         <mark key="." line="87" column="36" />
         <mark key="^" line="87" column="37" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/jest.config.js" timestamp="1591024040078" />
       <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590769642137">
         <mark key="'" line="42" column="36" />
       </file>
@@ -190,22 +188,14 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" timestamp="1591023393303">
-        <mark key="'" line="211" column="0" />
-        <mark key="[" line="209" column="9" />
-        <mark key="]" line="209" column="9" />
-        <mark key="^" line="209" column="9" />
-        <mark key="." line="209" column="9" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" timestamp="1591023630759">
+        <mark key="'" line="197" column="20" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/terminus-ui.css" timestamp="1591019882351">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/build-styles.sh" timestamp="1590766070197">
-        <mark key="'" line="22" column="51" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591021269310">
         <mark key="'" line="12" column="26" />
@@ -221,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/README.md" />
       <jump line="21" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
@@ -321,6 +310,7 @@
       <jump line="200" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
       <jump line="214" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="192" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,50 +318,49 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="8">
-        <text>/src
-/src</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Sb2JvdG86NDAwLDUwMCw3MDAiIHJlbD0ic3R5bGVzaGVldCI+CiAgICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2ljb24/ZmFtaWx5PU1hdGVyaWFsK0ljb25zIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>no</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb29cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhcnJ5Zm9yd2FyZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Sb2JvdG86NDAwLDUwMCw3MDAiIHJlbD0ic3R5bGVzaGVldCI+CiAgICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2ljb24/ZmFtaWx5PU1hdGVyaWFsK0ljb25zIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICBicmFuY2hlczogICAgICAgICAgICAgICAjIGJyYW5jaCBuYW1lcyB0aGF0IGNhbiBwb3N0IGNvbW1lbnQKICAgIC0gIm1hc3RlciIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXF1aXJlX2hlYWQ6IHllcyAgICAgICAjIFt5ZXMgOjogbXVzdCBoYXZlIGEgaGVhZCByZXBvcnQgdG8gcG9zdF0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICByZXF1aXJlX2Jhc2U6IGhlcyAgICAgICAgIyBbeWVzIDo6IG11c3QgaGF2ZSBhIGJhc2UgcmVwb3J0IHRvIHBvc3RdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZXF1aXJlX2NoYW5nZXM6IGZhbHNlICAjIGlmIHRydWU6IG9ubHkgcG9zdCB0aGUgY29tbWVudCBpZiBjb3ZlcmFnZSBjaGFuZ2VzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0gCg==</text>
+      </register>
+      <register name="6" type="8">
         <text>/src
 /src</text>
       </register>
-      <register name="2" type="8">
+      <register name="7" type="8">
         <text>terminus-ui
 terminus-ui</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAjIFRPRE86IFJlbW92ZSAnaW50ZWdyYXRpb24nIGZyb20gdGhpcyBsaXN0IHdoZW4gZW5hYmxpbmcgaW50ZWdyYXRpb24gdGVzdHMKICAtICJpbnRlZ3JhdGlvbiIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtICJidWlsZCIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGxpbnQ6c2NzcyAnbGlicy91aS9zcGFjaW5nLyoqLyEoKi5zcGVjKS5zY3NzJyIgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9saWJyYXJ5LWRlc2lnbi10b2tlbnMuY3NzJzsKQGltcG9ydCAnfkB0ZXJtaW51cy91aS1zdHlsZXMvdGVybWludXMtdWkuY3NzJzsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvdWktc3R5bGVzL3Rlcm1pbnVzLXVpLmNzcyc7Cg==</text>
+        <text encoding="base64">ICAtICJidWlsZCIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</text>
