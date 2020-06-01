@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxVc2VyXD4=</entry>
-        <entry encoding="base64">XDxTY3JvbGxcPg==</entry>
         <entry>Action</entry>
         <entry encoding="base64">XDxUc1NlYXJjaFJlc3BvbnNlXD4=</entry>
         <entry>zenh</entry>
@@ -25,6 +23,8 @@
         <entry>run-commands</entry>
         <entry>@angular-devkit\/build-angular:tslint</entry>
         <entry>spacing</entry>
+        <entry>built-library</entry>
+        <entry encoding="base64">XDxmb29cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-popover/g</entry>
@@ -169,12 +169,12 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591021169083">
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="16" column="76" />
-        <mark key="]" line="16" column="82" />
-        <mark key="." line="16" column="81" />
-        <mark key="^" line="16" column="82" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591022235498">
+        <mark key="'" line="84" column="23" />
+        <mark key="[" line="87" column="14" />
+        <mark key="]" line="87" column="37" />
+        <mark key="." line="87" column="36" />
+        <mark key="^" line="87" column="37" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1590769642137">
         <mark key="'" line="42" column="36" />
@@ -190,13 +190,15 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" timestamp="1591023393303">
+        <mark key="'" line="211" column="0" />
+        <mark key="[" line="209" column="9" />
+        <mark key="]" line="209" column="9" />
+        <mark key="^" line="209" column="9" />
+        <mark key="." line="209" column="9" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/terminus-ui.css" timestamp="1591019882351">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1590764877745">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/build-styles.sh" timestamp="1590766070197">
         <mark key="'" line="22" column="51" />
@@ -219,41 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" />
-      <jump line="26" column="58" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" />
-      <jump line="76" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
-      <jump line="92" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
-      <jump line="104" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/README.md" />
-      <jump line="302" column="2" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="89" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="178" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="26" column="176" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="443" column="17" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
-      <jump line="219" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="205" column="91" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="247" column="83" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="289" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="56" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="83" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="272" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="69" column="185" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="29" column="37" filename="$USER_HOME$/Desktop/terminus-oss/libs/ui/form-field/testing/src/test-helpers.ts" />
-      <jump line="7" column="33" filename="$USER_HOME$/Desktop/terminus-oss/libs/ui/form-field/testing/src/test-helpers.ts" />
-      <jump line="24" column="44" filename="$USER_HOME$/Desktop/terminus-oss/libs/ui/form-field/testing/src/test-helpers.ts" />
-      <jump line="39" column="26" filename="$USER_HOME$/Desktop/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" />
-      <jump line="344" column="8" filename="$USER_HOME$/Desktop/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" />
-      <jump line="356" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.spec.ts" />
-      <jump line="15" column="85" filename="$USER_HOME$/Desktop/terminus-oss/libs/ui/form-field/testing/src/test-helpers.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/terminus-oss/libs/ui/form-field/testing/src/test-helpers.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/testing/src/test-helpers.ts" />
-      <jump line="41" column="36" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/README.md" />
       <jump line="24" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/README.md" />
@@ -319,6 +286,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/terminus-ui.css" />
       <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/vr/src/styles.scss" />
       <jump line="12" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="52" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="158" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="208" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="258" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="84" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="72" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="74" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="76" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="80" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="82" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="84" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="86" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="88" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="89" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="91" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="93" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="100" column="8" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="101" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="103" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="104" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="106" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="109" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="110" column="17" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="114" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="129" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="131" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="132" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="134" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="135" column="8" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="137" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="138" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="146" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="200" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
+      <jump line="214" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,47 +328,50 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>,</text>
+      <register name="*" type="8">
+        <text>/src
+/src</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
-        <text>spacing</text>
+        <text encoding="base64">XDxmb29cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvZGVzaWduLXRva2Vucy9jc3MvbGlicmFyeS1kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvdWktc3R5bGVzL3Rlcm1pbnVzLXVpLmNzcyc7Cg==</text>
+        <text encoding="base64">ICAgIGNhcnJ5Zm9yd2FyZDogdHJ1ZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGxpbnQ6c2NzcyAnbGlicy91aS9zcGFjaW5nLyoqLyEoKi5zcGVjKS5zY3NzJyIgfQo=</text>
+      <register name="1" type="8">
+        <text>/src
+/src</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9saWJyYXJ5LWRlc2lnbi10b2tlbnMuY3NzJzsKQGltcG9ydCAnfkB0ZXJtaW51cy91aS1zdHlsZXMvdGVybWludXMtdWkuY3NzJzsK</text>
+      <register name="2" type="8">
+        <text>terminus-ui
+terminus-ui</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
+        <text encoding="base64">ICAjIFRPRE86IFJlbW92ZSAnaW50ZWdyYXRpb24nIGZyb20gdGhpcyBsaXN0IHdoZW4gZW5hYmxpbmcgaW50ZWdyYXRpb24gdGVzdHMKICAtICJpbnRlZ3JhdGlvbiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvdWktc3R5bGVzL3Rlcm1pbnVzLXVpLmNzcyc7Cg==</text>
+        <text encoding="base64">ICAtICJidWlsZCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy91aS90ZXJtaW51cy11aS5jc3MnOwo=</text>
+        <text encoding="base64">ICAgIGFkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGxpbnQ6c2NzcyAnbGlicy91aS9zcGFjaW5nLyoqLyEoKi5zcGVjKS5zY3NzJyIgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9saWJyYXJ5LWRlc2lnbi10b2tlbnMuY3NzJzsKQGltcG9ydCAnfkB0ZXJtaW51cy91aS1zdHlsZXMvdGVybWludXMtdWkuY3NzJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ1aS1hdXRvY29tcGxldGUiOiB7CiAgICAgICJwcm9qZWN0VHlwZSI6ICJsaWJyYXJ5IiwKICAgICAgInJvb3QiOiAibGlicy91aS9hdXRvY29tcGxldGUiLAogICAgICAic291cmNlUm9vdCI6ICJsaWJzL3VpL2F1dG9jb21wbGV0ZS9zcmMiLAogICAgICAicHJlZml4IjogInRlcm1pbnVzIiwKICAgICAgImFyY2hpdGVjdCI6IHsKICAgICAgICAiYnVpbGQiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJAbnJ3bC9hbmd1bGFyOnBhY2thZ2UiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6ICJsaWJzL3VpL2F1dG9jb21wbGV0ZS90c2NvbmZpZy5saWIuanNvbiIsCiAgICAgICAgICAgICJwcm9qZWN0IjogImxpYnMvdWkvYXV0b2NvbXBsZXRlL25nLXBhY2thZ2UuanNvbiIKICAgICAgICAgIH0sCiAgICAgICAgICAiY29uZmlndXJhdGlvbnMiOiB7CiAgICAgICAgICAgICJwcm9kdWN0aW9uIjogewogICAgICAgICAgICAgICJ0c0NvbmZpZyI6ICJsaWJzL3VpL2F1dG9jb21wbGV0ZS90c2NvbmZpZy5saWIucHJvZC5qc29uIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICAibGludCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBucndsL3dvcmtzcGFjZTpydW4tY29tbWFuZHMiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJ0c0NvbmZpZyI6IFsKICAgICAgICAgICAgICAibGlicy91aS9hdXRvY29tcGxldGUvdHNjb25maWcubGliLmpzb24iLAogICAgICAgICAgICAgICJsaWJzL3VpL2F1dG9jb21wbGV0ZS90c2NvbmZpZy5zcGVjLmpzb24iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJleGNsdWRlIjogWwogICAgICAgICAgICAgICIqKi9ub2RlX21vZHVsZXMvKioiLAogICAgICAgICAgICAgICIhbGlicy91aS9hdXRvY29tcGxldGUvKioiCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGxpbnQ6dHMgJ2xpYnMvdWkvYXV0b2NvbXBsZXRlLyoqLyoue2pzLHRzfSciIH0sCiAgICAgICAgICAgICAgeyAiY29tbWFuZCI6ICJ5YXJuIHJ1biBsaW50OnNjc3MgJ2xpYnMvdWkvYXV0b2NvbXBsZXRlLyoqLyEoKi5zcGVjKS5zY3NzJyIgfQogICAgICAgICAgICBdCiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICAidGVzdCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBucndsL2plc3Q6amVzdCIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgImplc3RDb25maWciOiAibGlicy91aS9hdXRvY29tcGxldGUvamVzdC5jb25maWcuanMiLAogICAgICAgICAgICAidHNDb25maWciOiAibGlicy91aS9hdXRvY29tcGxldGUvdHNjb25maWcuc3BlYy5qc29uIiwKICAgICAgICAgICAgInBhc3NXaXRoTm9UZXN0cyI6IHRydWUsCiAgICAgICAgICAgICJzZXR1cEZpbGUiOiAibGlicy91aS9hdXRvY29tcGxldGUvc3JjL3Rlc3Qtc2V0dXAudHMiCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9LAogICAgICAic2NoZW1hdGljcyI6IHsKICAgICAgICAiQG5yd2wvYW5ndWxhcjpjb21wb25lbnQiOiB7CiAgICAgICAgICAic3R5bGUiOiAic2NzcyIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvdWktc3R5bGVzL3Rlcm1pbnVzLXVpLmNzcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</text>
@@ -375,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>spacing</last-search>
+      <last-search encoding="base64">XDxmb29cPg==</last-search>
       <last-offset />
-      <last-pattern>spacing</last-pattern>
+      <last-pattern encoding="base64">XDxmb29cPg==</last-pattern>
       <last-replace>@nrwl\/workspace:run-commands</last-replace>
       <last-substitute>@angular-devkit\/build-angular:tslint</last-substitute>
       <last-dir>1</last-dir>
