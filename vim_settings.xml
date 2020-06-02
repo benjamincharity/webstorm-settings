@@ -134,12 +134,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591122878123">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591125095262">
         <mark key="'" line="83" column="21" />
-        <mark key="[" line="137" column="87" />
-        <mark key="]" line="137" column="87" />
-        <mark key="^" line="2350" column="53" />
-        <mark key="." line="137" column="87" />
+        <mark key="[" line="233" column="111" />
+        <mark key="]" line="233" column="81" />
+        <mark key="^" line="233" column="81" />
+        <mark key="." line="233" column="80" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/ui-form-field.module.ts" timestamp="1591120192673">
         <mark key="[" line="17" column="0" />
@@ -152,11 +152,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/ui-autocomplete.module.ts" timestamp="1591113067762">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scss/a11y/_a11y.scss" timestamp="1591120091294">
         <mark key="'" line="24" column="0" />
@@ -207,13 +202,19 @@
         <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/tsconfig.app.json" timestamp="1591122280924" />
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591120093883">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591125425086">
         <mark key="[" line="171" column="21" />
         <mark key="]" line="171" column="21" />
         <mark key="." line="171" column="21" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/tsconfig.compodoc.json" timestamp="1591114047256">
         <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/jest.config.js" timestamp="1591125444931">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -325,19 +326,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>selection-list</text>
+        <text>preiwexet</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>selection-list</text>
+        <text>preiwexet</text>
       </register>
       <register name="/" type="4">
         <text>prefixChildren</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHNTZWxlY3Rpb25MaXN0TW9kdWxlIH0gZnJvbSAnQHRlcm1pbnVzL3VpLXNlbGVjdGlvbi1saXN0JzsK</text>
+      <register name="0" type="4">
+        <text>npx eslint 'apps/showcase-ui/**/*.{js,ts}'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgVHNTZWxlY3Rpb25MaXN0TW9kdWxlIH0gZnJvbSAnQHRlcm1pbnVzL3VpLXNlbGVjdGlvbi1saXN0JzsK</text>
