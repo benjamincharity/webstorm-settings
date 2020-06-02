@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnbG9iYWxTdHlsZXNJbnB1dFw+</entry>
-        <entry encoding="base64">XDxucG1Gb2xkZXJcPg==</entry>
         <entry>mat-datepicker</entry>
         <entry>cdk</entry>
         <entry>validators</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxsaWJzXD4=</entry>
         <entry>build-libs</entry>
         <entry>built-libs</entry>
+        <entry>button</entry>
+        <entry>prefixChildren</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-radio-group/g</entry>
@@ -129,12 +129,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591111821554">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="29" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/date-range/src/lib/ui-date-range.module.ts" timestamp="1591120034900">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -145,11 +139,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.ts" timestamp="1591120173243">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.ts" timestamp="1591122512760">
+        <mark key="'" line="153" column="22" />
         <mark key="[" line="31" column="8" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/ui-autocomplete.module.ts" timestamp="1591113067762">
         <mark key="[" line="12" column="0" />
@@ -161,6 +156,13 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.spec.ts" timestamp="1591122381214">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/style-helpers/_a11y.scss" timestamp="1591120098680">
         <mark key="'" line="19" column="14" />
         <mark key="[" line="24" column="0" />
@@ -168,21 +170,24 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1591122286395">
+        <mark key="'" line="253" column="7" />
+        <mark key="[" line="268" column="37" />
+        <mark key="]" line="268" column="45" />
+        <mark key="." line="268" column="44" />
+        <mark key="^" line="268" column="45" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.compodocrc.json" timestamp="1591113187419">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1591108880241">
-        <mark key="'" line="326" column="37" />
-        <mark key="[" line="321" column="0" />
-        <mark key="]" line="321" column="103" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1591109074584">
-        <mark key="'" line="208" column="35" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="54" column="36" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.ts" timestamp="1591122385625">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="30" column="9" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="30" column="8" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.ts" timestamp="1591113054717">
         <mark key="[" line="9" column="0" />
@@ -195,13 +200,14 @@
         <mark key="]" line="5" column="17" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/vr/src/app/app.component.spec.ts" timestamp="1591121132540">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/vr/src/app/app.component.spec.ts" timestamp="1591122260592">
         <mark key="'" line="30" column="29" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="26" column="6" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="9" />
         <mark key="^" line="26" column="6" />
         <mark key="." line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/tsconfig.app.json" timestamp="1591122280924" />
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591120093883">
         <mark key="[" line="171" column="21" />
         <mark key="]" line="171" column="21" />
@@ -210,18 +216,8 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/tsconfig.compodoc.json" timestamp="1591114047256">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/README.md" timestamp="1591108892485">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="87" />
-        <mark key="." line="26" column="58" />
-        <mark key="^" line="26" column="59" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/build-styles.sh" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/build-styles.sh" />
-      <jump line="11" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/coverage-upload.sh" />
-      <jump line="120" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/promote-next-and-deploy.sh" />
       <jump line="28" column="89" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/coverage-upload.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/demos-deploy.sh" />
       <jump line="3" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/coverage-upload.sh" />
@@ -318,6 +314,10 @@
       <jump line="24" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/projects/library/scss/a11y/_a11y.scss" />
       <jump line="19" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/style-helpers/_a11y.scss" />
       <jump line="26" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/vr/src/app/app.component.spec.ts" />
+      <jump line="28" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.spec.ts" />
+      <jump line="253" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
+      <jump line="27" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.ts" />
+      <jump line="155" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/src/lib/form-field/form-field.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,37 +326,37 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>,</text>
+        <text>create the app</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>create the app</text>
       </register>
       <register name="/" type="4">
-        <text>built-libs</text>
+        <text>prefixChildren</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8YmFzZSBocmVmPSIvIj4K</text>
+        <text encoding="base64">ICAgICAgcHJvdmlkZXJzOiBbewogICAgICAgIHByb3ZpZGU6IEFQUF9CQVNFX0hSRUYsCiAgICAgICAgdXNlVmFsdWU6ICcvJywKICAgICAgfV0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>''</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgdGVzdChgc2hvdWxkIGhhdmUgYXMgdGl0bGUgJ3Nob3djYXNlJ2AsICgpID0+IHsKICAgIGNvbnN0IGZpeHR1cmUgPSBUZXN0QmVkLmNyZWF0ZUNvbXBvbmVudChBcHBDb21wb25lbnQpOwogICAgY29uc3QgYXBwID0gZml4dHVyZS5jb21wb25lbnRJbnN0YW5jZTsKICAgIGV4cGVjdChhcHAudGl0bGUpLnRvRXF1YWwoJ3Nob3djYXNlJyk7CiAgfSk7CgogIHRlc3QoYHNob3VsZCByZW5kZXIgdGl0bGVgLCAoKSA9PiB7CiAgICBjb25zdCBmaXh0dXJlID0gVGVzdEJlZC5jcmVhdGVDb21wb25lbnQoQXBwQ29tcG9uZW50KTsKICAgIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwogICAgY29uc3QgY29tcGlsZWQgPSBmaXh0dXJlLm5hdGl2ZUVsZW1lbnQ7CiAgICBleHBlY3QoY29tcGlsZWQucXVlcnlTZWxlY3RvcignaDEnKS50ZXh0Q29udGVudCkudG9Db250YWluKAogICAgICAnV2VsY29tZSB0byBzaG93Y2FzZSEnLAogICAgKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>should create the app</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>''</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>should create the app</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -374,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>built-libs</last-search>
+      <last-search>prefixChildren</last-search>
       <last-offset />
-      <last-pattern>built-libs</last-pattern>
+      <last-pattern>prefixChildren</last-pattern>
       <last-replace>@nrwl\/workspace:run-commands</last-replace>
       <last-substitute>@angular-devkit\/build-angular:tslint</last-substitute>
       <last-dir>1</last-dir>
