@@ -161,6 +161,12 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="36" column="9" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/coverage-upload.sh" timestamp="1591191224261">
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="33" column="44" />
+        <mark key="^" line="33" column="46" />
+        <mark key="." line="33" column="44" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591126803896">
         <mark key="'" line="43" column="41" />
         <mark key="[" line="171" column="21" />
@@ -319,14 +325,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+      <register name="*" type="4">
+        <text>-</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tY29uZmlnICdhcHBzL3Nob3djYXNlLXVpL2plc3QuY29uZmlnLmpzJw==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>prefixChildren</text>
