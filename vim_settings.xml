@@ -154,7 +154,7 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="36" column="9" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/coverage-upload.sh" timestamp="1591191817200">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/coverage-upload.sh" timestamp="1591197245165">
         <mark key="[" line="33" column="44" />
         <mark key="]" line="33" column="44" />
         <mark key="^" line="33" column="46" />
@@ -212,7 +212,7 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" timestamp="1591126141228">
         <mark key="'" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591190428507">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591197225237">
         <mark key="'" line="78" column="15" />
       </file>
     </filemarks>
@@ -379,7 +379,7 @@
       <last-replace>@nrwl\/workspace:run-commands</last-replace>
       <last-substitute>@angular-devkit\/build-angular:tslint</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
