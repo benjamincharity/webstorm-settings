@@ -147,12 +147,12 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591199702642">
-        <mark key="'" line="86" column="22" />
-        <mark key="[" line="133" column="18" />
-        <mark key="]" line="133" column="64" />
-        <mark key="." line="133" column="18" />
-        <mark key="^" line="89" column="40" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591200810704">
+        <mark key="'" line="67" column="22" />
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="55" column="36" />
+        <mark key="." line="55" column="35" />
+        <mark key="^" line="55" column="36" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/jest.config.js" timestamp="1591194864196">
         <mark key="[" line="1" column="0" />
@@ -329,46 +329,47 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>nx affected:test --base=origin/master --head=${{ github.event.pull_request.head.ref }} --codeCoverage</text>
+        <text>build</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>nx affected:test --base=origin/master --head=${{ github.event.pull_request.head.ref }} --codeCoverage</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>upload-artifact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW46IHlhcm4gbnggYWZmZWN0ZWQ6dGVzdCAtLWJhc2U9b3JpZ2luL21hc3RlciAtLWhlYWQ9JHt7IGdpdGh1Yi5ldmVudC5wdWxsX3JlcXVlc3QuaGVhZC5yZWYgfX0gLS1jb2RlQ292ZXJhZ2UK</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDYWNoZSBub2RlIG1vZHVsZXMKICAgICAgICBpZDogY2FjaGVfbm9kZV9tb2R1bGVzCiAgICAgICAgdXNlczogYWN0aW9ucy9jYWNoZUB2MgogICAgICAgIGVudjoKICAgICAgICAgIGNhY2hlLW5hbWU6IGNhY2hlLW5vZGUtbW9kdWxlcwogICAgICAgIHdpdGg6CiAgICAgICAgICBwYXRoOiAke3sgc3RlcHMueWFybi1jYWNoZS1kaXItcGF0aC5vdXRwdXRzLmRpciB9fQogICAgICAgICAga2V5OiAke3sgcnVubmVyLm9zIH19LWJ1aWxkLSR7eyBlbnYuY2FjaGUtbmFtZSB9fS0ke3sgaGFzaEZpbGVzKCcqKi95YXJuLmxvY2snKSB9fQogICAgICAgICAgcmVzdG9yZS1rZXlzOiB8CiAgICAgICAgICAgICR7eyBydW5uZXIub3MgfX0tYnVpbGQtJHt7IGVudi5jYWNoZS1uYW1lIH19LQogICAgICAgICAgICAke3sgcnVubmVyLm9zIH19LWJ1aWxkLQogICAgICAgICAgICAke3sgcnVubmVyLm9zIH19LQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="8">
+        <text>build
+build</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIC0gbmFtZTogVXBsb2FkIC5kbWcgZmlsZSAoaWYgYW55IGV4aXN0cykKICAgICAgICBpZjogJHt7IHJ1bm5lci5vcyA9PSAnbWFjT1MnIH19CiAgICAgICAgdXNlczogYWN0aW9ucy91cGxvYWQtYXJ0aWZhY3RAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogJHt7IG1hdHJpeC5vcyB9fS5kbWcKICAgICAgICAgIHBhdGg6IGJ1aWxkLyouZG1nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGg6IG5vZGVfbW9kdWxlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiMgICAgICAtIG5hbWU6IENIRUNLIGZvciBOWCBjYWNoZQojICAgICAgICBydW46IHwKIyAgICAgICAgICBpZiBbIC1kICJub2RlX21vZHVsZXMvLmNhY2hlL254IiBdOyB0aGVuCiMgICAgICAgICAgICAjIFdpbGwgZW50ZXIgaGVyZSBpZiAkRElSRUNUT1JZIGV4aXN0cywgZXZlbiBpZiBpdCBjb250YWlucyBzcGFjZXMKIyAgICAgICAgICBmaQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgIyBPTEQgY2FjaGUgY29kZQojICAgICAgLSBuYW1lOiBDYWNoZSBub2RlX21vZHVsZXMKIyAgICAgICAgaWQ6IGNhY2hlX25vZGVfbW9kdWxlcwojICAgICAgICB1c2VzOiBhY3Rpb25zL2NhY2hlQHYxCiMgICAgICAgIHdpdGg6CiMgICAgICAgICAgcGF0aDogbm9kZV9tb2R1bGVzCiMgICAgICAgICAga2V5OiAke3sgcnVubmVyLm9zIH19LW5vZGUtJHt7IGhhc2hGaWxlcygnKioveWFybi5sb2NrJykgfX0KIyAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgIC0gbmFtZTogVXBsb2FkIC5kbWcgZmlsZSAoaWYgYW55IGV4aXN0cykKICAgICAgICBpZjogJHt7IHJ1bm5lci5vcyA9PSAnbWFjT1MnIH19CiAgICAgICAgdXNlczogYWN0aW9ucy91cGxvYWQtYXJ0aWZhY3RAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogJHt7IG1hdHJpeC5vcyB9fS5kbWcKICAgICAgICAgIHBhdGg6IGJ1aWxkLyouZG1nCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
