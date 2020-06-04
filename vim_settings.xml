@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ghp</entry>
-        <entry>build</entry>
         <entry>built-</entry>
         <entry>implicit</entry>
         <entry>budget</entry>
@@ -25,6 +23,8 @@
         <entry>base</entry>
         <entry>yarn run semantic</entry>
         <entry>npx semantic-release</entry>
+        <entry>tokens</entry>
+        <entry>design-tokens</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-tabs/g</entry>
@@ -133,10 +133,12 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591279028211">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591282238812">
         <mark key="'" line="50" column="22" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="20" column="84" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="123" />
+        <mark key="^" line="332" column="53" />
+        <mark key="." line="332" column="50" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/jest.config.js" timestamp="1591232003460">
         <mark key="[" line="27" column="29" />
@@ -209,12 +211,12 @@
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="43" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591279196398">
-        <mark key="'" line="3041" column="14" />
-        <mark key="[" line="621" column="50" />
-        <mark key="]" line="621" column="66" />
-        <mark key="^" line="238" column="52" />
-        <mark key="." line="238" column="52" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591282672579">
+        <mark key="'" line="110" column="35" />
+        <mark key="[" line="441" column="74" />
+        <mark key="]" line="441" column="74" />
+        <mark key="^" line="441" column="74" />
+        <mark key="." line="441" column="73" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1591226714568">
         <mark key="'" line="55" column="7" />
@@ -225,37 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="93" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="112" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="124" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="14" column="60" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="30" column="103" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="182" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="177" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="16" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="4" column="66" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="24" column="231" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="154" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="25" column="239" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="157" column="77" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="355" column="103" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="64" column="256" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="72" column="123" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="180" column="82" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="69" column="110" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="104" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="70" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="186" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="15" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="128" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="70" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="2266" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="2216" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="2165" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="2114" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1961" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1910" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1859" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -325,6 +296,37 @@
       <jump line="184" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="3041" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="26" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="3030" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="3" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="10" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="11" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="17" column="46" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="18" column="36" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="19" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="20" column="40" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="21" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="24" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="25" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="28" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="31" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="35" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="38" column="44" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="39" column="41" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="56" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="60" column="41" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="67" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="74" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="75" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="79" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="82" column="60" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="89" column="41" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="90" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="92" column="40" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="98" column="59" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="99" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="108" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="109" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="110" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,19 +335,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>terminus-oss</text>
+        <text encoding="base64">ICYmIGdpdCBmZXRjaCAtLXRhZ3M=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>terminus-oss</text>
+        <text encoding="base64">ICYmIGdpdCBmZXRjaCAtLXRhZ3M=</text>
       </register>
       <register name="/" type="4">
-        <text>npx semantic-release</text>
+        <text>design-tokens</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgICAgd2l0aDoKICAgICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKICAgICAgICAgIHRva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgcGF0aDogL2hvbWUvcnVubmVyL3dvcmsvdGVybWludXMtdWkvdGVybWludXMtdWkvdWktZGVtb3MtcmVsZWFzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogIihjZCBsaWJzL2Rlc2lnbi10b2tlbnMgJiYgbnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIC0tdGFncykiIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyA0KSBidWlsZCBkZW1vcwojIDUpIHB1Ymxpc2ggbGlicmFyeQojIDYpIGdlbmVyYXRlIGRvY3MKIyA3KSBkZXBsb3kgZG9jcwojIDgpIGRlcGxveSBkZW1vcwo=</text>
@@ -381,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>npx semantic-release</last-search>
+      <last-search>design-tokens</last-search>
       <last-offset />
-      <last-pattern>npx semantic-release</last-pattern>
+      <last-pattern>design-tokens</last-pattern>
       <last-replace encoding="base64">bnB4IHNlbWFudGljLXJlbGVhc2UgXCZcJiBnaXQgZmV0Y2ggLS10YWdz</last-replace>
       <last-substitute>npx semantic-release</last-substitute>
       <last-dir>1</last-dir>
