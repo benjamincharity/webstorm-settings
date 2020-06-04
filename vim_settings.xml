@@ -27,10 +27,6 @@
         <entry>codecov-badge</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ui-button/ui-search/g</entry>
-        <entry>%s/ui-button/ui-select/g</entry>
-        <entry>%s/ui-button/ui-selection-list/g</entry>
-        <entry>%s/ui-button/ui-sort/g</entry>
         <entry>%s/ui-button/ui-spacing/g</entry>
         <entry>%s/ui-button/ui-styles/g</entry>
         <entry>%s/ui-button/ui-table/g</entry>
@@ -47,6 +43,10 @@
         <entry>wa</entry>
         <entry>noh</entry>
         <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5BbGlnbiA6</entry>
+        <entry encoding="base64">JzwsJz5BbGlnbiBcOg==</entry>
+        <entry encoding="base64">JzwsJz5BbGlnbiA=</entry>
+        <entry encoding="base64">JzwsJz5BbGlnbiAtLWhlbHA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,6 +116,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" timestamp="1591231510389">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="36" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" timestamp="1591224587445">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="2" column="24" />
@@ -167,19 +171,16 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="64" column="8" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1591230807834">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="102" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1591230849961">
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="114" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591230826280">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591231234064">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="166" column="74" />
-        <mark key="]" line="166" column="80" />
-        <mark key="." line="166" column="79" />
-        <mark key="^" line="166" column="80" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/nxdeps.json" timestamp="1591192572481">
-        <mark key="'" line="0" column="0" />
+        <mark key="[" line="153" column="4" />
+        <mark key="]" line="153" column="5" />
+        <mark key="." line="153" column="4" />
+        <mark key="^" line="153" column="5" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/testing/package.json" timestamp="1591227127910">
         <mark key="[" line="9" column="74" />
@@ -208,12 +209,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591229756004">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591231517874">
         <mark key="'" line="127" column="10" />
-        <mark key="[" line="102" column="22" />
-        <mark key="]" line="102" column="27" />
-        <mark key="." line="102" column="26" />
-        <mark key="^" line="102" column="27" />
+        <mark key="[" line="100" column="21" />
+        <mark key="]" line="100" column="36" />
+        <mark key="." line="100" column="35" />
+        <mark key="^" line="100" column="36" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1591226714568">
         <mark key="'" line="55" column="7" />
@@ -338,46 +339,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>release</text>
+        <text>Benjamin Charity</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>release</text>
+        <text>Benjamin Charity</text>
       </register>
       <register name="/" type="4">
         <text>codecov-badge</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W2NvZGVjb3YtYmFkZ2VdOiAgICAgICAgICBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtdWkvYnJhbmNoL3JlbGVhc2UvZ3JhcGgvYmFkZ2Uuc3ZnCg==</text>
+      <register name="0" type="4">
+        <text>terminus-devops</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3NlbWFudGljLXJlbGVhc2UtYmFkZ2VdOiBodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLyUyMCUyMCVGMCU5RiU5MyVBNiVGMCU5RiU5QSU4MC1zZW1hbnRpYy0tcmVsZWFzZS1lMTAwNzkuc3ZnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W2NpcmNsZS1saW5rXTogICAgICBodHRwczovL2NpcmNsZWNpLmNvbS9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvdHJlZS9tYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WyFbQ2lyY2xlQ0ldW2NpcmNsZS1iYWRnZV1dW2NpcmNsZS1saW5rXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICFbUmVsZWFzZSBDSV1bYmFkZ2UtcmVsZWFzZV0K</text>
+        <text encoding="base64">W2NpcmNsZS1saW5rXTogICAgICBodHRwczovL2NpcmNsZWNpLmNvbS9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvdHJlZS9tYXN0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIvLy8vLy8vLy8vIFNlY3Rpb246IFJlbGVhc2UiOiAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IiwKICAgICJkZXBsb3ktdG9rZW5zLXNob3djYXNlIjogIm5nIHJ1biBzaG93Y2FzZS10b2tlbnM6ZGVwbG95IC0tcmVwbz1odHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvZGVzaWduLXRva2Vucy5naXQgLS1uYW1lPVwiYmVuamFtaW5jaGFyaXR5XCIgLS1lbWFpbD1cImJlbkBiZW5qYW1pbmNoYXJpdHkuY29tXCIgLS1kcnktcnVuIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICJkZXBsb3ktcGFnZXMiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJhbmd1bGFyLWNsaS1naHBhZ2VzOmRlcGxveSIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInJlcG8iOiAiaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL2Rlc2lnbi10b2tlbnMuZ2l0IiwKICAgICAgICAgICAgImJhc2VIcmVmIjogIi9kZXNpZ24tdG9rZW5zLyIsCiAgICAgICAgICAgICJuYW1lIjogIkJlbmphbWluIENoYXJpdHkiLAogICAgICAgICAgICAiZW1haWwiOiAiYmVuQGJlbmphbWluY2hhcml0eS5jb20iLAogICAgICAgICAgICAiZHJ5UnVuIjogdHJ1ZSwKICAgICAgICAgICAgIm5vU2lsZW50IjogdHJ1ZQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">WyFbQ2lyY2xlQ0ldW2NpcmNsZS1iYWRnZV1dW2NpcmNsZS1saW5rXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJidWlsZGVyIjogIkBucndsL3dvcmtzcGFjZTpydW4tY29tbWFuZHMiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGRlcGxveS10b2tlbnMtc2hvd2Nhc2UiIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICFbUmVsZWFzZSBDSV1bYmFkZ2UtcmVsZWFzZV0K</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>

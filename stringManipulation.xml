@@ -1,85 +1,14 @@
 <application>
   <component name="StringManipulationState">
-    <option name="history">
+    <option name="columnAlignerHistory">
       <list>
         <ColumnAlignerModel>
-          <option name="added" value="1566226130476" />
+          <option name="added" value="1591231230329" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="1" />
           <option name="separators">
             <list>
-              <option value=":" />
-              <option value="" />
-            </list>
-          </option>
-          <option name="spaceBeforeSeparator" value="false" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1566226147406" />
-          <option name="separators">
-            <list>
-              <option value=":" />
-              <option value="" />
-            </list>
-          </option>
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1566781093407" />
-          <option name="separators">
-            <list>
-              <option value="#" />
-              <option value="" />
-            </list>
-          </option>
-          <option name="spaceAfterSeparator" value="false" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1566781873551" />
-          <option name="separators">
-            <list>
-              <option value="#" />
-              <option value="" />
-            </list>
-          </option>
-          <option name="spaceAfterSeparator" value="false" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1566781906876" />
-          <option name="alignBy" value="VALUES" />
-          <option name="separators">
-            <list>
-              <option value=":" />
-              <option value="" />
-            </list>
-          </option>
-          <option name="spaceBeforeSeparator" value="false" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1566857545991" />
-          <option name="alignBy" value="VALUES" />
-          <option name="separators">
-            <list>
-              <option value=":" />
-              <option value="" />
-            </list>
-          </option>
-          <option name="spaceBeforeSeparator" value="false" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1567629595992" />
-          <option name="alignBy" value="VALUES" />
-          <option name="separators">
-            <list>
-              <option value=":" />
-              <option value="" />
-            </list>
-          </option>
-          <option name="spaceBeforeSeparator" value="false" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1584724607121" />
-          <option name="alignBy" value="VALUES" />
-          <option name="separators">
-            <list>
-              <option value=":" />
+              <option value=" " />
               <option value="" />
             </list>
           </option>
