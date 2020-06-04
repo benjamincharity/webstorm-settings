@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>restore</entry>
         <entry>nx</entry>
         <entry>output</entry>
@@ -25,6 +24,7 @@
         <entry>budget</entry>
         <entry>repo</entry>
         <entry>command</entry>
+        <entry>codecov-badge</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-search/g</entry>
@@ -43,10 +43,10 @@
         <entry>%s/-docs]/]/g</entry>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl/workspace:run-commands/g</entry>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoSymbol</entry>
         <entry>wa</entry>
         <entry>noh</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,7 +167,17 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="64" column="8" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591207266497" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1591230807834">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="102" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591230826280">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="166" column="74" />
+        <mark key="]" line="166" column="80" />
+        <mark key="." line="166" column="79" />
+        <mark key="^" line="166" column="80" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/nxdeps.json" timestamp="1591192572481">
         <mark key="'" line="0" column="0" />
       </file>
@@ -220,14 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="46" column="8" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-pr.yml" />
-      <jump line="52" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="180" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="143" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="56" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="57" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="75" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="89" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="124" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="186" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
@@ -320,6 +322,14 @@
       <jump line="93" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="112" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="124" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="14" column="60" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="30" column="103" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="182" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="177" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="16" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="175" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="4" column="66" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,62 +337,62 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICIvLy8vLy8vLy8vIFNlY3Rpb246IFJlbGVhc2UiOiAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IiwKICAgICJkZXBsb3ktdG9rZW5zLXNob3djYXNlIjogIm5nIHJ1biBzaG93Y2FzZS10b2tlbnM6ZGVwbG95IC0tcmVwbz1odHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvZGVzaWduLXRva2Vucy5naXQgLS1uYW1lPVwiYmVuamFtaW5jaGFyaXR5XCIgLS1lbWFpbD1cImJlbkBiZW5qYW1pbmNoYXJpdHkuY29tXCIgLS1kcnktcnVuIgo=</text>
+      <register name="*" type="4">
+        <text>release</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
-        <text>command</text>
+        <text>codecov-badge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJhc2VIcmVmIjogIi9kZXNpZ24tdG9rZW5zLyIsCg==</text>
+        <text encoding="base64">W2NvZGVjb3YtYmFkZ2VdOiAgICAgICAgICBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtdWkvYnJhbmNoL3JlbGVhc2UvZ3JhcGgvYmFkZ2Uuc3ZnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIvLy8vLy8vLy8vIFNlY3Rpb246IFJlbGVhc2UiOiAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IiwKICAgICJkZXBsb3ktdG9rZW5zLXNob3djYXNlIjogIm5nIHJ1biBzaG93Y2FzZS10b2tlbnM6ZGVwbG95IC0tcmVwbz1odHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvZGVzaWduLXRva2Vucy5naXQgLS1uYW1lPVwiYmVuamFtaW5jaGFyaXR5XCIgLS1lbWFpbD1cImJlbkBiZW5qYW1pbmNoYXJpdHkuY29tXCIgLS1kcnktcnVuIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICJkZXBsb3ktcGFnZXMiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJhbmd1bGFyLWNsaS1naHBhZ2VzOmRlcGxveSIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInJlcG8iOiAiaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL2Rlc2lnbi10b2tlbnMuZ2l0IiwKICAgICAgICAgICAgImJhc2VIcmVmIjogIi9kZXNpZ24tdG9rZW5zLyIsCiAgICAgICAgICAgICJuYW1lIjogIkJlbmphbWluIENoYXJpdHkiLAogICAgICAgICAgICAiZW1haWwiOiAiYmVuQGJlbmphbWluY2hhcml0eS5jb20iLAogICAgICAgICAgICAiZHJ5UnVuIjogdHJ1ZSwKICAgICAgICAgICAgIm5vU2lsZW50IjogdHJ1ZQogICAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJidWlsZGVyIjogIkBucndsL3dvcmtzcGFjZTpydW4tY29tbWFuZHMiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGRlcGxveS10b2tlbnMtc2hvd2Nhc2UiIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRzQ29uZmlnIjogWwogICAgICAgICAgICAgICJhcHBzL3Nob3djYXNlLXRva2Vucy1lMmUvdHNjb25maWcuZTJlLmpzb24iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJleGNsdWRlIjogWwogICAgICAgICAgICAgICIqKi9ub2RlX21vZHVsZXMvKioiLAogICAgICAgICAgICAgICIhYXBwcy9zaG93Y2FzZS10b2tlbnMtZTJlLyoqIgogICAgICAgICAgICBdLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">W2NpcmNsZS1saW5rXTogICAgICBodHRwczovL2NpcmNsZWNpLmNvbS9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvdHJlZS9tYXN0ZXIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">WyFbQ2lyY2xlQ0ldW2NpcmNsZS1iYWRnZV1dW2NpcmNsZS1saW5rXQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIC0gbmFtZTogRGVwbG95IGFmZmVjdGVkIHByb2plY3RzCiAgICAgICAgcnVuOiB5YXJuIG54IGFmZmVjdGVkIC0tdGFyZ2V0PWRlcGxveSAtLWJhc2U9b3JpZ2luL21hc3RlcgogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScK</text>
+        <text encoding="base64">ICFbUmVsZWFzZSBDSV1bYmFkZ2UtcmVsZWFzZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiYnVkZ2V0cyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgInR5cGUiOiAiaW5pdGlhbCIsCiAgICAgICAgICAgICAgICAgICJtYXhpbXVtV2FybmluZyI6ICIybWIiLAogICAgICAgICAgICAgICAgICAibWF4aW11bUVycm9yIjogIjVtYiIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICJ0eXBlIjogImFueUNvbXBvbmVudFN0eWxlIiwKICAgICAgICAgICAgICAgICAgIm1heGltdW1XYXJuaW5nIjogIjYwa2IiLAogICAgICAgICAgICAgICAgICAibWF4aW11bUVycm9yIjogIjEwMGtiIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICIvLy8vLy8vLy8vIFNlY3Rpb246IFJlbGVhc2UiOiAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IiwKICAgICJkZXBsb3ktdG9rZW5zLXNob3djYXNlIjogIm5nIHJ1biBzaG93Y2FzZS10b2tlbnM6ZGVwbG95IC0tcmVwbz1odHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvZGVzaWduLXRva2Vucy5naXQgLS1uYW1lPVwiYmVuamFtaW5jaGFyaXR5XCIgLS1lbWFpbD1cImJlbkBiZW5qYW1pbmNoYXJpdHkuY29tXCIgLS1kcnktcnVuIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiYnVkZ2V0cyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgInR5cGUiOiAiaW5pdGlhbCIsCiAgICAgICAgICAgICAgICAgICJtYXhpbXVtV2FybmluZyI6ICIybWIiLAogICAgICAgICAgICAgICAgICAibWF4aW11bUVycm9yIjogIjVtYiIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICJ0eXBlIjogImFueUNvbXBvbmVudFN0eWxlIiwKICAgICAgICAgICAgICAgICAgIm1heGltdW1XYXJuaW5nIjogIjYwa2IiLAogICAgICAgICAgICAgICAgICAibWF4aW11bUVycm9yIjogIjEwMGtiIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICJkZXBsb3ktcGFnZXMiOiB7CiAgICAgICAgICAiYnVpbGRlciI6ICJhbmd1bGFyLWNsaS1naHBhZ2VzOmRlcGxveSIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInJlcG8iOiAiaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL2Rlc2lnbi10b2tlbnMuZ2l0IiwKICAgICAgICAgICAgImJhc2VIcmVmIjogIi9kZXNpZ24tdG9rZW5zLyIsCiAgICAgICAgICAgICJuYW1lIjogIkJlbmphbWluIENoYXJpdHkiLAogICAgICAgICAgICAiZW1haWwiOiAiYmVuQGJlbmphbWluY2hhcml0eS5jb20iLAogICAgICAgICAgICAiZHJ5UnVuIjogdHJ1ZSwKICAgICAgICAgICAgIm5vU2lsZW50IjogdHJ1ZQogICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiYnVkZ2V0cyI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgInR5cGUiOiAiaW5pdGlhbCIsCiAgICAgICAgICAgICAgICAgICJtYXhpbXVtV2FybmluZyI6ICIybWIiLAogICAgICAgICAgICAgICAgICAibWF4aW11bUVycm9yIjogIjVtYiIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICJ0eXBlIjogImFueUNvbXBvbmVudFN0eWxlIiwKICAgICAgICAgICAgICAgICAgIm1heGltdW1XYXJuaW5nIjogIjYwa2IiLAogICAgICAgICAgICAgICAgICAibWF4aW11bUVycm9yIjogIjEwMGtiIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICJidWlsZGVyIjogIkBucndsL3dvcmtzcGFjZTpydW4tY29tbWFuZHMiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgICB7ICJjb21tYW5kIjogInlhcm4gcnVuIGRlcGxveS10b2tlbnMtc2hvd2Nhc2UiIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>command</last-search>
+      <last-search>codecov-badge</last-search>
       <last-offset />
-      <last-pattern>command</last-pattern>
+      <last-pattern>codecov-badge</last-pattern>
       <last-replace>@nrwl\/workspace:run-commands</last-replace>
       <last-substitute>@angular-devkit\/build-angular:tslint</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
