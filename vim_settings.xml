@@ -148,12 +148,12 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="148" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591279081012">
-        <mark key="'" line="184" column="10" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="78" />
-        <mark key="." line="7" column="77" />
-        <mark key="^" line="7" column="78" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591281636446">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="180" column="58" />
+        <mark key="]" line="180" column="59" />
+        <mark key="." line="180" column="58" />
+        <mark key="^" line="180" column="59" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1591236702549">
         <mark key="[" line="326" column="0" />
@@ -172,11 +172,11 @@
         <mark key="." line="9" column="75" />
         <mark key="^" line="9" column="82" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/demos-deploy.sh" timestamp="1591238523612">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/demos-deploy.sh" timestamp="1591281702248">
         <mark key="'" line="28" column="9" />
-        <mark key="[" line="41" column="36" />
-        <mark key="]" line="41" column="36" />
-        <mark key="." line="41" column="36" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
         <mark key="^" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/package.json" timestamp="1591235551375">
@@ -197,10 +197,11 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" timestamp="1591240860304">
         <mark key="'" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1591236110007">
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1591281582348">
         <mark key="'" line="19" column="15" />
-        <mark key="[" line="312" column="16" />
-        <mark key="]" line="312" column="73" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="312" column="74" />
+        <mark key="m" line="307" column="32" />
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="24" />
       </file>
@@ -313,7 +314,6 @@
       <jump line="28" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="71" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="73" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="26" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="107" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="23" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
@@ -324,6 +324,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="184" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="3041" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="26" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,20 +332,20 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">IyA0KSBidWlsZCBkZW1vcwojIDUpIHB1Ymxpc2ggbGlicmFyeQojIDYpIGdlbmVyYXRlIGRvY3MKIyA3KSBkZXBsb3kgZG9jcwojIDgpIGRlcGxveSBkZW1vcwo=</text>
+      <register name="*" type="4">
+        <text>terminus-oss</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>lint all files</text>
+        <text>terminus-oss</text>
       </register>
       <register name="/" type="4">
         <text>npx semantic-release</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjCiAgIyBDYW5jZWwgYW55IHdvcmtmbG93cyB0aGF0IHdvdWxkIGJlIGR1cGxpY2F0ZWQgYnkgdGhpcyBydW4KICAjCiAgY2xlYW51cC1ydW5zOgogICAgbmFtZTogQ2FuY2VsIER1cGxpY2F0ZXMKICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgICAtIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgcmVmOiAke3sgZ2l0aHViLmV2ZW50LnB1bGxfcmVxdWVzdC5oZWFkLnJlZiB9fQogICAgICAgICAgZmV0Y2gtZGVwdGg6IDAKICAgICAgLSBydW46IHwKICAgICAgICAgIGdpdCBmZXRjaCAtLW5vLXRhZ3MgLS1wcnVuZSAtLWRlcHRoPTUgb3JpZ2luIG1hc3RlcgogICAgICAtIHVzZXM6IHJva3Jvc2thci93b3JrZmxvdy1ydW4tY2xlYW51cC1hY3Rpb25AbWFzdGVyCiAgICAgICAgZW52OgogICAgICAgICAgR0lUSFVCX1RPS0VOOiAiJHt7IHNlY3JldHMuR0hfVE9LRU4gfX0iCiAgICBpZjogIiFzdGFydHNXaXRoKGdpdGh1Yi5yZWYsICdyZWZzL3RhZ3MvJykgJiYgZ2l0aHViLnJlZiAhPSAncmVmcy9oZWFkcy9tYXN0ZXInIgo=</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCB1aS1kZW1vcy1yZWxlYXNlIHJlcG8KICAgICAgICB1c2VzOiBhY3Rpb25zL2NoZWNrb3V0QHYyCiAgICAgICAgd2l0aDoKICAgICAgICAgIHJlcG9zaXRvcnk6IEdldFRlcm1pbnVzL3VpLWRlbW9zLXJlbGVhc2UKICAgICAgICAgIHRva2VuOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgICAgcGF0aDogL2hvbWUvcnVubmVyL3dvcmsvdGVybWludXMtdWkvdGVybWludXMtdWkvdWktZGVtb3MtcmVsZWFzZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyA0KSBidWlsZCBkZW1vcwojIDUpIHB1Ymxpc2ggbGlicmFyeQojIDYpIGdlbmVyYXRlIGRvY3MKIyA3KSBkZXBsb3kgZG9jcwojIDgpIGRlcGxveSBkZW1vcwo=</text>
