@@ -43,10 +43,10 @@
         <entry encoding="base64">JzwsJz5BbGlnbiBcOg==</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiA=</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiAtLWhlbHA=</entry>
-        <entry>noh</entry>
         <entry>%s/yarn run semantic/npx semantic/g</entry>
         <entry encoding="base64">JXMvbnB4IHNlbWFudGljLXJlbGVhc2UvbnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIC0tdGFncy9n</entry>
         <entry encoding="base64">JXMvbnB4IHNlbWFudGljLXJlbGVhc2UvbnB4IHNlbWFudGljLXJlbGVhc2UgXCZcJiBnaXQgZmV0Y2ggLS10YWdzL2c=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,22 +116,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" timestamp="1591231607464">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="41" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/release.config.js" timestamp="1591290735665">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591273429522">
-        <mark key="'" line="70" column="35" />
-        <mark key="[" line="84" column="100" />
-        <mark key="]" line="84" column="99" />
-        <mark key="." line="84" column="98" />
-        <mark key="^" line="84" column="99" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591290997204">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591290978777">
+        <mark key="'" line="34" column="34" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="103" column="4" />
+        <mark key="." line="101" column="21" />
+        <mark key="^" line="101" column="21" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/release-package.json" timestamp="1591235581129">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="3" />
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/package.json" timestamp="1591291004337">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591282238812">
         <mark key="'" line="50" column="22" />
@@ -168,12 +182,6 @@
         <mark key="." line="8" column="81" />
         <mark key="^" line="8" column="82" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/testing/package.json" timestamp="1591227127910">
-        <mark key="[" line="9" column="74" />
-        <mark key="]" line="9" column="75" />
-        <mark key="." line="9" column="75" />
-        <mark key="^" line="9" column="82" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/demos-deploy.sh" timestamp="1591281702248">
         <mark key="'" line="28" column="9" />
         <mark key="[" line="29" column="12" />
@@ -202,11 +210,11 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" timestamp="1591286303101">
-        <mark key="'" line="71" column="1" />
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="67" column="25" />
-        <mark key="." line="67" column="25" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" timestamp="1591289557867">
+        <mark key="'" line="66" column="1" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1591281582348">
         <mark key="'" line="19" column="15" />
@@ -227,16 +235,8 @@
         <mark key="^" line="103" column="29" />
         <mark key="." line="103" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1591226714568">
-        <mark key="'" line="55" column="7" />
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="43" column="4" />
-        <mark key="." line="43" column="3" />
-        <mark key="^" line="43" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1910" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1859" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1809" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1758" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -336,6 +336,7 @@
       <jump line="109" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="110" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="69" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" />
+      <jump line="34" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,49 +345,49 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICA2MDA6IHsgdmFsdWU6ICcjZjAwJyB9LAo=</text>
+        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJhY2Nlc3MiOiAicHVibGljIiwKICAgICJ0YWciOiAibmV4dCIKICB9LAo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>design-tokens</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA2MDA6IHsgdmFsdWU6ICcjZjAwJyB9LAo=</text>
+        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJhY2Nlc3MiOiAicHVibGljIiwKICAgICJ0YWciOiAibmV4dCIKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyA0KSBidWlsZCBkZW1vcwojIDUpIHB1Ymxpc2ggbGlicmFyeQojIDYpIGdlbmVyYXRlIGRvY3MKIyA3KSBkZXBsb3kgZG9jcwojIDgpIGRlcGxveSBkZW1vcwo=</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2g6IFsKICAgICAgLy8gJ0BzZW1hbnRpYy1yZWxlYXNlL25wbScsCiAgICAgIC8vIHsKICAgICAgLy8gICBwYXRoOiAnQHNlbWFudGljLXJlbGVhc2UvbnBtJywKICAgICAgLy8gICBwa2dSb290OiAnZGlzdC9saWJyYXJ5JywKICAgICAgLy8gfSwKICAgICAgLy8gewogICAgICAvLyAgIHBhdGg6ICdAc2VtYW50aWMtcmVsZWFzZS9naXRodWInLAogICAgICAvLyAgIGFzc2V0czogWwogICAgICAvLyAgICAgJ0NIQU5HRUxPRy5tZCcsCiAgICAgIC8vICAgXSwKICAgICAgLy8gICBucG1QdWJsaXNoOiBmYWxzZSwKICAgICAgLy8gfSwKICAgIF0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIvLy8vLy8vLyBTZWN0aW9uOiBSZWxlYXNlIjogIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIsCiAgICAic2VtYW50aWMtcmVsZWFzZSI6ICJzZW1hbnRpYy1yZWxlYXNlIgo=</text>
+        <text encoding="base64">ICBicmFuY2hlczogWwogICAgJ21hc3RlcicsCiAgXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICdyZWxlYXNlLXRva2VucycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBHZXQgc2hhIG9mIGxhc3QgdGFnCiAgICAgICAgaWQ6IGdldC1zaGEKICAgICAgICBydW46IHwKICAgICAgICAgIGxhdGVzdHRhZz0kKGdpdCBkZXNjcmliZSAtLWFiYnJldj0wKQogICAgICAgICAgZWNobyAiTGF0ZXN0IHRhZzogXCIke2xhdGVzdHRhZ31cIiIKICAgICAgICAgIGxhdGVzdHNoYT0kKGdpdCBzaG93LXJlZiAtcyAke2xhdGVzdHRhZ30pCiAgICAgICAgICBlY2hvICJMYXRlc3Qgc2hhOiBcIiR7bGF0ZXN0c2hhfVwiIgogICAgICAgICAgZWNobyAiOjpzZXQtb3V0cHV0IG5hbWU9bGF0ZXN0c2hhOjokbGF0ZXN0c2hhIgo=</text>
+        <text encoding="base64">ICAgICJzdHlsZXM6cmVsZWFzZSI6ICJ5YXJuIC0tY3dkIGxpYnMvdWkvc3R5bGVzIHJ1biBzZW1hbnRpYy1yZWxlYXNlIC1lIHNlbWFudGljLXJlbGVhc2UtbW9ub3JlcG8iLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZjogJHt7IGdpdGh1Yi5ldmVudC5wdWxsX3JlcXVlc3QuaGVhZC5yZWYgfX0K</text>
+        <text encoding="base64">ICAgICAgZmFrZVBhbGV0dGU6IHsKICAgICAgICA1MDA6IHsgdmFsdWU6ICcjZmYwJyB9LAogICAgICAgIDYwMDogeyB2YWx1ZTogJyNmMDAnIH0sCiAgICAgICAgNzAwOiB7IHZhbHVlOiAnIzAwMCcgfSwKICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCByZXBvCiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2Mgo=</text>
+        <text encoding="base64">IyA0KSBidWlsZCBkZW1vcwojIDUpIHB1Ymxpc2ggbGlicmFyeQojIDYpIGdlbmVyYXRlIGRvY3MKIyA3KSBkZXBsb3kgZG9jcwojIDgpIGRlcGxveSBkZW1vcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCByZXBvCg==</text>
+        <text encoding="base64">ICAgICIvLy8vLy8vLyBTZWN0aW9uOiBSZWxlYXNlIjogIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIsCiAgICAic2VtYW50aWMtcmVsZWFzZSI6ICJzZW1hbnRpYy1yZWxlYXNlIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdpdCBmZXRjaCAtLW5vLXRhZ3MgLS1wcnVuZSAtLWRlcHRoPTUgb3JpZ2luIG1hc3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="8">
-        <text>yarn-cache-dir-path</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBHZXQgc2hhIG9mIGxhc3QgdGFnCiAgICAgICAgaWQ6IGdldC1zaGEKICAgICAgICBydW46IHwKICAgICAgICAgIGxhdGVzdHRhZz0kKGdpdCBkZXNjcmliZSAtLWFiYnJldj0wKQogICAgICAgICAgZWNobyAiTGF0ZXN0IHRhZzogXCIke2xhdGVzdHRhZ31cIiIKICAgICAgICAgIGxhdGVzdHNoYT0kKGdpdCBzaG93LXJlZiAtcyAke2xhdGVzdHRhZ30pCiAgICAgICAgICBlY2hvICJMYXRlc3Qgc2hhOiBcIiR7bGF0ZXN0c2hhfVwiIgogICAgICAgICAgZWNobyAiOjpzZXQtb3V0cHV0IG5hbWU9bGF0ZXN0c2hhOjokbGF0ZXN0c2hhIgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvbnB4IHNlbWFudGljLXJlbGVhc2UvbnB4IHNlbWFudGljLXJlbGVhc2UgXCZcJiBnaXQgZmV0Y2ggLS10YWdzL2c=</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
@@ -398,7 +399,7 @@
       <last-replace encoding="base64">bnB4IHNlbWFudGljLXJlbGVhc2UgXCZcJiBnaXQgZmV0Y2ggLS10YWdz</last-replace>
       <last-substitute>npx semantic-release</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
