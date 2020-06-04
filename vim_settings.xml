@@ -145,16 +145,16 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/index.ts" timestamp="1591292273028">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/release.config.js" timestamp="1591305758937">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591296286277">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="27" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591305766312">
+        <mark key="'" line="52" column="7" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
         <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="26" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/utilities/src/lib/ui-utilities.module.ts" timestamp="1591295933690">
         <mark key="[" line="10" column="0" />
@@ -193,10 +193,11 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591299437675">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/service/validation-messages.service.ts" timestamp="1591292296622">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/service/validation-messages.service.ts" timestamp="1591305798393">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/components/components.component.html" timestamp="1591300473159">
         <mark key="[" line="12" column="0" />
@@ -225,10 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1605" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="1554" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="1452" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="1350" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1299" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1248" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="1197" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -325,6 +322,10 @@
       <jump line="321" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
       <jump line="238" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="2984" column="63" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="52" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
+      <jump line="69" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/service/validation-messages.service.ts" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/service/validation-messages.service.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/service/validation-messages.service.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,8 +333,8 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>mylib</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -345,34 +346,34 @@
         <text encoding="base64">bnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIFwtXC10YWdz</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogIihjZCBsaWJzL3VpL3ZhbGlkYXRvcnMgJiYgbnB4IHNlbWFudGljLXJlbGVhc2UpIiB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaXNoOiBbCiAgICB7CiAgICAgIHBhdGg6ICdAc2VtYW50aWMtcmVsZWFzZS9ucG0nLAogICAgICBucG1QdWJsaXNoOiB0cnVlLAogICAgICBwa2dSb290OiAnZGlzdC9saWJyYXJ5JywKICAgIH0sCiAgICB7CiAgICAgIHBhdGg6ICdAc2VtYW50aWMtcmVsZWFzZS9naXRodWInLAogICAgICBhc3NldHM6IFsKICAgICAgICAnQ0hBTkdFTE9HLm1kJywKICAgICAgXSwKICAgICAgbnBtUHVibGlzaDogZmFsc2UsCiAgICB9LAogIF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIHsgImNvbW1hbmQiOiAiKGNkIGxpYnMvdWkvdmFsaWRhdG9ycyAmJiBucHggc2VtYW50aWMtcmVsZWFzZSkiIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwa2dSb290OiAnZGlzdC9saWJyYXJ5JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdWlWZXJzaW9uID0gVUlfVkVSU0lPTjsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIHsgImNvbW1hbmQiOiAiKGNkIGxpYnMvdWkvdmFsaWRhdG9ycyAmJiBucHggc2VtYW50aWMtcmVsZWFzZSkiIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVkVSU0lPTiBhcyBVSV9WRVJTSU9OIH0gZnJvbSAnQHRlcm1pbnVzL3VpLXV0aWxpdGllcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICBAdGVybWludXMvdWk6CiAgICAgICAgPHN0cm9uZz57eyB1aVZlcnNpb24uZnVsbCB9fTwvc3Ryb25nPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBwdWJsaWMgdWlWZXJzaW9uID0gVUlfVkVSU0lPTjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tCgojIyA6cm90YXRpbmdfbGlnaHQ6IEFUVEVOVElPTjogVEhJUyBSRVBPIEhBUyBNT1ZFRCA6cm90YXRpbmdfbGlnaHQ6CgpXZSBoYXZlIG1vdmVkIHRvIHNlcGFyYXRlbHkgcHVibGlzaGVkIHBhY2thZ2VzIGZyb20gYSBtb25vcmVwby4gIAoKVGhpcyB3aWxsOgoKLSBwcm92aWRlIGNhY2hpbmcgdG8gdmFzdGx5IGltcHJvdmUgYnVpbGQgdGltZQotIHByb3ZpZGUgYmV0dGVyIGRlcGVuZGVuY3kgbWFuYWdlbWVudCBiZXR3ZWVuIHBhY2thZ2VzIChyZXF1aXJpbmcgbGVzcyBkb3dubG9hZHMgZm9yIHNvbWUgdXNlcnMpCi0gcHJvdmlkZSBhbiBlYXNpZXIgZGVidWdnaW5nIGVudmlyb25tZW50Ci0gZ2l2ZSB1cyB0aGUgb3B0aW9uIHRvIHN1cHBvcnQgbXVsdGlwbGUgZnJhbWV3b3JrcyAoc3VjaCBhcyBSZWFjdCBvciBXZWJDb21wb25lbnRzKQotIGdpdmUgdXMgYSBtYXR1cmUgdG9vbHNldCB0aGF0IHdlIGRvbid0IGhhdmUgdG8gbWFpbnRhaW4KLSBhbGxvdyBjb25zdW1lcnMgdG8gdXBkYXRlIHZhcmlvdXMgVUkgY29tcG9uZW50cyB3aXRob3V0IG9wdGluZyBpbiB0byBhbGwgY2hhbmdlcyBhY3Jvc3MgYWxsIGNvbXBvbmVudHMgYXQgb25jZQoKUGxlYXNlIHVwZGF0ZSBhbnkgYm9va21hcmtzIHRvIHBvaW50IHRvIHRoZSBuZXcgcmVwbzoKW2h0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3NdKGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MpCgpUaXBzIG9uIG1pZ3JhdGluZyB0byB0aGUgbmV3IHBhY2thZ2VzIGNhbiBiZSBmb3VuZCBpbiB0aGUKW25ldyBjaGFuZ2Vsb2ddKGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvYmxvYi9tYXN0ZXIvQ0hBTkdFTE9HLm1kKS4KCiMjIDpyb3RhdGluZ19saWdodDogCgotLS0K</text>
+        <text encoding="base64">aW1wb3J0IHsgVkVSU0lPTiBhcyBVSV9WRVJTSU9OIH0gZnJvbSAnQHRlcm1pbnVzL3VpLXV0aWxpdGllcyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W2dlbmVyYXRvcl06ICAgICAgICAgICAgICAgICBodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvZ2VuZXJhdG9yLXRlcm1pbnVzLXVpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvbnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIFwtXC10YWdzL25weCBzZW1hbnRpYy1yZWxlYXNlL2c=</text>
