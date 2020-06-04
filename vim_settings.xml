@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>restore</entry>
         <entry>nx</entry>
         <entry>output</entry>
         <entry>upload-artifact</entry>
@@ -25,6 +24,7 @@
         <entry>repo</entry>
         <entry>command</entry>
         <entry>codecov-badge</entry>
+        <entry encoding="base64">XDxjb2RlY292XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-spacing/g</entry>
@@ -41,12 +41,12 @@
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</entry>
         <entry>action GotoSymbol</entry>
         <entry>wa</entry>
-        <entry>noh</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiA6</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiBcOg==</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiA=</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiAtLWhlbHA=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,9 +116,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" timestamp="1591231510389">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="36" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/tooling/ci/demos-deploy.sh" timestamp="1591231607464">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" timestamp="1591224587445">
         <mark key="'" line="53" column="0" />
@@ -149,15 +149,16 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591228479854">
-        <mark key="'" line="370" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="100" column="36" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591232903630">
+        <mark key="'" line="372" column="0" />
+        <mark key="[" line="100" column="38" />
+        <mark key="]" line="100" column="38" />
+        <mark key="." line="100" column="38" />
+        <mark key="^" line="99" column="8" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/jest.config.js" timestamp="1591194864196">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/jest.config.js" timestamp="1591232003460">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="117" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/package.json" timestamp="1591228534139">
@@ -175,12 +176,12 @@
         <mark key="[" line="325" column="0" />
         <mark key="]" line="325" column="114" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591231234064">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="153" column="4" />
-        <mark key="]" line="153" column="5" />
-        <mark key="." line="153" column="4" />
-        <mark key="^" line="153" column="5" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591233154197">
+        <mark key="'" line="64" column="256" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="^" line="389" column="109" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/testing/package.json" timestamp="1591227127910">
         <mark key="[" line="9" column="74" />
@@ -209,7 +210,7 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591231517874">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591231819570">
         <mark key="'" line="127" column="10" />
         <mark key="[" line="100" column="21" />
         <mark key="]" line="100" column="36" />
@@ -231,13 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="124" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="186" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="134" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="193" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="70" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="123" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="201" column="90" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="227" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="265" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
@@ -331,6 +325,13 @@
       <jump line="175" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="4" column="66" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="24" column="231" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="154" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="25" column="239" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="157" column="77" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="355" column="103" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="64" column="256" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,62 +339,104 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>Benjamin Charity</text>
+      <register name="*" type="2">
+        <text encoding="base64">W2Nvdi1iYWRnZS1zdHlsZXNdOiBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtb3NzL2JyYW5jaC9tYXN0ZXIvZ3JhcGgvYmFkZ2Uuc3ZnP2ZsYWc9c3R5bGVzCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Benjamin Charity</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>codecov-badge</text>
+        <text encoding="base64">XDxjb2RlY292XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>terminus-devops</text>
+        <text>![codecov][cov-badge-card]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W2Nvdi1iYWRnZS1zdHlsZXNdOiBodHRwczovL2NvZGVjb3YuaW8vZ2gvR2V0VGVybWludXMvdGVybWludXMtb3NzL2JyYW5jaC9tYXN0ZXIvZ3JhcGgvYmFkZ2Uuc3ZnP2ZsYWc9c3R5bGVzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">W3NlbWFudGljLXJlbGVhc2UtYmFkZ2VdOiBodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLyUyMCUyMCVGMCU5RiU5MyVBNiVGMCU5RiU5QSU4MC1zZW1hbnRpYy0tcmVsZWFzZS1lMTAwNzkuc3ZnCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fCBiYWRnZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgU2VlIGBjaGlwYCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgW0RlbW9dW2RlbW8tY2hpcF0gICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFtMZWdhY3kgQ29kZV1bbGVnYWN5LXNyYy1jaGlwXSAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W2NpcmNsZS1saW5rXTogICAgICBodHRwczovL2NpcmNsZWNpLmNvbS9naC9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvdHJlZS9tYXN0ZXIK</text>
+        <text encoding="base64">W3NlbWFudGljLXJlbGVhc2UtYmFkZ2VdOiBodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLyUyMCUyMCVGMCU5RiU5MyVBNiVGMCU5RiU5QSU4MC1zZW1hbnRpYy0tcmVsZWFzZS1lMTAwNzkuc3ZnCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WyFbQ2lyY2xlQ0ldW2NpcmNsZS1iYWRnZV1dW2NpcmNsZS1saW5rXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICFbUmVsZWFzZSBDSV1bYmFkZ2UtcmVsZWFzZV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>codecov-badge</last-search>
+      <last-search encoding="base64">XDxjb2RlY292XD4=</last-search>
       <last-offset />
-      <last-pattern>codecov-badge</last-pattern>
+      <last-pattern encoding="base64">XDxjb2RlY292XD4=</last-pattern>
       <last-replace>@nrwl\/workspace:run-commands</last-replace>
       <last-substitute>@angular-devkit\/build-angular:tslint</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
