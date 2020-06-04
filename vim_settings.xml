@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>target</entry>
-        <entry>affected</entry>
-        <entry>cache</entry>
         <entry>cache_n</entry>
         <entry>ghp</entry>
         <entry>build</entry>
@@ -25,9 +22,11 @@
         <entry>needs</entry>
         <entry>list</entry>
         <entry>SHOULD</entry>
+        <entry encoding="base64">XDxmZXRjaFw+</entry>
+        <entry>base</entry>
+        <entry>yarn run semantic</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ui-button/ui-spacing/g</entry>
         <entry>%s/ui-button/ui-styles/g</entry>
         <entry>%s/ui-button/ui-table/g</entry>
         <entry>%s/ui-button/ui-tabs/g</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz5BbGlnbiA=</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiAtLWhlbHA=</entry>
         <entry>noh</entry>
+        <entry>%s/yarn run semantic/npx semantic/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -120,13 +120,7 @@
         <mark key="[" line="26" column="23" />
         <mark key="]" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" timestamp="1591224587445">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591236386296">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591273429522">
         <mark key="'" line="70" column="35" />
         <mark key="[" line="84" column="100" />
         <mark key="]" line="84" column="99" />
@@ -139,10 +133,10 @@
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591239579150">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591271285568">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="330" column="36" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="60" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/jest.config.js" timestamp="1591232003460">
         <mark key="[" line="27" column="29" />
@@ -154,12 +148,12 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="148" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591240578532">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="127" column="8" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591272629574">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="161" column="18" />
+        <mark key="]" line="161" column="45" />
+        <mark key="." line="161" column="44" />
+        <mark key="^" line="161" column="45" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/README.md" timestamp="1591236702549">
         <mark key="[" line="326" column="0" />
@@ -202,10 +196,6 @@
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" timestamp="1591240860304">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="66" column="7" />
-        <mark key="]" line="66" column="8" />
-        <mark key="." line="66" column="7" />
-        <mark key="^" line="66" column="8" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1591236110007">
         <mark key="'" line="19" column="15" />
@@ -214,10 +204,14 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591236064485">
-        <mark key="'" line="2590" column="28" />
-        <mark key="[" line="238" column="51" />
-        <mark key="]" line="238" column="52" />
+      <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1591273102881">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591273463087">
+        <mark key="'" line="621" column="50" />
+        <mark key="[" line="621" column="50" />
+        <mark key="]" line="621" column="66" />
         <mark key="^" line="238" column="52" />
         <mark key="." line="238" column="52" />
       </file>
@@ -230,14 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" />
-      <jump line="67" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/release.config.js" />
-      <jump line="44" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
-      <jump line="46" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
       <jump line="55" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
       <jump line="256" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="336" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -267,7 +253,6 @@
       <jump line="104" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="70" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="186" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="73" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="15" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="128" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="70" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -330,6 +315,15 @@
       <jump line="181" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="142" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="16" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" />
+      <jump line="28" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="71" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="73" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="26" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="107" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="130" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="621" column="50" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,59 +332,59 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>999</text>
+        <text>yarn run semantic</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>999</text>
+        <text>VisualRegression App</text>
       </register>
       <register name="/" type="4">
-        <text>SHOULD</text>
+        <text>yarn run semantic</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA1MDA6IHsgdmFsdWU6ICcjOTk5JyB9LAo=</text>
+      <register name="0" type="4">
+        <text>yarn run semantic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICIvLy8vLy8vLyBTZWN0aW9uOiBSZWxlYXNlIjogIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIsCiAgICAic2VtYW50aWMtcmVsZWFzZSI6ICJzZW1hbnRpYy1yZWxlYXNlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgIwogICMgUmVsZWFzZSBhZmZlY3RlZCBwYWNrYWdlcwogICMKICBhZmZlY3RlZF9yZWxlYXNlOgogICAgbmFtZTogUmVsZWFzZSBhZmZlY3RlZCBwYWNrYWdlcwogICAgbmVlZHM6IFthZmZlY3RlZF9idWlsZCwgYWZmZWN0ZWRfdGVzdCwgYWZmZWN0ZWRfbGludF0KICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgICAtIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjIKICAgICAgICB3aXRoOgogICAgICAgICAgcmVmOiAke3sgZ2l0aHViLmV2ZW50LnB1bGxfcmVxdWVzdC5oZWFkLnJlZiB9fQogICAgICAgICAgZmV0Y2gtZGVwdGg6IDAKICAgICAgLSBydW46IHwKICAgICAgICAgIGdpdCBmZXRjaCAtLW5vLXRhZ3MgLS1wcnVuZSAtLWRlcHRoPTUgb3JpZ2luIG1hc3RlcgogICAgICAtIG5hbWU6IFNldCB1cCBOb2RlCiAgICAgICAgdXNlczogYWN0aW9ucy9zZXR1cC1ub2RlQHYxCiAgICAgICAgd2l0aDoKICAgICAgICAgIG5vZGUtdmVyc2lvbjogMTIueAogICAgICAtIG5hbWU6IENhY2hlIE5PREUKICAgICAgICBpZDogY2FjaGVfbm9kZQogICAgICAgIHVzZXM6IGFjdGlvbnMvY2FjaGVAdjIKICAgICAgICBlbnY6CiAgICAgICAgICBjYWNoZS1uYW1lOiBjYWNoZS1ub2RlCiAgICAgICAgd2l0aDoKICAgICAgICAgIHBhdGg6IHwKICAgICAgICAgICAgKiovbm9kZV9tb2R1bGVzCiAgICAgICAgICBrZXk6ICR7eyBydW5uZXIub3MgfX0tbm9kZS0ke3sgZW52LmNhY2hlLW5hbWUgfX0tJHt7IGhhc2hGaWxlcygnKioveWFybi5sb2NrJykgfX0KICAgICAgICAgIHJlc3RvcmUta2V5czogfAogICAgICAgICAgICAke3sgcnVubmVyLm9zIH19LW5vZGUtJHt7IGVudi5jYWNoZS1uYW1lIH19LQogICAgICAgICAgICAke3sgcnVubmVyLm9zIH19LW5vZGUtCiAgICAgICAgICAgICR7eyBydW5uZXIub3MgfX0tCiAgICAgIC0gaWY6IHN0ZXBzLmNhY2hlX25vZGUub3V0cHV0cy5jYWNoZS1oaXQgIT0gJ3RydWUnCiAgICAgICAgcnVuOiB5YXJuIGluc3RhbGwgLS1mcm96ZW4tbG9ja2ZpbGUgLS1ub24taW50ZXJhY3RpdmUKCiAgICAgIC0gbmFtZTogRGVwbG95IGFmZmVjdGVkIHByb2plY3RzCiAgICAgICAgZW52OgogICAgICAgICAgR0lUSFVCX1RPS0VOOiAke3sgc2VjcmV0cy5HSF9UT0tFTiB9fQogICAgICAgIHJ1bjogeWFybiBueCBhZmZlY3RlZCAtLXRhcmdldD1kZXBsb3kgLS1iYXNlPW9yaWdpbi9tYXN0ZXIKCgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBHZXQgc2hhIG9mIGxhc3QgdGFnCiAgICAgICAgaWQ6IGdldC1zaGEKICAgICAgICBydW46IHwKICAgICAgICAgIGxhdGVzdHRhZz0kKGdpdCBkZXNjcmliZSAtLWFiYnJldj0wKQogICAgICAgICAgZWNobyAiTGF0ZXN0IHRhZzogXCIke2xhdGVzdHRhZ31cIiIKICAgICAgICAgIGxhdGVzdHNoYT0kKGdpdCBzaG93LXJlZiAtcyAke2xhdGVzdHRhZ30pCiAgICAgICAgICBlY2hvICJMYXRlc3Qgc2hhOiBcIiR7bGF0ZXN0c2hhfVwiIgogICAgICAgICAgZWNobyAiOjpzZXQtb3V0cHV0IG5hbWU9bGF0ZXN0c2hhOjokbGF0ZXN0c2hhIgo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnICYmIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlZjogJHt7IGdpdGh1Yi5ldmVudC5wdWxsX3JlcXVlc3QuaGVhZC5yZWYgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCByZXBvCiAgICAgICAgdXNlczogYWN0aW9ucy9jaGVja291dEB2Mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVja291dCByZXBvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBDaGVjayBsYXN0IGNvbW1pdCBtZXNzYWdlCiAgICAgICAgaWQ6IHNraXAKICAgICAgICB1c2VzOiBhdGx3ZW5keS9yZXRyaWV2ZS1jb21taXQtbWVzc2FnZXMtZnJvbS1wckB2MgogICAgICAtIG5hbWU6IFNldCBTSE9VTERfUlVOIGZsYWcKICAgICAgICBydW46IGVjaG8gOjpzZXQtZW52IG5hbWU9U0hPVUxEX1JVTjo6JHt7IHN0ZXBzLnNraXAub3V0cHV0cy5zaG91bGRSdW4gfX0K</text>
+        <text encoding="base64">ICAgICAgICAgIGdpdCBmZXRjaCAtLW5vLXRhZ3MgLS1wcnVuZSAtLWRlcHRoPTUgb3JpZ2luIG1hc3Rlcgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+      <register name="8" type="8">
+        <text>yarn-cache-dir-path</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhdGg6IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>%s/yarn run semantic/npx semantic/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>SHOULD</last-search>
+      <last-search>yarn run semantic</last-search>
       <last-offset />
-      <last-pattern>SHOULD</last-pattern>
-      <last-replace>@nrwl\/workspace:run-commands</last-replace>
-      <last-substitute>@angular-devkit\/build-angular:tslint</last-substitute>
+      <last-pattern>yarn run semantic</last-pattern>
+      <last-replace>npx semantic</last-replace>
+      <last-substitute>yarn run semantic</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
