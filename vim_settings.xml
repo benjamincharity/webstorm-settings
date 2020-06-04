@@ -193,6 +193,11 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591299437675">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.ts" timestamp="1591310515584">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/service/validation-messages.service.ts" timestamp="1591305798393">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
@@ -203,10 +208,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" timestamp="1591295734808">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="171" column="56" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-ui/package.json" timestamp="1591299542581">
         <mark key="[" line="80" column="5" />
@@ -334,7 +335,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICdDSEFOR0VMT0cubWQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -349,31 +350,31 @@
         <text>@semantic-release/github</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICdDSEFOR0VMT0cubWQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdDSEFOR0VMT0cubWQnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwa2dSb290OiAnZGlzdC9saWJyYXJ5JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIHsgImNvbW1hbmQiOiAiKGNkIGxpYnMvdWkvdmFsaWRhdG9ycyAmJiBucHggc2VtYW50aWMtcmVsZWFzZSkiIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwa2dSb290OiAnZGlzdC9saWJyYXJ5JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIHsgImNvbW1hbmQiOiAiKGNkIGxpYnMvdWkvdmFsaWRhdG9ycyAmJiBucHggc2VtYW50aWMtcmVsZWFzZSkiIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdWlWZXJzaW9uID0gVUlfVkVSU0lPTjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVkVSU0lPTiBhcyBVSV9WRVJTSU9OIH0gZnJvbSAnQHRlcm1pbnVzL3VpLXV0aWxpdGllcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvbnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIFwtXC10YWdzL25weCBzZW1hbnRpYy1yZWxlYXNlL2c=</text>
