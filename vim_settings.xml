@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>release-pack</entry>
         <entry>tools</entry>
         <entry>predeploy</entry>
         <entry>requires</entry>
@@ -25,6 +24,7 @@
         <entry>selection-list</entry>
         <entry>yarn</entry>
         <entry>sha</entry>
+        <entry encoding="base64">XDxkZXNjcmliZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-toggle/g</entry>
@@ -146,17 +146,16 @@
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591637974237">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
-        <mark key="^" line="62" column="60" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591638038091">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="74" column="76" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="73" column="10" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591641482677">
+        <mark key="'" line="68" column="51" />
+        <mark key="[" line="163" column="52" />
+        <mark key="]" line="163" column="52" />
+        <mark key="." line="163" column="51" />
+        <mark key="^" line="163" column="52" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/cz-config.js" timestamp="1591622611154">
         <mark key="'" line="69" column="26" />
@@ -164,12 +163,6 @@
         <mark key="]" line="90" column="21" />
         <mark key="^" line="92" column="10" />
         <mark key="." line="90" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1591638316728">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1591623953775">
         <mark key="[" line="126" column="0" />
@@ -229,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="41" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="67" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="74" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="75" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="79" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="82" column="60" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -329,6 +319,9 @@
       <jump line="9" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/README.md" />
       <jump line="109" column="55" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="162" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="121" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="68" column="51" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,7 +339,7 @@
         <text>release</text>
       </register>
       <register name="/" type="4">
-        <text>sha</text>
+        <text encoding="base64">XDxkZXNjcmliZVw+</text>
       </register>
       <register name="0" type="4">
         <text>yarn affected:libs --base=${{ steps.get-sha.outputs.latestsha }}</text>
@@ -386,13 +379,13 @@ ui</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sha</last-search>
+      <last-search encoding="base64">XDxkZXNjcmliZVw+</last-search>
       <last-offset />
-      <last-pattern>sha</last-pattern>
+      <last-pattern encoding="base64">XDxkZXNjcmliZVw+</last-pattern>
       <last-replace>npx semantic-release</last-replace>
       <last-substitute encoding="base64">bnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIFwtXC10YWdz</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
