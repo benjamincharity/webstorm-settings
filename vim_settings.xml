@@ -127,12 +127,12 @@
         <mark key="." line="43" column="22" />
         <mark key="^" line="43" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591636789446">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591643269063">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="19" column="20" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="36" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1591635976691">
         <mark key="[" line="0" column="0" />
@@ -184,12 +184,12 @@
         <mark key="]" line="29" column="27" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591642380365">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591643329152">
         <mark key="'" line="2591" column="34" />
         <mark key="[" line="2631" column="70" />
-        <mark key="]" line="2631" column="70" />
-        <mark key="." line="2631" column="70" />
-        <mark key="^" line="2631" column="71" />
+        <mark key="]" line="2631" column="78" />
+        <mark key="." line="2631" column="77" />
+        <mark key="^" line="2631" column="78" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/border.js" timestamp="1591622480720">
         <mark key="[" line="3" column="22" />
@@ -209,7 +209,7 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/terminus-ui.scss" timestamp="1591642389352">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/terminus-ui.scss" timestamp="1591643300401">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
@@ -324,13 +324,13 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IC0tZGVidWc=</text>
+        <text>,</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tZGVidWc=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmliZVw+</text>
@@ -339,32 +339,32 @@
         <text>../../../dist/libs/ui/styles/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBucG1QdWJsaXNoOiBmYWxzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W2JhZGdlLWxhdGVzdC1kYXRlUGlja2VyXTogaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9ucG0vdi9AdGVybWludXMvdWktZGF0ZXBpY2tlci9sYXRlc3Q/Y29sb3I9JTIzNDVhYWYyCg==</text>
+        <text encoding="base64">ICAgICAgJ0BzZW1hbnRpYy1yZWxlYXNlL2dpdGh1YicsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">W2JhZGdlLWxhdGVzdC1kYXRlUGlja2VyXTogaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9ucG0vdi9AdGVybWludXMvdWktZGF0ZXBpY2tlci9sYXRlc3Q/Y29sb3I9JTIzNDVhYWYyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
         <text>ui
 ui</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgCiAgIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLSBuYW1lOiBMaXN0IGFmZmVjdGVkIExJQlMKICAgICAgICBydW46IHlhcm4gYWZmZWN0ZWQ6bGlicyAtLWJhc2U9JHt7IHN0ZXBzLmdldC1zaGEub3V0cHV0cy5sYXRlc3RzaGEgfX0KICAgICAgLSBuYW1lOiBMaXN0IGFmZmVjdGVkIEFQUFMKICAgICAgICBydW46IHlhcm4gYWZmZWN0ZWQ6YXBwcyAtLWJhc2U9JHt7IHN0ZXBzLmdldC1zaGEub3V0cHV0cy5sYXRlc3RzaGEgfX0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBMaXN0IGFmZmVjdGVkIExJQlMKICAgICAgICBydW46IHlhcm4gYWZmZWN0ZWQ6bGlicyAtLWJhc2U9b3JpZ2luL21hc3RlcgogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScKICAgICAgLSBuYW1lOiBMaXN0IGFmZmVjdGVkIEFQUFMKICAgICAgICBydW46IHlhcm4gYWZmZWN0ZWQ6YXBwcyAtLWJhc2U9b3JpZ2luL21hc3RlcgogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
