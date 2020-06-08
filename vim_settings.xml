@@ -225,17 +225,15 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591321794636">
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="332" column="59" />
-        <mark key="." line="332" column="52" />
-        <mark key="^" line="332" column="53" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1591618520839">
+        <mark key="'" line="218" column="51" />
+        <mark key="[" line="218" column="35" />
+        <mark key="]" line="218" column="52" />
+        <mark key="." line="218" column="51" />
+        <mark key="^" line="218" column="52" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/ng-package.json" />
-      <jump line="492" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="433" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="3061" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="2590" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="22" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/demos-deploy.sh" />
@@ -248,7 +246,6 @@
       <jump line="28" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="19" column="15" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="284" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="199" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="36" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="170" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
@@ -333,6 +330,10 @@
       <jump line="11" column="64" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="14" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="17" column="51" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-rebase.yml" />
+      <jump line="307" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="342" column="8" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="218" column="51" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,13 +342,13 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>O</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
