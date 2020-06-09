@@ -126,6 +126,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/CHANGELOG.md" timestamp="1591719562188">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/CHANGELOG.md" timestamp="1591718006186">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -161,22 +166,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/navigation/CHANGELOG.md" timestamp="1591717976144">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/CHANGELOG.md" timestamp="1591718094823">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/CHANGELOG.md" timestamp="1591718060328">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/menu/CHANGELOG.md" timestamp="1591717971914">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -200,6 +195,13 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591719571509">
+        <mark key="'" line="76" column="34" />
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="40" />
+        <mark key="." line="39" column="39" />
+        <mark key="^" line="39" column="40" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/CHANGELOG.md" timestamp="1591718021135">
         <mark key="[" line="5" column="0" />
@@ -325,14 +327,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">IyBbMC4wLjAtUExBQ0VIT0xERVIuMV0oaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLW9zcy9jb21wYXJlL0B0ZXJtaW51cy91aS12YWxpZGF0b3JzQDAuMC4wLVBMQUNFSE9MREVSLjAuLi5AdGVybWludXMvdWktdmFsaWRhdG9yc0AwLjAuMC1QTEFDRUhPTERFUi4xKSAoMjAyMC0wNi0wOSkKCgojIyMgQnVnIEZpeGVzCgoqICoqQnV0dG9uOioqIHVwZGF0ZSAoW2E0N2YzMDddKGh0dHBzOi8vZ2l0aHViLmNvbS9HZXRUZXJtaW51cy90ZXJtaW51cy1vc3MvY29tbWl0L2E0N2YzMDc1N2I5MjE2ZDZlZTc2Nzg4YzExN2U3NmVhY2Y1Mjg5ZTUpKQoKCgoKCiMgMC4wLjAtUExBQ0VIT0xERVIuMCAoMjAyMC0wNi0wOSkKCgojIyMgQnVnIEZpeGVzCgoqIGFkZCB5YXJucmMgZmlsZXMgdG8gYWxsIHVpIGxpYnMgKFs5OWIxMDYwXShodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtb3NzL2NvbW1pdC85OWIxMDYwMTdmOTcwMzg1ZjcyZDRlZTNlN2I4ZTcxMGQ5Mjg1YjQxKSkKKiB0d2VhayB2YWxpZGF0aW9uIG1lc3NhZ2VzIChbYmI3ODVjZl0oaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLW9zcy9jb21taXQvYmI3ODVjZmIzMjIxNWU5ZWUwYjg1OTQ2YzAyMGU2ZDQ3Y2Y1OTJlMykpCgoKIyMjIEZlYXR1cmVzCgoqICoqVmFsaWRhdGlvbk1lc3NhZ2U6Kiogc3VwcG9ydCBjdXN0b20gbWVzc2FnZXMgKFs5Yjk5Zjc2XShodHRwczovL2dpdGh1Yi5jb20vR2V0VGVybWludXMvdGVybWludXMtb3NzL2NvbW1pdC85Yjk5Zjc2M2Q4YmQyNzIxM2RjNDhmZTZhZmFlYjcyYWQ5ZWRjZTI1KSkK</text>
+      <register name="*" type="4">
+        <text encoding="base64">IC0tY2k=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IC0tY2k=</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
