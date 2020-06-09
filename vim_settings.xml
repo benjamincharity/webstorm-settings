@@ -196,12 +196,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591719571509">
-        <mark key="'" line="76" column="34" />
-        <mark key="[" line="39" column="35" />
-        <mark key="]" line="39" column="40" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="39" column="40" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591720705799">
+        <mark key="'" line="39" column="172" />
+        <mark key="[" line="39" column="174" />
+        <mark key="]" line="39" column="174" />
+        <mark key="." line="39" column="173" />
+        <mark key="^" line="39" column="174" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/radio-group/CHANGELOG.md" timestamp="1591718021135">
         <mark key="[" line="5" column="0" />
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1556" column="42" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
       <jump line="1559" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
       <jump line="1561" column="42" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
       <jump line="1570" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
@@ -320,6 +319,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/CHANGELOG.md" />
+      <jump line="39" column="172" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,13 +328,13 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IC0tY2k=</text>
+        <text encoding="base64">IC0t</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tY2k=</text>
+        <text encoding="base64">IC0t</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
