@@ -175,10 +175,12 @@
         <mark key="^" line="57" column="158" />
         <mark key="." line="57" column="158" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-trigger.directive.ts" timestamp="1591658439408">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-trigger.directive.ts" timestamp="1591702235537">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="682" column="0" />
+        <mark key="]" line="682" column="0" />
+        <mark key="." line="682" column="0" />
+        <mark key="^" line="95" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/build-styles.sh" timestamp="1591645304942">
         <mark key="'" line="22" column="98" />
@@ -187,12 +189,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591655652639">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591702184222">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="505" column="28" />
-        <mark key="]" line="505" column="28" />
-        <mark key="." line="505" column="28" />
-        <mark key="^" line="505" column="37" />
+        <mark key="[" line="505" column="0" />
+        <mark key="]" line="505" column="0" />
+        <mark key="." line="505" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.gitignore" timestamp="1591645379814">
         <mark key="[" line="10" column="23" />
@@ -230,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="69" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" />
       <jump line="34" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="85" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/cz-config.js" />
@@ -330,6 +330,7 @@
       <jump line="13" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
       <jump line="34" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-trigger.directive.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,16 +369,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogIihjZCBkaXNkZHQvbGlicy91aS9hdXRvY29tcGxldGUgJiYgKSIgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgcGF0aDogJ0BzZW1hbnRpYy1yZWxlYXNlL2dpdGh1YicsCiAgICAgIGFzc2V0czogWydDSEFOR0VMT0cubWQnXSwKICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBjbGFzcyBUc0F1dG9jb21wbGV0ZVNlbGVjdGVkRXZlbnQgZXh0ZW5kcyBNYXRBdXRvY29tcGxldGVTZWxlY3RlZEV2ZW50IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogImVjaG8gZGlzdC9saWJzL3VpL2F1dG9jb21wbGV0ZS8qLyIgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
