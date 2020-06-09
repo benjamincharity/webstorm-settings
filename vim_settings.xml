@@ -161,17 +161,17 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591654375765">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="43" column="4" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="4" column="56" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591704272303">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591650845743">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591704621863">
         <mark key="'" line="72" column="34" />
-        <mark key="[" line="57" column="158" />
-        <mark key="]" line="57" column="158" />
+        <mark key="[" line="215" column="5" />
+        <mark key="]" line="215" column="29" />
         <mark key="^" line="57" column="158" />
         <mark key="." line="57" column="158" />
       </file>
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/src/lib/base/color/base.js" />
       <jump line="34" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="85" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/cz-config.js" />
       <jump line="28" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
@@ -331,6 +330,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
       <jump line="34" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
       <jump line="95" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-trigger.directive.ts" />
+      <jump line="3" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,38 +338,38 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgbnBtUHVibGlzaDogdHJ1ZSwK</text>
+      <register name="*" type="4">
+        <text>semantic-release-monorepo</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>semantic-release-monorepo</text>
+        <text>monorepo</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICJjb21tYW5kIjogIihjZCBsaWJzL3VpL2F1dG9jb21wbGV0ZSAmJiBucHggc2VtYW50aWMtcmVsZWFzZSkiIH0K</text>
+      <register name="0" type="4">
+        <text>semantic-release-monorepo</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbnBtUHVibGlzaDogdHJ1ZSwK</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>./</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>commitPaths</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbnBtUHVibGlzaDogdHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
