@@ -168,6 +168,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/index.ts" timestamp="1591732034308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/CHANGELOG.md" timestamp="1591718073420">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -188,11 +193,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/CHANGELOG.md" timestamp="1591718037887">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591720705799">
         <mark key="'" line="39" column="172" />
         <mark key="[" line="39" column="174" />
@@ -205,12 +205,11 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.spec.ts" timestamp="1591731041107">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.spec.ts" timestamp="1591732025692">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="0" />
+        <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/CHANGELOG.md" timestamp="1591718119857">
         <mark key="[" line="5" column="0" />
@@ -350,28 +349,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG12Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIG12Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>https://github.com/lerna/lerna/issues/2404#issuecomment-571291441</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIApwdWJsaWMg</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIApwdWJsaWMg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLQogICAgICAjIFVwZGF0ZSBnaXQgY3JlZGVudGlhbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
