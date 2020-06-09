@@ -27,7 +27,6 @@
         <entry>doc</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ui-button/ui-toggle/g</entry>
         <entry>%s/ui-button/ui-tooltip/g</entry>
         <entry>%s/ui-button/ui-utilities/g</entry>
         <entry>%s/ui-button/ui-validation-messages/g</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JXMvbnB4IHNlbWFudGljLXJlbGVhc2UvbnB4IHNlbWFudGljLXJlbGVhc2UgXCZcJiBnaXQgZmV0Y2ggLS10YWdzL2c=</entry>
         <entry encoding="base64">JXMvbnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIFwtXC10YWdzL25weCBzZW1hbnRpYy1yZWxlYXNlL2c=</entry>
         <entry>noh</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,13 +128,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591641482677">
-        <mark key="'" line="68" column="51" />
-        <mark key="[" line="163" column="52" />
-        <mark key="]" line="163" column="52" />
-        <mark key="." line="163" column="51" />
-        <mark key="^" line="163" column="52" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/package.json" timestamp="1591653162922">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -151,22 +144,27 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/scss-bundle.config.json" timestamp="1591645171385">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/lerna.json" timestamp="1591707418756">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/scss-bundle-css.config.json" timestamp="1591645190227">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591704272303">
-        <mark key="'" line="3" column="19" />
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="9" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-panel.component.ts" timestamp="1591706717040">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" timestamp="1591707140811">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591704621863">
         <mark key="'" line="72" column="34" />
@@ -189,11 +187,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591702184222">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591707177223">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="505" column="0" />
-        <mark key="]" line="505" column="0" />
-        <mark key="." line="505" column="0" />
+        <mark key="[" line="505" column="28" />
+        <mark key="]" line="505" column="94" />
+        <mark key="." line="505" column="93" />
+        <mark key="^" line="505" column="94" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.gitignore" timestamp="1591645379814">
         <mark key="[" line="10" column="23" />
@@ -224,14 +223,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/package.json" timestamp="1591645056054">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="20" column="5" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="85" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/cz-config.js" />
       <jump line="28" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
@@ -331,6 +324,7 @@
       <jump line="34" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
       <jump line="95" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-trigger.directive.ts" />
       <jump line="3" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/src/lib/autocomplete-panel/autocomplete-panel.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,49 +333,49 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>semantic-release-monorepo</text>
+        <text>travis</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>monorepo</text>
+        <text>travis</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
       </register>
       <register name="0" type="4">
-        <text>semantic-release-monorepo</text>
+        <text encoding="base64">KGNkIGxpYnMvdWkvYXV0b2NvbXBsZXRlICYmIG5weCBzZW1hbnRpYy1yZWxlYXNlIC0tZHJ5LXJ1biAtLW5vLWNpKQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwbHVnaW5zOiB7CiAgfSwK</text>
       </register>
-      <register name="2" type="4">
-        <text>./</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGdlbmVyYXRlTm90ZXM6IFsKICAgICAgWydAc2VtYW50aWMtcmVsZWFzZS9yZWxlYXNlLW5vdGVzLWdlbmVyYXRvcicsIHsKICAgICAgICBwcmVzZXQ6ICdhbmd1bGFyJywKICAgICAgICBwYXJzZXJPcHRzOiB7CiAgICAgICAgICBub3RlS2V5d29yZHM6IFsnQlJFQUtJTkcgQ0hBTkdFJywgJ0JSRUFLSU5HIENIQU5HRVMnLCAnQlJFQUtJTkcnXSwKICAgICAgICB9LAogICAgICAgIHdyaXRlck9wdHM6IHsKICAgICAgICAgIGNvbW1pdHNTb3J0OiBbJ3N1YmplY3QnLCAnc2NvcGUnXSwKICAgICAgICB9LAogICAgICB9XSwKICAgIF0sCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>commitPaths</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbnBtUHVibGlzaDogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleHRlbmRzOiBbJ3NlbWFudGljLXJlbGVhc2UtbW9ub3JlcG8nXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleHRlbmRzOiBbJ3NlbWFudGljLXJlbGVhc2UtbW9ub3JlcG8nXSwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
   </component>
