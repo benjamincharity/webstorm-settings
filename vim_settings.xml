@@ -183,11 +183,8 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/src/lib/ui-autofocus.module.spec.ts" timestamp="1591808013416">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/lerna-debug.log" timestamp="1591811687261">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/confirmation/package.json" timestamp="1591808205245">
         <mark key="'" line="0" column="0" />
@@ -223,6 +220,13 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591812108186">
+        <mark key="'" line="39" column="172" />
+        <mark key="[" line="39" column="159" />
+        <mark key="]" line="39" column="158" />
+        <mark key="." line="39" column="157" />
+        <mark key="^" line="39" column="158" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/package.json" timestamp="1591808271140">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="14" />
@@ -243,16 +247,8 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/package.json" timestamp="1591807380385">
-        <mark key="'" line="23" column="38" />
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
       <jump line="2630" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="19" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
       <jump line="72" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
@@ -352,6 +348,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/lerna-debug.log" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
