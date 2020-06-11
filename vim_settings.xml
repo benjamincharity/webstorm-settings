@@ -125,11 +125,11 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="36" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591892107130">
-        <mark key="[" line="180" column="8" />
-        <mark key="]" line="180" column="9" />
-        <mark key="." line="180" column="8" />
-        <mark key="^" line="180" column="9" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591893023485">
+        <mark key="[" line="181" column="13" />
+        <mark key="]" line="181" column="31" />
+        <mark key="." line="181" column="30" />
+        <mark key="^" line="181" column="31" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/src/index.ts" timestamp="1591889258466">
         <mark key="[" line="0" column="0" />
@@ -204,11 +204,11 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591888884932">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="34" />
-        <mark key="^" line="40" column="34" />
-        <mark key="." line="40" column="33" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1591893012280">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="37" column="68" />
+        <mark key="^" line="37" column="68" />
+        <mark key="." line="37" column="67" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/src/lib/ui-icon-button.module.spec.ts" timestamp="1591885893591">
         <mark key="[" line="11" column="6" />
@@ -325,20 +325,20 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="8">
-        <text encoding="base64">IHJ1bi1tYW55</text>
+      <register name="*" type="4">
+        <text>nx run-many --all --target build --withDeps --prod</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>nx run-many --all --target build --withDeps --prod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdGx3ZW5keVw+</text>
       </register>
       <register name="0" type="8">
-        <text>git diff-index --quiet HEAD --</text>
+        <text>nx run-many --all --target build --withDeps --prod</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IHJ1bi1tYW55</text>
