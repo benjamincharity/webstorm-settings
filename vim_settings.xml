@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>npx semantic-release</entry>
         <entry>tokens</entry>
         <entry>design-tokens</entry>
         <entry encoding="base64">bnB4IHNlbWFudGljLXJlbGVhc2UgJiYgZ2l0IGZldGNoIFwtXC10YWdz</entry>
@@ -25,6 +24,7 @@
         <entry>0\.0\.1</entry>
         <entry>tool</entry>
         <entry encoding="base64">XDxzaGFcPg==</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-validation-messages/g</entry>
@@ -158,11 +158,12 @@
         <mark key="^" line="184" column="52" />
         <mark key="." line="184" column="51" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591820890077">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="498" column="65" />
-        <mark key="]" line="498" column="65" />
-        <mark key="." line="498" column="65" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1591881664226">
+        <mark key="'" line="475" column="16" />
+        <mark key="[" line="2631" column="78" />
+        <mark key="]" line="2631" column="75" />
+        <mark key="." line="2631" column="74" />
+        <mark key="^" line="2631" column="75" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/package.json" timestamp="1591815602073">
         <mark key="'" line="0" column="0" />
@@ -233,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/release.config.js" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autocomplete/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/CHANGELOG.md" />
@@ -333,6 +333,7 @@
       <jump line="67" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="69" column="80" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="105" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="475" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,19 +342,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IC0tYmFzZT0ke3sgc3RlcHMuZ2V0LXNoYS5vdXRwdXRzLmxhdGVzdHNoYSB9fQ==</text>
+        <text>debug</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tYmFzZT0ke3sgc3RlcHMuZ2V0LXNoYS5vdXRwdXRzLmxhdGVzdHNoYSB9fQ==</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGFcPg==</text>
+        <text>debug</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBEZXBsb3kgYWZmZWN0ZWQgcHJvamVjdHMKICAgICAgICBydW46IHlhcm4gcnVuIHZlcnNpb24tYnVtcCAmJiB5YXJuIHJ1biBzZW1hbnRpYy1yZWxlYXNlCiAgICAgICAgcnVuOiB5YXJuIG54IGFmZmVjdGVkIC0tdGFyZ2V0PWRlcGxveSAtLXdpdGhEZXBzIC0tcHJvZCAtLWJhc2U9JHt7IHN0ZXBzLmdldC1zaGEub3V0cHV0cy5sYXRlc3RzaGEgfX0K</text>
+      <register name="0" type="4">
+        <text>npx semantic-release</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBydW46IHlhcm4gcnVuIHZlcnNpb24tYnVtcCAmJiB5YXJuIHJ1biBzZW1hbnRpYy1yZWxlYXNlCg==</text>
@@ -389,9 +390,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaGFcPg==</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGFcPg==</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
