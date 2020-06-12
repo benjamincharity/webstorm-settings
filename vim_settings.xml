@@ -121,11 +121,11 @@
         <mark key="]" line="17" column="12" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591904325684">
-        <mark key="[" line="199" column="13" />
-        <mark key="]" line="199" column="13" />
-        <mark key="." line="199" column="13" />
-        <mark key="^" line="199" column="51" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1591966103529">
+        <mark key="[" line="202" column="13" />
+        <mark key="]" line="202" column="31" />
+        <mark key="." line="202" column="30" />
+        <mark key="^" line="202" column="31" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tooltip/src/index.ts" timestamp="1591894842054">
         <mark key="[" line="0" column="0" />
@@ -166,15 +166,16 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/login-form/src/lib/ui-login-form.module.ts" timestamp="1591889263071">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/scrollbars/src/index.ts" timestamp="1591898598488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/lerna-build-changed-projects.sh" timestamp="1591966061653">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="2" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/tabs/src/lib/label/tab-label-wrapper.directive.ts" timestamp="1591894002357">
         <mark key="[" line="5" column="0" />
@@ -327,46 +328,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tools/ci/lerna-build-changed-projects.sh</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tools/ci/lerna-build-changed-projects.sh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdGx3ZW5keVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cG9ydCBDSEFOR0VEX1BST0pFQ1RTPSIkKG5vZGUgdG9vbHMvY2kvanNvbi10by1wcm9qZWN0cy1saXN0LmpzKSIKICAgICAgICAgIGVjaG8gIkJ1aWxkaW5nOiAkQ0hBTkdFRF9QUk9KRUNUUyIKICAgICAgICAgIHlhcm4gcnVuIGJ1aWxkOmNoYW5nZWQK</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiAiQnVpbGQgYnVtcGVkIHByb2plY3RzIgogICAgICAgIHJ1bjogdG9vbHMvY2kvbGVybmEtYnVpbGQtY2hhbmdlZC1wcm9qZWN0cy5zaAogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cG9ydCBDSEFOR0VEX1BST0pFQ1RTPSIkKG5vZGUgdG9vbHMvY2kvanNvbi10by1wcm9qZWN0cy1saXN0LmpzKSIKICAgICAgICAgIGVjaG8gIkJ1aWxkaW5nOiAkQ0hBTkdFRF9QUk9KRUNUUyIKICAgICAgICAgIHlhcm4gcnVuIGJ1aWxkOmNoYW5nZWQK</text>
+        <text encoding="base64">ICBlY2hvICJURU1QT1JBUlk6IEJ1aWxkaW5nIEFMTCBwcm9qZWN0cyIKICB5YXJuIHJ1biBidWlsZDphbGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBlY2hvICIiCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>tools/ci/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cG9ydCBDSEFOR0VEX1BST0pFQ1RTPSIkKG5vZGUgdG9vbHMvY2kvanNvbi10by1wcm9qZWN0cy1saXN0LmpzKSIKICAgICAgICAgIGVjaG8gIkJ1aWxkaW5nOiAkQ0hBTkdFRF9QUk9KRUNUUyIKICAgICAgICAgIHlhcm4gcnVuIGJ1aWxkOmNoYW5nZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiJExFUk5BX09VVFBVVCIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiN0ZXN0ICRMRVJOQV9PVVRQVVQgJiYgZWNobyB5ZXMgfHwgZWNobyBubwo=</text>
+      <register name="5" type="8">
+        <text>tools/ci/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiN0ZXN0ICRMRVJOQV9PVVRQVVQgJiYgZWNobyAiJGNtZF9vdXRwdXQiID4gbXlGaWxlLnR4dAojY21kX291dHB1dD0kKGVjaG8gLWUgJ3NvbWV0aGluZycpCiN0ZXN0ICRjbWRfb3V0cHV0ICYmIGVjaG8geWVzIHx8IGVjaG8gbm8K</text>
+        <text encoding="base64">ZWNobyAiJExFUk5BX09VVFBVVCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJsZXJuYS1vdXRwdXQtY2hhbmdlZC1wcm9qZWN0cyI6ICJucHggbGVybmEgY2hhbmdlZCAtLWluY2x1ZGUtbWVyZ2VkLXRhZ3MgLS1sb2dsZXZlbD1zaWxlbnQgLS1qc29uID4gQ0hBTkdFRC5qc29uIHx8IDoiLAo=</text>
+        <text encoding="base64">CiN0ZXN0ICRMRVJOQV9PVVRQVVQgJiYgZWNobyB5ZXMgfHwgZWNobyBubwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnaXQgcHVzaAo=</text>
+        <text encoding="base64">CiN0ZXN0ICRMRVJOQV9PVVRQVVQgJiYgZWNobyAiJGNtZF9vdXRwdXQiID4gbXlGaWxlLnR4dAojY21kX291dHB1dD0kKGVjaG8gLWUgJ3NvbWV0aGluZycpCiN0ZXN0ICRjbWRfb3V0cHV0ICYmIGVjaG8geWVzIHx8IGVjaG8gbm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnaXQgYWRkIC4KICBnaXQgY29tbWl0IC1tICJjaG9yZShyZWxlYXNlKTogTGVybmEgdmVyc2lvbiBidW1wIFtza2lwIGNpXSIK</text>
+        <text encoding="base64">ICAgICJsZXJuYS1vdXRwdXQtY2hhbmdlZC1wcm9qZWN0cyI6ICJucHggbGVybmEgY2hhbmdlZCAtLWluY2x1ZGUtbWVyZ2VkLXRhZ3MgLS1sb2dsZXZlbD1zaWxlbnQgLS1qc29uID4gQ0hBTkdFRC5qc29uIHx8IDoiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/0\.0\.1/1\.0\.0/g</text>
