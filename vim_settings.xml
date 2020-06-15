@@ -133,11 +133,12 @@
         <mark key="]" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1592231302066">
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="38" column="64" />
-        <mark key="^" line="38" column="64" />
-        <mark key="." line="38" column="63" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1592240072086">
+        <mark key="'" line="197" column="35" />
+        <mark key="[" line="232" column="19" />
+        <mark key="]" line="232" column="20" />
+        <mark key="^" line="179" column="26" />
+        <mark key="." line="232" column="20" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app-routing.module.ts" timestamp="1592238301219">
         <mark key="[" line="23" column="0" />
@@ -180,11 +181,11 @@
         <mark key="^" line="223" column="18" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.ts" timestamp="1592238290166">
-        <mark key="'" line="50" column="27" />
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="28" />
-        <mark key="^" line="50" column="28" />
-        <mark key="." line="50" column="27" />
+        <mark key="'" line="29" column="27" />
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1592231098161">
         <mark key="[" line="81" column="1" />
@@ -235,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/select/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/CHANGELOG.md" />
@@ -335,6 +335,7 @@
       <jump line="140" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="137" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="50" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.ts" />
+      <jump line="197" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,13 +344,13 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAbnJ3bC9hbmd1bGFyIjogIjkuMy4wIiwK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9.3.0</text>
       </register>
       <register name="/" type="4">
         <text>uses</text>
@@ -358,31 +359,31 @@
         <text>actions/setup-node</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAbnJ3bC9hbmd1bGFyIjogIjkuMy4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQo=</text>
+        <text encoding="base64">ICAgICJAbnJ3bC9ueC1jbG91ZCI6ICJeOS4zLjIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQo=</text>
+        <text encoding="base64">ICAgICJlbW9qaXMiOiAiMS4wLjEwIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi5kZW1vcy1kaXJlY3RvcnkgfX0K</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiAiRW50ZXIgT1NTIGRpcmVjdG9yeSIKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHQtb3NzLwogICAgICAgICAgcHdkCg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNkIC4uLwo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi5kZW1vcy1kaXJlY3RvcnkgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdpdCBmZXRjaCAtLXRhZ3MgLS1wcnVuZSAtLWRlcHRoPTUwIG9yaWdpbiBtYXN0ZXIKICAgICAgICAgIGNkIC4uLwo=</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiAiRW50ZXIgT1NTIGRpcmVjdG9yeSIKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHQtb3NzLwogICAgICAgICAgcHdkCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
