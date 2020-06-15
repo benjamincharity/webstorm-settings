@@ -15,7 +15,6 @@
         <entry>compo</entry>
         <entry encoding="base64">XDx0b29sc1w+</entry>
         <entry>uses</entry>
-        <entry>affected</entry>
         <entry>depr</entry>
         <entry>project</entry>
         <entry>import</entry>
@@ -25,6 +24,7 @@
         <entry>cli</entry>
         <entry>^</entry>
         <entry>\^</entry>
+        <entry>affected</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-validators/g</entry>
@@ -149,13 +149,13 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592240430488">
-        <mark key="'" line="147" column="14" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592254321592">
+        <mark key="'" line="98" column="30" />
         <mark key="j" line="134" column="15" />
-        <mark key="[" line="147" column="14" />
-        <mark key="]" line="147" column="31" />
-        <mark key="." line="223" column="17" />
-        <mark key="^" line="223" column="18" />
+        <mark key="[" line="67" column="58" />
+        <mark key="]" line="67" column="79" />
+        <mark key="." line="67" column="78" />
+        <mark key="^" line="67" column="79" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.ts" timestamp="1592238290166">
         <mark key="'" line="29" column="27" />
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1762" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
       <jump line="2164" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
       <jump line="2165" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
       <jump line="2166" column="54" filename="$USER_HOME$/code/Terminus/engage-gui/yarn.lock" />
@@ -328,6 +327,7 @@
       <jump line="224" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="162" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="171" column="42" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
+      <jump line="98" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,7 +345,7 @@
         <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>\^</text>
+        <text>affected</text>
       </register>
       <register name="0" type="4">
         <text>'libs/ui/button/**/*.{js,ts}'&quot;</text>
@@ -384,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\^</last-search>
+      <last-search>affected</last-search>
       <last-offset />
-      <last-pattern>\^</last-pattern>
+      <last-pattern>affected</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
