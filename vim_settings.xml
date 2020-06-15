@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>doc</entry>
         <entry>NX_CLOUD_AUTH_TOKEN</entry>
         <entry>&quot;\*&quot;</entry>
         <entry>0\.0\.3</entry>
@@ -25,6 +24,7 @@
         <entry>depr</entry>
         <entry>project</entry>
         <entry>import</entry>
+        <entry>eslint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-validators/g</entry>
@@ -122,11 +122,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1592246263953">
-        <mark key="[" line="182" column="34" />
-        <mark key="]" line="182" column="40" />
-        <mark key="^" line="45" column="40" />
-        <mark key="." line="182" column="34" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1592248456795">
+        <mark key="'" line="47" column="22" />
+        <mark key="[" line="45" column="93" />
+        <mark key="]" line="45" column="94" />
+        <mark key="^" line="45" column="94" />
+        <mark key="." line="45" column="93" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app-routing.module.ts" timestamp="1592238301219">
         <mark key="[" line="23" column="0" />
@@ -174,11 +175,11 @@
         <mark key="." line="46" column="11" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/report.20200615.140442.56711.0.001.json" timestamp="1592245359920" />
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.eslintignore" timestamp="1592246125247">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="6" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.eslintignore" timestamp="1592248675359">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.codecov.yml" timestamp="1592227267371">
         <mark key="[" line="57" column="14" />
@@ -227,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/lint-staged.config.js" />
       <jump line="26" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/lint-staged.config.js" />
       <jump line="25" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/search/CHANGELOG.md" />
@@ -327,6 +327,7 @@
       <jump line="662" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" />
       <jump line="29" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" />
       <jump line="34" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" />
+      <jump line="47" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,8 +335,8 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>3.3.0</text>
+      <register name="*" type="2">
+        <text encoding="base64">Y3lwcmVzcwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -344,37 +345,37 @@
         <text>3.3.0</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text>eslint</text>
       </register>
       <register name="0" type="4">
-        <text>2.34.0</text>
+        <text>&quot;libs/**/*.{js,ts}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXJzZXJPcHRpb25zOiB7CiAgICBwcm9qZWN0OiAnLi90c2NvbmZpZy5qc29uJywKICAgIHRzY29uZmlnUm9vdERpcjogX19kaXJuYW1lLAogIH0sCg==</text>
+        <text encoding="base64">Y3lwcmVzcwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>npx eslint</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSwKICAgICAgcnVsZXM6IHsK</text>
+        <text encoding="base64">ICBwYXJzZXJPcHRpb25zOiB7CiAgICBwcm9qZWN0OiAnLi90c2NvbmZpZy5qc29uJywKICAgIHRzY29uZmlnUm9vdERpcjogX19kaXJuYW1lLAogIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAncGFyc2VyJzogJ0B0eXBlc2NyaXB0LWVzbGludC9wYXJzZXInLAogICdwYXJzZXJPcHRpb25zJzogewogICAgJ2VjbWFWZXJzaW9uJzogNiwKICAgICdzb3VyY2VUeXBlJzogJ21vZHVsZScsCiAgICAnZWNtYUZlYXR1cmVzJzogewogICAgICAnbW9kdWxlcyc6IHRydWUsCiAgICB9LAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGFyc2VyT3B0aW9uczogewogICAgICAvLyAgIHByb2plY3Q6ICcuL3RzY29uZmlnLmpzb24nLAogICAgICAvLyAgIHRzY29uZmlnUm9vdERpcjogX19kaXJuYW1lLAogICAgICAvLyB9LAo=</text>
-      </register>
-      <register name="7" type="8">
-        <text>libs/**/</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ3BhcnNlcic6ICdAdHlwZXNjcmlwdC1lc2xpbnQvcGFyc2VyJywKICAgICAgJ3BhcnNlck9wdGlvbnMnOiB7CiAgICAgICAgJ2VjbWFWZXJzaW9uJzogMjAyMCwKICAgICAgICAncHJvamVjdCc6ICcuL3RzY29uZmlnLmpzb24nLAogICAgICAgICdzb3VyY2VUeXBlJzogJ21vZHVsZScsCiAgICAgICAgJ3RzY29uZmlnUm9vdERpcic6ICcuLycsCiAgICAgIH0sCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfSwKICAgICAgcnVsZXM6IHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAncGFyc2VyJzogJ0B0eXBlc2NyaXB0LWVzbGludC9wYXJzZXInLAogICdwYXJzZXJPcHRpb25zJzogewogICAgJ2VjbWFWZXJzaW9uJzogNiwKICAgICdzb3VyY2VUeXBlJzogJ21vZHVsZScsCiAgICAnZWNtYUZlYXR1cmVzJzogewogICAgICAnbW9kdWxlcyc6IHRydWUsCiAgICB9LAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gcGFyc2VyT3B0aW9uczogewogICAgICAvLyAgIHByb2plY3Q6ICcuL3RzY29uZmlnLmpzb24nLAogICAgICAvLyAgIHRzY29uZmlnUm9vdERpcjogX19kaXJuYW1lLAogICAgICAvLyB9LAo=</text>
+      </register>
+      <register name="9" type="8">
+        <text>libs/**/</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -383,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>import</last-search>
+      <last-search>eslint</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern>eslint</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
