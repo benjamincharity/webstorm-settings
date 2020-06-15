@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>selection-list</entry>
         <entry>yarn</entry>
         <entry encoding="base64">XDxkZXNjcmliZVw+</entry>
         <entry>src</entry>
@@ -25,6 +24,7 @@
         <entry>compo</entry>
         <entry encoding="base64">XDx0b29sc1w+</entry>
         <entry>uses</entry>
+        <entry>affected</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-validators/g</entry>
@@ -45,8 +45,8 @@
         <entry>action GotoImplementation</entry>
         <entry>%s/&quot;\*&quot;/\&quot;^1\.0\.0&quot;/g</entry>
         <entry>%s/0\.0\.1/1\.0\.0/g</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -133,12 +133,12 @@
         <mark key="]" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1592240072086">
-        <mark key="'" line="197" column="35" />
-        <mark key="[" line="232" column="19" />
-        <mark key="]" line="232" column="20" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1592241015743">
+        <mark key="'" line="180" column="28" />
+        <mark key="[" line="233" column="23" />
+        <mark key="]" line="233" column="24" />
         <mark key="^" line="179" column="26" />
-        <mark key="." line="232" column="20" />
+        <mark key="." line="233" column="24" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app-routing.module.ts" timestamp="1592238301219">
         <mark key="[" line="23" column="0" />
@@ -172,8 +172,8 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592238218409">
-        <mark key="'" line="137" column="6" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592240430488">
+        <mark key="'" line="147" column="14" />
         <mark key="j" line="134" column="15" />
         <mark key="[" line="147" column="14" />
         <mark key="]" line="147" column="31" />
@@ -236,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/sort/CHANGELOG.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/spacing/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/CHANGELOG.md" />
       <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/toggle/CHANGELOG.md" />
@@ -336,6 +334,8 @@
       <jump line="137" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="50" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/app.component.ts" />
       <jump line="197" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
+      <jump line="147" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="180" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +353,7 @@
         <text>9.3.0</text>
       </register>
       <register name="/" type="4">
-        <text>uses</text>
+        <text>affected</text>
       </register>
       <register name="0" type="4">
         <text>actions/setup-node</text>
@@ -386,19 +386,19 @@
         <text encoding="base64">ICAgICAgLSBuYW1lOiAiRW50ZXIgT1NTIGRpcmVjdG9yeSIKICAgICAgICBydW46IHwKICAgICAgICAgIGNkIHQtb3NzLwogICAgICAgICAgcHdkCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0IGk=</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>uses</last-search>
+      <last-search>affected</last-search>
       <last-offset />
-      <last-pattern>uses</last-pattern>
+      <last-pattern>affected</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
