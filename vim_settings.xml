@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>debug</entry>
-        <entry>sha</entry>
-        <entry encoding="base64">XDxhdGx3ZW5keVw+</entry>
-        <entry>demo</entry>
-        <entry encoding="base64">XDxTSE9VTERfUlVOXD4=</entry>
-        <entry>compo</entry>
-        <entry encoding="base64">XDx0b29sc1w+</entry>
-        <entry>uses</entry>
         <entry>depr</entry>
         <entry>project</entry>
         <entry>import</entry>
@@ -25,6 +17,14 @@
         <entry>affected</entry>
         <entry>design-tokens</entry>
         <entry encoding="base64">XDxtZXNzYWdlc0ZhY3RvcnlcPg==</entry>
+        <entry>adding a comp</entry>
+        <entry>promote-scrip</entry>
+        <entry encoding="base64">XDxwcm9tb3RlXD4=</entry>
+        <entry>promote-script</entry>
+        <entry>release</entry>
+        <entry encoding="base64">XDx1bnBrZ1w+</entry>
+        <entry>nx</entry>
+        <entry>contrib</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ui-button/ui-validators/g</entry>
@@ -125,6 +125,13 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="47" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" timestamp="1592318331662">
+        <mark key="'" line="543" column="9" />
+        <mark key="[" line="100" column="2" />
+        <mark key="]" line="100" column="3" />
+        <mark key="^" line="100" column="3" />
+        <mark key="." line="100" column="2" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.in" timestamp="1592307901935">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -173,10 +180,10 @@
         <mark key="." line="35" column="41" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" timestamp="1592316792405">
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="39" column="2" />
-        <mark key="." line="39" column="2" />
-        <mark key="^" line="27" column="15" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="2" />
+        <mark key="." line="44" column="2" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/components/validation/validation.component.ts" timestamp="1592315706525">
         <mark key="[" line="11" column="0" />
@@ -205,11 +212,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validators/src/index.ts" timestamp="1592249293431">
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1592255960204">
         <mark key="'" line="370" column="24" />
         <mark key="[" line="121" column="0" />
@@ -226,41 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="38" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/autofocus/package.json" />
-      <jump line="25" column="35" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chart/package.json" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/checkbox/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/chip/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/confirmation/package.json" />
-      <jump line="24" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/copy/package.json" />
-      <jump line="27" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/csv-entry/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/drawer/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/file-upload/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/form-field/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/icon-button/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/lerna-debug.log" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/link/src/lib/link/link.component.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/get-latest-sha.sh" />
-      <jump line="168" column="55" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="161" column="18" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="162" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="163" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="165" column="53" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="169" column="53" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="177" column="84" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="65" column="18" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="66" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="69" column="80" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="105" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="475" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="45" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="170" column="0" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/commit-after-lerna.sh" />
-      <jump line="4" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/lerna-determine-changed-packages.sh" />
-      <jump line="9" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/lerna-determine-changed-packages.sh" />
-      <jump line="41" column="121" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="4" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/lerna-output-changed-projects.sh" />
       <jump line="8" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/commit-after-lerna.sh" />
       <jump line="15" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/lerna-output-changed-projects.sh" />
@@ -326,6 +293,41 @@
       <jump line="120" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/messages/validation-messages.component.ts" />
       <jump line="529" column="0" filename="$USER_HOME$/Desktop/cli-test/src/app/app.component.html" />
       <jump line="14" column="41" filename="$USER_HOME$/Desktop/cli-test/src/app/app.component.ts" />
+      <jump line="28" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="95" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="573" column="73" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="281" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="555" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="438" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="517" column="65" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="519" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="20" column="38" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="24" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="170" column="88" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="212" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="213" column="49" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="266" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="524" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="279" column="55" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="394" column="79" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="532" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="40" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="43" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="44" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="52" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="53" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="54" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="55" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="56" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="57" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="527" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="41" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="526" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="73" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="533" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="64" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="101" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
+      <jump line="543" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,47 +335,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="*" type="4">
+        <text>nx-cloud</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>if</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlc0ZhY3RvcnlcPg==</text>
+        <text>contrib</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy91aS1zdHlsZXMvdGVybWludXMtdWkuY3NzJzsK</text>
+      <register name="0" type="4">
+        <text>nx-cloud</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC90cy1pbnB1dD4K</text>
+        <text encoding="base64">ClNlZSB0aGUgW29mZmljaWFsIE5YIGRvY3NdW254LWFuZ3VsYXItZG9jc10gZm9yIG1vcmUgaW5mb3JtYXRpb24uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSBUaGlzIGNhbiBiZSBhbnkgb2YgdGhlIFRlcm1pbnVzIGN1c3RvbSBmb3JtIGNvbnRyb2xzIC0tPgo8dHMtaW5wdXQKICBsYWJlbD0iRW1haWwiCiAgdHlwZT0iZW1haWwiCiAgW2Zvcm1Db250cm9sXT0ibXlFbWFpbENvbnRyb2wiCj4K</text>
+        <text encoding="base64">CmBgYAokIG54IGcgbGliIHNhc3MtaGVscGVycyAtLXNraXAtcGFja2FnZS1qc29uIC0tcHVibGlzaGFibGUgLS1zdHlsZSBzY3NzCmBgYAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiMgUnVuIFR5cGVTY3JpcHQgYW5kIFNDU1MgbGludGVycwokIHlhcm4gcnVuIGxpYnJhcmllczpsaW50WzpmaXhdCiQgeWFybiBydW4gYXBwczpsaW50WzpmaXhdCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>''</text>
+      <register name="5" type="2">
+        <text encoding="base64">JCBueCBidWlsZCB1aS1idXR0b24K</text>
       </register>
-      <register name="6" type="4">
-        <text>incorrect</text>
+      <register name="6" type="2">
+        <text encoding="base64">My4gQWRkIGBUc0J1dHRvbkNvbXBvbmVudGAgdG8gdGhlIGV4cG9ydHMgKiphbmQqKiBkZWNsYXJhdGlvbnMgb2YgYGJ1dHRvbi5tb2R1bGUudHNgLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbWFpbE1lc3NhZ2VGYWN0b3J5Cg==</text>
+        <text encoding="base64">Mi4gSW1wb3J0ICoqYW5kKiogZXhwb3J0IGBidXR0b24uY29tcG9uZW50LnRzYCBpbnNpZGUgYGJ1dHRvbi5tb2R1bGUudHNgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0aXRsZSA9ICdjbGktdGVzdCc7Cg==</text>
+        <text encoding="base64">MS4gQ3JlYXRlIGEgZGlyZWN0b3J5IHVzaW5nIHRoZSBjb21wb25lbnQgbmFtZTogYGxpYnMvdWkvYnV0dG9uL2AKICAgIC0gTmVjZXNzYXJ5IGZpbGVzOgogICAgICAtIGBidXR0b24ubW9kdWxlLnRzYAogICAgICAgICAgLSBDbGFzcyBuYW1lOiBgVHNCdXR0b25Nb2R1bGVgCiAgICAgIC0gYGJ1dHRvbi5jb21wb25lbnQudHNgCiAgICAgICAgICAtIENsYXNzIG5hbWU6IGBUc0J1dHRvbkNvbXBvbmVudGAKICAgICAgLSBgYnV0dG9uLmNvbXBvbmVudC5zY3NzYAogICAgICAtIGBidXR0b24uY29tcG9uZW50Lmh0bWxgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtdLAogIGJvb3RzdHJhcDogW0FwcENvbXBvbmVudF0K</text>
+        <text encoding="base64">W3VucGtnLXRlcm1pbnVzXTogaHR0cHM6Ly91bnBrZy5jb20vQHRlcm1pbnVzL3VpLwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -382,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlc0ZhY3RvcnlcPg==</last-search>
+      <last-search>contrib</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlc0ZhY3RvcnlcPg==</last-pattern>
+      <last-pattern>contrib</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
