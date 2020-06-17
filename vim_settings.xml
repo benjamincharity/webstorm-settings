@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>project</entry>
         <entry>import</entry>
         <entry>eslint</entry>
         <entry>class-name-casing</entry>
@@ -13,7 +12,6 @@
         <entry>cli</entry>
         <entry>^</entry>
         <entry>\^</entry>
-        <entry>affected</entry>
         <entry>design-tokens</entry>
         <entry encoding="base64">XDxtZXNzYWdlc0ZhY3RvcnlcPg==</entry>
         <entry>adding a comp</entry>
@@ -25,15 +23,15 @@
         <entry>nx</entry>
         <entry>contrib</entry>
         <entry>base</entry>
+        <entry>affected</entry>
+        <entry encoding="base64">XDxiYXNlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ui-button/ui-validators/g</entry>
         <entry>%s/-docs]/]/g</entry>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl/workspace:run-commands/g</entry>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</entry>
         <entry>action GotoSymbol</entry>
         <entry>wa</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiA6</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiBcOg==</entry>
         <entry encoding="base64">JzwsJz5BbGlnbiA=</entry>
@@ -47,6 +45,8 @@
         <entry>%s/0\.0\.1/1\.0\.0/g</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
         <entry>noh</entry>
+        <entry>action RenameElement</entry>
+        <entry>e ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,32 +116,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/lint-staged.config.js" timestamp="1592250116559">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="71" />
-        <mark key="." line="16" column="7" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/messages/validation-messages.component.ts" timestamp="1592315123331">
+        <mark key="'" line="121" column="9" />
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="41" />
+        <mark key="^" line="35" column="42" />
+        <mark key="." line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" timestamp="1592316744256">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="47" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592394838139">
+        <mark key="'" line="72" column="34" />
+        <mark key="[" line="80" column="51" />
+        <mark key="]" line="80" column="63" />
+        <mark key="." line="80" column="51" />
+        <mark key="^" line="80" column="50" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" timestamp="1592318331662">
-        <mark key="'" line="543" column="9" />
-        <mark key="[" line="100" column="2" />
-        <mark key="]" line="100" column="3" />
-        <mark key="^" line="100" column="3" />
-        <mark key="." line="100" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.in" timestamp="1592307901935">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/cli-test/src/app/app.component.ts" timestamp="1592316691100">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="5" />
+      <file name="$USER_HOME$/Desktop/cli-test/tsconfig.json" timestamp="1592316546688">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/demos-deploy.sh" timestamp="1592308925478">
         <mark key="[" line="38" column="15" />
@@ -155,29 +148,43 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.out" timestamp="1592308312334">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/components/validation/validation.component.html" timestamp="1592315353478">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/cli-test/src/app/app.component.html" timestamp="1592316307541">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" timestamp="1592394598609">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/src/lib/messages/validation-messages.component.ts" timestamp="1592315123331">
-        <mark key="'" line="121" column="9" />
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="41" />
-        <mark key="^" line="35" column="42" />
-        <mark key="." line="35" column="41" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" timestamp="1592316744256">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" timestamp="1592316792405">
         <mark key="[" line="44" column="2" />
         <mark key="]" line="44" column="2" />
         <mark key="." line="44" column="2" />
         <mark key="^" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/set-should-run-flag.sh" timestamp="1592394306031">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1592394855295">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" timestamp="1592318331662">
+        <mark key="'" line="543" column="9" />
+        <mark key="[" line="100" column="2" />
+        <mark key="]" line="100" column="3" />
+        <mark key="^" line="100" column="3" />
+        <mark key="." line="100" column="2" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/components/validation/validation.component.ts" timestamp="1592315706525">
         <mark key="[" line="11" column="0" />
@@ -189,35 +196,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/cli-test/package.json" timestamp="1592316433186">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1592339383864">
-        <mark key="'" line="108" column="37" />
-        <mark key="[" line="256" column="13" />
-        <mark key="]" line="256" column="51" />
-        <mark key="." line="259" column="31" />
-        <mark key="^" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592336749227">
-        <mark key="'" line="10" column="37" />
-        <mark key="[" line="182" column="62" />
-        <mark key="]" line="67" column="79" />
-        <mark key="." line="67" column="78" />
-        <mark key="^" line="67" column="79" />
-      </file>
-      <file name="$USER_HOME$/Desktop/cli-test/tsconfig.json" timestamp="1592316546688">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/components/validation/validation.component.html" timestamp="1592315353478">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="29" column="15" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.out" timestamp="1592308312334">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1592327487666">
         <mark key="'" line="370" column="24" />
@@ -226,19 +209,32 @@
         <mark key="." line="246" column="0" />
         <mark key="^" line="580" column="38" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" timestamp="1592251152884">
-        <mark key="'" line="7" column="7" />
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="2" />
+      <file name="$USER_HOME$/Desktop/cli-test/src/app/app.component.ts" timestamp="1592316691100">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cli-test/package.json" timestamp="1592316433186">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cli-test/src/app/app.component.html" timestamp="1592316307541">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1592393896879">
+        <mark key="'" line="108" column="37" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="41" />
+        <mark key="." line="259" column="31" />
+        <mark key="^" line="67" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="72" column="52" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="235" column="15" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="193" column="17" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="29" column="13" filename="$USER_HOME$/code/Terminus/terminus-ui/.github/workflows/ci-release.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/test.sh" />
       <jump line="5" column="42" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/set-should-run-flag.sh" />
@@ -335,6 +331,10 @@
       <jump line="50" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="62" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
       <jump line="108" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
+      <jump line="162" column="55" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" />
+      <jump line="72" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,57 +343,57 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>yarn affected:libs --base=origin/master</text>
+        <text>test</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text encoding="base64">XDxiYXNlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>yarn affected:libs --base=origin/master</text>
+        <text>codeCoverage</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">IC0tYmFzZT1vcmlnaW4vbWFzdGVy</text>
+        <text>origin/master</text>
       </register>
       <register name="2" type="8">
-        <text>--base=origin/master</text>
+        <text>origin/master</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IwojIFVwbG9hZCBjb3ZlcmFnZSBmb3IgZmlsZXMgYXQgYSBzcGVjaWZpYyBwYXRoCiMKIyBAcGFyYW0gTG9jYXRpb24gdG8gbG9vayBmb3IgYGNvdmVyYWdlLWZpbmFsLmpzb25gIGZpbGVzCiMKIyBAZXhhbXBsZQojICAgdXBsb2FkX2NvdmVyYWdlIHBhdGgvdG8vY292ZXJhZ2UvZGlyCiMKdXBsb2FkX2NvdmVyYWdlICgpIHsKICBGSUxFUz0kKGZpbmQgIiQxIiAtbmFtZSAnY292ZXJhZ2UtZmluYWwuanNvbicpCiAgUFJFRklYPSQxCiAgU1VGRklYPScvY292ZXJhZ2UtZmluYWwuanNvbicKCiAgZm9yIEZJTEUgaW4gJEZJTEVTCiAgZG8KICAgICMgUmVtb3ZlIHRoZSBwcmVjZWRpbmcgZmlsZSBwYXRoCiAgICBUQUc9JHtGSUxFIyIkUFJFRklYIn0KICAgICMgUmVtb3ZlIHRoZSBmaWxlbmFtZQogICAgVEFHPSR7VEFHJSIkU1VGRklYIn0KICAgICMgUmVtb3ZlIHRoZSByZW1haW5pbmcgc2xhc2ggcHJlZml4CiAgICBUQUc9JHtUQUcvL1wvfQogICAgIyBDb252ZXJ0IGRhc2gtY2FzZSB0byBjYW1lbENhc2UKICAgIFRBRz0kKGVjaG8gIiRUQUciIHwgcGVybCAtcGUgJ3MvLSguKS9cdSQxL2cnKQoKICAgIGVjaG8gIlVwbG9hZGluZyBjb3ZlcmFnZSBmb3IgXCIkRklMRVwiIHRhZ2dlZCBhcyBcIiRUQUdcIiIKICAgIGJhc2ggPChjdXJsIGh0dHBzOi8vY29kZWNvdi5pby9iYXNoKSAtWiAtZiAiJEZJTEUiIC1GICIkVEFHIiB8fCBlY2hvICJDb2RlY292IGZhaWxlZCB0byB1cGxvYWQgY292ZXJhZ2UgZm9yICRGSUxFIgogIGRvbmUKfQoKCkxPQ0FUSU9OUz0oJ2NvdmVyYWdlL2xpYnMvdWknICdjb3ZlcmFnZS9hcHBzJykKCmZvciBMIGluICIke0xPQ0FUSU9OU1tAXX0iOyBkbwogIHVwbG9hZF9jb3ZlcmFnZSAiJEwiCmRvbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClNlZSB0aGUgW29mZmljaWFsIE5YIGRvY3NdW254LWFuZ3VsYXItZG9jc10gZm9yIG1vcmUgaW5mb3JtYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmBgYAokIG54IGcgbGliIHNhc3MtaGVscGVycyAtLXNraXAtcGFja2FnZS1qc29uIC0tcHVibGlzaGFibGUgLS1zdHlsZSBzY3NzCmBgYAo=</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiMgUnVuIFR5cGVTY3JpcHQgYW5kIFNDU1MgbGludGVycwokIHlhcm4gcnVuIGxpYnJhcmllczpsaW50WzpmaXhdCiQgeWFybiBydW4gYXBwczpsaW50WzpmaXhdCg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">IC0tYmFzZT1vcmlnaW4vbWFzdGVy</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">JCBueCBidWlsZCB1aS1idXR0b24K</text>
+      <register name="7" type="8">
+        <text>--base=origin/master</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">My4gQWRkIGBUc0J1dHRvbkNvbXBvbmVudGAgdG8gdGhlIGV4cG9ydHMgKiphbmQqKiBkZWNsYXJhdGlvbnMgb2YgYGJ1dHRvbi5tb2R1bGUudHNgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Mi4gSW1wb3J0ICoqYW5kKiogZXhwb3J0IGBidXR0b24uY29tcG9uZW50LnRzYCBpbnNpZGUgYGJ1dHRvbi5tb2R1bGUudHNgCg==</text>
+        <text encoding="base64">ClNlZSB0aGUgW29mZmljaWFsIE5YIGRvY3NdW254LWFuZ3VsYXItZG9jc10gZm9yIG1vcmUgaW5mb3JtYXRpb24uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>e ~/.ideavimrc</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>base</last-search>
+      <last-search encoding="base64">XDxiYXNlXD4=</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlXD4=</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
