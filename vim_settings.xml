@@ -119,16 +119,6 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/utilities/bundles/terminus-ui-utilities.umd.js" timestamp="1592400679860">
         <mark key="'" line="368" column="38" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" timestamp="1592316744256">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/validation-messages/README.md" timestamp="1592316792405">
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="44" column="2" />
-        <mark key="." line="44" column="2" />
-        <mark key="^" line="32" column="15" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/set-should-run-flag.sh" timestamp="1592394306031">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="40" />
@@ -151,23 +141,21 @@
         <mark key="[" line="258" column="0" />
         <mark key="]" line="261" column="8" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" timestamp="1592400628131">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/.storybook/scss-loader.scss" timestamp="1592401997210">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" timestamp="1592401536580">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="62" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/cli-test/src/app/app.component.ts" timestamp="1592316691100">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="5" />
-      </file>
-      <file name="$USER_HOME$/Desktop/cli-test/package.json" timestamp="1592316433186">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="33" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/.storybook/config.js" timestamp="1592401485236">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="65" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1592393896879">
         <mark key="'" line="108" column="37" />
@@ -183,12 +171,6 @@
         <mark key="." line="130" column="58" />
         <mark key="^" line="130" column="59" />
       </file>
-      <file name="$USER_HOME$/Desktop/cli-test/tsconfig.json" timestamp="1592316546688">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="22" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/ui-button.module.ts" timestamp="1592399497665">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="17" column="17" />
@@ -199,6 +181,11 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/index.html" timestamp="1592401987016">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1592395253298">
         <mark key="[" line="4" column="18" />
@@ -219,11 +206,20 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/styles.scss" timestamp="1592401975576">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/set-nx-base.sh" timestamp="1592398262166">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.storybook/preview-head.html" timestamp="1592401672112">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -334,47 +330,50 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="8">
-        <text>../../../../</text>
+      <register name="*" type="2">
+        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy91aS1zdHlsZXMvdGVybWludXMtdWkuY3NzJzsKQGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvZGVzaWduLXRva2Vucy9jc3MvbGlicmFyeS1kZXNpZ24tdG9rZW5zLmNzcyc7Cgo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>@terminus/ui-button</text>
+        <text>css/</text>
       </register>
       <register name="/" type="4">
         <text>TsStyleThemeTypes</text>
       </register>
-      <register name="0" type="8">
-        <text>../../../../</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvZGVzaWduLXRva2Vucy9jc3MvbGlicmFyeS1kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvdWktc3R5bGVzL3Rlcm1pbnVzLXVpLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvdWktc3R5bGVzL2hlbHBlcnMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImxpYnMvdWkvc3R5bGVzL3NyYy9pbmRleC50cyIK</text>
+        <text encoding="base64">QGltcG9ydCAnfkB0ZXJtaW51cy91aS1zdHlsZXMvdGVybWludXMtdWkuY3NzJzsKQGltcG9ydCAnfkB0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2Nzcy9kZXNpZ24tdG9rZW5zLmNzcyc7CkBpbXBvcnQgJ35AdGVybWludXMvZGVzaWduLXRva2Vucy9jc3MvbGlicmFyeS1kZXNpZ24tdG9rZW5zLmNzcyc7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgPCEtLSBCdWlsdCBmb3IgbGlicmFyeSByZWxlYXNlIHZlcnNpb246IDAuMC4wLVBMQUNFSE9MREVSIC0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIGltcG9ydC9uby11bnJlc29sdmVkCg==</text>
+        <text>html { font-family: $font-name;
+  font-size: $font-size--small;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vcHJvamVjdHMvbGliL3NyYy90aGVtaW5nL3Jlc2V0LnNjc3MnOwpAaW1wb3J0ICcuLi9wcm9qZWN0cy9saWIvc3JjL3RoZW1pbmcvbWFpbi5zY3NzJzsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdCI6IHsKICAgICAgICAgICJidWlsZGVyIjogIkBucndsL2plc3Q6amVzdCIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgImplc3RDb25maWciOiAibGlicy9kZXNpZ24tdG9rZW5zL2plc3QuY29uZmlnLmpzIiwKICAgICAgICAgICAgInRzQ29uZmlnIjogImxpYnMvZGVzaWduLXRva2Vucy90c2NvbmZpZy5zcGVjLmpzb24iLAogICAgICAgICAgICAicGFzc1dpdGhOb1Rlc3RzIjogdHJ1ZQogICAgICAgICAgfQogICAgICAgIH0sCg==</text>
+      <register name="5" type="8">
+        <text>/
+/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmVudjoKICBOWF9CQVNFOiAkKGdpdCByZXYtbGlzdCAtbiAxIG1hc3Rlci1sYXN0LXN1Y2Nlc3NmdWwtcmVsZWFzZSkK</text>
+      <register name="6" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lICJUYWcgbGF0ZXN0IHJlbGVhc2UgYXMgc3VjY2Vzc2Z1bCIK</text>
+        <text encoding="base64">ICAgICAgImxpYnMvdWkvc3R5bGVzL3NyYy9pbmRleC50cyIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIGltcG9ydC9uby11bnJlc29sdmVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/find-last-released-sha/set-nx-base/g</text>
