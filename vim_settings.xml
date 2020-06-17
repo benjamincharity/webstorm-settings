@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>eslint</entry>
         <entry>class-name-casing</entry>
         <entry>helper</entry>
@@ -22,9 +21,10 @@
         <entry encoding="base64">XDx1bnBrZ1w+</entry>
         <entry>nx</entry>
         <entry>contrib</entry>
-        <entry>base</entry>
         <entry>affected</entry>
         <entry encoding="base64">XDxiYXNlXD4=</entry>
+        <entry encoding="base64">XDxhZmZlY3RlZFw+</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl/workspace:run-commands/g</entry>
@@ -123,12 +123,11 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592395030413">
-        <mark key="'" line="72" column="34" />
-        <mark key="[" line="80" column="31" />
-        <mark key="]" line="80" column="31" />
-        <mark key="." line="80" column="21" />
-        <mark key="^" line="80" column="50" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592396142946">
+        <mark key="'" line="79" column="20" />
+        <mark key="[" line="232" column="35" />
+        <mark key="]" line="232" column="65" />
+        <mark key="." line="232" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/cli-test/tsconfig.json" timestamp="1592316546688">
         <mark key="[" line="23" column="29" />
@@ -152,12 +151,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" timestamp="1592395234593">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" timestamp="1592396036267">
         <mark key="'" line="6" column="10" />
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="46" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/README.md" timestamp="1592316744256">
         <mark key="[" line="26" column="0" />
@@ -196,12 +195,6 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.out" timestamp="1592308312334">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1592327487666">
         <mark key="'" line="370" column="24" />
         <mark key="[" line="239" column="0" />
@@ -235,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/test.sh" />
       <jump line="5" column="42" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/set-should-run-flag.sh" />
       <jump line="43" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="67" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
@@ -335,6 +327,7 @@
       <jump line="72" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" />
       <jump line="6" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" />
+      <jump line="79" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,47 +335,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Om1hcCA8bGVhZGVyPnkgIjB5CjptYXAgPGxlYWRlcj5wICIwcAo=</text>
+      <register name="*" type="4">
+        <text>tagname</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>affected</text>
+        <text>tagname</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlXD4=</text>
+        <text>base</text>
       </register>
       <register name="0" type="4">
-        <text>g</text>
+        <text>master-last-successful-release</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZjogZW52LlNIT1VMRF9SVU4gPT0gJ3RydWUnCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Om1hcCA8bGVhZGVyPnkgIjB5CjptYXAgPGxlYWRlcj5wICIwcAo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>origin/master</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>origin/master</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IwojIFVwbG9hZCBjb3ZlcmFnZSBmb3IgZmlsZXMgYXQgYSBzcGVjaWZpYyBwYXRoCiMKIyBAcGFyYW0gTG9jYXRpb24gdG8gbG9vayBmb3IgYGNvdmVyYWdlLWZpbmFsLmpzb25gIGZpbGVzCiMKIyBAZXhhbXBsZQojICAgdXBsb2FkX2NvdmVyYWdlIHBhdGgvdG8vY292ZXJhZ2UvZGlyCiMKdXBsb2FkX2NvdmVyYWdlICgpIHsKICBGSUxFUz0kKGZpbmQgIiQxIiAtbmFtZSAnY292ZXJhZ2UtZmluYWwuanNvbicpCiAgUFJFRklYPSQxCiAgU1VGRklYPScvY292ZXJhZ2UtZmluYWwuanNvbicKCiAgZm9yIEZJTEUgaW4gJEZJTEVTCiAgZG8KICAgICMgUmVtb3ZlIHRoZSBwcmVjZWRpbmcgZmlsZSBwYXRoCiAgICBUQUc9JHtGSUxFIyIkUFJFRklYIn0KICAgICMgUmVtb3ZlIHRoZSBmaWxlbmFtZQogICAgVEFHPSR7VEFHJSIkU1VGRklYIn0KICAgICMgUmVtb3ZlIHRoZSByZW1haW5pbmcgc2xhc2ggcHJlZml4CiAgICBUQUc9JHtUQUcvL1wvfQogICAgIyBDb252ZXJ0IGRhc2gtY2FzZSB0byBjYW1lbENhc2UKICAgIFRBRz0kKGVjaG8gIiRUQUciIHwgcGVybCAtcGUgJ3MvLSguKS9cdSQxL2cnKQoKICAgIGVjaG8gIlVwbG9hZGluZyBjb3ZlcmFnZSBmb3IgXCIkRklMRVwiIHRhZ2dlZCBhcyBcIiRUQUdcIiIKICAgIGJhc2ggPChjdXJsIGh0dHBzOi8vY29kZWNvdi5pby9iYXNoKSAtWiAtZiAiJEZJTEUiIC1GICIkVEFHIiB8fCBlY2hvICJDb2RlY292IGZhaWxlZCB0byB1cGxvYWQgY292ZXJhZ2UgZm9yICRGSUxFIgogIGRvbmUKfQoKCkxPQ0FUSU9OUz0oJ2NvdmVyYWdlL2xpYnMvdWknICdjb3ZlcmFnZS9hcHBzJykKCmZvciBMIGluICIke0xPQ0FUSU9OU1tAXX0iOyBkbwogIHVwbG9hZF9jb3ZlcmFnZSAiJEwiCmRvbmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">IwojIFVwbG9hZCBjb3ZlcmFnZSBmb3IgZmlsZXMgYXQgYSBzcGVjaWZpYyBwYXRoCiMKIyBAcGFyYW0gTG9jYXRpb24gdG8gbG9vayBmb3IgYGNvdmVyYWdlLWZpbmFsLmpzb25gIGZpbGVzCiMKIyBAZXhhbXBsZQojICAgdXBsb2FkX2NvdmVyYWdlIHBhdGgvdG8vY292ZXJhZ2UvZGlyCiMKdXBsb2FkX2NvdmVyYWdlICgpIHsKICBGSUxFUz0kKGZpbmQgIiQxIiAtbmFtZSAnY292ZXJhZ2UtZmluYWwuanNvbicpCiAgUFJFRklYPSQxCiAgU1VGRklYPScvY292ZXJhZ2UtZmluYWwuanNvbicKCiAgZm9yIEZJTEUgaW4gJEZJTEVTCiAgZG8KICAgICMgUmVtb3ZlIHRoZSBwcmVjZWRpbmcgZmlsZSBwYXRoCiAgICBUQUc9JHtGSUxFIyIkUFJFRklYIn0KICAgICMgUmVtb3ZlIHRoZSBmaWxlbmFtZQogICAgVEFHPSR7VEFHJSIkU1VGRklYIn0KICAgICMgUmVtb3ZlIHRoZSByZW1haW5pbmcgc2xhc2ggcHJlZml4CiAgICBUQUc9JHtUQUcvL1wvfQogICAgIyBDb252ZXJ0IGRhc2gtY2FzZSB0byBjYW1lbENhc2UKICAgIFRBRz0kKGVjaG8gIiRUQUciIHwgcGVybCAtcGUgJ3MvLSguKS9cdSQxL2cnKQoKICAgIGVjaG8gIlVwbG9hZGluZyBjb3ZlcmFnZSBmb3IgXCIkRklMRVwiIHRhZ2dlZCBhcyBcIiRUQUdcIiIKICAgIGJhc2ggPChjdXJsIGh0dHBzOi8vY29kZWNvdi5pby9iYXNoKSAtWiAtZiAiJEZJTEUiIC1GICIkVEFHIiB8fCBlY2hvICJDb2RlY292IGZhaWxlZCB0byB1cGxvYWQgY292ZXJhZ2UgZm9yICRGSUxFIgogIGRvbmUKfQoKCkxPQ0FUSU9OUz0oJ2NvdmVyYWdlL2xpYnMvdWknICdjb3ZlcmFnZS9hcHBzJykKCmZvciBMIGluICIke0xPQ0FUSU9OU1tAXX0iOyBkbwogIHVwbG9hZF9jb3ZlcmFnZSAiJEwiCmRvbmUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLSAK</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text encoding="base64">IC0tYmFzZT1vcmlnaW4vbWFzdGVy</text>
-      </register>
-      <register name="8" type="8">
-        <text>--base=origin/master</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e ~/.ideavimrc</text>
@@ -391,13 +384,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxiYXNlXD4=</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlXD4=</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
