@@ -136,12 +136,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" timestamp="1592408916214">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="55" column="18" />
-        <mark key="]" line="55" column="20" />
-        <mark key="^" line="55" column="20" />
-        <mark key="." line="55" column="19" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" timestamp="1592409898302">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/.storybook/config.js" timestamp="1592401485236">
         <mark key="[" line="2" column="0" />
@@ -184,11 +184,10 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.ts" timestamp="1592404901647">
         <mark key="'" line="158" column="21" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.storybook/addons.js" timestamp="1592408932653">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="46" />
-        <mark key="^" line="0" column="47" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.storybook/addons.js" timestamp="1592409252795">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1592398861981">
         <mark key="'" line="246" column="9" />
@@ -220,10 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" />
-      <jump line="630" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="52" column="43" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="713" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="2700" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="2" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="2061" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -320,6 +315,10 @@
       <jump line="22" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" />
       <jump line="37" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" />
+      <jump line="3" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/.storybook/addons.js" />
+      <jump line="64" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" />
+      <jump line="10" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,47 +326,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>collapsible</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICBwcm9wczogewogIH0sCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>collapsible</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBjb2xsYXBzaWJsZSA9ICgpID0+ICh7CiAgbW9kdWxlTWV0YWRhdGE6IHsgaW1wb3J0czogW1RzQnV0dG9uTW9kdWxlXSB9LAogIGNvbXBvbmVudDogVHNCdXR0b25Db21wb25lbnQsCiAgdGVtcGxhdGU6IGAKICAgIDx0cy1idXR0b24KICAgICAgW2NvbGxhcHNlZF09ImNvbGxhcHNlZCIKICAgICAgZm9ybWF0PSJjb2xsYXBzaWJsZSIKICAgICAgW2ljb25OYW1lXT0iaWNvbk5hbWUiCiAgICAgIFt0aGVtZV09InRoZW1lIgogICAgPk15IEJ1dHRvbjwvdHMtYnV0dG9uPgogIGAsCiAgcHJvcHM6IHsKICAgIGNvbGxhcHNlZDogYm9vbGVhbignY29sbGFwc2VkJywgZmFsc2UpLAogICAgZm9ybWF0OiBzZWxlY3QoJ2Zvcm1hdCcsIHRzQnV0dG9uRm9ybWF0VHlwZXNBcnJheSwgJ2ZpbGxlZCcpLAogICAgaWNvbk5hbWU6IHRleHQoJ2ljb25OYW1lJywgJ2FkZCcpLAogIH0sCn0pOwo=</text>
+      <register name="0" type="4">
+        <text>storybook-addon-paddings</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGlkOiB0ZXh0KCdpZCcsICcnKSwKICAgIC8vIHNob3dQcm9ncmVzczogYm9vbGVhbignc2hvd1Byb2dyZXNzJywgZmFsc2UpLAogICAgLy8gdGFiSW5kZXg6IG51bWJlcigndGFiSW5kZXgnLCAwKSwK</text>
+        <text encoding="base64">ICBwcm9wczogewogIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGFjdGlvbk5hbWU6IHNlbGVjdCgnYWN0aW9uTmFtZScsIFsnQnV0dG9uJywgJ1N1Ym1pdCcsICdNZW51JywgJ1Jlc2V0J10sICdCdXR0b24nKSwKICAgIC8vIGJ1dHRvblR5cGU6IHNlbGVjdCgnYnV0dG9uVHlwZScsIFsnYnV0dG9uJywgJ3NlYXJjaCcsICdzdWJtaXQnXSwgJ2J1dHRvbicpLAogICAgLy8gY29sbGFwc2VkOiBib29sZWFuKCdjb2xsYXBzZWQnLCBmYWxzZSksCiAgICAvLyBmb3JtYXQ6IHNlbGVjdCgnZm9ybWF0JywgdHNCdXR0b25Gb3JtYXRUeXBlc0FycmF5LCAnZmlsbGVkJyksCiAgICAvLyBpY29uTmFtZTogdGV4dCgnaWNvbk5hbWUnLCAnJyksCg==</text>
+        <text encoding="base64">ICAgIGNvbGxhcHNlZDogYm9vbGVhbignY29sbGFwc2VkJywgZmFsc2UpLAogICAgZm9ybWF0OiBzZWxlY3QoJ2Zvcm1hdCcsIHRzQnV0dG9uRm9ybWF0VHlwZXNBcnJheSwgJ2ZpbGxlZCcpLAogICAgaWNvbk5hbWU6IHRleHQoJ2ljb25OYW1lJywgJ2FkZCcpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGFjdGlvbk5hbWU6IHNlbGVjdCgnYWN0aW9uTmFtZScsIFsnQnV0dG9uJywgJ1N1Ym1pdCcsICdNZW51JywgJ1Jlc2V0J10sICdCdXR0b24nKSwKICAgIC8vIGJ1dHRvblR5cGU6IHNlbGVjdCgnYnV0dG9uVHlwZScsIFsnYnV0dG9uJywgJ3NlYXJjaCcsICdzdWJtaXQnXSwgJ2J1dHRvbicpLAo=</text>
+        <text encoding="base64">ICAgICAgW2NvbGxhcHNlZF09ImNvbGxhcHNlZCIKICAgICAgZm9ybWF0PSJjb2xsYXBzaWJsZSIKICAgICAgW2ljb25OYW1lXT0iaWNvbk5hbWUiCiAgICAgIFt0aGVtZV09InRoZW1lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGlzRGlzYWJsZWQ6IGJvb2xlYW4oJ2lzRGlzYWJsZWQnLCBmYWxzZSksCiAgICAvLyBpZDogdGV4dCgnaWQnLCAnJyksCiAgICAvLyBzaG93UHJvZ3Jlc3M6IGJvb2xlYW4oJ3Nob3dQcm9ncmVzcycsIGZhbHNlKSwKICAgIC8vIHRhYkluZGV4OiBudW1iZXIoJ3RhYkluZGV4JywgMCksCiAgICB0aGVtZTogc2VsZWN0KCd0aGVtZScsIFsncHJpbWFyeScsICdhY2NlbnQnLCAnd2FybiddLCAncHJpbWFyeScpLAo=</text>
+        <text encoding="base64">ICBudW1iZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbGxhcHNlZDogYm9vbGVhbignY29sbGFwc2VkJywgZmFsc2UpLAo=</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgaW1wb3J0L25vLXVucmVzb2x2ZWQgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgW2FjdGlvbk5hbWVdPSJhY3Rpb25OYW1lIgogICAgICBbYnV0dG9uVHlwZV09ImJ1dHRvblR5cGUiCiAgICAgIFtjb2xsYXBzZWRdPSJjb2xsYXBzZWQiCiAgICAgIFtmb3JtYXRdPSJmb3JtYXQiCiAgICAgIFtpY29uTmFtZV09Imljb25OYW1lIgogICAgICBbaXNEaXNhYmxlZF09ImlzRGlzYWJsZWQiCiAgICAgIFtpZF09ImlkIgogICAgICBbc2hvd1Byb2dyZXNzXT0ic2hvd1Byb2dyZXNzIgogICAgICBbdGFiSW5kZXhdPSJ0YWJJbmRleCIK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgYWRkRGVjb3JhdG9yLCBhZGRQYXJhbWV0ZXJzIH0gZnJvbSAnQHN0b3J5Ym9vay9hbmd1bGFyJzsKLy8gaW1wb3J0IHsgd2l0aFBhZGRpbmdzIH0gZnJvbSAnc3Rvcnlib29rLWFkZG9uLXBhZGRpbmdzJzsKLy8KLy8gYWRkRGVjb3JhdG9yKHdpdGhQYWRkaW5ncyk7Ci8vCi8vIGFkZFBhcmFtZXRlcnMoewovLyAgIHBhZGRpbmdzOiBbCi8vICAgICB7IG5hbWU6ICdTbWFsbCcsIHZhbHVlOiAnMTZweCcgfSwKLy8gICAgIHsgbmFtZTogJ01lZGl1bScsIHZhbHVlOiAnMzJweCcsIGRlZmF1bHQ6IHRydWUgfSwKLy8gICAgIHsgbmFtZTogJ0xhcmdlJywgdmFsdWU6ICc2NHB4JyB9LAovLyAgIF0sCi8vIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwYXJhbWV0ZXJzOiB7CiAgICBub3RlczogJ1NvbWUgbm90ZXMhJywKICB9LAo=</text>
+        <text encoding="base64">aW1wb3J0ICdzdG9yeWJvb2stYWRkb24tcGFkZGluZ3MvcmVnaXN0ZXItcGFuZWwnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdAc3Rvcnlib29rL2FkZG9uLW5vdGVzL3JlZ2lzdGVyJzsK</text>
+        <text encoding="base64">ICAgIC8vIGlkOiB0ZXh0KCdpZCcsICcnKSwKICAgIC8vIHNob3dQcm9ncmVzczogYm9vbGVhbignc2hvd1Byb2dyZXNzJywgZmFsc2UpLAogICAgLy8gdGFiSW5kZXg6IG51bWJlcigndGFiSW5kZXgnLCAwKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMvcmVnaXN0ZXInOwppbXBvcnQgJ0BzdG9yeWJvb2svYWRkb24ta25vYnMvcmVnaXN0ZXInOwo=</text>
+        <text encoding="base64">ICAgIC8vIGFjdGlvbk5hbWU6IHNlbGVjdCgnYWN0aW9uTmFtZScsIFsnQnV0dG9uJywgJ1N1Ym1pdCcsICdNZW51JywgJ1Jlc2V0J10sICdCdXR0b24nKSwKICAgIC8vIGJ1dHRvblR5cGU6IHNlbGVjdCgnYnV0dG9uVHlwZScsIFsnYnV0dG9uJywgJ3NlYXJjaCcsICdzdWJtaXQnXSwgJ2J1dHRvbicpLAogICAgLy8gY29sbGFwc2VkOiBib29sZWFuKCdjb2xsYXBzZWQnLCBmYWxzZSksCiAgICAvLyBmb3JtYXQ6IHNlbGVjdCgnZm9ybWF0JywgdHNCdXR0b25Gb3JtYXRUeXBlc0FycmF5LCAnZmlsbGVkJyksCiAgICAvLyBpY29uTmFtZTogdGV4dCgnaWNvbk5hbWUnLCAnJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
