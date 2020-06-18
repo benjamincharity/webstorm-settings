@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>contrib</entry>
-        <entry>affected</entry>
-        <entry encoding="base64">XDxhZmZlY3RlZFw+</entry>
         <entry>base</entry>
         <entry>find-last-released-sha</entry>
         <entry encoding="base64">XDxiYXNlXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>button</entry>
         <entry>story</entry>
         <entry>this.textMaskInputElement.update</entry>
+        <entry>value</entry>
+        <entry>consold</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</entry>
@@ -174,12 +174,11 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1592486585064">
         <mark key="'" line="204" column="21" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" timestamp="1592490827959">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="1039" column="28" />
-        <mark key="]" line="1039" column="39" />
-        <mark key="^" line="1055" column="135" />
-        <mark key="." line="1039" column="39" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" timestamp="1592492025216">
+        <mark key="[" line="1018" column="33" />
+        <mark key="]" line="1018" column="33" />
+        <mark key="." line="1018" column="33" />
+        <mark key="^" line="1018" column="34" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1592487159697">
         <mark key="'" line="108" column="37" />
@@ -216,40 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="44" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="52" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="53" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="54" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="55" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="56" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="57" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="527" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="41" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="526" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="73" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="533" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="64" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="101" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="543" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/DEVELOPMENT.md" />
-      <jump line="10" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="50" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="62" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="108" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" />
-      <jump line="162" column="55" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" />
-      <jump line="72" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" />
-      <jump line="6" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/find-last-released-sha.sh" />
-      <jump line="79" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="152" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="181" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="126" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="185" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="67" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="184" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="125" column="18" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="182" column="18" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="65" column="18" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
@@ -316,6 +281,40 @@
       <jump line="545" column="32" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="585" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="158" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="1028" column="39" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="63" column="50" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="110" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="189" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="230" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="234" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="244" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="248" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="261" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="264" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="299" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="301" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="304" column="68" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="310" column="68" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="315" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="318" column="24" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="346" column="17" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="348" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="371" column="23" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="385" column="29" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="408" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="409" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="412" column="19" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="413" column="84" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="414" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="415" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="423" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="595" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="663" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="664" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="850" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="851" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
+      <jump line="1030" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,46 +323,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>this.textMaskInputElement.update</text>
+        <text>console</text>
       </register>
-      <register name="0" type="8">
-        <text>JSON.stringify(this.value)</text>
+      <register name="0" type="4">
+        <text>textMaskInputElement</text>
       </register>
-      <register name="1" type="8">
-        <text>this.value</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdJTlBVVDogT25DaGFuZ2VzOiBiZWZvcmU6IHRoaXMudmFsdWU6ICcsIEpTT04uc3RyaW5naWZ5KHRoaXMudmFsdWUpKTsK</text>
       </register>
       <register name="2" type="8">
+        <text encoding="base64">ICYmIGlzU2V0KHYp</text>
+      </register>
+      <register name="3" type="8">
         <text>this.value</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiYnVpbGQtc3Rvcnlib29rIjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQG5yd2wvc3Rvcnlib29rOmJ1aWxkIiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAidWlGcmFtZXdvcmsiOiAiQHN0b3J5Ym9vay9hbmd1bGFyIiwKICAgICAgICAgICAgIm91dHB1dFBhdGgiOiAiZGlzdC9zdG9yeWJvb2svdWktYnV0dG9uIiwKICAgICAgICAgICAgImNvbmZpZyI6IHsKICAgICAgICAgICAgICAiY29uZmlnRm9sZGVyIjogImxpYnMvdWkvYnV0dG9uLy5zdG9yeWJvb2siCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAiY29uZmlndXJhdGlvbnMiOiB7CiAgICAgICAgICAgICJjaSI6IHsKICAgICAgICAgICAgICAicXVpZXQiOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAic3Rvcnlib29rIjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQG5yd2wvc3Rvcnlib29rOnN0b3J5Ym9vayIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInVpRnJhbWV3b3JrIjogIkBzdG9yeWJvb2svYW5ndWxhciIsCiAgICAgICAgICAgICJwb3J0IjogNDQwMCwKICAgICAgICAgICAgImNvbmZpZyI6IHsKICAgICAgICAgICAgICAiY29uZmlnRm9sZGVyIjogImxpYnMvdWkvYnV0dG9uLy5zdG9yeWJvb2siCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAiY29uZmlndXJhdGlvbnMiOiB7CiAgICAgICAgICAgICJjaSI6IHsKICAgICAgICAgICAgICAicXVpZXQiOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9LAo=</text>
+      <register name="4" type="8">
+        <text>this.value</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ1aS1idXR0b24tZTJlIjogewogICAgICAicm9vdCI6ICJhcHBzL3VpLWJ1dHRvbi1lMmUiLAogICAgICAic291cmNlUm9vdCI6ICJhcHBzL3VpLWJ1dHRvbi1lMmUvc3JjIiwKICAgICAgInByb2plY3RUeXBlIjogImFwcGxpY2F0aW9uIiwKICAgICAgImFyY2hpdGVjdCI6IHsKICAgICAgICAiZTJlIjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQG5yd2wvY3lwcmVzczpjeXByZXNzIiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAiY3lwcmVzc0NvbmZpZyI6ICJhcHBzL3VpLWJ1dHRvbi1lMmUvY3lwcmVzcy5qc29uIiwKICAgICAgICAgICAgInRzQ29uZmlnIjogImFwcHMvdWktYnV0dG9uLWUyZS90c2NvbmZpZy5lMmUuanNvbiIsCiAgICAgICAgICAgICJkZXZTZXJ2ZXJUYXJnZXQiOiAidWktYnV0dG9uOnN0b3J5Ym9vayIKICAgICAgICAgIH0sCiAgICAgICAgICAiY29uZmlndXJhdGlvbnMiOiB7CiAgICAgICAgICAgICJjaSI6IHsKICAgICAgICAgICAgICAiZGV2U2VydmVyVGFyZ2V0IjogInVpLWJ1dHRvbjpzdG9yeWJvb2s6Y2kiCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJsaW50IjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQGFuZ3VsYXItZGV2a2l0L2J1aWxkLWFuZ3VsYXI6dHNsaW50IiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAidHNDb25maWciOiBbCiAgICAgICAgICAgICAgImFwcHMvdWktYnV0dG9uLWUyZS90c2NvbmZpZy5lMmUuanNvbiIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImV4Y2x1ZGUiOiBbCiAgICAgICAgICAgICAgIioqL25vZGVfbW9kdWxlcy8qKiIsCiAgICAgICAgICAgICAgIiFhcHBzL3VpLWJ1dHRvbi1lMmUvKiovKiIKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAiYnVpbGQtc3Rvcnlib29rIjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQG5yd2wvc3Rvcnlib29rOmJ1aWxkIiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAidWlGcmFtZXdvcmsiOiAiQHN0b3J5Ym9vay9hbmd1bGFyIiwKICAgICAgICAgICAgIm91dHB1dFBhdGgiOiAiZGlzdC9zdG9yeWJvb2svdWktYnV0dG9uIiwKICAgICAgICAgICAgImNvbmZpZyI6IHsKICAgICAgICAgICAgICAiY29uZmlnRm9sZGVyIjogImxpYnMvdWkvYnV0dG9uLy5zdG9yeWJvb2siCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAiY29uZmlndXJhdGlvbnMiOiB7CiAgICAgICAgICAgICJjaSI6IHsKICAgICAgICAgICAgICAicXVpZXQiOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>build-</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAic3Rvcnlib29rIjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQG5yd2wvc3Rvcnlib29rOnN0b3J5Ym9vayIsCiAgICAgICAgICAib3B0aW9ucyI6IHsKICAgICAgICAgICAgInVpRnJhbWV3b3JrIjogIkBzdG9yeWJvb2svYW5ndWxhciIsCiAgICAgICAgICAgICJwb3J0IjogNDQwMCwKICAgICAgICAgICAgImNvbmZpZyI6IHsKICAgICAgICAgICAgICAiY29uZmlnRm9sZGVyIjogImxpYnMvdWkvYnV0dG9uLy5zdG9yeWJvb2siCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAiY29uZmlndXJhdGlvbnMiOiB7CiAgICAgICAgICAgICJjaSI6IHsKICAgICAgICAgICAgICAicXVpZXQiOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdzdG9yeWJvb2stYWRkb24tcGFkZGluZ3MnLAo=</text>
+        <text encoding="base64">ICAgICJ1aS1idXR0b24tZTJlIjogewogICAgICAicm9vdCI6ICJhcHBzL3VpLWJ1dHRvbi1lMmUiLAogICAgICAic291cmNlUm9vdCI6ICJhcHBzL3VpLWJ1dHRvbi1lMmUvc3JjIiwKICAgICAgInByb2plY3RUeXBlIjogImFwcGxpY2F0aW9uIiwKICAgICAgImFyY2hpdGVjdCI6IHsKICAgICAgICAiZTJlIjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQG5yd2wvY3lwcmVzczpjeXByZXNzIiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAiY3lwcmVzc0NvbmZpZyI6ICJhcHBzL3VpLWJ1dHRvbi1lMmUvY3lwcmVzcy5qc29uIiwKICAgICAgICAgICAgInRzQ29uZmlnIjogImFwcHMvdWktYnV0dG9uLWUyZS90c2NvbmZpZy5lMmUuanNvbiIsCiAgICAgICAgICAgICJkZXZTZXJ2ZXJUYXJnZXQiOiAidWktYnV0dG9uOnN0b3J5Ym9vayIKICAgICAgICAgIH0sCiAgICAgICAgICAiY29uZmlndXJhdGlvbnMiOiB7CiAgICAgICAgICAgICJjaSI6IHsKICAgICAgICAgICAgICAiZGV2U2VydmVyVGFyZ2V0IjogInVpLWJ1dHRvbjpzdG9yeWJvb2s6Y2kiCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJsaW50IjogewogICAgICAgICAgImJ1aWxkZXIiOiAiQGFuZ3VsYXItZGV2a2l0L2J1aWxkLWFuZ3VsYXI6dHNsaW50IiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAidHNDb25maWciOiBbCiAgICAgICAgICAgICAgImFwcHMvdWktYnV0dG9uLWUyZS90c2NvbmZpZy5lMmUuanNvbiIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgImV4Y2x1ZGUiOiBbCiAgICAgICAgICAgICAgIioqL25vZGVfbW9kdWxlcy8qKiIsCiAgICAgICAgICAgICAgIiFhcHBzL3VpLWJ1dHRvbi1lMmUvKiovKiIKICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWRkRGVjb3JhdG9yIH0gZnJvbSAnQHN0b3J5Ym9vay9hbmd1bGFyJzsKaW1wb3J0IHsgd2l0aFBhZGRpbmdzIH0gZnJvbSAnc3Rvcnlib29rLWFkZG9uLXBhZGRpbmdzJzsKCmFkZERlY29yYXRvcih3aXRoUGFkZGluZ3MpOwo=</text>
+      <register name="8" type="8">
+        <text>build-</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWRkUGFyYW1ldGVycyB9IGZyb20gJ0BzdG9yeWJvb2svYW5ndWxhcic7CmltcG9ydCB7IHdpdGhQYWRkaW5ncyB9IGZyb20gJ3N0b3J5Ym9vay1hZGRvbi1wYWRkaW5ncyc7CgphZGREZWNvcmF0b3Iod2l0aFBhZGRpbmdzKTsKCmFkZFBhcmFtZXRlcnMoewogIHBhZGRpbmdzOiBbCiAgICB7IG5hbWU6ICdTbWFsbCcsIHZhbHVlOiAnMTZweCcgfSwKICAgIHsgbmFtZTogJ01lZGl1bScsIHZhbHVlOiAnMzJweCcsIGRlZmF1bHQ6IHRydWUgfSwKICAgIHsgbmFtZTogJ0xhcmdlJywgdmFsdWU6ICc2NHB4JyB9LAogIF0sCn0pOwo=</text>
+        <text encoding="base64">ICAgICdzdG9yeWJvb2stYWRkb24tcGFkZGluZ3MnLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
@@ -372,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>this.textMaskInputElement.update</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>this.textMaskInputElement.update</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>set-nx-base</last-replace>
       <last-substitute>find-last-released-sha</last-substitute>
       <last-dir>1</last-dir>
