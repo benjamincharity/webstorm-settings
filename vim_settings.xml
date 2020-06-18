@@ -42,10 +42,10 @@
         <entry>%s/&quot;\*&quot;/\&quot;^1\.0\.0&quot;/g</entry>
         <entry>%s/0\.0\.1/1\.0\.0/g</entry>
         <entry>noh</entry>
-        <entry>action RenameElement</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>%s/find-last-released-sha/set-nx-base/g</entry>
+        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
       </history-cmd>
       <history-expr />
@@ -116,14 +116,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/ui/utilities/bundles/terminus-ui-utilities.umd.js" timestamp="1592400679860">
-        <mark key="'" line="368" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.storybook/main.js" timestamp="1592418491105">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.storybook/main.js" timestamp="1592483332053">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/src/lib/card/card.component.stories.ts" timestamp="1592417274689">
         <mark key="'" line="16" column="18" />
@@ -134,11 +131,6 @@
         <mark key="]" line="81" column="14" />
         <mark key="." line="81" column="13" />
         <mark key="^" line="81" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" timestamp="1592400696809">
-        <mark key="'" line="21" column="7" />
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="261" column="8" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/.storybook/scss-loader.scss" timestamp="1592401997210">
         <mark key="[" line="0" column="0" />
@@ -151,35 +143,32 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.stories.ts" timestamp="1592416156743">
-        <mark key="'" line="16" column="1" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="16" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/.storybook/config.js" timestamp="1592401485236">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="65" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/src/lib/card/card.component.ts" timestamp="1592482247242">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/app/components/button/button.component.html" timestamp="1592405447176">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/card.component.stories.ts" timestamp="1592418424812">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="18" column="45" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/card.component.stories.ts" timestamp="1592482767821">
+        <mark key="'" line="36" column="40" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="35" column="61" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-ui/src/index.html" timestamp="1592401987016">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.ts" timestamp="1592404901647">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.ts" timestamp="1592482326504">
         <mark key="'" line="158" column="21" />
+        <mark key="[" line="62" column="3" />
+        <mark key="]" line="62" column="13" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.storybook/addons.js" timestamp="1592418451858">
         <mark key="[" line="0" column="0" />
@@ -193,10 +182,18 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/button.component.stories.ts" timestamp="1592419079979">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/renovate.json" timestamp="1592481875767">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="29" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/button.component.stories.ts" timestamp="1592482365910">
+        <mark key="'" line="80" column="52" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/.storybook/tsconfig.json" timestamp="1592417057177">
         <mark key="[" line="11" column="3" />
@@ -214,12 +211,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.eslintrc.js" timestamp="1592482190928">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="16" />
+        <mark key="." line="42" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="224" column="34" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="162" column="27" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
-      <jump line="171" column="42" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="98" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="14" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="279" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -316,6 +315,10 @@
       <jump line="7" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/.storybook/tsconfig.json" />
       <jump line="4" column="11" filename="$USER_HOME$/code/Terminus/terminus-oss/.storybook/tsconfig.json" />
       <jump line="16" column="18" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/card/src/lib/card/card.component.stories.ts" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/button.component.stories.ts" />
+      <jump line="15" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/button.component.stories.ts" />
+      <jump line="81" column="52" filename="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/button.component.stories.ts" />
+      <jump line="36" column="40" filename="$USER_HOME$/code/Terminus/terminus-oss/stories/ui/card.component.stories.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,49 +327,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0ICdAc3Rvcnlib29rL2FkZG9uLWtub2JzL3JlZ2lzdGVyJzsKaW1wb3J0ICdAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMvcmVnaXN0ZXInOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FsbG93ZWRCdXR0b25Gb3JtYXRUeXBlczogJywgYWxsb3dlZEJ1dHRvbkZvcm1hdFR5cGVzKTsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>libs</text>
+        <text>tsButtonFormatTypesArray</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdAc3Rvcnlib29rL2FkZG9uLWtub2JzL3JlZ2lzdGVyJzsKaW1wb3J0ICdAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMvcmVnaXN0ZXInOwo=</text>
+      <register name="0" type="4">
+        <text>allowedButtonFormatTypes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBudW1iZXIsCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FsbG93ZWRCdXR0b25Gb3JtYXRUeXBlczogJywgYWxsb3dlZEJ1dHRvbkZvcm1hdFR5cGVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="3" type="8">
+        <text>['none', 'left', 'right', 'top', 'bottom']</text>
       </register>
-      <register name="4" type="4">
-        <text>module.exports = {
-  stories: ['../src/**/*.stories.[tj]s'],
-};</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICB8IAogIHwgCiAgfCAKICB8IA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmltcG9ydCB7IFRzQ2FyZENvbXBvbmVudCB9IGZyb20gJy4vY2FyZC5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAnbm9uZScsCiAgJ2xlZnQnLAogICdyaWdodCcsCiAgJ3RvcCcsCiAgJ2JvdHRvbScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAicGF0aHMiOiB7CiAgICAiQHRlcm1pbnVzL2Rlc2lnbi10b2tlbnMiOiBbCiAgICAgICIuLi9kaXN0L2xpYnMvZGVzaWduLXRva2VucyIKICAgIF0sCiAgICAiQHRlcm1pbnVzL3VpLXN0eWxlcyI6IFsKICAgICAgIi4uL2Rpc3QvbGlicy91aS9zdHlsZXMiLAogICAgICAiLi4vbGlicy91aS9zdHlsZXMvc3JjL2luZGV4LnRzIgogICAgXSwKICAgICJAdGVybWludXMvdWktdXRpbGl0aWVzIjogWwogICAgICAiLi4vZGlzdC9saWJzL3VpL3V0aWxpdGllcyIsCiAgICAgICIuLi9saWJzL3VpL3V0aWxpdGllcy9zcmMvaW5kZXgudHMiCiAgICBdCiAgfQo=</text>
+        <text encoding="base64">OwoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAicGF0aHMiOiB7CiAgICAiQHRlcm1pbnVzL2Rlc2lnbi10b2tlbnMiOiBbCiAgICAgICIuLi8uLi8uLi8uLi9kaXN0L2xpYnMvZGVzaWduLXRva2VucyIKICAgIF0sCiAgICAiQHRlcm1pbnVzL3VpLXN0eWxlcyI6IFsKICAgICAgIi4uLy4uLy4uLy4uL2Rpc3QvbGlicy91aS9zdHlsZXMiLAogICAgICAiLi4vLi4vLi4vLi4vbGlicy91aS9zdHlsZXMvc3JjL2luZGV4LnRzIgogICAgXSwKICAgICJAdGVybWludXMvdWktdXRpbGl0aWVzIjogWwogICAgICAiLi4vLi4vLi4vLi4vZGlzdC9saWJzL3VpL3V0aWxpdGllcyIsCiAgICAgICIuLi8uLi8uLi8uLi9saWJzL3VpL3V0aWxpdGllcy9zcmMvaW5kZXgudHMiCiAgICBdCiAgfQo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICB8IAogIHwgCiAgfCAKICB8IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAicGF0aHMiOiB7CiAgICAiQHRlcm1pbnVzL2Rlc2lnbi10b2tlbnMiOiBbCiAgICAgICIuLi8uLi8uLi8uLi9kaXN0L2xpYnMvZGVzaWduLXRva2VucyIKICAgIF0sCiAgICAiQHRlcm1pbnVzL3VpLXN0eWxlcyI6IFsKICAgICAgIi4uLy4uLy4uLy4uL2Rpc3QvbGlicy91aS9zdHlsZXMiLAogICAgICAiLi4vLi4vLi4vLi4vbGlicy91aS9zdHlsZXMvc3JjL2luZGV4LnRzIgogICAgXSwKICAgICJAdGVybWludXMvdWktdXRpbGl0aWVzIjogWwogICAgICAiLi4vLi4vLi4vLi4vZGlzdC9saWJzL3VpL3V0aWxpdGllcyIsCiAgICAgICIuLi8uLi8uLi8uLi9saWJzL3VpL3V0aWxpdGllcy9zcmMvaW5kZXgudHMiCiAgICBdCiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="8">
-        <text>../../../
-../../../</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0IGk=</text>
