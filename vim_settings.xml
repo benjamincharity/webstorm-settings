@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>this.textMaskInputElement.update</entry>
         <entry>value</entry>
         <entry>consold</entry>
         <entry>console</entry>
@@ -25,6 +24,7 @@
         <entry>design-tokens</entry>
         <entry>showcase</entry>
         <entry>\^</entry>
+        <entry encoding="base64">XDxiYXNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</entry>
@@ -143,11 +143,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592919562716">
-        <mark key="[" line="70" column="69" />
-        <mark key="]" line="70" column="76" />
-        <mark key="^" line="70" column="76" />
-        <mark key="." line="70" column="75" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1592920316727">
+        <mark key="'" line="78" column="65" />
+        <mark key="[" line="200" column="13" />
+        <mark key="]" line="200" column="21" />
+        <mark key="^" line="200" column="21" />
+        <mark key="." line="200" column="20" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-validators/uppercase.spec.ts" timestamp="1592501775591">
         <mark key="[" line="5" column="9" />
@@ -170,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
       <jump line="264" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
       <jump line="299" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
       <jump line="301" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
@@ -270,6 +270,7 @@
       <jump line="41" column="80" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="156" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
       <jump line="250" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
+      <jump line="78" column="65" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,19 +279,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>^</text>
+        <text>node --max_old_space_size=8192 node_modules/@nrwl/cli/bin/nx.js</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>node --max_old_space_size=8192 node_modules/@nrwl/cli/bin/nx.js</text>
       </register>
       <register name="/" type="4">
-        <text>\^</text>
+        <text encoding="base64">XDxiYXNlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICd6b25lLmpzL2Rpc3Qvem9uZSc7ICAvLyBJbmNsdWRlZCB3aXRoIEFuZ3VsYXIgQ0xJLgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IC0taGVhZD1vcmlnaW4vbWFzdGVy</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJsZXJuYS8qKi9leGVjYSI6ICIyLjAuMCIK</text>
@@ -326,9 +327,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\^</last-search>
+      <last-search encoding="base64">XDxiYXNlXD4=</last-search>
       <last-offset />
-      <last-pattern>\^</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlXD4=</last-pattern>
       <last-replace>set-nx-base</last-replace>
       <last-substitute>find-last-released-sha</last-substitute>
       <last-dir>1</last-dir>
