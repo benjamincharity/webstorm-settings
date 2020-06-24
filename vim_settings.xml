@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\^</entry>
-        <entry encoding="base64">XDxiYXNlXD4=</entry>
-        <entry>update</entry>
-        <entry encoding="base64">XDxfZGF0ZUNvaG9ydERpc3BsYXllZE9wdGlvbnNcPg==</entry>
         <entry>onInput</entry>
         <entry>oninput</entry>
         <entry>createNum</entry>
@@ -25,6 +21,10 @@
         <entry>setDateLocale</entry>
         <entry>trace</entry>
         <entry encoding="base64">XDxoZWFkc1VwQm94ZXNGb3JtXD4=</entry>
+        <entry>scss</entry>
+        <entry>creativeVisibleHeadsUpBoxesForm</entry>
+        <entry>visibleHeads</entry>
+        <entry encoding="base64">XDxjb2x1bW5Ecm9wcGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@angular-devkit\/build-angular:tslint/@nrwl\/workspace:run-commands/g</entry>
@@ -116,39 +116,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/test old/package.json" timestamp="1592937521428">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="33" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593013518785">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.ts" timestamp="1593013630050">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="51" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/node_modules/text-mask-core/src/index.js" timestamp="1592936129925">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1593006302638">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="239" column="73" />
-        <mark key="]" line="239" column="73" />
-        <mark key="^" line="239" column="74" />
-        <mark key="." line="239" column="73" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/node_modules/@terminus/ui-input/fesm5/terminus-ui-input.js" timestamp="1592934694947">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/node_modules/text-mask-core/src/createTextMaskInputElement.js" timestamp="1592936131539">
-        <mark key="'" line="11" column="24" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="49" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.ts" timestamp="1593013698921">
         <mark key="[" line="6" column="51" />
@@ -156,27 +126,8 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.html" timestamp="1593013615255">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/src/lib/cohort/cohort-date-range.component.ts" timestamp="1592941593485">
-        <mark key="'" line="315" column="10" />
-        <mark key="[" line="315" column="10" />
-        <mark key="]" line="315" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/node_modules/text-mask-core/src/adjustCaretPosition.js" timestamp="1592940098095">
-        <mark key="'" line="18" column="62" />
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/node_modules/text-mask-core/dist/textMaskCore.js" timestamp="1592944641619">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="55" column="31" />
-        <mark key="." line="55" column="30" />
-        <mark key="^" line="54" column="65" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/angular.json" timestamp="1593013770846">
+        <mark key="'" line="85" column="26" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" timestamp="1592941505718">
         <mark key="'" line="943" column="9" />
@@ -185,25 +136,78 @@
         <mark key="." line="1401" column="45" />
         <mark key="^" line="1401" column="46" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.scss" timestamp="1593013680636">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="61" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/node_modules/@terminus/ui-input/fesm2015/terminus-ui-input.js" timestamp="1592944080193">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.scss" timestamp="1593014438876">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/pipes/src/lib/date/date.pipe.ts" timestamp="1592943898755">
         <mark key="[" line="63" column="34" />
         <mark key="]" line="63" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/node_modules/text-mask-core/src/conformToMask.js" timestamp="1592936125739">
-        <mark key="'" line="10" column="8" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.css" timestamp="1593013686473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" timestamp="1593014773101">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593013518785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1593006302638">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="239" column="73" />
+        <mark key="]" line="239" column="73" />
+        <mark key="^" line="239" column="74" />
+        <mark key="." line="239" column="73" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.html" timestamp="1593014807172">
+        <mark key="'" line="54" column="5" />
+        <mark key="[" line="52" column="27" />
+        <mark key="]" line="52" column="51" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="55" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/scss/css-custom-properties.scss" timestamp="1593014299266">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1593015055789">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="190" column="15" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="162" column="65" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/cohort-date-range/src/lib/cohort/cohort-date-range.component.ts" timestamp="1592941593485">
+        <mark key="'" line="315" column="10" />
+        <mark key="[" line="315" column="10" />
+        <mark key="]" line="315" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/node_modules/text-mask-core/dist/textMaskCore.js" timestamp="1592944641619">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="31" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="54" column="65" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/style-helpers/_typography.scss" timestamp="1593013945478">
+        <mark key="'" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1593014926028">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="." line="275" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/node_modules/@terminus/ui-input/fesm2015/terminus-ui-input.js" timestamp="1592944080193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/paginator/src/lib/ui-paginator.module.ts" timestamp="1593003101552">
@@ -212,30 +216,15 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" timestamp="1593013611547">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="54" column="8" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.scss" timestamp="1593014433228">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="32" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="94" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="126" column="22" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="130" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="134" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="136" column="2" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="69" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="169" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="225" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="882" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="1351" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="1796" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="2474" column="18" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="2479" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/node_modules/@terminus/ui-styles/helpers.scss" />
-      <jump line="426" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
-      <jump line="31" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="35" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="89" column="52" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="90" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
@@ -319,6 +308,23 @@
       <jump line="52" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" />
       <jump line="5" column="3" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" />
       <jump line="78" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/heads-up/heads-up.component.html" />
+      <jump line="13" column="32" filename="$USER_HOME$/code/Terminus/engage-gui/angular.json" />
+      <jump line="26" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/angular.json" />
+      <jump line="27" column="50" filename="$USER_HOME$/code/Terminus/engage-gui/angular.json" />
+      <jump line="28" column="44" filename="$USER_HOME$/code/Terminus/engage-gui/angular.json" />
+      <jump line="85" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/angular.json" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.scss" />
+      <jump line="30" column="33" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/style-helpers/_typography.scss" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.scss" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.html" />
+      <jump line="54" column="5" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up/creative-heads-up.component.html" />
+      <jump line="30" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
+      <jump line="167" column="40" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
+      <jump line="220" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
+      <jump line="276" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" />
+      <jump line="162" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,46 +333,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">LmMtaHUgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKCiAgJl9fZ3JhcGggewogICAgbWluLWhlaWdodDogdmFyKC0tcmV0YXJnZXRpbmctY2hhcnQtbWluSGVpZ2h0KTsKICAgIC8vIFNldCB1cCBmb3IgYWJzb2x1dGVseSBwb3NpdGlvbmVkIG1lbnUKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICB9Cn0KCi5jLWh1LWJveCB7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKCiAgaDMgewogICAgQGluY2x1ZGUgdHlwb2dyYXBoeShib2R5LCAyKTsKICAgIGNvbG9yOiB2YXIoLS10aXRsZS1jb2xvcik7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwogICAgbWFyZ2luOiAwOwogIH0KCiAgOjpuZy1kZWVwIHRzLXRvb2x0aXAgewogICAgZGlzcGxheTogYmxvY2s7CiAgfQoKICA6Om5nLWRlZXAgdHMtaWNvbiB7CiAgICBoZWlnaHQ6IDI0cHg7CiAgICBtYXJnaW4tbGVmdDogMDsKICAgIG1hcmdpbi10b3A6IC0ycHg7CiAgfQoKICAmX192YWx1ZSB7CiAgICBmb250LXNpemU6IHZhcigtLXZhbHVlLWZvbnRTaXplKTsKICAgIGxpbmUtaGVpZ2h0OiB2YXIoLS12YWx1ZS1mb250U2l6ZSk7CiAgICBtYXJnaW46IDA7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxmb3JtCiAgICAgICAgICAgIGNsYXNzPSJoZWFkc1VwQm94ZXNGb3JtIgogICAgICAgICAgICBbZm9ybUdyb3VwXT0idmlzaWJsZUhlYWRzVXBCb3hlc0Zvcm0iCiAgICAgICAgICAgIGNka0Ryb3BMaXN0CiAgICAgICAgICAgIGNka0Ryb3BMaXN0TG9ja0F4aXM9InkiCiAgICAgICAgICAgIChjZGtEcm9wTGlzdERyb3BwZWQpPSJjb2x1bW5Ecm9wcGVkKCRldmVudCkiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxuZy1jb250YWluZXIgKm5nRm9yPSJsZXQgc3RhdCBvZiBoZWFkc1VwU3RhdHMkIHwgYXN5bmMiPgogICAgICAgICAgICAgIDwhLS0gVGhlIG1lbnUgbm9ybWFsbHkgY2xvc2VzIGFmdGVyIGVhY2ggaW50ZXJhY3Rpb24sIHNvIHdlIG5lZWQgdG8gc3RvcCBwcm9wYWdhdGlvbiBoZXJlIHRvCiAgICAgICAgICAgICAgc3VwcG9ydCBtdWx0aXBsZSBzZWxlY3Rpb25zIHdoaWxlIG9wZW4gLS0+CiAgICAgICAgICAgICAgPHRzLWNoZWNrYm94CiAgICAgICAgICAgICAgICBbZm9ybUNvbnRyb2xdPSJzdGF0LmNvbnRyb2wiCiAgICAgICAgICAgICAgICAoY2xpY2spPSIkZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCkiCiAgICAgICAgICAgICAgICB0aGVtZT0iYWNjZW50IgogICAgICAgICAgICAgICAgY2RrRHJhZwogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICB7eyBzdGF0LnRpdGxlIH19CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8IS0tIFN0b3AgZHJhZyBpbnRlcmFjdGlvbnMgZnJvbSBhZmZlY3RpbmcgdGhlIGNoZWNrYm94IHN0YXR1cyAtLT4KICAgICAgICAgICAgICAgIDx0cy1pY29uIGNka0RyYWdIYW5kbGUgKGNsaWNrKT0iJGV2ZW50LnByZXZlbnREZWZhdWx0KCkgJiYgJGV2ZW50LnN0b3BQcm9wYWdhdGlvbigpIj5kcmFnX2luZGljYXRvcjwvdHMtaWNvbj4KICAgICAgICAgICAgICAgIDxkaXYgKmNka0RyYWdQbGFjZWhvbGRlcj48L2Rpdj4KICAgICAgICAgICAgICA8L3RzLWNoZWNrYm94PgogICAgICAgICAgICA8L25nLWNvbnRhaW5lcj4KICAgICAgICAgIDwvZm9ybT4K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFkc1VwQm94ZXNGb3JtXD4=</text>
+        <text encoding="base64">XDxjb2x1bW5Ecm9wcGVkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmMtaHUgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKCiAgJl9fZ3JhcGggewogICAgbWluLWhlaWdodDogdmFyKC0tcmV0YXJnZXRpbmctY2hhcnQtbWluSGVpZ2h0KTsKICAgIC8vIFNldCB1cCBmb3IgYWJzb2x1dGVseSBwb3NpdGlvbmVkIG1lbnUKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICB9Cn0KCi5jLWh1LWJveCB7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKCiAgaDMgewogICAgQGluY2x1ZGUgdHlwb2dyYXBoeShib2R5LCAyKTsKICAgIGNvbG9yOiB2YXIoLS10aXRsZS1jb2xvcik7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwogICAgbWFyZ2luOiAwOwogIH0KCiAgOjpuZy1kZWVwIHRzLXRvb2x0aXAgewogICAgZGlzcGxheTogYmxvY2s7CiAgfQoKICA6Om5nLWRlZXAgdHMtaWNvbiB7CiAgICBoZWlnaHQ6IDI0cHg7CiAgICBtYXJnaW4tbGVmdDogMDsKICAgIG1hcmdpbi10b3A6IC0ycHg7CiAgfQoKICAmX192YWx1ZSB7CiAgICBmb250LXNpemU6IHZhcigtLXZhbHVlLWZvbnRTaXplKTsKICAgIGxpbmUtaGVpZ2h0OiB2YXIoLS12YWx1ZS1mb250U2l6ZSk7CiAgICBtYXJnaW46IDA7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxuZy1jb250YWluZXIgKm5nVGVtcGxhdGVPdXRsZXQ9ImhlYWRzVXBCb3hlc0Zvcm0iPjwvbmctY29udGFpbmVyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHA+Y3JlYXRpdmUtaGVhZHMtdXAgd29ya3MhPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxmb3JtCiAgICAgICAgICAgIGNsYXNzPSJoZWFkc1VwQm94ZXNGb3JtIgogICAgICAgICAgICBbZm9ybUdyb3VwXT0idmlzaWJsZUhlYWRzVXBCb3hlc0Zvcm0iCiAgICAgICAgICAgIGNka0Ryb3BMaXN0CiAgICAgICAgICAgIGNka0Ryb3BMaXN0TG9ja0F4aXM9InkiCiAgICAgICAgICAgIChjZGtEcm9wTGlzdERyb3BwZWQpPSJjb2x1bW5Ecm9wcGVkKCRldmVudCkiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxuZy1jb250YWluZXIgKm5nRm9yPSJsZXQgc3RhdCBvZiBoZWFkc1VwU3RhdHMkIHwgYXN5bmMiPgogICAgICAgICAgICAgIDwhLS0gVGhlIG1lbnUgbm9ybWFsbHkgY2xvc2VzIGFmdGVyIGVhY2ggaW50ZXJhY3Rpb24sIHNvIHdlIG5lZWQgdG8gc3RvcCBwcm9wYWdhdGlvbiBoZXJlIHRvCiAgICAgICAgICAgICAgc3VwcG9ydCBtdWx0aXBsZSBzZWxlY3Rpb25zIHdoaWxlIG9wZW4gLS0+CiAgICAgICAgICAgICAgPHRzLWNoZWNrYm94CiAgICAgICAgICAgICAgICBbZm9ybUNvbnRyb2xdPSJzdGF0LmNvbnRyb2wiCiAgICAgICAgICAgICAgICAoY2xpY2spPSIkZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCkiCiAgICAgICAgICAgICAgICB0aGVtZT0iYWNjZW50IgogICAgICAgICAgICAgICAgY2RrRHJhZwogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICB7eyBzdGF0LnRpdGxlIH19CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8IS0tIFN0b3AgZHJhZyBpbnRlcmFjdGlvbnMgZnJvbSBhZmZlY3RpbmcgdGhlIGNoZWNrYm94IHN0YXR1cyAtLT4KICAgICAgICAgICAgICAgIDx0cy1pY29uIGNka0RyYWdIYW5kbGUgKGNsaWNrKT0iJGV2ZW50LnByZXZlbnREZWZhdWx0KCkgJiYgJGV2ZW50LnN0b3BQcm9wYWdhdGlvbigpIj5kcmFnX2luZGljYXRvcjwvdHMtaWNvbj4KICAgICAgICAgICAgICAgIDxkaXYgKmNka0RyYWdQbGFjZWhvbGRlcj48L2Rpdj4KICAgICAgICAgICAgICA8L3RzLWNoZWNrYm94PgogICAgICAgICAgICA8L25nLWNvbnRhaW5lcj4KICAgICAgICAgIDwvZm9ybT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgY2wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtCiAgICAgICAgICAgICAgICAgIGNsYXNzPSJjcmVhdGl2ZUhlYWRzVXBCb3hlc0Zvcm0iCiAgICAgICAgICAgICAgICAgIFtmb3JtR3JvdXBdPSJ2aXNpYmxlSGVhZHNVcEJveGVzRm9ybSIKICAgICAgICAgICAgICAgICAgY2RrRHJvcExpc3QKICAgICAgICAgICAgICAgICAgY2RrRHJvcExpc3RMb2NrQXhpcz0ieSIKICAgICAgICAgICAgICAgICAgKGNka0Ryb3BMaXN0RHJvcHBlZCk9ImNvbHVtbkRyb3BwZWQoJGV2ZW50KSIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPG5nLWNvbnRhaW5lciAqbmdGb3I9ImxldCBzdGF0IG9mIGhlYWRzVXBTdGF0cyQgfCBhc3luYyI+CiAgICAgICAgICAgICAgICAgICAgPCEtLSBUaGUgbWVudSBub3JtYWxseSBjbG9zZXMgYWZ0ZXIgZWFjaCBpbnRlcmFjdGlvbiwgc28gd2UgbmVlZCB0byBzdG9wIHByb3BhZ2F0aW9uIGhlcmUgdG8KICAgICAgICAgICAgICAgICAgICBzdXBwb3J0IG11bHRpcGxlIHNlbGVjdGlvbnMgd2hpbGUgb3BlbiAtLT4KICAgICAgICAgICAgICAgICAgICA8dHMtY2hlY2tib3gKICAgICAgICAgICAgICAgICAgICAgIFtmb3JtQ29udHJvbF09InN0YXQuY29udHJvbCIKICAgICAgICAgICAgICAgICAgICAgIChjbGljayk9IiRldmVudC5zdG9wUHJvcGFnYXRpb24oKSIKICAgICAgICAgICAgICAgICAgICAgIHRoZW1lPSJhY2NlbnQiCiAgICAgICAgICAgICAgICAgICAgICBjZGtEcmFnCiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IHN0YXQudGl0bGUgfX0KICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgIDwhLS0gU3RvcCBkcmFnIGludGVyYWN0aW9ucyBmcm9tIGFmZmVjdGluZyB0aGUgY2hlY2tib3ggc3RhdHVzIC0tPgogICAgICAgICAgICAgICAgICAgICAgPHRzLWljb24gY2RrRHJhZ0hhbmRsZSAoY2xpY2spPSIkZXZlbnQucHJldmVudERlZmF1bHQoKSAmJiAkZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCkiPmRyYWdfaW5kaWNhdG9yPC90cy1pY29uPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiAqY2RrRHJhZ1BsYWNlaG9sZGVyPjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvdHMtY2hlY2tib3g+CiAgICAgICAgICAgICAgICAgIDwvbmctY29udGFpbmVyPgogICAgICAgICAgICAgICAgPC9mb3JtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdmlzaWJsZUNyZWF0aXZlSGVhZHNVcEJveGVzRm9ybSA9IHRoaXMuZm9ybUJ1aWxkZXIuZ3JvdXAoeyBib3hlczogbmV3IEZvcm1BcnJheShbXSkgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IoCiAgICBwcml2YXRlIGZvcm1CdWlsZGVyOiBGb3JtQnVpbGRlciwKICAgIHByaXZhdGUgdmFsaWRhdG9yc1NlcnZpY2U6IFRzVmFsaWRhdG9yc1NlcnZpY2UsCiAgKSB7CgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ampqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bmctY29udGFpbmVyICpuZ1RlbXBsYXRlT3V0bGV0PSJoZWFkc1VwQm94ZXMiPjwvbmctY29udGFpbmVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdGVybWludXMvdWktc3BhY2luZyI6ICIxLjAuNSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdGVybWludXMvdWktZGF0ZS1yYW5nZSI6ICIxLjAuMyIsCiAgICAiQHRlcm1pbnVzL3VpLXNlbGVjdGlvbi1saXN0IjogIjEuMC41IiwKICAgICJAdGVybWludXMvdWktZm9ybS1maWVsZCI6ICIxLjAuNSIsCiAgICAiQHRlcm1pbnVzL3VpLWljb24iOiAiMS4wLjMiLAogICAgIkB0ZXJtaW51cy91aS1waXBlcyI6ICIxLjAuMyIsCiAgICAiQHRlcm1pbnVzL3VpLXZhbGlkYXRpb24tbWVzc2FnZXMiOiAiMS4wLjUiLAogICAgIkB0ZXJtaW51cy91aS12YWxpZGF0b3JzIjogIjEuMC4zIiwKICAgICJAdGVybWludXMvdWktc3R5bGVzIjogIjEuMC42IiwKICAgICJAdGVybWludXMvdWktb3B0aW9uIjogIjEuMC4zIiwKICAgICJAdGVybWludXMvdWktY2hlY2tib3giOiAiMS4wLjMiLAogICAgIkB0ZXJtaW51cy91aS1jaGlwIjogIjEuMC40IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -375,13 +381,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoZWFkc1VwQm94ZXNGb3JtXD4=</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5Ecm9wcGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFkc1VwQm94ZXNGb3JtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb2x1bW5Ecm9wcGVkXD4=</last-pattern>
       <last-replace>set-nx-base</last-replace>
       <last-substitute>find-last-released-sha</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
