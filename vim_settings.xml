@@ -127,12 +127,12 @@
         <mark key="^" line="219" column="28" />
         <mark key="." line="219" column="27" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" timestamp="1593115894504">
-        <mark key="'" line="43" column="10" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="40" column="33" />
-        <mark key="^" line="40" column="34" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" timestamp="1593116794751">
+        <mark key="'" line="52" column="2" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="73" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="29" column="73" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/tsconfig.json" timestamp="1593090596350">
         <mark key="[" line="8" column="0" />
@@ -202,12 +202,12 @@
         <mark key="." line="262" column="75" />
         <mark key="^" line="262" column="76" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" timestamp="1593115965563">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" timestamp="1593116513570">
         <mark key="'" line="78" column="17" />
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="62" />
-        <mark key="." line="39" column="61" />
-        <mark key="^" line="39" column="62" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="142" column="9" />
+        <mark key="." line="142" column="8" />
+        <mark key="^" line="142" column="9" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1593088490082">
         <mark key="[" line="395" column="52" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="19" filename="$USER_HOME$/Desktop/test/node_modules/text-mask-core/dist/textMaskCore.js" />
       <jump line="27" column="22" filename="$USER_HOME$/Desktop/test/node_modules/text-mask-core/dist/textMaskCore.js" />
       <jump line="26" column="32" filename="$USER_HOME$/Desktop/test/node_modules/text-mask-core/dist/textMaskCore.js" />
       <jump line="43" column="5" filename="$USER_HOME$/Desktop/test/node_modules/text-mask-core/dist/textMaskCore.js" />
@@ -327,6 +326,7 @@
       <jump line="6" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" />
       <jump line="146" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" />
       <jump line="77" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" />
+      <jump line="43" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,47 +334,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>string</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBGaW5pc2ggZmlsbGluZyB0aGVzZSBvdXQgYW5kIGRvIHRoZSBzYW1lIGZvciBvdGhlciB0aW1lIHJhbmdlcwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBEYXlEYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>creativeDayGraphMock</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBGaW5pc2ggZmlsbGluZyB0aGVzZSBvdXQgYW5kIGRvIHRoZSBzYW1lIGZvciBvdGhlciB0aW1lIHJhbmdlcwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>CreativeHeadsUpGraphComponent.h</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCB0ZXN0ID0gaXNGb3VuZEluQW55UmFuZ2UoaCwgbW9ybmluZ1ZhbHVlcyk7Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ZGF5T2ZXZWVrOiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygndGVzdDogJywgdGVzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGltZUNhdGVnb3J5OiBDcmVhdGl2ZUhlYWRzVXBHcmFwaENvbXBvbmVudC5ob3VyVG9UaW1lQ2F0ZWdvcnkoZCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhbmdlKTsK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">UmVjb3JkPHN0cmluZywgc3RyaW5nPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB8ICdXZWRuZXNkYXknCiAgfCAnVGh1cnNkYXknCiAgfCAnRnJpZGF5JwogIHwgJ1NhdHVyZGF5Jwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAJCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzdWx0OiAnLCByZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
