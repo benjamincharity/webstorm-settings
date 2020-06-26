@@ -127,12 +127,12 @@
         <mark key="^" line="219" column="28" />
         <mark key="." line="219" column="27" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" timestamp="1593176004983">
-        <mark key="'" line="50" column="2" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="39" column="3" />
-        <mark key="^" line="29" column="73" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" timestamp="1593181122429">
+        <mark key="'" line="90" column="63" />
+        <mark key="[" line="110" column="27" />
+        <mark key="]" line="110" column="39" />
+        <mark key="." line="110" column="27" />
+        <mark key="^" line="121" column="40" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1593099632844">
         <mark key="'" line="125" column="40" />
@@ -237,10 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1573" column="10" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
-      <jump line="479" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
-      <jump line="943" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/input/src/lib/input/input.component.ts" />
-      <jump line="258" column="30" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="63" column="61" filename="$USER_HOME$/Desktop/test/src/app/app.component.ts" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/test/src/app/app.component.ts" />
@@ -337,6 +333,10 @@
       <jump line="399" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="2252" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="23" column="17" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/generate-tokens-typings.sh" />
+      <jump line="53" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" />
+      <jump line="24" column="5" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" />
+      <jump line="90" column="63" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,47 +344,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Iwo=</text>
+      <register name="*" type="4">
+        <text>string</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>tokens</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b29sc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiQ3JlYXRpbmcgdGVtcCBkaXIuLiIKbWtkaXIgJ2xpYnMvZGVzaWduLXRva2Vucy8udGVtcCcgfHwgZWNobyAiVGVtcCBkaXIgYWxyZWFkeSBleGlzdHMuIgo=</text>
+      <register name="0" type="4">
+        <text>DayOfTheWeek</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICBjb25zdCBob3VyID0gMTM2Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAiRG9uZSEgVHlwaW5ncyBub3cgZXhpc3QgaW4gJy4vZGlzdC9kZXNpZ24tdG9rZW5zL2pzLycuIgo=</text>
+        <text encoding="base64">ICAxOiAnU3VuZGF5JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmVjaG8gIkNyZWF0aW5nIHRlbXAgZGlyLi4iCm1rZGlyICdsaWJzL2Rlc2lnbi10b2tlbnMvLnRlbXAnIHx8IGVjaG8gIlRlbXAgZGlyIGFscmVhZHkgZXhpc3RzLiIK</text>
+        <text encoding="base64">ICAwOiAnU3VuZGF5JywKICAxOiAnU3VuZGF5JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkNyZWF0aW5nIHRlbXAgZGlyLi4iCg==</text>
+        <text encoding="base64">ICBjb25zdCBkYXlzID0gewogICAgMDogJ1N1bmRheScsCiAgICAxOiAnU3VuZGF5JywKICAgIDI6ICdNb25kYXknLAogICAgMzogJ1R1ZXNkYXknLAogICAgNDogJ1dlZG5lc2RheScsCiAgICA1OiAnVGh1cnNkYXknLAogICAgNjogJ0ZyaWRheScsCiAgICA3OiAnU2F0dXJkYXknLAogIH07CgogIGNvbnN0IHRpbWVzID0gewogICAgMDogJ01vcm5pbmcnLAogICAgMTogJ01vcm5pbmcnLAogICAgMjogJ1dvcmtkYXknLAogICAgMzogJ0V2ZW5pbmcnLAogIH07Cg==</text>
       </register>
       <register name="6" type="8">
-        <text>'libs/design-tokens/.temp'</text>
+        <text encoding="base64">dmFsdWUgPj0gcmFuZ2VbMF0gJiYgdmFsdWUgPD0gcmFuZ2VbMV0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkNsZWFudXAgc291cmNlIGZpbGVzLi4iCg==</text>
+        <text encoding="base64">ICAgIGlmICh2YWx1ZSA+PSByYW5nZVswXSAmJiB2YWx1ZSA8PSByYW5nZVsxXSkgewogICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KICB9CiAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VEVNUF9ESVI9J2xpYnMvZGVzaWduLXRva2Vucy8udGVtcCcK</text>
+        <text encoding="base64">ICBmb3IgKGNvbnN0IHJhbmdlIG9mIHJhbmdlcykgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">UmVhZG9ubHlBcnJheTxEYXlOdW1iZXJSYW5nZT4=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
