@@ -120,12 +120,11 @@
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" timestamp="1593186719264">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" timestamp="1593433013836">
         <mark key="'" line="90" column="63" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="121" column="40" />
-        <mark key="." line="131" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/components/conversions/graph/graph.component.ts" timestamp="1593184078581">
         <mark key="[" line="68" column="0" />
@@ -185,25 +184,25 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/generate-tokens-typings.sh" timestamp="1593186548987">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/generate-tokens-typings.sh" timestamp="1593433128861">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="37" column="96" />
-        <mark key="]" line="37" column="105" />
-        <mark key="." line="37" column="104" />
+        <mark key="]" line="37" column="96" />
+        <mark key="." line="37" column="96" />
         <mark key="^" line="37" column="105" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1593187530940">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1593432884485">
         <mark key="'" line="278" column="31" />
-        <mark key="[" line="306" column="19" />
-        <mark key="]" line="306" column="28" />
+        <mark key="[" line="302" column="38" />
+        <mark key="]" line="302" column="57" />
         <mark key="." line="306" column="27" />
         <mark key="^" line="306" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" timestamp="1593187133536">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" timestamp="1593432947595">
         <mark key="e" line="255" column="21" />
         <mark key="'" line="163" column="57" />
-        <mark key="[" line="252" column="6" />
-        <mark key="]" line="253" column="46" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="259" column="22" />
         <mark key="." line="253" column="45" />
         <mark key="^" line="253" column="46" />
       </file>
@@ -344,46 +343,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>, &quot;**/*.spec.ts&quot;</text>
+        <text encoding="base64">IC0tdHlwZXMgW10=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;**/*.spec.ts&quot;</text>
+        <text encoding="base64">IC0tdHlwZXMgW10=</text>
       </register>
       <register name="/" type="4">
         <text>creativeDayGraphMock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ewogICJjb21waWxlT25TYXZlIjogZmFsc2UsCiAgImNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJiYXNlVXJsIjogIi4iLAogICAgImRlY2xhcmF0aW9uIjogdHJ1ZSwKICAgICJlbWl0RGVjbGFyYXRpb25Pbmx5IjogdHJ1ZSwKICAgICJsaWIiOiBbImVzMjAxNyIsICJkb20iXSwKICAgICJtb2R1bGUiOiAiZXNuZXh0IiwKICAgICJtb2R1bGVSZXNvbHV0aW9uIjogIm5vZGUiLAogICAgInRhcmdldCI6ICJlczIwMTUiCiAgfSwKICAiaW5jbHVkZSI6IFsiLnRlbXAvKi5qcyJdLAogICJleGNsdWRlIjogWyIhLi90ZW1wIl0sCiAgInR5cGVzIiA6IFtdCn0K</text>
+        <text encoding="base64">Ly8gICBkYXk6ICdNb24nCi8vICAgbW9ybmluZzogMiwKLy8gICB3b3JrRGF5OiAxLAovLyAgIGV2ZW5pbmc6IDQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsic3JjLyoqLyoiXSwK</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsiIS4vdGVtcCJdLAo=</text>
+        <text encoding="base64">Ly8gICBkYXk6ICdNb24nCi8vICAgbW9ybmluZzogMiwKLy8gICB3b3JrRGF5OiAxLAovLyAgIGV2ZW5pbmc6IDQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAiIjogMi41LCBtb3JuaW5nSW1wcmVzc2lvbgovLyAgICJuYW1lcmljYSI6IDIuNSwgd29ya0ltcHJlc3Npb24KLy8gICAiYXNpYSI6IDIuMSwgZXZlbmluZ0ltcHJlc3Npb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAga2V5Cg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAibGFtZXJpY2EiOiAwLjMsCi8vICAgIm1lYXN0IjogMC4yLAovLyAgICJhZnJpY2EiOiAwLjEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAiaW5jbHVkZSI6IFsic3JjLyoqLyoiXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG5hbWVBPWEubmFtZS50b0xvd2VyQ2FzZSgpLCBuYW1lQj1iLm5hbWUudG9Mb3dlckNhc2UoKQo=</text>
+        <text encoding="base64">ICAiZXhjbHVkZSI6IFsiIS4vdGVtcCJdLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAga2V5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
