@@ -185,12 +185,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/generate-tokens-typings.sh" timestamp="1593435353996">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/ci/generate-tokens-typings.sh" timestamp="1593437950346">
         <mark key="'" line="23" column="17" />
-        <mark key="[" line="38" column="96" />
-        <mark key="]" line="38" column="96" />
-        <mark key="." line="38" column="95" />
-        <mark key="^" line="38" column="96" />
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="38" column="64" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="64" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.ts" timestamp="1593432884485">
         <mark key="'" line="278" column="31" />
@@ -199,9 +199,9 @@
         <mark key="." line="306" column="27" />
         <mark key="^" line="306" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" timestamp="1593436560712">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" timestamp="1593437837477">
         <mark key="e" line="257" column="21" />
-        <mark key="'" line="50" column="27" />
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="21" column="42" />
         <mark key="]" line="21" column="62" />
         <mark key="." line="21" column="61" />
@@ -236,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="35" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-impression-data.ts" />
       <jump line="127" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-impression-data.ts" />
       <jump line="221" column="54" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="44" column="67" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
@@ -336,6 +335,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/hour-mapping.ts" />
       <jump line="47" column="53" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" />
       <jump line="50" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
