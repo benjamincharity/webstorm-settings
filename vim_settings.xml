@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
-        <entry>downloadCsvInitiated</entry>
         <entry>sh</entry>
         <entry>name</entry>
         <entry>status</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxwb3BwZXIxXD4=</entry>
         <entry>overlay-color</entry>
         <entry>qa</entry>
+        <entry>popo</entry>
+        <entry>should get the current position and pass to determinePosition</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5BbGlnbiAtLWhlbHA=</entry>
@@ -116,8 +116,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-loading-overlay/loading-overlay.directive.spec.ts" timestamp="1593609264146">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-loading-overlay/loading-overlay.directive.spec.ts" timestamp="1593610650633">
+        <mark key="'" line="64" column="26" />
+        <mark key="[" line="82" column="56" />
+        <mark key="]" line="82" column="56" />
+        <mark key="." line="82" column="56" />
+        <mark key="^" line="82" column="39" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/trigger/popover-trigger.directive.ts" timestamp="1593544672525">
         <mark key="'" line="269" column="4" />
@@ -147,11 +151,11 @@
         <mark key="]" line="606" column="58" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/loading-overlay.directive.ts" timestamp="1593609242370">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/loading-overlay.directive.ts" timestamp="1593610889060">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="111" column="8" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1593540940865">
         <mark key="'" line="171" column="31" />
@@ -160,11 +164,11 @@
         <mark key="." line="259" column="0" />
         <mark key="^" line="160" column="36" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" timestamp="1593546211607">
-        <mark key="'" line="262" column="0" />
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="8" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" timestamp="1593610476692">
+        <mark key="'" line="31" column="10" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
         <mark key="^" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/package.json" timestamp="1593543932043">
@@ -187,11 +191,10 @@
         <mark key="." line="106" column="39" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" timestamp="1593608465619">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="110" column="52" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" timestamp="1593610486536">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui-checkbox/fesm2015/terminus-ui-checkbox.js" timestamp="1593539677753">
         <mark key="[" line="106" column="37" />
@@ -227,9 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="47" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="211" column="52" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="313" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
       <jump line="322" column="47" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
       <jump line="193" column="25" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.html" />
       <jump line="192" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
@@ -327,6 +327,9 @@
       <jump line="7" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/overlay/loading-overlay.component.scss" />
       <jump line="77" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/overlay/loading-overlay.component.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-loading-overlay/loading-overlay.directive.spec.ts" />
+      <jump line="91" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-loading-overlay/loading-overlay.directive.spec.ts" />
+      <jump line="31" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
+      <jump line="64" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-loading-overlay/loading-overlay.directive.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,40 +344,40 @@
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHFhLWxvYWRpbmctb3ZlcmxheQ==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>qa</text>
+        <text>should get the current position and pass to determinePosition</text>
       </register>
       <register name="0" type="4">
-        <text>--loading-overlay-stroke-color</text>
+        <text>TsLoadingOverlayDirective</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8kb3ZlcmxheS1jb2xvcjogY29sb3IocHVyZSk7Ci8vJG92ZXJsYXktY29sb3Itb3BhcXVlOiB0cmFuc3BhcmVudGl6ZSgkb3ZlcmxheS1jb2xvciwgLjIpOwovLyRvZmZzZXQ6IDE4NzsKLy8kZHVyYXRpb246IDEuNHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChtb3VzZWVudGVyKT0icG9wb3ZlclZpc2libGUgPSB0cnVlIgogICAgICAgICAgICAgICAgKG1vdXNlbGVhdmUpPSJwb3BvdmVyVmlzaWJsZSA9IGZhbHNlIgo=</text>
       </register>
-      <register name="3" type="8">
-        <text>var(--ts-color-primary-500)</text>
-      </register>
-      <register name="4" type="8">
-        <text>, .2)</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPGRpdi0tPgo8IS0tICAgICAgICAgICAgICAgIGNsYXNzPSJjcmVhdGl2ZS1pbWFnZV9fcG9wb3ZlciItLT4KPCEtLSAgICAgICAgICAgICAgICBbY2xhc3MuY3JlYXRpdmUtaW1hZ2VfX3BvcG92ZXImIzQ1OyYjNDU7dmlzaWJsZV09InBvcG92ZXJWaXNpYmxlIi0tPgo8IS0tICAgICAgICAgICAgICA+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGltZy0tPgo8IS0tICAgICAgICAgICAgICAgICAgY2xhc3M9ImNyZWF0aXZlLWltYWdlIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgW3NyY109Iml0ZW0uaW1hZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICBhbHQ9Int7IGl0ZW0ubmFtZSB9fSItLT4KPCEtLSAgICAgICAgICAgICAgICAvPi0tPgo8IS0tICAgICAgICAgICAgICA8L2Rpdj4tLT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdGVybWludXMvdWktcG9wb3ZlciI6ICJeMS4wLjAiLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJwb3BwZXIuanMiOiAiXjEuMTYuMSIsCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdWJsaWMgcG9wb3ZlclZpc2libGU6IGZhbHNlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8kb3ZlcmxheS1jb2xvcjogY29sb3IocHVyZSk7Ci8vJG92ZXJsYXktY29sb3Itb3BhcXVlOiB0cmFuc3BhcmVudGl6ZSgkb3ZlcmxheS1jb2xvciwgLjIpOwovLyRvZmZzZXQ6IDE4NzsKLy8kZHVyYXRpb246IDEuNHM7Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text>var(--ts-color-primary-500)</text>
+      </register>
+      <register name="8" type="8">
+        <text>, .2)</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPHRzLXBvcG92ZXIgI2ltYWdlUG9wb3Zlcj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8aW1nLS0+CjwhLS0gICAgICAgICAgICAgICAgICBjbGFzcz0iY3JlYXRpdmUtaW1hZ2UtbGFyZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICBbc3JjXT0iaXRlbS5pbWFnZSItLT4KPCEtLSAgICAgICAgICAgICAgICAgIGFsdD0ie3sgaXRlbS5uYW1lIH19Ii0tPgo8IS0tICAgICAgICAgICAgICAgICAgdHNQb3BvdmVyVHJpZ2dlcj0iaW1hZ2VQb3BvdmVyIi0tPgo8IS0tICAgICAgICAgICAgICAgIC8+LS0+CjwhLS0gICAgICAgICAgICAgIDwvdHMtcG9wb3Zlcj4tLT4K</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPGRpdi0tPgo8IS0tICAgICAgICAgICAgICAgIGNsYXNzPSJjcmVhdGl2ZS1pbWFnZV9fcG9wb3ZlciItLT4KPCEtLSAgICAgICAgICAgICAgICBbY2xhc3MuY3JlYXRpdmUtaW1hZ2VfX3BvcG92ZXImIzQ1OyYjNDU7dmlzaWJsZV09InBvcG92ZXJWaXNpYmxlIi0tPgo8IS0tICAgICAgICAgICAgICA+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGltZy0tPgo8IS0tICAgICAgICAgICAgICAgICAgY2xhc3M9ImNyZWF0aXZlLWltYWdlIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgW3NyY109Iml0ZW0uaW1hZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICBhbHQ9Int7IGl0ZW0ubmFtZSB9fSItLT4KPCEtLSAgICAgICAgICAgICAgICAvPi0tPgo8IS0tICAgICAgICAgICAgICA8L2Rpdj4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/dddddd/f39c12/g</text>
@@ -383,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>qa</last-search>
+      <last-search>should get the current position and pass to determinePosition</last-search>
       <last-offset />
-      <last-pattern>qa</last-pattern>
+      <last-pattern>should get the current position and pass to determinePosition</last-pattern>
       <last-replace>f39c12</last-replace>
       <last-substitute>dddddd</last-substitute>
       <last-dir>1</last-dir>
