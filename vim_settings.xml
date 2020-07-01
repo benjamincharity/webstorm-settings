@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>table</entry>
         <entry>csv</entry>
         <entry>disabled</entry>
         <entry encoding="base64">XDxhcmVBbGxSb3dzU2VsZWN0ZWRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>class</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxpbWFnZVRodW1ibmFpbFw+</entry>
+        <entry>popov</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5BbGlnbiAtLWhlbHA=</entry>
@@ -128,7 +128,7 @@
         <mark key="[" line="57" column="14" />
         <mark key="]" line="57" column="29" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.html" timestamp="1593616992798">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.html" timestamp="1593617910622">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="55" column="18" />
         <mark key="]" line="55" column="34" />
@@ -197,12 +197,12 @@
         <mark key="." line="106" column="39" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" timestamp="1593616960795">
-        <mark key="'" line="126" column="38" />
-        <mark key="[" line="262" column="58" />
-        <mark key="]" line="262" column="66" />
-        <mark key="." line="262" column="65" />
-        <mark key="^" line="262" column="66" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" timestamp="1593618565577">
+        <mark key="'" line="266" column="10" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="260" column="66" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.scss" timestamp="1593613706254">
         <mark key="'" line="72" column="4" />
@@ -233,12 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="29" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="156" column="36" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
-      <jump line="208" column="30" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="230" column="41" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="6" column="22" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="45" column="28" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="62" column="22" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="63" column="5" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="64" column="32" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
@@ -323,7 +317,6 @@
       <jump line="113" column="19" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="112" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="111" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="109" column="24" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="236" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="105" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="263" column="14" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
@@ -333,6 +326,13 @@
       <jump line="126" column="38" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="27" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.html" />
+      <jump line="280" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
+      <jump line="266" column="29" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
+      <jump line="269" column="31" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
+      <jump line="275" column="31" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
+      <jump line="278" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
+      <jump line="109" column="46" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
+      <jump line="267" column="10" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,8 +340,8 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>lue</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzUG9wb3ZlclRyaWdnZXI9ImltYWdlUHJldmlld1BvcG92ZXIiCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -350,34 +350,34 @@
         <text>lue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZVRodW1ibmFpbFw+</text>
+        <text>popov</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8aW1nCiAgICBjbGFzcz0iY3JlYXRpdmUtaW1hZ2UiCiAgICBbc3JjXT0iaXRlbS5pbWFnZSIKICAgIGFsdD0ie3sgaXRlbS5uYW1lIH19IgogICAgdHNQb3BvdmVyVHJpZ2dlcj0iaW1hZ2VQcmV2aWV3UG9wb3ZlciIKICAgIHBvc2l0aW9uPSJyaWdodCIKICAgIFtwb3BvdmVyXT0iaW1hZ2VQcmV2aWV3UG9wb3ZlciIKICAgIChtb3VzZWVudGVyKT0iaG92ZXJUaHVtYm5haWwoaXRlbS5uYW1lKSIKICAgIChtb3VzZWxlYXZlKT0iaG92ZXJUaHVtYm5haWwobnVsbCkiCiAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bmctdGVtcGxhdGUgKm5nVGVtcGxhdGVPdXRsZXQ9ImltYWdlVGh1bWJuYWlsOyBjb250ZXh0OiB7aXRlbSA6IGl0ZW19Ij48L25nLXRlbXBsYXRlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzUG9wb3ZlclRyaWdnZXI9ImltYWdlUHJldmlld1BvcG92ZXIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHNQb3BvdmVyVHJpZ2dlcj0iaW1hZ2VQcmV2aWV3UG9wb3ZlciIKICAgICAgcG9zaXRpb249InJpZ2h0IgogICAgICBbcG9wb3Zlcl09ImltYWdlUHJldmlld1BvcG92ZXIiCiAgICAgIChtb3VzZWVudGVyKT0iaG92ZXJUaHVtYm5haWwoaXRlbS5uYW1lKSIKICAgICAgKG1vdXNlbGVhdmUpPSJob3ZlclRodW1ibmFpbChudWxsKSIK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPG5nLXRlbXBsYXRlIFtuZ1RlbXBsYXRlT3V0bGV0XT0iaW1hZ2VUaHVtYm5haWwiIFtuZ1RlbXBsYXRlT3V0bGV0Q29udGV4dF09Iml0ZW0iPjwvbmctdGVtcGxhdGU+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3M9ImNyZWF0aXZlLWltYWdlIgo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwPkFueSBIVE1MIGNhbiBiZSBwbGFjZWQgaGVyZSE8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgdHNQb3BvdmVyVHJpZ2dlcj0iaW1hZ2VQcmV2aWV3UG9wb3ZlciIKICAgICAgcG9zaXRpb249InJpZ2h0IgogICAgICBbcG9wb3Zlcl09ImltYWdlUHJldmlld1BvcG92ZXIiCiAgICAgIChtb3VzZWVudGVyKT0iaG92ZXJUaHVtYm5haWwoaXRlbS5uYW1lKSIKICAgICAgKG1vdXNlbGVhdmUpPSJob3ZlclRodW1ibmFpbChudWxsKSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgPHByZT57e2l0ZW0gfCBqc29ufX08L3ByZT4tLT4K</text>
+        <text encoding="base64">ICAgICAgY2xhc3M9ImNyZWF0aXZlLWltYWdlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cjx0cy1wb3BvdmVyICNpbWFnZVByZXZpZXdQb3BvdmVyPgogIDxoMT5NeSBUaXRsZTwvaDE+CiAgPHA+QW55IEhUTUwgY2FuIGJlIHBsYWNlZCBoZXJlITwvcD4KPC90cy1wb3BvdmVyPgo=</text>
+        <text encoding="base64">ICAgIDxwPkFueSBIVE1MIGNhbiBiZSBwbGFjZWQgaGVyZSE8L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSAgPHByZT57e2l0ZW0gfCBqc29ufX08L3ByZT4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtwb3BvdmVyXT0iIgo=</text>
+        <text encoding="base64">Cjx0cy1wb3BvdmVyICNpbWFnZVByZXZpZXdQb3BvdmVyPgogIDxoMT5NeSBUaXRsZTwvaDE+CiAgPHA+QW55IEhUTUwgY2FuIGJlIHBsYWNlZCBoZXJlITwvcD4KPC90cy1wb3BvdmVyPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -389,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbWFnZVRodW1ibmFpbFw+</last-search>
+      <last-search>popov</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZVRodW1ibmFpbFw+</last-pattern>
+      <last-pattern>popov</last-pattern>
       <last-replace>f39c12</last-replace>
       <last-substitute>dddddd</last-substitute>
       <last-dir>1</last-dir>
