@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>column</entry>
-        <entry>ropped</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry>downloadCsvInitiated</entry>
         <entry>sh</entry>
@@ -25,6 +23,8 @@
         <entry>img</entry>
         <entry encoding="base64">XDxpbWFnZVBvcG92ZXJcPg==</entry>
         <entry encoding="base64">XDxwb3BwZXIxXD4=</entry>
+        <entry>overlay-color</entry>
+        <entry>qa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5BbGlnbiAtLWhlbHA=</entry>
@@ -116,6 +116,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-loading-overlay/loading-overlay.directive.spec.ts" timestamp="1593609264146">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/popover/src/lib/trigger/popover-trigger.directive.ts" timestamp="1593544672525">
         <mark key="'" line="269" column="4" />
         <mark key="[" line="57" column="14" />
@@ -144,6 +147,12 @@
         <mark key="]" line="606" column="58" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/loading-overlay.directive.ts" timestamp="1593609242370">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/containers/retargeting.container.component.html" timestamp="1593540940865">
         <mark key="'" line="171" column="31" />
         <mark key="[" line="151" column="0" />
@@ -171,12 +180,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/nx.json" timestamp="1593536970812">
-        <mark key="[" line="44" column="9" />
-        <mark key="]" line="44" column="18" />
-        <mark key="." line="44" column="17" />
-        <mark key="^" line="44" column="18" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" timestamp="1593542935261">
         <mark key="'" line="90" column="7" />
         <mark key="[" line="106" column="39" />
@@ -184,16 +187,11 @@
         <mark key="." line="106" column="39" />
         <mark key="^" line="106" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" timestamp="1593546466069">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" timestamp="1593608465619">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
         <mark key="^" line="110" column="52" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.scss" timestamp="1593529803827">
-        <mark key="'" line="109" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/node_modules/@terminus/ui-checkbox/fesm2015/terminus-ui-checkbox.js" timestamp="1593539677753">
         <mark key="[" line="106" column="37" />
@@ -201,23 +199,22 @@
         <mark key="^" line="106" column="46" />
         <mark key="." line="106" column="45" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-heads-up-graph/creative-heads-up-graph.component.ts" timestamp="1593539450164">
-        <mark key="'" line="195" column="60" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="196" column="32" />
-        <mark key="." line="196" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.scss" timestamp="1593546121028">
         <mark key="'" line="72" column="4" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/style-helpers/_scrollbars.scss" timestamp="1593529792769">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="5" column="57" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/overlay/loading-overlay.component.html" timestamp="1593609203102">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1593608434570">
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/overlay/loading-overlay.component.scss" timestamp="1593609184160">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1593608448996">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
@@ -230,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="9" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
-      <jump line="13" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
-      <jump line="124" column="67" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
-      <jump line="200" column="39" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="210" column="47" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="211" column="52" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="313" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" />
@@ -330,6 +323,10 @@
       <jump line="122" column="19" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
       <jump line="72" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.scss" />
       <jump line="261" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
+      <jump line="6" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/overlay/loading-overlay.component.scss" />
+      <jump line="7" column="1" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/overlay/loading-overlay.component.scss" />
+      <jump line="77" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/loading-overlay/src/lib/overlay/loading-overlay.component.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-loading-overlay/loading-overlay.directive.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,46 +335,46 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICJAdGVybWludXMvdWktcG9wb3ZlciI6ICJeMS4wLjAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IHFhLWxvYWRpbmctb3ZlcmxheQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3BwZXIxXD4=</text>
+        <text>qa</text>
       </register>
       <register name="0" type="4">
-        <text>popover</text>
+        <text>--loading-overlay-stroke-color</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdGVybWludXMvdWktcG9wb3ZlciI6ICJeMS4wLjAiLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJwb3BwZXIuanMiOiAiXjEuMTYuMSIsCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPHRzLXBvcG92ZXIgI2ltYWdlUG9wb3Zlcj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8aW1nLS0+CjwhLS0gICAgICAgICAgICAgICAgICBjbGFzcz0iY3JlYXRpdmUtaW1hZ2UtbGFyZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICBbc3JjXT0iaXRlbS5pbWFnZSItLT4KPCEtLSAgICAgICAgICAgICAgICAgIGFsdD0ie3sgaXRlbS5uYW1lIH19Ii0tPgo8IS0tICAgICAgICAgICAgICAgICAgdHNQb3BvdmVyVHJpZ2dlcj0iaW1hZ2VQb3BvdmVyIi0tPgo8IS0tICAgICAgICAgICAgICAgIC8+LS0+CjwhLS0gICAgICAgICAgICAgIDwvdHMtcG9wb3Zlcj4tLT4K</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8kb3ZlcmxheS1jb2xvcjogY29sb3IocHVyZSk7Ci8vJG92ZXJsYXktY29sb3Itb3BhcXVlOiB0cmFuc3BhcmVudGl6ZSgkb3ZlcmxheS1jb2xvciwgLjIpOwovLyRvZmZzZXQ6IDE4NzsKLy8kZHVyYXRpb246IDEuNHM7Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>popoverToggle(true)</text>
+      <register name="3" type="8">
+        <text>var(--ts-color-primary-500)</text>
+      </register>
+      <register name="4" type="8">
+        <text>, .2)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPGRpdi0tPgo8IS0tICAgICAgICAgICAgICAgIGNsYXNzPSJjcmVhdGl2ZS1pbWFnZV9fcG9wb3ZlciItLT4KPCEtLSAgICAgICAgICAgICAgICBbY2xhc3MuY3JlYXRpdmUtaW1hZ2VfX3BvcG92ZXImIzQ1OyYjNDU7dmlzaWJsZV09InBvcG92ZXJWaXNpYmxlIi0tPgo8IS0tICAgICAgICAgICAgICA+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGltZy0tPgo8IS0tICAgICAgICAgICAgICAgICAgY2xhc3M9ImNyZWF0aXZlLWltYWdlIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgW3NyY109Iml0ZW0uaW1hZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICBhbHQ9Int7IGl0ZW0ubmFtZSB9fSItLT4KPCEtLSAgICAgICAgICAgICAgICAvPi0tPgo8IS0tICAgICAgICAgICAgICA8L2Rpdj4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKG1vdXNlZW50ZXIpPSJwb3BvdmVyVG9nZ2xlKHRydWUpIgogICAgICAgICAgICAgICAgICAobW91c2VsZWF2ZSk9InBvcG92ZXJUb2dnbGUoZmFsc2UpIgo=</text>
+        <text encoding="base64">ICAgICJAdGVybWludXMvdWktcG9wb3ZlciI6ICJeMS4wLjAiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHNQb3BvdmVyQ29tcG9uZW50LCBUc1BvcG92ZXJUcmlnZ2VyRGlyZWN0aXZlIH0gZnJvbSAnQHRlcm1pbnVzL3VpLXBvcG92ZXInOwo=</text>
+        <text encoding="base64">ICAgICJwb3BwZXIuanMiOiAiXjEuMTYuMSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcG9wb3ZlclZpc2libGU6IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHVibGljIHBvcG92ZXJUb2dnbGUoc2hvdWxkU2hvdzogYm9vbGVhbik6IHZvaWQgewogICAgaWYgKHNob3VsZFNob3cpIHsKICAgICAgdGhpcy5wb3BvdmVyUmVmZXJlbmNlLnNob3coKTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMucG9wb3ZlclJlZmVyZW5jZS5oaWRlKCk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgPHRzLXBvcG92ZXIgI2ltYWdlUG9wb3Zlcj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8aW1nLS0+CjwhLS0gICAgICAgICAgICAgICAgICBjbGFzcz0iY3JlYXRpdmUtaW1hZ2UtbGFyZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICBbc3JjXT0iaXRlbS5pbWFnZSItLT4KPCEtLSAgICAgICAgICAgICAgICAgIGFsdD0ie3sgaXRlbS5uYW1lIH19Ii0tPgo8IS0tICAgICAgICAgICAgICAgICAgdHNQb3BvdmVyVHJpZ2dlcj0iaW1hZ2VQb3BvdmVyIi0tPgo8IS0tICAgICAgICAgICAgICAgIC8+LS0+CjwhLS0gICAgICAgICAgICAgIDwvdHMtcG9wb3Zlcj4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/dddddd/f39c12/g</text>
@@ -386,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwb3BwZXIxXD4=</last-search>
+      <last-search>qa</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3BwZXIxXD4=</last-pattern>
+      <last-pattern>qa</last-pattern>
       <last-replace>f39c12</last-replace>
       <last-substitute>dddddd</last-substitute>
       <last-dir>1</last-dir>
