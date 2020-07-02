@@ -116,30 +116,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/color/color.component.spec.ts" timestamp="1593629705550">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.html" timestamp="1593625442048">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="18" />
-        <mark key="]" line="55" column="34" />
-        <mark key="." line="55" column="36" />
-        <mark key="^" line="55" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-select/select.component.spec.ts" timestamp="1593632413585">
-        <mark key="[" line="768" column="0" />
-        <mark key="]" line="770" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" timestamp="1593632788521">
-        <mark key="[" line="208" column="5" />
-        <mark key="]" line="210" column="56" />
-        <mark key="." line="210" column="55" />
-        <mark key="^" line="210" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.scss" timestamp="1593623929127">
-        <mark key="]" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-modal/creative-modal.component.scss" timestamp="1593623817263">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="7" column="21" />
@@ -147,35 +123,30 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-table-data.mock.ts" timestamp="1593626035516">
-        <mark key="'" line="706" column="6" />
-        <mark key="[" line="706" column="0" />
-        <mark key="]" line="714" column="2" />
-        <mark key="." line="706" column="6" />
-        <mark key="^" line="706" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/style-helpers/_shadows.scss" timestamp="1593623705369">
-        <mark key="'" line="123" column="18" />
-        <mark key="[" line="119" column="2" />
-        <mark key="]" line="119" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" timestamp="1593631841750">
-        <mark key="'" line="198" column="28" />
-        <mark key="[" line="198" column="96" />
-        <mark key="]" line="198" column="103" />
-        <mark key="." line="198" column="102" />
-        <mark key="^" line="198" column="103" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-root/components/app-root.component.spec.ts" timestamp="1593629617392">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="51" column="10" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-modal/creative-modal.component.spec.ts" timestamp="1593625357709">
         <mark key="'" line="24" column="21" />
         <mark key="[" line="3" column="9" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-modal/creative-modal.component.ts" timestamp="1593627366739">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1593629801028">
+        <mark key="'" line="103" column="6" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="140" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-table-data.mock.ts" timestamp="1593626035516">
+        <mark key="'" line="706" column="6" />
+        <mark key="[" line="706" column="0" />
+        <mark key="]" line="714" column="2" />
+        <mark key="." line="706" column="6" />
+        <mark key="^" line="706" column="7" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" timestamp="1593626928810">
         <mark key="'" line="107" column="17" />
@@ -191,28 +162,14 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.scss" timestamp="1593623645851">
-        <mark key="'" line="72" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/color/color.component.spec.ts" timestamp="1593629705550">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-impression-data.ts" timestamp="1593624240221">
-        <mark key="'" line="130" column="14" />
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-modal/creative-modal.component.ts" timestamp="1593627366739">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/specs/retargeting.container.component.spec.ts" timestamp="1593629801028">
-        <mark key="'" line="103" column="6" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="140" column="5" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/styles/src/lib/style-helpers/_shadows.scss" timestamp="1593623705369">
+        <mark key="'" line="123" column="18" />
+        <mark key="[" line="119" column="2" />
+        <mark key="]" line="119" column="7" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1593632735251">
         <mark key="'" line="397" column="0" />
@@ -221,15 +178,58 @@
         <mark key="." line="275" column="70" />
         <mark key="^" line="275" column="71" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.html" timestamp="1593625442048">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="55" column="34" />
+        <mark key="." line="55" column="36" />
+        <mark key="^" line="55" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" timestamp="1593631841750">
+        <mark key="'" line="198" column="28" />
+        <mark key="[" line="198" column="96" />
+        <mark key="]" line="198" column="103" />
+        <mark key="." line="198" column="102" />
+        <mark key="^" line="198" column="103" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/app-root/components/app-root.component.spec.ts" timestamp="1593629617392">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="51" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.scss" timestamp="1593623645851">
+        <mark key="'" line="72" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/specs/ui-select/select.component.spec.ts" timestamp="1593632413585">
+        <mark key="[" line="768" column="0" />
+        <mark key="]" line="770" column="30" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/package.json" timestamp="1593625218979">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" timestamp="1593696274688">
+        <mark key="[" line="300" column="26" />
+        <mark key="]" line="300" column="40" />
+        <mark key="." line="300" column="39" />
+        <mark key="^" line="300" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.scss" timestamp="1593623929127">
+        <mark key="]" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1593626945773">
         <mark key="'" line="326" column="16" />
         <mark key="[" line="235" column="0" />
         <mark key="]" line="235" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-impression-data.ts" timestamp="1593624240221">
+        <mark key="'" line="130" column="14" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -340,14 +340,14 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0LmFzc2VydGlvbnMoMik7Cg==</text>
+      <register name="*" type="4">
+        <text>[</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VHNTZWxlY3Rpb25MaXN0Q2hhbmdlLCA=</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGl2ZUdyb3VwRmlsdGVyQ2hhbmdlZFw+</text>
@@ -395,7 +395,7 @@
       <last-replace>f39c12</last-replace>
       <last-substitute>dddddd</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
