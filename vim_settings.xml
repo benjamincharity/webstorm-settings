@@ -165,10 +165,10 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1593632735251">
-        <mark key="'" line="397" column="0" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="275" column="71" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" timestamp="1594047375028">
+        <mark key="'" line="279" column="15" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="189" column="1" />
         <mark key="." line="275" column="70" />
         <mark key="^" line="275" column="71" />
       </file>
@@ -201,12 +201,12 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.ts" timestamp="1593709075732">
         <mark key="'" line="80" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" timestamp="1594045946123">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" timestamp="1594047538087">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="0" />
-        <mark key="^" line="326" column="6" />
-        <mark key="." line="311" column="0" />
+        <mark key="[" line="348" column="117" />
+        <mark key="]" line="348" column="124" />
+        <mark key="^" line="348" column="124" />
+        <mark key="." line="348" column="123" />
       </file>
       <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1594044197086">
         <mark key="'" line="310" column="4" />
@@ -234,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="318" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
       <jump line="426" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
@@ -334,6 +333,7 @@
       <jump line="138" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="274" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
       <jump line="21" column="26" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
+      <jump line="279" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,47 +341,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoYW5nZTogamVzdC5mbigpLAo=</text>
+      <register name="*" type="4">
+        <text>.querySelectorAll('tbody tr')[0]);</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.querySelectorAll('tbody tr')[0]);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRWaXNpYmxlQ29sdW1uc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>onChange</text>
+      <register name="0" type="8">
+        <text>spectator.query('.ts-table').querySelectorAll('tbody tr'))[0]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoYW5nZTogamVzdC5mbigpLAo=</text>
+      <register name="1" type="8">
+        <text>Component</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIChjb2x1bW5zQ2hhbmdlKT0iY2hhbmdlKCRldmVudCkiCg==</text>
+        <text encoding="base64">ICAgICAgY2VsbHMgPSBnZXRDZWxscyhnZXRSb3dzKHRhYmxlRWxlbWVudClbMF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBUYWJsZVJvd1RvZ2dsZUV2ZW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNoYW5nZTogamVzdC5mbigpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBRlRFUiBFTUlUJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIChjb2x1bW5zQ2hhbmdlKT0iY2hhbmdlKCRldmVudCkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRWaXNpYmxlQ29sdW1uczogJywgdGhpcy52aXNpYmxlQ29sdW1ucy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICBUYWJsZVJvd1RvZ2dsZUV2ZW50LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBRlRFUiBFTUlUJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCdBRlRFUiBUSElTJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRWaXNpYmxlQ29sdW1uczogJywgdGhpcy52aXNpYmxlQ29sdW1ucy5sZW5ndGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXhwZWN0KHNwZWN0YXRvci5ob3N0Q29tcG9uZW50LmNoYW5nZSkudG9IYXZlQmVlbkNhbGxlZCgpOwogICAgICAvLyBleHBlY3Qob3V0cHV0WzBdKS50b0VxdWFsKGV4cGVjdC5vYmplY3RDb250YWluaW5nKHsgZm9vOiAnYmFyJyB9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICBjb25zdCBvdXRwdXRTcHkgPSBqZXN0LmZuKCk7CiAgICAgIHNwZWN0YXRvci5vdXRwdXQoJ2NvbHVtbnNDaGFuZ2VkJykuc3Vic2NyaWJlKG91dHB1dFNweSk7Cgo=</text>
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCdBRlRFUiBUSElTJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
