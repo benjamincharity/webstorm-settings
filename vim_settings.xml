@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>popo</entry>
         <entry>should get the current position and pass to determinePosition</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>disabled</entry>
         <entry>progress</entry>
         <entry encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</entry>
+        <entry encoding="base64">XDxhbGxQb3NzaWJsZUNvbHVtbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/yarn run semantic/npx semantic/g</entry>
@@ -179,8 +179,8 @@
         <mark key="." line="55" column="59" />
         <mark key="^" line="55" column="60" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" timestamp="1593708543726">
-        <mark key="'" line="192" column="28" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" timestamp="1594039600674">
+        <mark key="'" line="179" column="0" />
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
@@ -201,16 +201,16 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.ts" timestamp="1593709075732">
         <mark key="'" line="80" column="17" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" timestamp="1593709326034">
-        <mark key="'" line="36" column="19" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" timestamp="1594040264931">
+        <mark key="'" line="325" column="42" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
+        <mark key="^" line="323" column="37" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1593626945773">
+      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.ts" timestamp="1594039823244">
         <mark key="'" line="326" column="16" />
-        <mark key="[" line="235" column="0" />
+        <mark key="[" line="48" column="7" />
         <mark key="]" line="235" column="76" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/button/src/lib/button/button.component.html" timestamp="1593706312052">
@@ -232,16 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="45" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
-      <jump line="130" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
-      <jump line="362" column="12" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
-      <jump line="167" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
-      <jump line="145" column="7" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-table-data.mock.ts" />
-      <jump line="704" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-table-data.mock.ts" />
-      <jump line="152" column="22" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
-      <jump line="189" column="18" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-table-data.mock.ts" />
       <jump line="706" column="6" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-table-data.mock.ts" />
       <jump line="89" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" />
       <jump line="123" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" />
@@ -316,7 +306,6 @@
       <jump line="400" column="23" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="110" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="383" column="7" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="398" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="272" column="33" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="407" column="40" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
@@ -332,6 +321,17 @@
       <jump line="213" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="412" column="1" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="36" column="19" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="167" column="30" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="301" column="34" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="264" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="307" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="308" column="16" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="179" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
+      <jump line="313" column="12" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="136" column="27" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="262" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
+      <jump line="314" column="42" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,47 +339,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="8">
-        <text encoding="base64">U3BlY3RhdG9yLCBjcmVhdGVDb21wb25lbnRGYWN0b3J5LCA=</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KG91dHB1dC5sZW5ndGgpLnRvRXF1YWwoOSk7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</text>
+        <text encoding="base64">XDxhbGxQb3NzaWJsZUNvbHVtbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICBkZXNjcmliZShgY29sdW1uc2AsICgpID0+IHsKLy8gICAgIHRlc3QoYHNob3VsZCBhbGxvdyBjb2x1bW5zIHRvIGJlIGhpZGRlbmAsIGFzeW5jKCkgPT4gewovLyAgICAgICBjb25zdCB0YWJsZUVsZW1lbnQgPSBmaXh0dXJlLm5hdGl2ZUVsZW1lbnQucXVlcnlTZWxlY3RvcignLnRzLXRhYmxlJyk7Ci8vICAgICAgIGxldCBjZWxscyA9IGdldENlbGxzKGdldFJvd3ModGFibGVFbGVtZW50KVswXSk7Ci8vICAgICAgIGV4cGVjdChjZWxscy5sZW5ndGgpLnRvRXF1YWwoMTApOwovLwovLyAgICAgICBjb21wb25lbnQuYWxsUG9zc2libGVDb2x1bW5zWzNdLmNvbnRyb2wuc2V0VmFsdWUoZmFsc2UpOwovLyAgICAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsKLy8gICAgICAgYXdhaXQgZml4dHVyZS53aGVuU3RhYmxlKCk7Ci8vICAgICAgIGNlbGxzID0gZ2V0Q2VsbHMoZ2V0Um93cyh0YWJsZUVsZW1lbnQpWzBdKTsKLy8gICAgICAgZXhwZWN0KGNlbGxzLmxlbmd0aCkudG9FcXVhbCg5KTsKLy8gICAgICAgZXhwZWN0KHRlc3RIb3N0LmNvbHVtbnNDaGFuZ2VkKS50b0hhdmVCZWVuQ2FsbGVkKCk7Ci8vICAgICAgIGV4cGVjdC5hc3NlcnRpb25zKDMpOwovLyAgICAgfSk7Ci8vCi8vICAgICB0ZXN0KGBzaG91bGQgYWxsb3cgY29sdW1ucyB0byBiZSByZW9yZGVyZWRgLCAoKSA9PiB7Ci8vICAgICAgIGNvbnN0IHRhYmxlRWxlbWVudCA9IGZpeHR1cmUubmF0aXZlRWxlbWVudC5xdWVyeVNlbGVjdG9yKCcudHMtdGFibGUnKTsKLy8gICAgICAgY29uc3Qgcm93cyA9IGdldFJvd3ModGFibGVFbGVtZW50KTsKLy8gICAgICAgbGV0IGNlbGxzID0gZ2V0Q2VsbHMocm93c1swXSk7Ci8vICAgICAgIGV4cGVjdChjZWxsc1szXS50ZXh0Q29udGVudCEudHJpbSgpKS50b0VxdWFsKCc2Jyk7Ci8vICAgICAgIGV4cGVjdChjZWxsc1s0XS50ZXh0Q29udGVudCEudHJpbSgpKS50b0VxdWFsKCczMCcpOwovLwovLyAgICAgICBjb25zdCBmYWtlRHJvcDogUGFydGlhbDxDZGtEcmFnRHJvcDxzdHJpbmdbXT4+ID0gewovLyAgICAgICAgIHByZXZpb3VzSW5kZXg6IDUsCi8vICAgICAgICAgY3VycmVudEluZGV4OiA0LAovLyAgICAgICB9OwovLyAgICAgICBjb21wb25lbnQuY29sdW1uRHJvcHBlZChmYWtlRHJvcCBhcyBDZGtEcmFnRHJvcDxzdHJpbmdbXT4pOwovLyAgICAgICBmaXh0dXJlLmRldGVjdENoYW5nZXMoKTsKLy8gICAgICAgY2VsbHMgPSBnZXRDZWxscyhnZXRSb3dzKHRhYmxlRWxlbWVudClbMF0pOwovLyAgICAgICBleHBlY3QoY2VsbHNbM10udGV4dENvbnRlbnQhLnRyaW0oKSkudG9FcXVhbCgnMzAnKTsKLy8gICAgICAgZXhwZWN0KGNlbGxzWzRdLnRleHRDb250ZW50IS50cmltKCkpLnRvRXF1YWwoJzYnKTsKLy8gICAgICAgZXhwZWN0LmFzc2VydGlvbnMoNCk7Ci8vICAgICB9KTsKLy8gICB9KTsK</text>
+        <text encoding="base64">ICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICBzcGVjdGF0b3IgPSBjcmVhdGVIb3N0KGAKICAgICAgICA8YXBwLWNyZWF0aXZlLXRhYmxlCiAgICAgICAgICBbcmVjb3Jkc109InJlY29yZHMiCiAgICAgICAgICBbY3N2UmVwb3J0SXNMb2FkaW5nXT0iY3N2TG9hZGluZyIKICAgICAgICAgIFtjc3ZSZXBvcnRJc1BlbmRpbmddPSJjc3ZSZXBvcnRJc1BlbmRpbmciCiAgICAgICAgPjwvYXBwLWNyZWF0aXZlLXRhYmxlPmAsIHsKICAgICAgICBob3N0UHJvcHM6IHsKICAgICAgICAgIHJlY29yZHM6IE1PQ0tfVEFCTEVfREFUQSwKICAgICAgICAgIGNzdkxvYWRpbmc6IGZhbHNlLAogICAgICAgICAgY3N2UmVwb3J0SXNQZW5kaW5nOiBmYWxzZSwKICAgICAgICB9LAogICAgICB9KTsKICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">U3BlY3RhdG9yLCBjcmVhdGVDb21wb25lbnRGYWN0b3J5LCA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KG91dHB1dC5sZW5ndGgpLnRvRXF1YWwoOSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBnZXRDZWxscywKICBnZXRSb3dzLAp9IGZyb20gJ0B0ZXJtaW51cy91aS10YWJsZS90ZXN0aW5nJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNzdkxvYWRpbmc6IGZhbHNlLAogICAgICAgICAgY3N2UmVwb3J0SXNQZW5kaW5nOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGlzcGF0Y2hNb3VzZUV2ZW50IH0gZnJvbSAnQHRlcm1pbnVzL25neC10b29scy90ZXN0aW5nJzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnkgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyJzsK</text>
+        <text encoding="base64">ICAgICAgLy8gY2VsbHMgPSBnZXRDZWxscyhnZXRSb3dzKHRhYmxlRWxlbWVudClbMF0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBhc3luYywKICBDb21wb25lbnRGaXh0dXJlLCBmYWtlQXN5bmMsCiAgVGVzdEJlZCwgdGljaywKfSBmcm9tICdAYW5ndWxhci9jb3JlL3Rlc3RpbmcnOwo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAvLyBjb25zdCB0YWJsZUVsZW1lbnQgPSBmaXh0dXJlLm5hdGl2ZUVsZW1lbnQucXVlcnlTZWxlY3RvcignLnRzLXRhYmxlJyk7CiAgICAgIGxldCBjZWxscyA9IGdldENlbGxzKGdldFJvd3ModGFibGVFbGVtZW50KVswXSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBDZGtEcmFnRHJvcCwK</text>
+      <register name="6" type="8">
+        <text>pectator.query('table')</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vIGRlc2NyaWJlKCdDcmVhdGl2ZVRhYmxlQ29tcG9uZW50JywgKCkgPT4gewovLyAgIGxldCBjb21wb25lbnQ6IENyZWF0aXZlVGFibGVDb21wb25lbnQ7Ci8vICAgbGV0IGZpeHR1cmU6IENvbXBvbmVudEZpeHR1cmU8VGVzdEhvc3Q+OwovLyAgIGxldCB0ZXN0SG9zdDogVGVzdEhvc3Q7Ci8vCi8vICAgYmVmb3JlRWFjaChhc3luYygoKSA9PiB7Ci8vICAgICBUZXN0QmVkLmNvbmZpZ3VyZVRlc3RpbmdNb2R1bGUoewovLyAgICAgICBpbXBvcnRzOiBbCi8vICAgICAgICAgQ2xpY2tUaHJvdWdoUmF0ZU1vZHVsZSwKLy8gICAgICAgICBEcmFnRHJvcE1vZHVsZSwKLy8gICAgICAgICBGbGV4TGF5b3V0TW9kdWxlLAovLyAgICAgICAgIEZvcm1zTW9kdWxlLAovLyAgICAgICAgIE5vb3BBbmltYXRpb25zTW9kdWxlLAovLyAgICAgICAgIFJlYWN0aXZlRm9ybXNNb2R1bGUsCi8vICAgICAgICAgUm91dGVyTW9kdWxlLmZvclJvb3QoW10pLAovLyAgICAgICAgIFNwZW5kR3JhcGhDb21wb25lbnRNb2R1bGUsCi8vICAgICAgICAgVHNCdXR0b25Nb2R1bGUsCi8vICAgICAgICAgVHNDYXJkTW9kdWxlLAovLyAgICAgICAgIFRzQ2hlY2tib3hNb2R1bGUsCi8vICAgICAgICAgVHNFeHBhbnNpb25QYW5lbE1vZHVsZSwKLy8gICAgICAgICBUc0ljb25Nb2R1bGUsCi8vICAgICAgICAgVHNMaW5rTW9kdWxlLAovLyAgICAgICAgIFRzTG9hZGluZ092ZXJsYXlNb2R1bGUsCi8vICAgICAgICAgVHNNZW51TW9kdWxlLAovLyAgICAgICAgIFRzT3B0aW9uTW9kdWxlLAovLyAgICAgICAgIFRzUGlwZXNNb2R1bGUsCi8vICAgICAgICAgVHNTZWxlY3Rpb25MaXN0TW9kdWxlLAovLyAgICAgICAgIFRzU29ydE1vZHVsZSwKLy8gICAgICAgICBUc1RhYmxlTW9kdWxlLAovLyAgICAgICBdLAovLyAgICAgICBkZWNsYXJhdGlvbnM6IFsKLy8gICAgICAgICBDcmVhdGl2ZU1vZGFsQ29tcG9uZW50LAovLyAgICAgICAgIENyZWF0aXZlVGFibGVDb21wb25lbnQsCi8vICAgICAgICAgUmV0YXJnZXRpbmdBY2NvdW50R3JhcGhDb21wb25lbnQsCi8vICAgICAgICAgVGVzdEhvc3QsCi8vICAgICAgIF0sCi8vICAgICAgIHByb3ZpZGVyczogWwovLyAgICAgICAgIHsKLy8gICAgICAgICAgIHByb3ZpZGU6IEFQUF9CQVNFX0hSRUYsCi8vICAgICAgICAgICB1c2VWYWx1ZTogJy8nLAovLyAgICAgICAgIH0sCi8vICAgICAgICAgRGVjaW1hbFBpcGUsCi8vICAgICAgIF0sCi8vICAgICB9KS5jb21waWxlQ29tcG9uZW50cygpOwovLyAgIH0pKTsKLy8KLy8gICBiZWZvcmVFYWNoKCgpID0+IHsKLy8gICAgIGZpeHR1cmUgPSBUZXN0QmVkLmNyZWF0ZUNvbXBvbmVudChUZXN0SG9zdCk7Ci8vICAgICB0ZXN0SG9zdCA9IGZpeHR1cmUuY29tcG9uZW50SW5zdGFuY2U7Ci8vICAgICBjb25zdCB0YWJsZURlYnVnRWxlbWVudCA9IGZpeHR1cmUuZGVidWdFbGVtZW50LnF1ZXJ5KChCeS5kaXJlY3RpdmUoQ3JlYXRpdmVUYWJsZUNvbXBvbmVudCkpKTsKLy8gICAgIGNvbXBvbmVudCA9IHRhYmxlRGVidWdFbGVtZW50LmNvbXBvbmVudEluc3RhbmNlOwovLyAgICAgZml4dHVyZS5kZXRlY3RDaGFuZ2VzKCk7Ci8vICAgfSk7Ci8vCi8vICAgdGVzdChgc2hvdWxkIGV4aXN0YCwgKCkgPT4gewovLyAgICAgZXhwZWN0KGNvbXBvbmVudCkudG9CZVRydXRoeSgpOwovLyAgIH0pOwovLwovLyAgIC8vIFRPRE86IEp1c3QgcGFzdGVkIHRoZXNlIHRlc3RzIC0gbmVlZCB0byBnZXQgcGFzc2luZwovLwovLyAgIGRlc2NyaWJlKGBjb2x1bW5zYCwgKCkgPT4gewovLyAgICAgdGVzdChgc2hvdWxkIGFsbG93IGNvbHVtbnMgdG8gYmUgaGlkZGVuYCwgYXN5bmMoKSA9PiB7Ci8vICAgICAgIGNvbnN0IHRhYmxlRWxlbWVudCA9IGZpeHR1cmUubmF0aXZlRWxlbWVudC5xdWVyeVNlbGVjdG9yKCcudHMtdGFibGUnKTsKLy8gICAgICAgbGV0IGNlbGxzID0gZ2V0Q2VsbHMoZ2V0Um93cyh0YWJsZUVsZW1lbnQpWzBdKTsKLy8gICAgICAgZXhwZWN0KGNlbGxzLmxlbmd0aCkudG9FcXVhbCgxMCk7Ci8vCi8vICAgICAgIGNvbXBvbmVudC5hbGxQb3NzaWJsZUNvbHVtbnNbM10uY29udHJvbC5zZXRWYWx1ZShmYWxzZSk7Ci8vICAgICAgIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwovLyAgICAgICBhd2FpdCBmaXh0dXJlLndoZW5TdGFibGUoKTsKLy8gICAgICAgY2VsbHMgPSBnZXRDZWxscyhnZXRSb3dzKHRhYmxlRWxlbWVudClbMF0pOwovLyAgICAgICBleHBlY3QoY2VsbHMubGVuZ3RoKS50b0VxdWFsKDkpOwovLyAgICAgICBleHBlY3QodGVzdEhvc3QuY29sdW1uc0NoYW5nZWQpLnRvSGF2ZUJlZW5DYWxsZWQoKTsKLy8gICAgICAgZXhwZWN0LmFzc2VydGlvbnMoMyk7Ci8vICAgICB9KTsKLy8KLy8gICAgIHRlc3QoYHNob3VsZCBhbGxvdyBjb2x1bW5zIHRvIGJlIHJlb3JkZXJlZGAsICgpID0+IHsKLy8gICAgICAgY29uc3QgdGFibGVFbGVtZW50ID0gZml4dHVyZS5uYXRpdmVFbGVtZW50LnF1ZXJ5U2VsZWN0b3IoJy50cy10YWJsZScpOwovLyAgICAgICBjb25zdCByb3dzID0gZ2V0Um93cyh0YWJsZUVsZW1lbnQpOwovLyAgICAgICBsZXQgY2VsbHMgPSBnZXRDZWxscyhyb3dzWzBdKTsKLy8gICAgICAgZXhwZWN0KGNlbGxzWzNdLnRleHRDb250ZW50IS50cmltKCkpLnRvRXF1YWwoJzYnKTsKLy8gICAgICAgZXhwZWN0KGNlbGxzWzRdLnRleHRDb250ZW50IS50cmltKCkpLnRvRXF1YWwoJzMwJyk7Ci8vCi8vICAgICAgIGNvbnN0IGZha2VEcm9wOiBQYXJ0aWFsPENka0RyYWdEcm9wPHN0cmluZ1tdPj4gPSB7Ci8vICAgICAgICAgcHJldmlvdXNJbmRleDogNSwKLy8gICAgICAgICBjdXJyZW50SW5kZXg6IDQsCi8vICAgICAgIH07Ci8vICAgICAgIGNvbXBvbmVudC5jb2x1bW5Ecm9wcGVkKGZha2VEcm9wIGFzIENka0RyYWdEcm9wPHN0cmluZ1tdPik7Ci8vICAgICAgIGZpeHR1cmUuZGV0ZWN0Q2hhbmdlcygpOwovLyAgICAgICBjZWxscyA9IGdldENlbGxzKGdldFJvd3ModGFibGVFbGVtZW50KVswXSk7Ci8vICAgICAgIGV4cGVjdChjZWxsc1szXS50ZXh0Q29udGVudCEudHJpbSgpKS50b0VxdWFsKCczMCcpOwovLyAgICAgICBleHBlY3QoY2VsbHNbNF0udGV4dENvbnRlbnQhLnRyaW0oKSkudG9FcXVhbCgnNicpOwovLyAgICAgICBleHBlY3QuYXNzZXJ0aW9ucyg0KTsKLy8gICAgIH0pOwovLyAgIH0pOwovLwovLwovLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdGFibAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyBUT0RPOiBUaGlzIAogICAgdGVzdChgc2hvdWxkIHNob3cgcHJvZ3Jlc3Mgd2hlbiB0aGUgY3N2UmVwb3J0SXNMb2FkaW5nIGlzIHRydWVgLCAoKSA9PiB7CiAgICAgIHNwZWN0YXRvci5zZXRIb3N0SW5wdXQoeyBjc3ZSZXBvcnRJc0xvYWRpbmc6IHRydWUgfSk7CiAgICAgIHNwZWN0YXRvci5kZXRlY3RDaGFuZ2VzKCk7CiAgICAgIGNvbnN0IGNzdkJ1dHRvbiA9IHNwZWN0YXRvci5xdWVyeSgnI2NzdkRvd25sb2FkIC5jLWJ1dHRvbicpOwogICAgICBleHBlY3QoQXJyYXkuZnJvbShjc3ZCdXR0b24uY2xhc3NMaXN0KSkudG9Db250YWluKCdjLWJ1dHRvbi0tcHJvZ3Jlc3MnKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGNzdkJ1dHRvbikudG9IYXZlQXR0cmlidXRlKCdkaXNhYmxlZCcsICdkaXNhYmxlZCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -388,13 +388,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</last-search>
+      <last-search encoding="base64">XDxhbGxQb3NzaWJsZUNvbHVtbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhbGxQb3NzaWJsZUNvbHVtbnNcPg==</last-pattern>
       <last-replace>f39c12</last-replace>
       <last-substitute>dddddd</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
