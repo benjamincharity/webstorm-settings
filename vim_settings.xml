@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>columnsChange</entry>
         <entry encoding="base64">XDxjb2x1bW5zQ2hhbmdlZFw+</entry>
         <entry>should default to the first tab active</entry>
         <entry>console</entry>
@@ -25,6 +24,7 @@
         <entry>cache-node</entry>
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>-node-</entry>
+        <entry>nx</entry>
       </history-search>
       <history-cmd>
         <entry>%s/yarn run semantic/npx semantic/g</entry>
@@ -122,9 +122,11 @@
       <file name="/Dummy.txt" timestamp="1594135610428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1594144691483">
-        <mark key="." line="50" column="25" />
-        <mark key="^" line="50" column="25" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1594146814249">
+        <mark key="[" line="193" column="13" />
+        <mark key="]" line="193" column="38" />
+        <mark key="." line="193" column="37" />
+        <mark key="^" line="193" column="38" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1594136376738">
         <mark key="'" line="100" column="13" />
@@ -168,9 +170,10 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1594137977547">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="54" column="25" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1594146440707">
+        <mark key="'" line="54" column="5" />
+        <mark key="[" line="174" column="6" />
+        <mark key="]" line="174" column="19" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/README.md" timestamp="1594144399013">
         <mark key="[" line="11" column="0" />
@@ -224,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" />
       <jump line="105" column="4" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" />
       <jump line="0" column="21" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" />
       <jump line="66" column="35" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
@@ -324,6 +326,7 @@
       <jump line="120" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="121" column="28" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="175" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="54" column="5" filename="$USER_HOME$/code/Terminus/terminus-oss/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,19 +335,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="4">
-        <text>cache-node</text>
+        <text>yarn why @nrwl/workspace</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>deiwNpendencies</text>
+        <text>yarn why @nrwl/workspace</text>
       </register>
       <register name="/" type="4">
-        <text>-node-</text>
+        <text>nx</text>
       </register>
-      <register name="0" type="4">
-        <text>cache-node</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLSBuYW1lOiAiVEVNUCBjaGVjayBmb3IgbngiCiAgICAgICAgcnVuOiB5YXJuIHdoeSBAbnJ3bC93b3Jrc3BhY2UKICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSBuYW1lOiAiQ2FjaGUgTk9ERSIKICAgICAgICBpZDogY2FjaGVfbm9kZQogICAgICAgIHVzZXM6IGFjdGlvbnMvY2FjaGVAdjIKICAgICAgICBlbnY6CiAgICAgICAgICBjYWNoZS1uYW1lOiBjYWNoZS1ub2RlCiAgICAgICAgd2l0aDoKICAgICAgICAgIHBhdGg6IHwKICAgICAgICAgICAgKiovbm9kZV9tb2R1bGVzCiAgICAgICAgICBrZXk6ICR7eyBydW5uZXIub3MgfX0tbm9kZS0ke3sgZW52LmNhY2hlLW5hbWUgfX0tJHt7IGhhc2hGaWxlcygnKioveWFybi5sb2NrJykgfX0KICAgICAgICAgIHJlc3RvcmUta2V5czogfAogICAgICAgICAgICAke3sgcnVubmVyLm9zIH19LW5vZGUtJHt7IGVudi5jYWNoZS1uYW1lIH19LQogICAgICAgICAgICAke3sgcnVubmVyLm9zIH19LW5vZGUtCiAgICAgICAgICAgICR7eyBydW5uZXIub3MgfX0tCiAgICAgICAgaWY6IGVudi5TSE9VTERfUlVOID09ICd0cnVlJwo=</text>
@@ -380,13 +383,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>-node-</last-search>
+      <last-search>nx</last-search>
       <last-offset />
-      <last-pattern>-node-</last-pattern>
+      <last-pattern>nx</last-pattern>
       <last-replace>f39c12</last-replace>
       <last-substitute>dddddd</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
