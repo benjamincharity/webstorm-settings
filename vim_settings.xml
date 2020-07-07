@@ -135,7 +135,10 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1594132642057" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1594137977547">
+        <mark key="[" line="54" column="5" />
+        <mark key="]" line="54" column="25" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/discworld/team-uxe-repos.tf" timestamp="1594125309287">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="32" />
@@ -148,6 +151,12 @@
         <mark key="^" line="47" column="66" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" timestamp="1594138255063">
+        <mark key="'" line="98" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/pr-ci.yml" timestamp="1594126460898">
         <mark key="'" line="16" column="61" />
         <mark key="[" line="265" column="68" />
@@ -157,13 +166,6 @@
       </file>
       <file name="/Dummy.html" timestamp="1594135610400">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-modal/creative-modal.component.scss" timestamp="1594064771676">
-        <mark key="'" line="10" column="26" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="12" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1594135610428">
         <mark key="[" line="0" column="0" />
@@ -231,10 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="15" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/components/account-table/account-table.component.spec.ts" />
-      <jump line="35" column="38" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/containers/creative.container.component.ts" />
-      <jump line="34" column="17" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.html" />
-      <jump line="362" column="11" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/mock-data/creative-table-data.mock.ts" />
       <jump line="119" column="86" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/table/src/lib/cell/cell.ts" />
       <jump line="101" column="0" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.spec.ts" />
       <jump line="264" column="2" filename="$USER_HOME$/code/Terminus/engage-gui/src/app/features/retargeting/creative/components/creative-table/creative-table.component.ts" />
@@ -331,6 +329,10 @@
       <jump line="90" column="52" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="91" column="26" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="407" column="40" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
+      <jump line="410" column="14" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" />
+      <jump line="17" column="55" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" />
+      <jump line="92" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" />
+      <jump line="98" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,8 +340,8 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>,</text>
+      <register name="*" type="2">
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgQHR5cGVzY3JpcHQtZXNsaW50L25vLW1hZ2ljLW51bWJlcnMgKi8K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -350,35 +352,35 @@
       <register name="/" type="4">
         <text>design-tok</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJidWlsZGVyIjogIkBucndsL3dvcmtzcGFjZTpydW4tY29tbWFuZHMiLAogICAgICAgICAgIm9wdGlvbnMiOiB7CiAgICAgICAgICAgICJjb21tYW5kcyI6IFsKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiY29tbWFuZCI6ICJ5YXJuIHJ1biBsaW50OnRzICdsaWJzL3VpL3ZhbGlkYXRvcnMvKiovKi57anMsdHN9JyIKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>libraries:lint:ts:fix</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgImJ1aWxkZXIiOiAiQGFuZ3VsYXItZGV2a2l0L2J1aWxkLWFuZ3VsYXI6dHNsaW50IiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAidHNDb25maWciOiBbCiAgICAgICAgICAgICAgImxpYnMvZXNsaW50LWNvbmZpZy1mcm9udGVuZC90c2NvbmZpZy5saWIuanNvbiIsCiAgICAgICAgICAgICAgImxpYnMvZXNsaW50LWNvbmZpZy1mcm9udGVuZC90c2NvbmZpZy5zcGVjLmpzb24iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJleGNsdWRlIjogWwogICAgICAgICAgICAgICIqKi9ub2RlX21vZHVsZXMvKioiLAogICAgICAgICAgICAgICIhbGlicy9lc2xpbnQtY29uZmlnLWZyb250ZW5kLyoqLyoiCiAgICAgICAgICAgIF0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgQHR5cGVzY3JpcHQtZXNsaW50L25vLW1hZ2ljLW51bWJlcnMgKi8K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgImJ1aWxkZXIiOiAiQGFuZ3VsYXItZGV2a2l0L2J1aWxkLWFuZ3VsYXI6dHNsaW50IiwKICAgICAgICAgICJvcHRpb25zIjogewogICAgICAgICAgICAidHNDb25maWciOiBbCiAgICAgICAgICAgICAgImxpYnMvZXNsaW50LWNvbmZpZy1mcm9udGVuZC90c2NvbmZpZy5saWIuanNvbiIsCiAgICAgICAgICAgICAgImxpYnMvZXNsaW50LWNvbmZpZy1mcm9udGVuZC90c2NvbmZpZy5zcGVjLmpzb24iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJleGNsdWRlIjogWwogICAgICAgICAgICAgICIqKi9ub2RlX21vZHVsZXMvKioiLAogICAgICAgICAgICAgICIhbGlicy9lc2xpbnQtY29uZmlnLWZyb250ZW5kLyoqLyoiCiAgICAgICAgICAgIF0KICAgICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">W2h0dHBzOi8vZ2V0dGVybWludXMuZ2l0aHViLmlvL3VpLWRlbW9zLXJlbGVhc2UvY29tcG9uZW50c10oaHR0cHM6Ly9nZXR0ZXJtaW51cy5naXRodWIuaW8vdWktZGVtb3MtcmVsZWFzZS9jb21wb25lbnRzKQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>http://uilibrary-docs.terminus.ninja/release/components/TsAutocompleteComponent.html</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>design-</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>https://getterminus.github.io/ui-demos-release/components/autocomplete</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aHR0cHM6Ly9nZXR0ZXJtaW51cy5naXRodWIuaW8vZGVzaWduLXRva2Vucwo=</text>
       </register>
-      <register name="8" type="8">
-        <text>autocomplete</text>
-      </register>
       <register name="9" type="8">
-        <text>Design Tokens</text>
+        <text>autocomplete</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
