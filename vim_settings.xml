@@ -141,11 +141,10 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/services/tokens.service.ts" timestamp="1594237323213">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/services/tokens.service.ts" timestamp="1594237729823">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/index.ts" timestamp="1594223863796">
         <mark key="[" line="0" column="0" />
@@ -199,10 +198,11 @@
       <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/.circleci/config.yml" timestamp="1594220623284">
         <mark key="'" line="50" column="6" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/typography/typography.component.ts" timestamp="1594237046009">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/typography/typography.component.ts" timestamp="1594237726676">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="112" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/angular.json" timestamp="1594234220009">
         <mark key="'" line="212" column="9" />
@@ -329,47 +329,47 @@
       <register name="&quot;" type="4">
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
-      <register name="*" type="4">
-        <text>2.0.7</text>
+      <register name="*" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ1RPS0VOU19UUkVFOiAnLCBUT0tFTlNfVFJFRSk7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>2.0.7</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
       </register>
-      <register name="0" type="4">
-        <text>--base=${{ env.NX_BASE }} --head=origin/release</text>
+      <register name="0" type="8">
+        <text>this.tokensService.tokens$.getValue()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1RPS0VOU19UUkVFOiAnLCBUT0tFTlNfVFJFRSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFRPS0VOU19UUkVFIGZyb20gJ0B0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2pzL2Rlc2lnbi10b2tlbnMtdHJlZSc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWw6ICcsIHRoaXMudG9rZW5zU2VydmljZS50b2tlbnMkLmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3N0eWxlbGludC1jb25maWctZnJvbnRlbmQiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL2VzbGludC1jb25maWctZnJvbnRlbmQiLAo=</text>
+        <text encoding="base64">aW1wb3J0IFRPS0VOU19UUkVFIGZyb20gJ0B0ZXJtaW51cy9kZXNpZ24tdG9rZW5zL2pzL2Rlc2lnbi10b2tlbnMtdHJlZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3ZhbGlkYXRvcnMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3N0eWxlbGludC1jb25maWctZnJvbnRlbmQiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvdGVzdGluZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL2VzbGludC1jb25maWctZnJvbnRlbmQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3ZhbGlkYXRvcnMiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3V0aWxpdGllcyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMvdGVzdGluZyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3Rvb2x0aXAvdGVzdGluZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGlzdC9saWJzL3VpL3ZhbGlkYXRpb24tbWVzc2FnZXMiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
