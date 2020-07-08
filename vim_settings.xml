@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>rules</entry>
         <entry>design-tok</entry>
         <entry encoding="base64">XDxjYWNoZV9ub2RlXD4=</entry>
         <entry>Cache Node</entry>
@@ -25,6 +24,7 @@
         <entry>logo</entry>
         <entry>deploy</entry>
         <entry>base</entry>
+        <entry encoding="base64">XDxUT0tFTlNfVFJFRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/yarn run semantic/npx semantic/g</entry>
@@ -125,6 +125,13 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/color/color.component.spec.ts" timestamp="1594241359539">
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/lerna.json" timestamp="1594227424436">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="4" />
@@ -166,11 +173,6 @@
         <mark key="]" line="323" column="36" />
         <mark key="." line="64" column="0" />
         <mark key="^" line="315" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/lib/ui-logo.module.ts" timestamp="1594223873530">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1594233377939">
         <mark key="'" line="64" column="6" />
@@ -227,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="37" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/stylelint-config-frontend/README.md" />
-      <jump line="29" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/stylelint-config-frontend/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/stylelint-config-frontend/README.md" />
       <jump line="59" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/stylelint-config-frontend/README.md" />
       <jump line="26" column="31" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
@@ -327,6 +327,8 @@
       <jump line="212" column="9" filename="$USER_HOME$/code/Terminus/terminus-oss/angular.json" />
       <jump line="433" column="3" filename="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/design-tokens/js/design-tokens-tree.js" />
       <jump line="88" column="21" filename="$USER_HOME$/code/Terminus/terminus-oss/tools/cz-config.js" />
+      <jump line="10" column="7" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/color/color.component.spec.ts" />
+      <jump line="42" column="12" filename="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/features/color/color.component.spec.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,7 +346,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text encoding="base64">XDxUT0tFTlNfVFJFRVw+</text>
       </register>
       <register name="0" type="8">
         <text>this.tokensService.tokens$.getValue()</text>
@@ -383,13 +385,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>base</last-search>
+      <last-search encoding="base64">XDxUT0tFTlNfVFJFRVw+</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern encoding="base64">XDxUT0tFTlNfVFJFRVw+</last-pattern>
       <last-replace>f39c12</last-replace>
       <last-substitute>dddddd</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
