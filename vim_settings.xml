@@ -122,6 +122,22 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/lerna.json" timestamp="1594227424436">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/package.json" timestamp="1594227576130">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/stylelint-config-frontend/package.json" timestamp="1594227614901">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="62" />
+      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/ui/logo/src/index.ts" timestamp="1594223863796">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -146,19 +162,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1594224721273">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
-        <mark key="^" line="139" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/tools/cz-config.js" timestamp="1594215946300">
-        <mark key="'" line="87" column="24" />
-        <mark key="[" line="88" column="13" />
-        <mark key="]" line="88" column="22" />
-        <mark key="." line="88" column="21" />
-        <mark key="^" line="88" column="22" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" timestamp="1594227636846">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1594218297395">
         <mark key="'" line="396" column="0" />
@@ -171,26 +179,12 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/stylelint-config-frontend/README.md" timestamp="1594215920550">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="28" column="88" />
-        <mark key="]" line="28" column="91" />
-        <mark key="." line="28" column="90" />
-        <mark key="^" line="28" column="91" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" timestamp="1594217307107">
         <mark key="'" line="183" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="65" />
         <mark key="." line="8" column="64" />
         <mark key="^" line="8" column="65" />
-      </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/README.md" timestamp="1594215803670">
-        <mark key="'" line="135" column="19" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="133" column="0" />
       </file>
       <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/.circleci/config.yml" timestamp="1594220623284">
         <mark key="'" line="50" column="6" />
@@ -231,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="55" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" />
       <jump line="92" column="6" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" />
       <jump line="98" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/src/lib/rules.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/.codecov.yml" />
@@ -326,11 +319,12 @@
       <jump line="3" column="7" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/.circleci/config.yml" />
       <jump line="50" column="6" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/.circleci/config.yml" />
       <jump line="127" column="17" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="15" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/tsconfig.json" />
       <jump line="11" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
       <jump line="187" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
       <jump line="24" column="4" filename="$USER_HOME$/code/Terminus/terminus-oss/nx.json" />
+      <jump line="191" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/.github/workflows/release-ci.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +333,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICJ0b2tlbnM6cHJlcGFyZS1yZWxlYXNlIjogInlhcm4gcnVuIHRva2VuczpidWlsZCAmJiB5YXJuIHJ1biB0b2tlbnM6c2hvd2Nhc2U6YnVpbGQ6Y2kiLAo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogdW5kbwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
@@ -350,35 +344,35 @@
       <register name="/" type="4">
         <text>logo</text>
       </register>
-      <register name="0" type="4">
-        <text>tokens:prepare-release</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAicGFja2FnZXMiOiBbCiAgICAibGlicy8qIiwKICAgICJsaWJzL3VpLyoiCiAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0b2tlbnM6cHJlcGFyZS1yZWxlYXNlIjogInlhcm4gcnVuIHRva2VuczpidWlsZCAmJiB5YXJuIHJ1biB0b2tlbnM6c2hvd2Nhc2U6YnVpbGQ6Y2kiLAo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogdW5kbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0b2tlbnM6c2hvd2Nhc2U6YnVpbGQ6Y2kiOiAibnggYnVpbGQgc2hvd2Nhc2UtdG9rZW5zIiwK</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiAiTG9nIExJTlQgZGlzdCBjb250ZW50cyIKICAgICAgICBydW46IHwKICAgICAgICAgIGxzIGRpc3QvbGlicy9lc2xpbnQtY29uZmlnLWZyb250ZW5kCiAgICAgICAgICBscyBkaXN0L2xpYnMvc3R5bGVsaW50LWNvbmZpZy1mcm9udGVuZAogICAgICAgICAgbHMgL2hvbWUvcnVubmVyL3dvcmsvdGVybWludXMtb3NzL3Rlcm1pbnVzLW9zcyB8fCB0cnVlCiAgICAgICAgICBscyAvaG9tZS9ydW5uZXIvd29yay90ZXJtaW51cy1vc3MvdGVybWludXMtb3NzL3Qtb3NzIHx8IHRydWUKICAgICAgICAgIGNhdCAvaG9tZS9ydW5uZXIvd29yay90ZXJtaW51cy1vc3MvdGVybWludXMtb3NzL3Qtb3NzL2Rpc3QvbGlicy9lc2xpbnQtY29uZmlnLWZyb250ZW5kL3BhY2thZ2UuanNvbiB8fCAnZWNobyAibm9wZSAxIicKICAgICAgICB3b3JraW5nLWRpcmVjdG9yeTogJHt7IGVudi53b3JraW5nLWRpcmVjdG9yeSB9fQogICAgICAgIGlmOiBlbnYuU0hPVUxEX1JVTiA9PSAndHJ1ZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhdCAvaG9tZS9ydW5uZXIvd29yay90ZXJtaW51cy1vc3MvdGVybWludXMtb3NzL2Rpc3QvbGlicy9lc2xpbnQtY29uZmlnLWZyb250ZW5kL3BhY2thZ2UuanNvbiB8fCAnZWNobyAibm9wZSAyIicK</text>
+        <text encoding="base64">ICAgICJ0b2tlbnM6cHJlcGFyZS1yZWxlYXNlIjogInlhcm4gcnVuIHRva2VuczpidWlsZCAmJiB5YXJuIHJ1biB0b2tlbnM6c2hvd2Nhc2U6YnVpbGQ6Y2kiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0b2tlbnM6c2hvd2Nhc2U6YnVpbGQ6Y2kiOiAibnggYnVpbGQgc2hvd2Nhc2UtdG9rZW5zIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhdCAvaG9tZS9ydW5uZXIvd29yay90ZXJtaW51cy1vc3MvdGVybWludXMtb3NzL2Rpc3QvbGlicy9lc2xpbnQtY29uZmlnLWZyb250ZW5kL3BhY2thZ2UuanNvbiB8fCAnZWNobyAibm9wZSAyIicK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogIyMjIyBRQSBDU1MgQ0xBU1NFUwogKiAtIGBxYS1sYWJlbGA6IFBsYWNlZCBvbiB0aGUgcHJpbWFyeSBjb250YWluZXIKICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogIyMjIyBRQSBDU1MgQ0xBU1NFUwogKiAtIGBxYS1sYWJlbGA6IFBsYWNlZCBvbiB0aGUgcHJpbWFyeSBjb250YWluZXIKICoK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
