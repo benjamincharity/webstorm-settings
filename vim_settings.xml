@@ -119,10 +119,6 @@
       <file name="$USER_HOME$/code/Terminus/terminus-oss/dist/libs/design-tokens/js/design-tokens-tree.js" timestamp="1594211985163">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/styles.scss" timestamp="1594211720268">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="57" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/package.json" timestamp="1594214256400">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="19" column="4" />
@@ -157,8 +153,8 @@
         <mark key="." line="88" column="21" />
         <mark key="^" line="88" column="22" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1594216207225">
-        <mark key="'" line="353" column="20" />
+      <file name="$USER_HOME$/code/Terminus/terminus-oss/README.md" timestamp="1594216211901">
+        <mark key="'" line="396" column="0" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
@@ -169,6 +165,13 @@
         <mark key="]" line="28" column="91" />
         <mark key="." line="28" column="90" />
         <mark key="^" line="28" column="91" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" timestamp="1594217307107">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="64" />
+        <mark key="^" line="8" column="65" />
       </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/libs/stylelint-config-frontend/src/index.ts" timestamp="1594214164462">
         <mark key="[" line="0" column="0" />
@@ -228,12 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/README.md" />
-      <jump line="153" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/README.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/README.md" />
-      <jump line="49" column="99" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/eslint-config-frontend/README.md" />
-      <jump line="11" column="43" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" />
       <jump line="89" column="15" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" />
       <jump line="324" column="83" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="345" column="69" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
@@ -328,6 +325,12 @@
       <jump line="354" column="76" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="267" column="25" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="353" column="20" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="73" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="396" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
+      <jump line="15" column="2" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" />
+      <jump line="184" column="109" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" />
+      <jump line="8" column="108" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" />
+      <jump line="183" column="0" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,19 +339,19 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKCiMKIyBhKSBQcm9tb3RlIHRoZSBsYXRlc3QgQG5leHQgTlBNIHRhZyB0byBAbGF0ZXN0CiMgYikgSW5zdGFsbCBuZXcgZGVwZW5kZW5jaWVzCiMgYykgRGVwbG95IHVwZGF0ZWQgZGVtb3MKIwoKLiB+Ly5iYXNocmMKCiMgTk9URTogUmVxdWlyaW5nIGEgc3BhY2UgYmVmb3JlICduZXh0JyBlbnN1cmVzIHdlIGRvbid0IG1hdGNoIHRoZSAnbmV4dCcgdmVyc2lvbiBvZiBhbm90aGVyIGJyYW5jaCAoZWcgdjEwLW5leHQpCk5FWFRfVkVSU0lPTl9TVFJJTkc9IiQoeWFybiB0YWcgbGlzdCBAdGVybWludXMvdWkgfCBncmVwIC1pICIgbmV4dCIpfSIKCiMgU3RyaXAgZXZlcnl0aGluZyBleGNlcHQgdGhlIGFjdHVhbCB2ZXJzaW9uIG51bWJlcnMKVkVSU0lPTl9OVU1CRVI9IiQoZWNobyAiJE5FWFRfVkVSU0lPTl9TVFJJTkciIHwgZWdyZXAgLW8gJyBbWzpkaWdpdDpdXStcLltbOmRpZ2l0Ol1dK1wuW1s6ZGlnaXQ6XV0rJyB8IHRyIC1kICdbOnNwYWNlOl0nKSIKCmVjaG8gIlByb21vdGluZyB2ZXJzaW9uOiAkVkVSU0lPTl9OVU1CRVIiCgoKbnBtIGRpc3QtdGFnIGFkZCBAdGVybWludXMvdWlAIiRWRVJTSU9OX05VTUJFUiIgbGF0ZXN0IHx8IHsKICAgIGVjaG8g</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGxlYXNlIHVwZGF0ZSBhbnkgYm9va21hcmtzIHRvIHBvaW50IHRvIHRoZSBbbmV3IHJlcG9dW25ldy1yZXBvXS4K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgLy8gTm9ybWFsaXplIHRoZSBvdXRwdXQgc28gd2UgcmV0dXJuIGEgY29uc2lzdGVudCB0eXBlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>: [https://github.com/GetTerminus/terminus-oss</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc2xpbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W3NyYy1lc2xpbnQtY29uZmlnXTogICAgICAgaHR0cHM6Ly9naXRodWIuY29tL0dldFRlcm1pbnVzL3Rlcm1pbnVzLW9zcy9ibG9iL3JlbGVhc2UvbGlicy9lc2xpbnQtY29uZmlnLWZyb250ZW5kLwo=</text>
+        <text encoding="base64">UGxlYXNlIHVwZGF0ZSBhbnkgYm9va21hcmtzIHRvIHBvaW50IHRvIHRoZSBbbmV3IHJlcG9dW25ldy1yZXBvXS4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
