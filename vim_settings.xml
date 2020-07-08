@@ -131,10 +131,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/code/Terminus/terminus-oss/apps/showcase-tokens/src/app/services/tokens.service.ts" timestamp="1594211910006">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="72" />
-      </file>
       <file name="$USER_HOME$/code/Terminus/terminus-oss/package.json" timestamp="1594214874045">
         <mark key="'" line="78" column="51" />
         <mark key="[" line="79" column="43" />
@@ -181,6 +177,9 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
         <mark key="^" line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Terminus/stylelint-config-frontend/.circleci/config.yml" timestamp="1594220623284">
+        <mark key="'" line="50" column="6" />
       </file>
       <file name="$USER_HOME$/code/Terminus/design-tokens/README.md" timestamp="1594220213803">
         <mark key="'" line="46" column="0" />
@@ -235,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="0" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
-      <jump line="100" column="13" filename="$USER_HOME$/code/Terminus/terminus-oss/README.md" />
       <jump line="15" column="3" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/package.json" />
       <jump line="16" column="11" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/package.json" />
       <jump line="19" column="24" filename="$USER_HOME$/code/Terminus/eslint-config-frontend/package.json" />
@@ -335,6 +332,8 @@
       <jump line="83" column="0" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/README.md" />
       <jump line="61" column="16" filename="$USER_HOME$/code/Terminus/terminus-oss/libs/design-tokens/README.md" />
       <jump line="46" column="0" filename="$USER_HOME$/code/Terminus/design-tokens/README.md" />
+      <jump line="3" column="7" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/.circleci/config.yml" />
+      <jump line="50" column="6" filename="$USER_HOME$/code/Terminus/stylelint-config-frontend/.circleci/config.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
