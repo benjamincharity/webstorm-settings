@@ -72,4 +72,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name=",,inlinecodefence" value="`$SELECTION$`$END$" description="Wrap text in inline code markers" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -15,5 +15,7 @@
     <entry key="undo.globalUndoLimit" value="200" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="angular.enableIvyMetadataSupport" value="true" />
+    <entry key="typescript.service.node.arguments" value="--max_old_space_size=4096" />
+    <entry key="eslint.service.node.arguments" value="--max_old_space_size=4096" />
   </component>
 </application>
