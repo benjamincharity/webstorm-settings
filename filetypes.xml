@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern=".compodocrc" type="JSON" />
       <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="0add4a5cc57edaeda862615e321110c200f7a31fa6bfaab766697b0e207c7fe6" type="PLAIN_TEXT" />
-      <mapping pattern="terminalOutput" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="terminalOutput" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="Shell Script" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".out" type="Shell Script" />
+      <mapping pattern=".envrc" type="Shell Script" />
       <mapping pattern="validateEndDate" type="TypeScript" />
       <mapping pattern="tsconfig.*.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
