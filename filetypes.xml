@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".compodocrc" type="JSON" />
-      <removed_mapping ext="mdx" type="MDX" />
-      <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="0add4a5cc57edaeda862615e321110c200f7a31fa6bfaab766697b0e207c7fe6" type="PLAIN_TEXT" />
