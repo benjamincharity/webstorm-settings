@@ -25,7 +25,7 @@
   </template>
   <template name="cl" value="console.log('$message$: ', $item$);$END$" description="Console log" toReformat="false" toShortenFQNames="true">
     <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
-    <variable name="message" expression="item" defaultValue="" alwaysStopAt="true" />
+    <variable name="message" expression="" defaultValue="&quot;my log&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
