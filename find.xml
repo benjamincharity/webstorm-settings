@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -19,10 +19,10 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>*.scss</mask>
     <mask>*.spec.ts</mask>
     <mask>*.html</mask>
     <mask>index.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
