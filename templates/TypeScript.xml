@@ -17,7 +17,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="disablelinet" value="// tslint:disable-next-line$END$" description="Disable TSLint for the next line" toReformat="false" toShortenFQNames="true">
+  <template name="disablelinet" value="// eslint-disable-next-line$END$&#10;" description="Disable ESLint for the next line" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
@@ -28,7 +28,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="disableany" value="// tslint:disable-next-line no-any$END$" description="Disable TSLint no any rule" toReformat="false" toShortenFQNames="true">
+  <template name="disableany" value="// eslint-disable-next-line @typescript-eslint/no-explicit-any$END$&#10;" description="Disable ESLint no any rule" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
