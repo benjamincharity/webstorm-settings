@@ -1,0 +1,29 @@
+<templateSet group="Zen CSS">
+  <template name="bgc" value="background-color: $VAR0$;" description="background-color:#fff;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;#fff&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="c" value="color: $VAR0$;" description="color:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;#000&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="ta" value="text-align: $VAR0$;$END$" description="text-align:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;center&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="tac" value="text-align: center;$END$" description="text-align: center" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="after" value="&amp;::after {&#10;  content: '';&#10;  display: block;&#10;}$END$" description="::after" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="before" value="&amp;::before {&#10;  content: '';&#10;  display: block;&#10;}$END$" description="::before" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
