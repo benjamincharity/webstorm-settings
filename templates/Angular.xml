@@ -1,0 +1,28 @@
+<templateSet group="Angular">
+  <template name="a-routerLink" value="[routerLink]=&quot;['/$routePath$']&quot; routerLinkActive=&quot;$router_link-active$&quot; $END$" description="Angular routerLink" toReformat="true" toShortenFQNames="true">
+    <variable name="routePath" expression="" defaultValue="&quot;routePath&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="output" value="@Output()&#10;public readonly $OutputName$ = new EventEmitter&lt;$Type$&gt;($InitialValue$);&#10;" description="@Output definition" toReformat="false" toShortenFQNames="true">
+    <variable name="OutputName" expression="" defaultValue="&quot;myOutput&quot;" alwaysStopAt="true" />
+    <variable name="Type" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
+    <variable name="InitialValue" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ngplural" value="&lt;$element$ [ngPlural]=&quot;$myValue$&quot;&gt;&#10;  &lt;ng-template ngPluralCase=&quot;=0&quot;&gt;{{ $myValue$ }} $zeroOrFew$&lt;/ng-template&gt;&#10;  &lt;ng-template ngPluralCase=&quot;=1&quot;&gt;{{ $myValue$ }} $singleItem$&lt;/ng-template&gt;&#10;  &lt;ng-template ngPluralCase=&quot;few&quot;&gt;{{ $myValue$ }} $zeroOrFew$&lt;/ng-template&gt;&#10;&lt;/$element$&gt;" description="Plural template" toReformat="false" toShortenFQNames="true">
+    <variable name="element" expression="" defaultValue="&quot;div&quot;" alwaysStopAt="true" />
+    <variable name="myValue" expression="" defaultValue="&quot;fooBar&quot;" alwaysStopAt="true" />
+    <variable name="singleItem" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="zeroOrFew" expression="" defaultValue="&quot;items&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="neededfor" value="// Needed for `untilComponentDestroyed`" description="Comment about untilComponentDestroyed" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,36 @@
+<templateSet group="SCSS">
+  <template name="hover" value="&amp;:focus,&#10;&amp;:hover {&#10;  $END$&#10;}" description="Hover &amp; focus styles" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="for" value="@for $i from 1 through $length$ {&#10;  &amp;:nth-child($nth$) {&#10;    $style$&#10;  }&#10;}" description="Sass @for statement" toReformat="false" toShortenFQNames="true">
+    <variable name="length" expression="" defaultValue="&quot;3&quot;" alwaysStopAt="true" />
+    <variable name="nth" expression="" defaultValue="&quot;3n + #{$i}&quot;" alwaysStopAt="true" />
+    <variable name="style" expression="" defaultValue="&quot;content: '#{$i}';&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="each" value="@each $item$ in $items$ {&#10;  &amp;__#{$item$} {&#10;    $END$&#10;  }&#10;}" description="Sass @each statement" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <variable name="items" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="if" value="@if $ifItem$ {&#10;  $END$&#10;}" description="Sass @if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="ifItem" expression="" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="ifelse" value="  @if $ifItem$ {&#10;    $one$&#10;  } @else {&#10;    $two$&#10;  }&#10;  $END$" description="Sass @if/@else statement" toReformat="false" toShortenFQNames="true">
+    <variable name="ifItem" expression="" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <variable name="one" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="two" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,149 @@
+<templateSet group="JavaScript &amp; TypeScript">
+  <template name="gett" value="document.getElementById('$myElement$');$END$" description="Get element by ID" toReformat="false" toShortenFQNames="true">
+    <variable name="myElement" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mcom" value="/**&#10; * $methodDescription$&#10; *&#10; * @param $paramOne$ - $paramOneDescription$&#10; * @return $returnItem$&#10; */$END$&#10;" description="JSDoc method comment" toReformat="false" toShortenFQNames="true">
+    <variable name="methodDescription" expression="spaceSeparated(String)" defaultValue="&quot;TODO My method description...&quot;" alwaysStopAt="true" />
+    <variable name="paramOne" expression="" defaultValue="&quot;myParam&quot;" alwaysStopAt="true" />
+    <variable name="paramOneDescription" expression="" defaultValue="&quot;My param description&quot;" alwaysStopAt="true" />
+    <variable name="returnItem" expression="" defaultValue="&quot;The thing&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="funcom" value="/**&#10; * $methodDescription$&#10; *&#10; * @param $paramOne$ - $paramOneDescription$&#10; * @returns $returnItem$&#10; */$END$" description="JSDoc method comment" toReformat="false" toShortenFQNames="true">
+    <variable name="methodDescription" expression="spaceSeparated(String)" defaultValue="TODO My method description..." alwaysStopAt="true" />
+    <variable name="paramOne" expression="" defaultValue="myParam" alwaysStopAt="true" />
+    <variable name="paramOneDescription" expression="" defaultValue="My param description" alwaysStopAt="true" />
+    <variable name="returnItem" expression="" defaultValue="The thing" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log('$message$: ', $item$);$END$" description="Console log" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="message" expression="" defaultValue="&quot;my log&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cls" value="console.log('$item$');$END$" description="Console log a simple message" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="&quot;Log this&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cln" value="console.log(JSON.stringify($myItem$, null, 2));$END$" description="Console log stringified values" toReformat="false" toShortenFQNames="true">
+    <variable name="myItem" expression="" defaultValue="&quot;myItem&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cw" value="console.warn('$message$: ', $item$);$END$" description="Console warn" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="message" expression="item" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ce" value="console.error('$message$: ', $item$);$END$" description="Console error" toReformat="false" toShortenFQNames="true">
+    <variable name="item" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <variable name="message" expression="item" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ct" value="console.table({&#10;  $items$&#10;});$END$" description="Console table" toReformat="false" toShortenFQNames="true">
+    <variable name="items" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rf" value="return false;" description="Return false" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rt" value="return true;" description="Return true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($var$) {&#10;&#9;$content$&#10;}$END$" description="If statement" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ife" value="if ($var$) {&#10;&#9;$ifContent$&#10;} else {&#10;&#9;$elseContent$&#10;}$END$" description="If else statement" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <variable name="ifContent" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="elseContent" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ift" value="$thingToTest$ ? $doIfTrue$ : $doIfFalse$;$END$" description="Ternary if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="thingToTest" expression="" defaultValue="&quot;thingToTest&quot;" alwaysStopAt="true" />
+    <variable name="doIfTrue" expression="" defaultValue="&quot;doIfTrue&quot;" alwaysStopAt="true" />
+    <variable name="doIfFalse" expression="" defaultValue="&quot;doIfFalse&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($expression$) {&#10;  case '$case$':&#10;    $code$&#10;    break;&#10;  default:&#10;    $defaultCode$&#10;}$END$" description="Switch statement" toReformat="false" toShortenFQNames="true">
+    <variable name="expression" expression="" defaultValue="&quot;expression&quot;" alwaysStopAt="true" />
+    <variable name="case" expression="" defaultValue="&quot;myCase&quot;" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="&quot;// code&quot;" alwaysStopAt="true" />
+    <variable name="defaultCode" expression="" defaultValue="&quot;// default code&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (const $value$ of $array$) {&#10;  console.log($value$);&#10;}$END$" description="For loop (es6)" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="array" expression="" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="forr" value="for (let $i$ = 0; $i$ &lt; $array$.length; $i$ += 1) {&#10;  $array$[$i$];&#10;}$END$" description="For loop (classic)" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="false" />
+    <variable name="array" expression="" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="timeout" value="setTimeout(() =&gt; {&#10;  $END$&#10;}, $time$);" description="setTimeout" toReformat="false" toShortenFQNames="true">
+    <variable name="time" expression="" defaultValue="&quot;10&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tabdebug" value=".tap(() =&gt; {&#10;  // tslint:disable-next-line&#10;  debugger;&#10;})$END$" description="Add RxJS tab with debugger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="oassign" value="Object.assign({}, $myObj$)$END$" description="Object.assign" toReformat="false" toShortenFQNames="true">
+    <variable name="myObj" expression="" defaultValue="&quot;myObject&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="presolve" value="Promise.resolve().then(() =&gt; {&#10;  $END$&#10;);" description="Promise.resolve" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="com" value="/**&#10; * $message$&#10; */$END$" description="JSDoc comment (simple)" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="&quot;TODO&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
