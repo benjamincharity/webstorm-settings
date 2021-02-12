@@ -173,6 +173,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.doclua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.docx">
           <value>
             <plugin>
@@ -656,6 +664,14 @@
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.lua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
             </plugin>
           </value>
         </entry>
@@ -1144,6 +1160,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.wlua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.wsdl">
           <value>
             <plugin>
@@ -1585,6 +1609,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#com.sylvanaar.idea.Lua.run.LuaConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Lua Script" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -1712,7 +1741,17 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="Lua">
+                    <value>
+                      <FeaturePluginData displayName="Lua" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>
