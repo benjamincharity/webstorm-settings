@@ -124,7 +124,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="tabdebug" value=".tap(() =&gt; {&#10;  // tslint:disable-next-line&#10;  debugger;&#10;})$END$" description="Add RxJS tab with debugger" toReformat="false" toShortenFQNames="true">
+  <template name="tapdebug" value=".tap(() =&gt; {&#10;  // tslint:disable-next-line&#10;  debugger;&#10;})$END$" description="Add RxJS tab with debugger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>

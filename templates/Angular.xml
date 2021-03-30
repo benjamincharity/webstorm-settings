@@ -3,7 +3,7 @@
     <variable name="routePath" expression="" defaultValue="&quot;routePath&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="output" value="@Output()&#10;public readonly $OutputName$ = new EventEmitter&lt;$Type$&gt;($InitialValue$);&#10;" description="@Output definition" toReformat="false" toShortenFQNames="true">
+  <template name="output" value="@Output()&#10;readonly $OutputName$ = new EventEmitter&lt;$Type$&gt;($InitialValue$);&#10;" description="@Output definition" toReformat="false" toShortenFQNames="true">
     <variable name="OutputName" expression="" defaultValue="&quot;myOutput&quot;" alwaysStopAt="true" />
     <variable name="Type" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <variable name="InitialValue" expression="" defaultValue="" alwaysStopAt="true" />
@@ -23,6 +23,13 @@
   <template name="neededfor" value="// Needed for `untilComponentDestroyed`" description="Comment about untilComponentDestroyed" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="input" value="@Input()&#10;$myVar$: $string$;$END$" description="Create an @Input declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="myVar" expression="" defaultValue="&quot;myVar&quot;" alwaysStopAt="true" />
+    <variable name="string" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
