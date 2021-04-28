@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/angular/angular-cli.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://benjamincharity@bitbucket.org/APITURE/open.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code/open-source" />
+    <option name="cloneParentDir" value="$USER_HOME$/code/apiture" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="DIFF_PREVIEW_VERTICAL_SPLIT" value="false" />
