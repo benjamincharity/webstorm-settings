@@ -32,7 +32,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="inputset" value="@Input()&#10;set $inputName$(value: $valueType$) {&#10;  this._$inputName$ = value ? value : $defaultValue$;&#10;}&#10;get $inputName$(): $valueType$ {&#10;&#9;return this._$inputName$;&#10;}&#10;private _$inputName$: $valueType$$END$;&#10;" description="Create an @Input declaration with setter/getter" toReformat="false" toShortenFQNames="true">
+  <template name="inputset" value="@Input()&#10;set $inputName$(value: $valueType$) {&#10;  this._$inputName$ = value ?? $defaultValue$;&#10;}&#10;get $inputName$(): $valueType$ {&#10;&#9;return this._$inputName$;&#10;}&#10;private _$inputName$: $valueType$$END$;&#10;" description="Create an @Input declaration with setter/getter" toReformat="false" toShortenFQNames="true">
     <variable name="inputName" expression="" defaultValue="&quot;myInput&quot;" alwaysStopAt="true" />
     <variable name="valueType" expression="" defaultValue="&quot;myType&quot;" alwaysStopAt="true" />
     <variable name="defaultValue" expression="" defaultValue="&quot;myFallbackValue&quot;" alwaysStopAt="true" />
