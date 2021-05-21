@@ -22,4 +22,7 @@
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="com.ivanovych666.intellij.plugin.jsonsorter.AlphabeticalReverseSort">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
 </keymap>
