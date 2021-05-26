@@ -77,4 +77,29 @@
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
+  <template name="newarticle" value="---&#10;title: $TITLE$&#10;description: $DESCRIPTION$&#10;tags: [$TAG$]&#10;published: true&#10;publishDate: 2016-02-13&#10;previousUrl: https://blog.benjamincharity.com/log-in-vs-login-vs-sign-in/&#10;---&#10;&#10;# Title&#10;&#10;" description="Generate a new article markdown content" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="&quot;my-title&quot;" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="&quot;TODO&quot;" alwaysStopAt="true" />
+    <variable name="TAG" expression="" defaultValue="&quot;tag&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
