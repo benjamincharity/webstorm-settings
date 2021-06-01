@@ -19,9 +19,10 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>index.ts</mask>
-    <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.spec.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.md</mask>
   </component>
 </application>
