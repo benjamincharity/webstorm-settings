@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".local.env" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern=".compodocrc" type="JSON" />
       <mapping ext="webmanifest" type="JSON" />
