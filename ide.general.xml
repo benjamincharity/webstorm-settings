@@ -17,5 +17,6 @@
     <entry key="typescript.service.node.arguments" value="--max_old_space_size=4096" />
     <entry key="eslint.service.node.arguments" value="--max_old_space_size=4096" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
+    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
 </application>
