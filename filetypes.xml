@@ -17,6 +17,9 @@
       <mapping pattern=".in" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="Shell Script" />
+      <mapping pattern=".env.production" type="Shell Script" />
+      <mapping pattern=".env.staging" type="Shell Script" />
+      <mapping pattern=".env" type="Shell Script" />
       <mapping pattern="TEMP" type="Shell Script" />
       <mapping pattern=".out" type="Shell Script" />
       <mapping pattern="validateEndDate" type="TypeScript" />
