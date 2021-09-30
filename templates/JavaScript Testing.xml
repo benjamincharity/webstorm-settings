@@ -36,12 +36,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="testeach" value="test.each(&#10;  [$VAL_1$, $VAL_2$],&#10;])&#10;  '$testDescription$',&#10;  (value: $TYPE_1$, expected: $TYPE_2$) =&gt;&#10;    expect(value).toEqual(expected);$END$&#10;  }&#10;);" description="test.each loop" toReformat="false" toShortenFQNames="true">
+  <template name="testeach" value="test.each([&#10;  [$VAL_1$, $VAL_2$],&#10;])('does %s = %s', (a, expected) =&gt; {&#10;  expect(a).toBe(expected);&#10;});&#10;" description="test.each loop" toReformat="false" toShortenFQNames="true">
     <variable name="VAL_1" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
     <variable name="VAL_2" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
-    <variable name="testDescription" expression="" defaultValue="&quot;should determine if %s = %s&quot;" alwaysStopAt="true" />
-    <variable name="TYPE_1" expression="" defaultValue="&quot;boolean&quot;" alwaysStopAt="true" />
-    <variable name="TYPE_2" expression="" defaultValue="&quot;boolean&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
