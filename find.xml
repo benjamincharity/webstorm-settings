@@ -7,25 +7,26 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.shtml</mask>
-    <mask>*.htm</mask>
-    <mask>*.shtm</mask>
-    <mask>*.sht</mask>
-    <mask>*.ng</mask>
-    <mask>*.ats</mask>
-    <mask>*.cjs</mask>
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>index.ts</mask>
     <mask>*.md</mask>
     <mask>!(spec).ts</mask>
     <mask>!(*.spec).ts</mask>
-    <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
