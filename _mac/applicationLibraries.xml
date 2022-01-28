@@ -1,0 +1,41 @@
+<application>
+  <component name="libraryTable">
+    <library name="@terminus/design-tokens" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@terminus_design-tokens_css_design-tokens.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@terminus_design-tokens_css_design-tokens.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@terminus/ui-styles" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@terminus_ui-styles_terminus-ui.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@terminus_ui-styles_terminus-ui.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="browse" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@terminus_design-tokens_css_design-tokens.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@terminus_design-tokens_css_design-tokens.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

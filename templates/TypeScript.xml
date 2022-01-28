@@ -1,0 +1,48 @@
+<templateSet group="TypeScript">
+  <template name="disablet" value="// tslint:disable: $camelcase$&#10;// tslint:enable: $END$" description="Disable TSLint for a rule" toReformat="true" toShortenFQNames="true">
+    <variable name="camelcase" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="DART" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="disablelinet" value="// eslint-disable-next-line$END$&#10;" description="Disable ESLint for the next line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="disable" value="/* eslint-disable $camelcase$ */&#10;/* eslint-enable $camelcase$ */" description="Disable ESLint for a rule" toReformat="false" toShortenFQNames="true">
+    <variable name="camelcase" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="disableany" value="// eslint-disable-next-line @typescript-eslint/no-explicit-any$END$&#10;" description="Disable ESLint no any rule" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ignoreelse" value="// istanbul ignore else$END$" description="Istanbul ignore else" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tsobj" value="Record&lt;$key$, $val$&gt;$END$" description="Basic TypeScript object" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
+    <variable name="val" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
