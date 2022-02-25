@@ -1,0 +1,46 @@
+<templateSet group="JavaScript Testing">
+  <template name="it" value="it('should $NAME$', () =&gt; {&#10;  $END$&#10;}); " description="Inserts it() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="after" value="afterEach(() =&gt; {&#10;  $END$&#10;});" description="Jest afterEach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="before" value="beforeEach(() =&gt; {&#10;  $END$&#10;});" description="Jest beforeEach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="describe" value="describe(`$title$`, () =&gt; {&#10;  $END$&#10;});" description="Jest describe block" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="&quot;test block&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="test" value="test(`should $description$`, () =&gt; {&#10;&#9;expect(true).toEqual(false);&#10;});$END$" description="Jest test statement" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="&quot;do something&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="testtodo" value="test.todo(`should $description$`);$END$" description="Jest TODO test" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="&quot;do something&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fdc" value="fixture.detectChanges();$END$" description="Fixture detect changes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="testeach" value="test.each([&#10;  [$VAL_1$, $VAL_2$],&#10;])('does %s = %s', (a, expected) =&gt; {&#10;  expect(a).toBe(expected);&#10;});&#10;" description="test.each loop" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL_1" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <variable name="VAL_2" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
