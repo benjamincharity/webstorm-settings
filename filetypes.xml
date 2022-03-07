@@ -19,6 +19,7 @@
       <mapping pattern="0add4a5cc57edaeda862615e321110c200f7a31fa6bfaab766697b0e207c7fe6" type="PLAIN_TEXT" />
       <mapping pattern=".in" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping ext="jbuilder" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="Shell Script" />
       <mapping pattern=".env.production" type="Shell Script" />
       <mapping pattern=".env.staging" type="Shell Script" />
