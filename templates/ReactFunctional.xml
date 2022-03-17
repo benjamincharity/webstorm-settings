@@ -12,7 +12,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cfai" value="&lt;ChakraFontAwesomeIcon iconName={'$ICON_NAME$'} /&gt;" description="Chakra FontAwesome Icon" toReformat="false" toShortenFQNames="true">
+  <template name="chakrafai" value="&lt;ChakraFontAwesomeIcon iconName={'$ICON_NAME$'} /&gt;" description="Chakra FontAwesome Icon" toReformat="false" toShortenFQNames="true">
     <variable name="ICON_NAME" expression="" defaultValue="&quot;plus&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
