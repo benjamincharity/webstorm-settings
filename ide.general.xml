@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
     <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
@@ -17,5 +18,6 @@
     <entry key="typescript.service.node.arguments" value="--max_old_space_size=4096" />
     <entry key="eslint.service.node.arguments" value="--max_old_space_size=4096" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
