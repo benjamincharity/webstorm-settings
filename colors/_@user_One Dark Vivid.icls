@@ -1,14 +1,20 @@
-<scheme name="_@user_One Dark Vivid Italic" version="142" parent_scheme="Darcula">
+<scheme name="_@user_One Dark Vivid" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-08-31T15:05:10</property>
+    <property name="created">2022-06-20T15:14:28</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.2.1.0.0</property>
+    <property name="ideVersion">2022.1.2.0.0</property>
     <property name="modified">2022-06-20T15:32:56</property>
-    <property name="originalScheme">One Dark Vivid Italic</property>
+    <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="3d424b" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="568af2" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="a0a7b4" />
+    <option name="BookmarkMnemonicIcon.background" value="3d424b" />
+    <option name="BookmarkMnemonicIcon.borderColor" value="568af2" />
+    <option name="BookmarkMnemonicIcon.foreground" value="a0a7b4" />
     <option name="CARET_COLOR" value="528bff" />
     <option name="CARET_ROW_COLOR" value="2c313c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -25,20 +31,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
@@ -49,8 +42,13 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="d55fde" />
     <option name="INDENT_GUIDE" value="3b4048" />
     <option name="INFORMATION_HINT" value="3d424b" />
+    <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="568af2" />
+    <option name="JUPYTER.CODE_CELL_BACKGROUND" value="2d3139" />
+    <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="568af2" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="333841" />
     <option name="LINE_NUMBERS_COLOR" value="495162" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
+    <option name="LOOKUP_COLOR" value="21252b" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="QUESTION_HINT" value="2e4280" />
@@ -77,7 +75,6 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="APACHE_CONFIG.IDENTIFIER">
@@ -114,19 +111,17 @@
     <option name="BASH.HERE_DOC_END">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BASH.HERE_DOC_START">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BASH.SHEBANG">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
@@ -223,7 +218,6 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -361,13 +355,11 @@
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
@@ -391,7 +383,6 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="d19a66" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="d19a66" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -451,7 +442,6 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -498,7 +488,6 @@
     <option name="Clojure Line comment">
       <value>
         <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Clojure Literal">
@@ -578,7 +567,6 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -602,7 +590,6 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -660,7 +647,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -671,13 +657,11 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -767,7 +751,6 @@
     <option name="DJANGO_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DJANGO_TAG_START_END">
@@ -869,6 +852,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="GHERKIN_REGEXP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -880,7 +869,6 @@
     <option name="GO_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_BUILTIN_CONSTANT">
@@ -921,13 +909,11 @@
     <option name="GO_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION">
@@ -961,7 +947,6 @@
     <option name="HAML_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HAML_FILTER">
@@ -1002,7 +987,6 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d19a66" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1057,6 +1041,7 @@
       <value>
         <option name="BACKGROUND" value="353940" />
         <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1116,7 +1101,9 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="2d3139" />
+      </value>
     </option>
     <option name="INLAY_DEFAULT">
       <value>
@@ -1161,7 +1148,6 @@
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JADE_TAG_CLASS">
@@ -1177,7 +1163,6 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_STRING">
@@ -1226,6 +1211,12 @@
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="d55fde" />
+      </value>
+    </option>
+    <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
+      <value>
+        <option name="FOREGROUND" value="a0a7b4" />
+        <option name="BACKGROUND" value="3d424b" />
       </value>
     </option>
     <option name="JUPYTER_SELECTED_CELL">
@@ -1492,7 +1483,6 @@
     <option name="MARKDOWN_LINK_TITLE">
       <value>
         <option name="FOREGROUND" value="89ca78" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_TABLE_SEPARATOR">
@@ -1559,7 +1549,6 @@
     <option name="OC.DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.LABEL">
@@ -1652,6 +1641,11 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="PHP_PREDEFINED SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
@@ -1714,7 +1708,6 @@
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
@@ -1735,7 +1728,6 @@
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.STRING">
@@ -1871,6 +1863,11 @@
         <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
+    <option name="RMARKDOWN_CHUNK">
+      <value>
+        <option name="BACKGROUND" value="2d3139" />
+      </value>
+    </option>
     <option name="RUBY_BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="9b3636" />
@@ -1879,7 +1876,6 @@
     <option name="RUBY_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
@@ -2060,7 +2056,6 @@
     <option name="SLIM_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SLIM_DOCTYPE_KWD">
@@ -2136,7 +2131,7 @@
     <option name="SWIFT_SHEBANG_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Static method access" baseAttributes="" />
@@ -2166,7 +2161,6 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8c00" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
@@ -2220,7 +2214,6 @@
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="VELOCITY_REFERENCE">
@@ -2243,6 +2236,8 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="353940" />
+        <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
@@ -2288,7 +2283,6 @@
     <option name="XPATH.KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XPATH.XPATH_NAME">
@@ -2365,7 +2359,6 @@
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="2bbac5" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.MACRO">
