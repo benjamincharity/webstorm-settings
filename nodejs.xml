@@ -3,7 +3,9 @@
     <local-interpreter path="$USER_HOME$/n/bin/node">
       <version-cache version="16.14.0" last-modified="1645764583085" />
     </local-interpreter>
-    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="16.15.1" last-modified="1655748818908" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/n/n/versions/node/17.4.0/bin/node" />
     <local-interpreter path="/usr/local/Cellar/node/17.4.0/bin/node" />
     <local-interpreter path="$USER_HOME$/n/n/versions/node/16.13.2/bin/node" />
