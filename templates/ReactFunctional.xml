@@ -1,5 +1,5 @@
 <templateSet group="ReactFunctional">
-  <template name="rcomp" value="import { Box } from '@chakra-ui/react';&#10;import React, { ReactElement } from 'react';&#10;&#10;export interface $COMP$Props {}&#10;&#10;export const $COMP$ = React.memo((props: $COMP$Props) =&gt; {&#10;  //const {} = props;&#10;  &#10;  return &lt;Box&gt;$COMP$&lt;/Box&gt;;&#10;});&#10;" description="A React function component." toReformat="false" toShortenFQNames="true">
+  <template name="rcomp" value="import { Box } from '@chakra-ui/react';&#10;import React from 'react';&#10;&#10;export interface $COMP$Props {}&#10;&#10;export const $COMP$ = React.memo((props: $COMP$Props) =&gt; {&#10;  //const {} = props;&#10;  &#10;  return &lt;Box&gt;$COMP$&lt;/Box&gt;;&#10;});&#10;" description="A React function component." toReformat="false" toShortenFQNames="true">
     <variable name="COMP" expression="" defaultValue="&quot;TempComponent&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -18,7 +18,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rcompref" value="import { Box } from '@chakra-ui/react';&#10;import React, { ReactElement } from 'react';&#10;&#10;export interface $COMP$Props {}&#10;&#10;export const $COMP$ = React.forwardRef((props: $COMP$Props, ref) =&gt; {&#10;  //const {} = props;&#10;  &#10;  return &lt;Box ref={ref}&gt;$COMP$&lt;/Box&gt;;&#10;});&#10;" description="A React function component that forwards a ref." toReformat="false" toShortenFQNames="true">
+  <template name="rcompref" value="import { Box } from '@chakra-ui/react';&#10;import React from 'react';&#10;&#10;export interface $COMP$Props {}&#10;&#10;export const $COMP$ = React.forwardRef((props: $COMP$Props, ref) =&gt; {&#10;  //const {} = props;&#10;  &#10;  return &lt;Box ref={ref}&gt;$COMP$&lt;/Box&gt;;&#10;});&#10;" description="A React function component that forwards a ref." toReformat="false" toShortenFQNames="true">
     <variable name="COMP" expression="" defaultValue="&quot;TempComponent&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
