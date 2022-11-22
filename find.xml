@@ -13,7 +13,6 @@
     <mask>*.md</mask>
     <mask>!(spec).ts</mask>
     <mask>!(*.spec).ts</mask>
-    <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.spec.ts</mask>
     <mask>*.xml</mask>
@@ -31,5 +30,6 @@
     <mask>*.css</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
